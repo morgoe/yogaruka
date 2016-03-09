@@ -1,0 +1,54 @@
+figure {
+	position: relative;
+	margin-left: -$rhythm / 2;
+	margin-right: -$rhythm / 2;
+	&:after {
+		content: "";
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		margin: $rhythm / 2;
+		border: $rhythm / 2 solid white;
+	}
+}
+
+figcaption {
+	display: none;
+	font-family: $font-mono;
+	margin-top: 0;
+	font-size: $font-size-sm;
+	color: $mono-45;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-moz-osx-font-smoothing: auto;
+}
+
+.image-small {
+	clear: both;
+}
+
+@media (min-width: 568px) {
+	figure {
+		margin: $rhythm / 2;
+		.row & {
+			margin: 0;
+		}
+	}
+	.image-small {
+		max-width: 50%;
+	}
+}
+@media (min-width: 768px) {
+	.image-medium {
+		max-width: 568px;
+	}
+	figcaption {
+		display: block;
+	}
+}
+@media (min-width: 1024px) {
+	.image-small {
+		max-width: 40%;
+	}
+}

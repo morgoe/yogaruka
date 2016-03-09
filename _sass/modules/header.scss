@@ -1,0 +1,109 @@
+body {
+	padding-top: 44px;
+}
+.m-header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 2;
+	background: white;
+	margin: -$rhythm / 2;
+	margin-top: 0;
+	margin-bottom: $rhythm / 2;
+	font-size: $font-size-sm;
+	@include clearfix();
+	height: 44px;
+}
+.m-header-link {
+	display: inline-block;
+	font-family: $font-sans;
+	text-decoration: none;
+	color: inherit;
+	vertical-align: top;
+	font-size: 12px;
+	font-weight: 600;
+	padding: 17px 4px 3px;
+	text-transform: uppercase;
+	+ .m-header-link {
+		margin-top: 0;
+		margin-left: 1rem;
+	}
+	&,
+	.no-touch &:focus,
+	.no-touch &:hover,
+	.touch &:active {
+		background: none;
+	}
+	&.active {
+		color: $pink;
+		border-bottom: 2px solid;
+	}
+	img {
+		width: 1em;
+	}
+}
+.m-header-title {
+	display: none;
+	color: inherit;
+	font-family: $font-sans;
+	text-decoration: none;
+}
+.m-header-nav {
+	display: table;
+	margin: 0 auto;
+}
+#home {
+	.m-header {
+		display: none;
+	}
+}
+
+@media (min-width: 768px) {
+	body {
+		padding-top: 0;
+	}
+	.m-header {
+		height: auto;
+		position: absolute;
+		top: -$rhythm;
+		left: -4px;
+		right: -4px;
+		margin: 0;
+		z-index: 2;
+		background: none;
+	}
+	.m-header-link {
+		line-height: 1;
+		padding-top: 9px;
+		padding-bottom: 4px;
+	}
+}
+
+@media (min-width: 1024px) {
+	.m-header {
+		top: -$rhythm * 1.5;
+		font-size: 1rem;
+	}
+	.m-header-title {
+		display: block;
+		background: url('/assets/images/logo.png');
+		background-size: cover;
+		width: 32px;
+		height: 32px;
+		text-indent: -9999px;
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 5px;
+		margin: auto;
+	}
+	.m-header-nav {
+		display: block;
+		float: right;
+	}
+	.m-header-link {
+		padding-top: 17px;
+		padding-bottom: 3px;
+	}
+}

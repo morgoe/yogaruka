@@ -1,0 +1,56 @@
+.m-hero {
+	position: relative;
+	overflow: hidden;
+	margin: -$rhythm / 2;
+	margin-bottom: 0 !important;
+	padding: $rhythm * 2 $rhythm / 2;
+	z-index: 1;
+	+ section {
+		margin-top: $rhythm;
+	}
+}
+.m-hero-text {
+	color: white;
+	text-shadow: 0 2px 4px rgba(black,0.2)
+}
+.m-hero-photo {
+	position: relative;
+	background: $brown-30;
+	background-size: cover;
+	background-position: top center;
+	margin: 0;
+	position: absolute;
+	top: -$rhythm * 2;
+	left: -$rhythm * 2;
+	right: -$rhythm * 2;
+	min-height: calc(100% + #{$rhythm * 2});
+	height: 100vh;
+	z-index: -1;
+	&:after {
+		content: "";
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		background: rgba(black, 0.25);
+	}
+}
+
+@media (min-width: 768px) {
+	.m-hero {
+		margin: -$rhythm;
+		padding: $rhythm * 6 $rhythm * 3;
+	}
+}
+@media (min-width: 1024px) {
+	.m-hero {
+		margin: -$rhythm * 1.5;
+	}
+	.m-hero-photo {
+		top: -$rhythm * 3;
+		left: -$rhythm * 3;
+		right: -$rhythm * 3;
+		min-height: calc(100% + #{$rhythm * 3});
+	}
+}

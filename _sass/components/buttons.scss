@@ -1,0 +1,27 @@
+button,
+input[type="button"] {
+	color: $blue-45;
+	font-size: 14px;
+	font-family: $font-mono;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-moz-osx-font-smoothing: auto;
+	font-weight: 600;
+	letter-spacing: 0.25px;
+
+	@include gradient(#fcf1b3, #ffda61);
+	border: 2px solid #ffae00;
+	padding: 5px 20px;
+	
+	float: right;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+
+	&:hover,
+	&:focus {
+		background: #fcf1b3;
+	}
+	&:active {
+		background: #ffda61;
+	}
+}

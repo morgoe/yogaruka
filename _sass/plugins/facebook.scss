@@ -1,0 +1,14 @@
+.fb-page {
+	display: none;
+}
+.fb_iframe_widget {
+	padding: 0.75rem;
+	width: 100%;
+	figure + & {
+		margin-top: 0;
+	}
+}
+.fb_iframe_widget span {
+	display: block !important;
+	margin: auto;
+}

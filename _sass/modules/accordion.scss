@@ -1,0 +1,116 @@
+.m-accordion-list {
+	display: none;
+}
+.m-accordion-icon {
+	position: relative;
+	background: $blue-45;
+	border-radius: 50%;
+	width: 44px;
+	height: 44px;
+    vertical-align: middle;
+    display: inline-block;
+	img {
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		margin: auto;
+	}
+}
+.m-accordion-title {
+	margin-left: 5px;
+	position: relative;
+	top: 4px;
+	white-space: nowrap;
+}
+.m-accordion-content {
+	> li {
+		position: relative;
+		margin-top: 3rem;
+	}
+}
+
+@media (min-width: 768px) {
+	.m-accordion {
+		display: table;
+	}
+	.m-accordion-list,
+	.m-accordion-content {
+		display: table-cell;
+		vertical-align: top;
+	}
+	.m-accordion-list {
+		position: relative;
+		padding-bottom: $rhythm;
+		z-index: 1;
+		> li {
+			> a {
+				display: block;
+				font-family: $font-sans;
+				color: $blue-45;
+				text-transform: uppercase;
+				&,
+				.no-touch &:focus,
+				.no-touch &:hover,
+				.touch &:active {
+					background: none;
+				}
+				.no-touch &:focus,
+				.no-touch &:hover,
+				.touch &:active {
+					color: $pink;
+					.m-accordion-icon {
+						background: $pink;
+					}
+				}
+				&.active {
+					cursor: default;
+					.m-accordion-icon {
+						display: none;
+					}
+					.m-accordion-title {
+						top: 0;
+						margin-left: 0;
+						font-size: 2.66rem;
+						color: $pink;
+					}
+				}
+			}
+		}
+	}
+
+	.m-accordion-content {
+		padding-left: $rhythm;
+		width: 60%;
+		> li {
+			display: none;
+			margin-top: 0;
+			padding: $rhythm;
+			&.active {
+				display: block;
+			}
+		}
+	}
+	.m-accordion-contentTitle {
+		font-size: 12rem;
+		font-weight: 500;
+		line-height: 1;
+		white-space: nowrap;
+		position: absolute;
+		right: 0;
+		top: 0;
+		z-index: -1;
+		opacity: 0.1;
+		color: $pink;
+		text-transform: none;
+		+ p {
+			margin-top: 0;
+		}
+	}
+	.m-accordion-image {
+		float: left;
+		clear: both;
+		margin-left: -100px;
+	}
+}

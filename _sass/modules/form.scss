@@ -1,0 +1,35 @@
+.m-form {
+	padding: $rhythm / 2;
+	background: white;
+	box-shadow: 0 0 40px rgba($brown-30, 0.2);
+	&.success {
+		.form-group {
+			display: none;
+		}
+	}
+}
+.m-form-description,
+.m-form {
+	max-width: 480px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.m-form-feedback {
+	display: none;
+	text-align: center;
+	padding: 5px 9px 5px;
+	border-radius: 5px;
+	.error & {
+		color: $pink;
+		background: rgba($pink, 0.1);
+		margin-bottom: 1.5em;
+	}
+	.success & {
+		color: $green;
+		background: rgba($green, 0.1);
+	}
+	.error &,
+	.success & {
+		display: block;
+	}
+}

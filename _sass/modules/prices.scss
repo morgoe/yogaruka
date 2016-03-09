@@ -1,0 +1,117 @@
+.m-prices-includedList {
+	li {
+		margin-top: $rhythm / 4;
+	}
+	img {
+		display: inline-block;
+		vertical-align: text-top;
+		position: relative;
+		top: 1px;
+	}
+}
+.m-prices {
+	color: $blue-45;
+	font-size: 17px;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+	padding: $rhythm / 2;
+	background: white;
+	box-shadow: 0 0 40px rgba($brown-30, 0.2);
+}
+.m-prices-date {
+	margin-top: -5px;
+	font-size: 12px;
+	color: $blue-90;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-moz-osx-font-smoothing: auto;
+}
+.m-prices-pound {
+	display: none;
+}
+.m-prices-list {
+	margin-top: 0;
+	&.england {
+		.m-prices-pound {
+			display: inline;
+		}
+		.m-prices-euro {
+			display: none;
+		}
+	}
+}
+.m-prices-price {
+	margin-top: $rhythm / 4;
+	opacity: 0.5;
+	strong {
+		font-weight: 400;
+	}
+	&.disabled {
+		> * {
+			text-decoration: line-through;
+		}
+	}
+	&.active {
+		opacity: 1;
+		background: $yellow;
+	}
+}
+.m-prices-priceName {
+	display: inline-block;
+	width: 210px;
+	text-align: right;
+}
+.m-prices-priceValue {
+	display: inline-block;
+	margin-top: 0;
+	width: 50px;
+	padding-left: 5px;
+	strong {
+		-webkit-font-smoothing: subpixel-antialiased;
+		-moz-osx-font-smoothing: auto;
+	}
+}
+.m-price-deposit {
+	font-size: $font-size-sm;
+	font-family: $font-mono;
+	text-align: center;
+	color: $pink;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-moz-osx-font-smoothing: auto;
+}
+.m-price-depositDetails {
+	text-align: center;
+	color: $mono-60;
+	font-size: $font-size-sm;
+}
+.m-prices-form {
+	@include clearfix();
+	> * {
+		margin: 0;
+	}
+	input[type="image"] {
+		width: 230px;
+		float: right;
+	}
+}
+
+@media (min-width: 768px) {
+	.m-prices-includedList img {
+		top: 2px;
+	}
+	.m-prices {
+		font-size: $font-size-md;
+		// float: right;
+		// margin-top: 0;
+		// margin-left: $rhythm;
+	}
+	.m-prices-date {
+		font-size: 13px;
+	}
+	.m-prices-priceName {
+		width: 230px;
+	}
+	.m-prices-priceValue {
+		width: 130px;
+	}
+}

@@ -1,0 +1,177 @@
+html {
+	font-family: $font-body;
+	font-size: $font-size-md;
+	line-height: $line-height;
+	color: $brown-30;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4 {
+	line-height: $line-height-header;
+}
+h1,
+.h1 {
+	font-family: $font-special;
+	font-size: 2.5rem;
+	font-weight: normal;
+	text-align: center;
+	color: inherit;
+	text-transform: lowercase;
+}
+h2,
+.h2 {
+	display: inline-block;
+	font-size: 1.66rem;
+	font-weight: 300;
+	font-style: italic;
+	text-align: left;
+	color: $green;
+	clear: both;
+	padding-bottom: 5px;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-moz-osx-font-smoothing: auto;
+}
+h3,
+.h3 {
+	font-size: 1.66rem;
+	font-weight: 500;
+	line-height: $line-height-header;
+	text-align: left;
+	color: $blue-45;
+}
+h4,
+.h4 {
+	font-size: 1.33rem;
+	font-weight: 500;
+	line-height: $line-height-header;
+	text-align: left;
+}
+h5 {
+	font-family: $font-mono;
+	// font-style: italic;
+	font-weight: 400;
+	text-align: center;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-moz-osx-font-smoothing: auto;
+}
+h6 {
+	font-size: 1rem;
+	font-weight: 400;
+	text-align: center;
+}
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+	+ p {
+		margin-top: $line-height * 1em / 2;
+	}
+}
+em {
+	background: $yellow;
+	font-style: normal;
+	padding: 0.1em 0.3em 0.2em;
+	box-decoration-break: clone;
+	-webkit-box-decoration-break: clone;
+}
+blockquote {
+	background: white;
+	padding: $rhythm / 2;
+	@include clearfix();
+	color: $blue-45;
+	em {
+		margin: 0 -0.2em;
+	}
+	&.right {
+		margin-right: -0.75rem;
+		margin-left: 1.75rem;
+		margin-top: -3rem;
+	}
+}
+.superscript {
+	position: relative;
+	top: 2px;
+	font-size: 0.75em;
+	vertical-align: super;
+}
+.text-muted {
+	color: $mono-60;
+}
+@media (min-width: 768px) {
+	html {
+		font-size: $font-size-lg;
+	}
+	blockquote {
+		&.right {
+			margin-top: 2.25rem;
+			margin-left: -33%;
+			margin-right: 0;
+		}
+	}
+	h1 {
+		font-size: 4rem;
+	}
+	h4,
+	.h4 {
+		font-size: 1.5rem;
+	}
+}
+@media (min-width: 1024px) {
+	h2 {
+		font-size: 2.33rem;
+		max-width: 36rem;
+	}
+	ul,
+	p {
+		max-width: 32rem;
+	}
+	p.center {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	blockquote {
+		padding: $rhythm;
+		&.right {
+			margin-left: -33%;
+		}
+	}
+}
+@media (min-width: 1281px) {
+	html {
+		font-size: $font-size-xl;
+	}
+	blockquote {
+		font-size: $font-size-lg;
+	}
+	.superscript {
+		top: 1px;
+	}
+}
+
+
+@font-face {
+    font-family: 'swistblnk-moabhoers';
+    src: url('/assets/fonts/moabhoers.eot');
+    src: url('/assets/fonts/moabhoers.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/moabhoers.woff2') format('woff2'),
+         url('/assets/fonts/moabhoers.woff') format('woff'),
+         url('/assets/fonts/moabhoers.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,21 @@
+---
+layout: page
+site-nav: reviews
+title:  "Reviews"
+permalink: /reviews/
+---
+
+<ul class="m-review-list">
+{% for member in site.data.reviews %}
+	<li class="m-review-listItem padding-md">
+		<header class="m-review-header">
+			<img class="m-review-avatar" src="/assets/images/reviews/{{ member.image }}.jpg">
+			<div class="m-review-caption">
+				<h4 class="m-review-name">{{ member.name }}</h4>
+				<div class="m-review-role">{{ member.role }}</div>
+			</div>
+		</header>
+		<div class="m-review-message">{{ member.message }}</div>
+	</li>
+{% endfor %}
+</ul>

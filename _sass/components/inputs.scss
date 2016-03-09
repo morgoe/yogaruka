@@ -1,0 +1,28 @@
+.form-group {
+	@include clearfix();
+}
+.form-control {
+	letter-spacing: inherit;
+	line-height: normal;
+	border-radius: 0;
+	background: none;
+	box-shadow: none;
+	color: inherit;
+	border: none;
+	width: 100%;
+	-webkit-appearance: none;
+
+	padding: 5px 9px 3px;
+	border-bottom: 2px solid rgba($brown-30, 0.5);
+
+	.no-touch &:hover,
+	.touch &:active {
+		border-bottom-color: $brown-30;
+	}
+	.no-touch &:focus,
+	.touch &:focus {
+		background: white;
+		outline: none;
+		border-bottom-color: $blue-90;
+	}
+}

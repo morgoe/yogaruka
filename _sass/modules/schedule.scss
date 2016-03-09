@@ -1,0 +1,17 @@
+.m-schedule {
+	background: white;
+	padding: $rhythm / 2;
+	margin-left: -$rhythm / 2;
+	margin-right: -$rhythm / 2;
+	font-family: $font-mono;
+	font-size: $font-size-xs;
+	color: $mono-30;
+	li + li {
+		margin-top: $rhythm / 2;
+	}
+	-webkit-font-smoothing: subpixel-antialiased;
+	-moz-osx-font-smoothing: auto;
+}
+.m-schedule-time {
+	color: $mono-60;
+}

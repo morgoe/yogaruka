@@ -1,0 +1,14 @@
+.hidden {
+	display: none;
+}
+
+@media (max-width: 767px) {
+	.hidden--sm {
+		display: none !important;
+	}
+}
+@media (min-width: 768px) {
+	.hidden--md-up {
+		display: none !important;
+	}
+}
