@@ -1063,7 +1063,7 @@ h2,
   font-weight: 300;
   font-style: italic;
   text-align: left;
-  color: #1AB88D;
+  color: #2c4c6f;
   clear: both;
   padding-bottom: 5px;
   -webkit-font-smoothing: subpixel-antialiased;
@@ -1074,8 +1074,7 @@ h3,
   font-size: 1.66rem;
   font-weight: 500;
   line-height: 1.1;
-  text-align: left;
-  color: #2c4c6f; }
+  text-align: left; }
 
 h4,
 .h4 {
@@ -1163,7 +1162,7 @@ blockquote {
 @media (min-width: 1024px) {
   h2 {
     font-size: 2.33rem;
-    max-width: 36rem; }
+    max-width: 39rem; }
 
   ul,
   p {

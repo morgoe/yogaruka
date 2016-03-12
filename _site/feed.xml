@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruka Yoga — Yoga Studio</title>
+    <title>Yoga Ruka — Yoga Studio</title>
     <description>Aimed towards a new generation of yoga practitioners who think of yoga critically, not superstitiously, who want to learn to work healthily and integrate balance and sustainability in their lives. A resource for those who want to approach it but also for those who simply want to understand yoga without practicing it. A space for those who have tried and failed to get into it many times before - to try once more.</description>
-    <link>http://rukayoga.com/</link>
-    <atom:link href="http://rukayoga.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Mar 2016 00:15:11 +0200</pubDate>
-    <lastBuildDate>Thu, 10 Mar 2016 00:15:11 +0200</lastBuildDate>
+    <link>http://yogaruka.com/</link>
+    <atom:link href="http://yogaruka.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 12 Mar 2016 16:58:19 +0200</pubDate>
+    <lastBuildDate>Sat, 12 Mar 2016 16:58:19 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Thu, 19 Nov 2015 13:44:29 +0200</pubDate>
-        <link>http://rukayoga.com/jekyll/update/2015/11/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://rukayoga.com/jekyll/update/2015/11/19/welcome-to-jekyll.html</guid>
+        <link>http://yogaruka.com/jekyll/update/2015/11/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yogaruka.com/jekyll/update/2015/11/19/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

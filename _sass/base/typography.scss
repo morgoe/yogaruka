@@ -33,7 +33,7 @@ h2,
 	font-weight: 300;
 	font-style: italic;
 	text-align: left;
-	color: $green;
+	color: $blue-45;
 	clear: both;
 	padding-bottom: 5px;
 	-webkit-font-smoothing: subpixel-antialiased;
@@ -45,7 +45,6 @@ h3,
 	font-weight: 500;
 	line-height: $line-height-header;
 	text-align: left;
-	color: $blue-45;
 }
 h4,
 .h4 {
@@ -135,7 +134,7 @@ blockquote {
 @media (min-width: 1024px) {
 	h2 {
 		font-size: 2.33rem;
-		max-width: 36rem;
+		max-width: 39rem;
 	}
 	ul,
 	p {
