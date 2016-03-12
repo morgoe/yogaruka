@@ -67,12 +67,10 @@
 				&.active {
 					cursor: default;
 					.m-accordion-icon {
-						display: none;
+						background: $pink;
 					}
 					.m-accordion-title {
-						top: 0;
-						margin-left: 0;
-						font-size: 2.66rem;
+						font-weight: 500;
 						color: $pink;
 					}
 				}
@@ -93,6 +91,7 @@
 		}
 	}
 	.m-accordion-contentTitle {
+		font-family: $font-sans;
 		font-size: 12rem;
 		font-weight: 500;
 		line-height: 1;

@@ -1029,7 +1029,7 @@ th {
   clear: both; }
 
 html {
-  font-family: "tk-livory", "livory", Georgia, serif;
+  font-family: "livory", Georgia, serif;
   font-size: 16px;
   line-height: 1.5;
   color: #4d3c2f;
@@ -1049,20 +1049,19 @@ h4,
 
 h1,
 .h1 {
-  font-family: "swistblnk-moabhoers", "tk-sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial;
   font-size: 2.5rem;
   font-weight: normal;
+  font-style: italic;
   text-align: center;
   color: inherit;
-  text-transform: lowercase; }
+  text-transform: capitalize; }
 
 h2,
 .h2 {
-  display: inline-block;
+  font-family: "sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial;
   font-size: 1.66rem;
-  font-weight: 300;
-  font-style: italic;
-  text-align: left;
+  font-weight: 500;
+  text-align: center;
   color: #2c4c6f;
   clear: both;
   padding-bottom: 5px;
@@ -1162,7 +1161,9 @@ blockquote {
 @media (min-width: 1024px) {
   h2 {
     font-size: 2.33rem;
-    max-width: 39rem; }
+    max-width: 45rem;
+    margin-left: auto;
+    margin-right: auto; }
 
   ul,
   p {
@@ -1185,12 +1186,6 @@ blockquote {
 
   .superscript {
     top: 1px; } }
-@font-face {
-  font-family: 'swistblnk-moabhoers';
-  src: url("/assets/fonts/moabhoers.eot");
-  src: url("/assets/fonts/moabhoers.eot?#iefix") format("embedded-opentype"), url("/assets/fonts/moabhoers.woff2") format("woff2"), url("/assets/fonts/moabhoers.woff") format("woff"), url("/assets/fonts/moabhoers.ttf") format("ttf");
-  font-weight: normal;
-  font-style: normal; }
 *,
 *:before,
 *:after {
@@ -1538,7 +1533,7 @@ body {
 
 .m-header-link {
   display: inline-block;
-  font-family: "tk-sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial;
+  font-family: "sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial;
   text-decoration: none;
   color: inherit;
   vertical-align: top;
@@ -1560,7 +1555,7 @@ body {
 .m-header-title {
   display: none;
   color: inherit;
-  font-family: "tk-sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial;
+  font-family: "sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial;
   text-decoration: none; }
 
 .m-header-nav {
@@ -1792,7 +1787,7 @@ body {
 .m-home-link {
   display: block;
   color: white;
-  font-family: "tk-sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial;
+  font-family: "sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial;
   font-size: 1.33rem;
   text-decoration: none;
   vertical-align: top; }
@@ -1886,7 +1881,7 @@ body {
     z-index: 1; }
     .m-accordion-list > li > a {
       display: block;
-      font-family: "tk-sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial;
+      font-family: "sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial;
       color: #2c4c6f;
       text-transform: uppercase; }
       .m-accordion-list > li > a, .no-touch .m-accordion-list > li > a:focus, .no-touch .m-accordion-list > li > a:hover, .touch .m-accordion-list > li > a:active {
@@ -1898,11 +1893,9 @@ body {
       .m-accordion-list > li > a.active {
         cursor: default; }
         .m-accordion-list > li > a.active .m-accordion-icon {
-          display: none; }
+          background: #f01c62; }
         .m-accordion-list > li > a.active .m-accordion-title {
-          top: 0;
-          margin-left: 0;
-          font-size: 2.66rem;
+          font-weight: 500;
           color: #f01c62; }
 
   .m-accordion-content {
@@ -1916,6 +1909,7 @@ body {
         display: block; }
 
   .m-accordion-contentTitle {
+    font-family: "sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial;
     font-size: 12rem;
     font-weight: 500;
     line-height: 1;
@@ -2078,7 +2072,7 @@ body {
   margin-top: 0; }
 .m-retreat-hero h3,
 .m-retreat-hero h6 {
-  font-family: "tk-sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial; }
+  font-family: "sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial; }
 .m-retreat-hero h3 {
   color: white;
   text-transform: uppercase;
@@ -2086,7 +2080,7 @@ body {
   text-align: center;
   font-size: 1.33rem; }
 .m-retreat-hero h6 {
-  font-family: "tk-sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial; }
+  font-family: "sofia-pro", "Sofia Pro", "Sofia", "Roboto", "Segoe UI", "Helvetica Neue", Helvetica, Arial; }
 
 .m-review-list {
   margin-left: auto;
