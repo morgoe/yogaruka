@@ -25,9 +25,9 @@ One size fits all won’t do for me. *“Adapting yoga to suit the needs of ever
 
 Today I teach yoga while travelling the world, in group retreats and one-to-one classes, work on independent graphic and photography projects, do journalistic collaborations. In my private space I turn to yoga again and again because it reminds me that I am not perfect and, especially, that that’s ok.
 
-[img]: http://ruayoga.com/assets/images/about/me.jpg
+[img]: /assets/images/about/me.jpg
 
-<div class="fb-page" data-href="https://www.facebook.com/ruayoga/" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/ruayoga/"><a href="https://www.facebook.com/ruayoga/">RuaYoga</a></blockquote></div></div>
+<div class="fb-page" data-href="https://www.facebook.com/yogaruka/" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/yogaruka/"><a href="https://www.facebook.com/yogaruka/">Yoga Ruka</a></blockquote></div></div>
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
