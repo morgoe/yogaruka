@@ -8,7 +8,9 @@
 try{Typekit.load({ async: true });}catch(e){}
 
 
-/* Google Analytics Initialise */
+/********************
+ * Google Analytics *
+ ********************/
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -17,13 +19,25 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-63372069-3', 'auto');
 ga('send', 'pageview');
 
+// Send an event on page exit, so that time is tracked properly for bounce pages.
+var numPagesVisited = 0;
+window.onbeforeunload = function(){
+	ga('send', 'event', 'time-tracking', 'page-exit');
+	if (numPagesVisited === 1)
+		ga('send', 'event', 'engagement', 'page-bounce');
+}
+
+// Track scroll depth
+jQuery(function() {
+  jQuery.scrollDepth();
+});
+
 
 /* Instant Click */
 // InstantClick.init();
-initExternalLinks();
-
 
 /* Make all external links open in new tabs */
+initExternalLinks();
 function initExternalLinks() {
 	$(document.links).filter(function() {
 	    return this.hostname != window.location.hostname;
@@ -47,6 +61,8 @@ $('.js-accordion-button').click(function() {
 	$('.m-accordion .active').removeClass('active');
 	$(target).addClass('active');
 	$(this).addClass('active');
+
+	ga('send', 'event', 'engagement', 'retreat-clickedTabs');
 
 	resizeAccordionSpacer();
 });
