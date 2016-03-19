@@ -45,33 +45,6 @@ function initExternalLinks() {
 }
 
 
-/* Accordion */
-function resizeAccordionSpacer() {
-	if ($('.m-accordion').length === 0)
-		return false;
-	
-	// Get accordion offset
-	var accordionOffset = $('.m-accordion').offset().top;
-	var titleOffset = $('.js-accordion-button.active').offset().top + $('.js-accordion-button.active').height()/2;
-	var spacer = titleOffset - accordionOffset;
-	$('.m-accordion-content li.active .m-accordion-imageSpacer').height(spacer);
-}
-$('.js-accordion-button').click(function() {
-	var target = $(this).attr('target');
-	$('.m-accordion .active').removeClass('active');
-	$(target).addClass('active');
-	$(this).addClass('active');
-
-	ga('send', 'event', 'engagement', 'retreat-clickedTabs');
-
-	resizeAccordionSpacer();
-});
-$(window).resize(function() {
-	resizeAccordionSpacer();
-}).resize();
-
-var q;
-
 /* Formspree Contact Form */
 $(document).on('click', '#form-submit', function(e){
 	e.preventDefault(); // prevent the form to do the post.

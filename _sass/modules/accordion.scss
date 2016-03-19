@@ -31,85 +31,44 @@
 	}
 }
 
-@media (min-width: 768px) {
-	.m-accordion {
+@media (max-width: 768px) {
+	.m-accordion-image {
 		display: table;
+		margin-left: auto;
+		margin-right: auto;
 	}
-	.m-accordion-list,
+}
+@media (min-width: 768px) {
 	.m-accordion-content {
-		display: table-cell;
-		vertical-align: top;
-	}
-	.m-accordion-list {
-		position: relative;
-		padding-bottom: $rhythm;
-		z-index: 1;
+		margin-left: auto;
+		margin-right: auto;
 		> li {
-			> a {
-				display: block;
-				font-family: $font-sans;
-				color: $blue-45;
-				text-transform: uppercase;
-				&,
-				.no-touch &:focus,
-				.no-touch &:hover,
-				.touch &:active {
-					background: none;
-				}
-				.no-touch &:focus,
-				.no-touch &:hover,
-				.touch &:active {
-					color: $pink;
-					.m-accordion-icon {
-						background: $pink;
-					}
-				}
-				&.active {
-					cursor: default;
-					.m-accordion-icon {
-						background: $pink;
-					}
-					.m-accordion-title {
-						font-weight: 500;
-						color: $pink;
-					}
-				}
-			}
-		}
-	}
-
-	.m-accordion-content {
-		padding-left: $rhythm;
-		width: 60%;
-		> li {
-			display: none;
-			margin-top: 0;
-			padding: $rhythm;
-			&.active {
-				display: block;
-			}
-		}
-	}
-	.m-accordion-contentTitle {
-		font-family: $font-sans;
-		font-size: 12rem;
-		font-weight: 500;
-		line-height: 1;
-		white-space: nowrap;
-		position: absolute;
-		right: 0;
-		top: 0;
-		z-index: -1;
-		opacity: 0.1;
-		color: $pink;
-		text-transform: none;
-		+ p {
-			margin-top: 0;
+			@include clearfix();
 		}
 	}
 	.m-accordion-image {
 		float: left;
-		clear: both;
-		margin-left: -100px;
+		max-width: 480px;
+		&.right {
+			float: right;
+		}
+	}
+}
+@media (min-width: 1024px) {
+	.m-accordion-image {
+		max-width: 420px;
+		&.right {
+			float: right;
+			margin-right: -100px;
+		}
+		&:not(.right) {
+			float: left;
+			margin-left: -100px;
+		}
+	}
+}
+@media (min-width: 1280px) {
+	.m-accordion-image {
+		max-width: 480px;
 	}
 }
