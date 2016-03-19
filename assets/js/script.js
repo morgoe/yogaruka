@@ -58,7 +58,7 @@ $(document).on('click', '#form-submit', function(e){
 	sendButton.text("Sending...");
 
 	var xhr = new XMLHttpRequest();
-	xhr.open('POST', '//formspree.io/rua.hvitulv@icloud.com', true);
+	xhr.open('POST', '//formspree.io/studio@yogaruka.com', true);
 	xhr.setRequestHeader("Accept", "application/json")
 	xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded")
 
