@@ -5,7 +5,7 @@ site-nav: about
 permalink: /about/
 ---
 
-#####YogaRuka is a yoga studio run by [Rua Hvitulv](#rua) and [Karen Pasquel](#karen).
+<h5>YogaRuka is a yoga studio run by <a href="#rua">Rua Hvitulv</a> and <a href="#karen">Karen Pasquel</a>.</h5>
 
 ## Rua
 
