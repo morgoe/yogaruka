@@ -14,6 +14,26 @@ figure {
 	}
 }
 
+.iframe-wrapper {
+	position: relative;
+	max-width: 720px;
+	margin-left: auto;
+	margin-right: auto;
+	.iframe {
+		position: relative;
+		padding-bottom: 56.25%;
+	}
+	iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		width: 100%;
+		height: 100%;
+	}
+}
+
 figcaption {
 	display: none;
 	font-family: $font-mono;
