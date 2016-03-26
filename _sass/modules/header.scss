@@ -21,13 +21,13 @@ body {
 	text-decoration: none;
 	color: inherit;
 	vertical-align: top;
-	font-size: 12px;
+	font-size: 11px;
 	font-weight: 600;
 	padding: 17px 4px 3px;
 	text-transform: uppercase;
 	+ .m-header-link {
 		margin-top: 0;
-		margin-left: 1rem;
+		margin-left: 0.4rem;
 	}
 	&,
 	.no-touch &:focus,
@@ -56,6 +56,12 @@ body {
 #home {
 	.m-header {
 		display: none;
+	}
+}
+
+@media (min-width: 360px) {
+	.m-header-link + .m-header-link {
+		margin-left: 0.7rem;
 	}
 }
 
