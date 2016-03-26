@@ -42,6 +42,8 @@ $('body').scrollspy({
 	offset: (scrollspyHeight + 20)
 });
 function toggleScrollspyVisibility() {
+	if ($('#jumpTo-setting').length === 0)
+		return;
 	if ($('body').scrollTop() - $('#jumpTo-setting').offset().top > -(scrollspyHeight + 20)) {
 		$('.js-jumpTo-wrapper').addClass('show');
 	} else {
