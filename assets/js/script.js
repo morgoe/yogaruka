@@ -109,6 +109,8 @@ $(document).on('click', '#form-submit', function(e){
 	xhr.setRequestHeader("Accept", "application/json")
 	xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded")
 
+	ga('send', 'event', 'engagement', 'contact-form-submit');
+
 	xhr.send(
 		"name=" + inputName.val() +
 		"&email=" + inputEmail.val() +
