@@ -31,18 +31,15 @@
 	z-index: -1;
 }
 .m-home-header {
-	h1,
-	h2 {
-		color: white;
-		margin: 0;
-	}
-	h2 {
-		display: block;
-		text-align: center;
-		background: none;
-		-webkit-text-fill-color: initial;
-		-webkit-background-clip: initial;
-	}
+	text-align: center;
+}
+.m-home-logo {
+	display: inline-block;
+	text-indent: -9999px;
+	background: url('/assets/images/logo.svg');
+	background-size: cover;
+	width: 200px;
+	height: 200px;
 }
 
 .m-home-nav {
@@ -87,7 +84,7 @@
 
 	.m-home-header {
 		position: absolute;
-		bottom: $rhythm;
+		top: $rhythm;
 		left: $rhythm;
 		h1,
 		h2 {
