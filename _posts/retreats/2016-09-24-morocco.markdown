@@ -61,7 +61,7 @@ cover-image: retreatMorocco
 </section>
 
 <section>
-	<h2>Holy Moly Saint Yoga!  </h2>
+	<h2>Holy Moly If this isn’t a Yoga retreat!</h2>
 
 	<div class="row">
 		<div class="col-sm-5 col-md-6 col-lg-7">
