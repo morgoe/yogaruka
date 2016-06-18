@@ -2,7 +2,7 @@
 layout: page
 site-nav: terms
 title:  "Terms and Conditions"
-permalink: /terms/
+permalink: /retreats/reclaim-yourself-marrakech-september-2016/terms/
 body-id: terms
 ---
 

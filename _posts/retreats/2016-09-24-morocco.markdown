@@ -8,8 +8,8 @@ title: "Reclaim Yourself — Nature Wellness Retreat"
 location: 'Marrakech, Morocco'
 dates: '24<span class="superscript">th</span> - 30<span class="superscript">th</span> September 2016</h6>'
 
-permalink: /retreats/reclaim-yourself-marrakech-sep-2016/
-cover-image: retreatSpain
+permalink: /retreats/reclaim-yourself-marrakech-september-2016/
+cover-image: retreatMorocco
 ---
 
 <header class="m-retreat-header js-jumpTo-wrapper">
@@ -296,7 +296,7 @@ cover-image: retreatSpain
 
 	{% include retreat-form-2016-may-spain.html %}
 
-	<p class="center">By purchasing this deposit, you accept and agree to our <a href="/terms/">terms and conditions</a>. Don't worry, they're not scary!</p>
+	<p class="center">By purchasing this deposit, you accept and agree to our <a href="terms/" target="_blank">terms and conditions</a>. Don't worry, they're not scary!</p>
 
 	<div class="row">
 		<div class="col-sm-push-2 col-sm-8 col-md-push-3 col-md-6">

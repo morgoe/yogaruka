@@ -6,11 +6,12 @@
 	display: block;
 	position: relative;
 	padding: $rhythm / 2;
+	padding-top: $rhythm * 2;
 	@include noSelect();
 	cursor: pointer;
 	background: black !important;
 	color: white !important;
-	text-shadow: 0 1px 1px rgba(black,0.1), 2px 0 20px rgba(black,0.3);
+	text-shadow: 0 1px 1px rgba(black,0.2), 2px 0 20px rgba(black,0.3);
 	z-index: 1;
 	&:after {
 		content: "";
@@ -22,13 +23,13 @@
 		z-index: -1;
 		background-size: cover;
 		background-position: center;
-		opacity: 0.9;
+		opacity: 0.85;
 	}
 }
 .m-retreatList-title {
 	font-size: 1.66rem;
 	font-style: italic;
-	margin-top: 0.25em;
+	margin-top: 0.25rem;
 }
 .m-retreatList-info {
 	font-size: 14px;

@@ -9,10 +9,6 @@
 }
 
 #terms #content {
-	font-family: $font-mono;
-	font-size: $font-size-sm;
-	-webkit-font-smoothing: subpixel-antialiased;
-	-moz-osx-font-smoothing: auto;
 	h2,
 	h4,
 	ul,
@@ -33,6 +29,9 @@
 	}
 	* + * {
 		margin-top: $rhythm / 2;
+	}
+	h4 {
+		margin-top: $rhythm;
 	}
 }
 
