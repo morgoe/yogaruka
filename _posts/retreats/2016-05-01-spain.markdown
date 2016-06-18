@@ -73,9 +73,9 @@ cover-image: retreatSpain
 			<blockquote class="right">
 				<p>Do good to your spirit and good to the planet by joining this one of a kind retreat in the midst of the Natural Reserve Sierra de Grazalema in the Mountains of Cádiz.</p>
 
-				<p>A <em>Unesco Biosphere reserve</em> since 1977, it is Andalucia's first natural park and among Spain's most ecologically outstanding areas with its limestone cliffs, gullies, caves and gorges, its hundreds of endemic Mediterranean plant species and griffon vulture colonies. In fact it's been included amongst the 50 natural wonders of the world ahead of places as famous as the Grand Canyon in the US!</p>
+				<p>A <strong>Unesco Biosphere reserve</strong> since 1977, it is Andalucia's first natural park and among Spain's most ecologically outstanding areas with its limestone cliffs, gullies, caves and gorges, its hundreds of endemic Mediterranean plant species and griffon vulture colonies. In fact it's been included amongst the 50 natural wonders of the world ahead of places as famous as the Grand Canyon in the US!</p>
 
-				<p>Spend one week with us to <em>take your practice to a new level</em>: improve your poses and posture, make friends in a healthy, cooperative and non-judgemental environment and explore a part of the world filled with marvels still untouched.</p>
+				<p>Spend one week with us to <strong>take your practice to a new level</strong>: improve your poses and posture, make friends in a healthy, cooperative and non-judgemental environment and explore a part of the world filled with marvels still untouched.</p>
 
 				<p>If you were already considering taking a step back to basics in order to discover and work with your body’s strengths and weaknesses, this retreat will stretch your body but also your mind. Part of all profits goes back to Nature Conservancy.</p>
 			</blockquote>
@@ -97,13 +97,13 @@ cover-image: retreatSpain
 			<li id="jumpTo-setting" class="active">
 				<h3 class="m-accordion-contentTitle">Setting</h3>
 
-				<p>The estate is 4 kilometres from the town El Gastor, known as the balcony of the The White Villages of Cádiz, due to its altitude. The property is on <em>250,000 square meters of land</em> protected by automated security gates.</p>
+				<p>The estate is 4 kilometres from the town El Gastor, known as the balcony of the The White Villages of Cádiz, due to its altitude. The property is on <strong>250,000 square meters of land</strong> protected by automated security gates.</p>
 
 				<figure class="m-accordion-image right">
 					<img src="/assets/images/retreats/2016-may-spain/setting.jpg">
 				</figure>
 
-				<p>There are 5 clusters of country homes that are separated from each other by large distances to ensure privacy. Each of them has <em>its own private pool</em> with incredible views of the mountains.</p>
+				<p>There are 5 clusters of country homes that are separated from each other by large distances to ensure privacy. Each of them has <strong>its own private pool</strong> with incredible views of the mountains.</p>
 				
 				<p>There is a tennis court surrounded by trees and free parking at the homes. Yoga classes will be held in a spacious room bathed in sunlight. The yoga shala is equipped with mats and props for all our yoga needs. The meals will be served in the big house.</p>
 			</li>
@@ -125,7 +125,7 @@ cover-image: retreatSpain
 					<img src="/assets/images/retreats/2016-may-spain/rooms.jpg">
 				</figure>
 
-				<p class="margin-top-0">In Grazalema house there are either single or double occupancy rooms offered. All homes are beautifully decorated and all have private bathrooms attached. There is WiFi, LED TV, AC and heaters in each room. By default, you will share a room with one other student. <em>If you wish to opt for a single room</em>, there will be an additional fee of £130.</p>
+				<p class="margin-top-0">In Grazalema house there are either single or double occupancy rooms offered. All homes are beautifully decorated and all have private bathrooms attached. There is WiFi, LED TV, AC and heaters in each room. By default, you will share a room with one other student. <strong>If you wish to opt for a single room</strong>, there will be an additional fee of £130.</p>
 			</li>
 			<li id="jumpTo-meals">
 				<h3 class="m-accordion-contentTitle">Meals</h3>
@@ -138,12 +138,12 @@ cover-image: retreatSpain
 				
 				<p>All the food served will be well balanced, vegetarian dishes planned by our food expert Javier to ensure that you are well taken care of during the retreat.</p>
 
-				<p><em>If you have any food allergies or special requests</em>, please let us know so we can prepare the best alternative for your needs.</p>
+				<p><strong>If you have any food allergies or special requests</strong>, please let us know so we can prepare the best alternative for your needs.</p>
 			</li>
 			<li id="jumpTo-activities">
 				<h3 class="m-accordion-contentTitle">Activities</h3>
 
-				<p>The retreat will begin with a <em>full anatomical assessment</em>, so as to target the sequences to individual quirks - spine and postural issues (spondylitis, scoliosis, hyperlordosis, etc), joint issues (arthritis, chronic knee pain) - and provide <em>solutions around your lifestyle</em> (eg. how to keep a healthy posture if you sit in an office chair 8h+ a day).</p>
+				<p>The retreat will begin with a <strong>full anatomical assessment</strong>, so as to target the sequences to individual quirks - spine and postural issues (spondylitis, scoliosis, hyperlordosis, etc), joint issues (arthritis, chronic knee pain) - and provide <strong>solutions around your lifestyle</strong> (eg. how to keep a healthy posture if you sit in an office chair 8h+ a day).</p>
 
 				<figure class="m-accordion-image right">
 					<img src="/assets/images/retreats/2016-may-spain/course.jpg">
@@ -154,7 +154,7 @@ cover-image: retreatSpain
 			<li id="jumpTo-schedule">
 				<h3 class="m-accordion-contentTitle">Schedule</h3>
 
-				<p>Beginners will be offered a wonderful (re)introduction to the practice of yoga and the more advanced will have a chance to revisit and enrich their practice with perhaps a(n) new/alternate vision. <em>Individual attention and options customised in the classroom environment</em> will ensure you enjoy a safe yet challenging experience.</p>
+				<p>Beginners will be offered a wonderful (re)introduction to the practice of yoga and the more advanced will have a chance to revisit and enrich their practice with perhaps a(n) new/alternate vision. <strong>Individual attention and options customised in the classroom environment</strong> will ensure you enjoy a safe yet challenging experience.</p>
 
 				<ul class="m-schedule">
 					<li><span class="m-schedule-time">06:30</span> Suggested wakeup time</li>
@@ -243,7 +243,7 @@ cover-image: retreatSpain
 		<li>3 vegetarian meals/day, made from local Mediterranean ingredients, are always a win.</li>
 		<li>You can opt for an additional individual yoga session outside of the group session times, to help construct your ideal, personalised practice or...</li>
 		<li>..you can just hike in the mountains, exploring this unbelievable habitat, swim in the pool, play tennis, ride on horseback.</li>
-		<li>Yoga Ruka commits to donate a <em>minimum of 10% of the profit</em> from their retreats to support environment, education and environmental education.</li>
+		<li>Yoga Ruka commits to donate a <strong>minimum of 10% of the profit</strong> from their retreats to support environment, education and environmental education.</li>
 	</ul>
 </section>
 
@@ -284,7 +284,7 @@ cover-image: retreatSpain
 
 	<p class="center">From griffon vulture colonies to hundreds of endemic Mediterranean plant species such as the rare Spanish fir, relic of the Tertiary geological era, the Sierra de Grazalema's fragile ecosystem needs our protection.</p>
 	
-	<p class="center">This is why Ruka Yoga commit to <em>donate a minimum 10% of their profits</em> to support projects such as the protection of this incredible natural reserve through O-Live Environmental Association, but also the education of disadvantaged children in India through organisations such as Make a difference or Nanhi Kali.</p>
+	<p class="center">This is why Ruka Yoga commit to <strong>donate a minimum 10% of their profits</strong> to support projects such as the protection of this incredible natural reserve through O-Live Environmental Association, but also the education of disadvantaged children in India through organisations such as Make a difference or Nanhi Kali.</p>
 
 	{% include retreat-form-expired.html %}
 

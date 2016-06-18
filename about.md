@@ -15,7 +15,7 @@ I have always been scientifically inclined and skeptical to a fault. Thus it cam
 	<img src="/assets/images/about/rua.jpg">
 </figure>
 
-There’s a quote from Richard Bach’s “Illusions” that comes to mind whenever I think of myself as a teacher of yoga: *“You teach best what you most need to learn.”*
+There’s a quote from Richard Bach’s “Illusions” that comes to mind whenever I think of myself as a teacher of yoga: **“You teach best what you most need to learn.”**
 
 Having experienced yoga for years without finding my way, I am today in the position of saying that it might just be okay to not find your way as long as you keep on actively looking, and working towards it.
 
@@ -25,7 +25,7 @@ Yoga asana is exercise with the potential to be infinitely more, but that doesn�
 
 What I am striving for is teach it the way I would have always wanted to be taught. My long-term goal is to gather around me a new generation of yoga practitioners who think of yoga critically, not superstitiously, who want to learn to work healthily and integrate balance and sustainability in their lives; to offer a resource for those who want to approach it but also for those who simply want to understand yoga without practicing it; to offer a space for those who have tried and failed to get into it many times before, to try once more.
 
-One size fits all won’t do for me. *“Adapting yoga to suit the needs of every unique individual is where the true greatness of yoga lies”* as TKV Desikachar once put it, and it’s how my classes inevitably develop.
+One size fits all won’t do for me. **“Adapting yoga to suit the needs of every unique individual is where the true greatness of yoga lies”** as TKV Desikachar once put it, and it’s how my classes inevitably develop.
 
 Today I teach yoga while travelling the world, in group retreats and one-to-one classes, work on independent graphic and photography projects, do journalistic collaborations. In my private space I turn to yoga again and again because it reminds me that I am not perfect and, especially, that that’s ok.
 
@@ -47,11 +47,11 @@ I kept going again and again to yoga classes for two reasons:
 
 I had grown up in a very competitive environment, as part of my school team in volleyball, basketball and football. Therefore I felt I constantly had to compete.
 
-*Yoga taught me not to compare myself with others,* competition is not the point, the yoga practice is individual practice, is working on myself on various levels, we all have different bodies and thus have different abilities.
+**Yoga taught me not to compare myself with others,** competition is not the point, the yoga practice is individual practice, is working on myself on various levels, we all have different bodies and thus have different abilities.
 
 My biggest passion is today to share the gift of Yoga. My main form of practice and the lineage from which I come is Hatha – Vinyasa yoga, a dynamic flow which gives the freedom to creatively express oneself. This is what I consider the essence of Yoga, linking Breath and Movement with Intention.
 
-*I see Yoga as a way of life — something to practice both on and off the mat.* Yoga allows us to become more present and free of stress, to reconnect with our spirit and the truth of who we are.
+**I see Yoga as a way of life — something to practice both on and off the mat.** Yoga allows us to become more present and free of stress, to reconnect with our spirit and the truth of who we are.
 
 <div class="fb-page" data-href="https://www.facebook.com/yogaruka/" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/yogaruka/"><a href="https://www.facebook.com/yogaruka/">Yoga Ruka</a></blockquote></div></div>
 

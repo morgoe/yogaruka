@@ -87,10 +87,12 @@ h6,
 		margin-top: $line-height * 1em / 2;
 	}
 }
-em {
+strong {
 	background: $yellow;
+	font-weight: inherit;
 	font-style: normal;
-	padding: 0.1em 0.3em 0.2em;
+	padding: 0.15em 0.2em;
+	margin: 0 -0.2em;
 	box-decoration-break: clone;
 	-webkit-box-decoration-break: clone;
 }
