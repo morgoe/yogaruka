@@ -2,14 +2,14 @@
 layout: default
 site-nav: retreats
 categories:
-- past-retreats
+- retreats
 
-title:  'Reclaim Yourself — Nature Yoga Retreat'
-location: 'Cádiz, Spain'
-dates: '1<span class="superscript">st</span> - 7<span class="superscript">th</span> May 2016'
+title: "Reclaim Yourself — Nature Wellness Retreat"
+location: 'Marrakech, Morocco'
+dates: '24<span class="superscript">th</span> - 30<span class="superscript">th</span> September 2016</h6>'
 
-permalink: /retreats/reclaim-yourself-cadiz-may-2016/
-cover-image: retreatSpain
+permalink: /retreats/reclaim-yourself-marrakech-september-2016/
+cover-image: retreatMorocco
 ---
 
 <header class="m-retreat-header js-jumpTo-wrapper">
