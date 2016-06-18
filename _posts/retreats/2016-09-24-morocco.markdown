@@ -71,13 +71,9 @@ cover-image: retreatSpain
 		</div>
 		<div class="col-sm-7 col-md-6 col-lg-5">
 			<blockquote class="right">
-				<p>Do good to your spirit and good to the planet by joining this one of a kind retreat in the midst of the Natural Reserve Sierra de Grazalema in the Mountains of Cádiz.</p>
+				<p>Let us take you to a magical place in the heart of the Ourika Valley - an <em>exclusive eco-retreat</em> an hour out of Marrakesh into the mountains of Atlas - the rebel Titan that, petrified by the Medusa, legend says, holds the heavens on his shoulders.</p>
 
-				<p>A <em>Unesco Biosphere reserve</em> since 1977, it is Andalucia's first natural park and among Spain's most ecologically outstanding areas with its limestone cliffs, gullies, caves and gorges, its hundreds of endemic Mediterranean plant species and griffon vulture colonies. In fact it's been included amongst the 50 natural wonders of the world ahead of places as famous as the Grand Canyon in the US!</p>
-
-				<p>Spend one week with us to <em>take your practice to a new level</em>: improve your poses and posture, make friends in a healthy, cooperative and non-judgemental environment and explore a part of the world filled with marvels still untouched.</p>
-
-				<p>If you were already considering taking a step back to basics in order to discover and work with your body’s strengths and weaknesses, this retreat will stretch your body but also your mind. Part of all profits goes back to Nature Conservancy.</p>
+				<p>Join us this end of September for a week that will change you forever: take your yoga practice to the next level, with a <em>new approach on postural dynamics</em>, explore through walking meditations the marvels of the National Park of Toubkal (did you know <em>Martin Scorsese’s Kundun</em> was filmed in one of the nearby historical kasbahs?), discover the best local organic dishes, experience a real Berber Hammam, massages, and so much more.</p>
 			</blockquote>
 		</div>
 	</div>
@@ -256,27 +252,39 @@ cover-image: retreatSpain
 			<ul class="m-prices-includedList margin-top-xs">
 				<li>
 					<img src="/assets/icons/check.svg">
-					6 nights at a luxury resort in the nature reserve
+					6 nights accommodation in an eco-kasbah
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
-					3 vegetarian meals / day
+					3 vegetarian meals / day, all <em>locally-sourced & organic</em>
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
-					Up to 3 hours of asana practice / day
+					2 yoga fusion classes daily (asana, pranayama, meditation, functional training)
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
-					Individual anatomical assessment, to tailor sequences to your body
+					a <em>full anatomical assessment</em> to customise your practice to your uniqueness
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
-					1 individually tailored session (optional, free of cost)
+					silent walking meditation in the National Park
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
-					Vegan foods workshop (optional, free of cost)
+					a <em>traditional Hammam</em> bath, scrub & body mask treatment
+				</li>
+				<li>
+					<img src="/assets/icons/check.svg">
+					a guided hike of your choice (Kundun’s kasbah, Ourika waterfalls, etc)
+				</li>
+				<li>
+					<img src="/assets/icons/check.svg">
+					<em>2 Ayurvedic massages</em>: full body & foot/reflexology 
+				</li>
+				<li>
+					<img src="/assets/icons/check.svg">
+					return transport from Marrakech airport or city centre
 				</li>
 			</ul>
 		</div>
