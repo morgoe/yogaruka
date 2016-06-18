@@ -233,7 +233,7 @@ cover-image: retreatSpain
 
 	<p>Whether doing yoga asana or other types of physical exercise, or even only sitting, postural alignment is crucial, a lot of issues originate in it, so a lot of focus will be placed on it during our classes. Yoga is however not just asana, therefore our retreat will provide an overview of all the 8 limbs of yoga.</p>
 
-	<img class="m-doubleExposure" src="/assets/images/retreats/2016-may-spain/double-exposure.jpg">
+	<img class="m-doubleExposure" src="/assets/images/retreats/double-exposure.jpg">
 
 	<h3 class="u-text-right">What makes us unique?</h3>
 

@@ -61,19 +61,19 @@ cover-image: retreatMorocco
 </section>
 
 <section>
-	<h2>Do good to your spirit and good to the planet by joining this one of a kind retreat</h2>
+	<h2>Holy Moly Saint Yoga!  </h2>
 
 	<div class="row">
 		<div class="col-sm-5 col-md-6 col-lg-7">
 			<figure>
-				<img src="/assets/images/retreat/overview.jpg">
+				<img src="/assets/images/retreats/2016-september-morocco/view.jpg">
 			</figure>
 		</div>
 		<div class="col-sm-7 col-md-6 col-lg-5">
 			<blockquote class="right">
-				<p>Let us take you to a magical place in the heart of the Ourika Valley - an <strong>exclusive eco-retreat</strong> an hour out of Marrakesh into the mountains of Atlas - the rebel Titan that, petrified by the Medusa, legend says, holds the heavens on his shoulders.</p>
+				<p>Let us take you to a <strong>magical place in the heart of the Ourika Valley</strong> - an exclusive eco-retreat an hour out of Marrakesh into the Atlas Mountains. Old Greek legends say Atlas was the rebel Titan that Zeus punished, turning his body into rock to hold the heavens on his shoulders. (You'd never heard of that? Oh let our geeky yoga teacher tell you all about it, if you can bear it)</p>
 
-				<p>Join us this end of September for a week that will change you forever: take your yoga practice to the next level, with a <strong>new approach on postural dynamics</strong>, explore through walking meditations the marvels of the National Park of Toubkal (did you know <strong>Martin Scorsese’s Kundun</strong> was filmed in one of the nearby historical kasbahs?), discover the best local organic dishes, experience a real Berber Hammam, massages, and so much more.</p>
+				<p>Join us this end of September for a week that will change you forever: take your yoga practice to the next level, with a <strong>new approach on postural dynamics</strong>, explore through walking meditations the marvels of the National Park of Toubkal (did you know Martin Scorsese’s Kundun was filmed in one of the nearby historical kasbahs?), discover the <strong>best local organic dishes</strong>, experience a real Berber Hammam, massages, and so much more.</p>
 			</blockquote>
 		</div>
 	</div>
@@ -82,90 +82,118 @@ cover-image: retreatMorocco
 <section>
 	<h2>General Information</h2>
 
-	<div class="iframe-wrapper">
-		<div class="iframe">
-			<iframe src="https://www.youtube.com/embed/aKOKTurGi_A" frameborder="0" allowfullscreen></iframe>
-		</div>
-	</div>
-
 	<div class="m-accordion">
 		<ul class="m-accordion-content">
 			<li id="jumpTo-setting" class="active">
 				<h3 class="m-accordion-contentTitle">Setting</h3>
 
-				<p>The estate is 4 kilometres from the town El Gastor, known as the balcony of the The White Villages of Cádiz, due to its altitude. The property is on <strong>250,000 square meters of land</strong> protected by automated security gates.</p>
+				<p>The estate is about 50 kilometres from Marrakesh, the most important - and fascinating - of Morocco's historical imperial cities, at the heart of the Ourika Valley, in the High Atlas mountain range. It expands in the midst of olive tree groves over the hills, by a crystalline stream.</p>
+
+				<p>Featured in National Geographic Traveler this May, and in the January 2015 issue of the yoga magazine <a href="http://www.happinez.com/">Happinez</a>, the eco-lodge is the dream come reality of the Moroccan-Dutch entrepreneur Khalid Boukhima. This lovely kasbah offers single, double and triple occupancy rooms, all with complete, private bathrooms.</p>
 
 				<figure class="m-accordion-image right">
-					<img src="/assets/images/retreat/setting.jpg">
+					<img src="/assets/images/retreats/2016-september-morocco/pool.jpg">
 				</figure>
 
-				<p>There are 5 clusters of country homes that are separated from each other by large distances to ensure privacy. Each of them has <strong>its own private pool</strong> with incredible views of the mountains.</p>
-				
-				<p>There is a tennis court surrounded by trees and free parking at the homes. Yoga classes will be held in a spacious room bathed in sunlight. The yoga shala is equipped with mats and props for all our yoga needs. The meals will be served in the big house.</p>
+				<p>Don’t let yourself be fooled: the unassuming quality of these spaces is not accidental, rather meant to enhance the experience of the overwhelming surroundings.</p>
+
+				<p>There is a spacious yoga shala donned with eco-mats, a breathtaking sun-bathed terrace overlooking the National Park and several kiosks for yoga outdoors or your 5 (and 6, and 7) o’clock tea, a <strong>private pool</strong>, a wooden swing and <strong>hammocks</strong> to read or rest by the river and listen to the multitude of different birdsongs. Here start uncountable hiking routes through this sector of the Atlas mountains.</p>
+
+				<p>Nothing compares to this peace, we vouch for it!</p>
 			</li>
 			<li id="jumpTo-location">
 				<h3 class="m-accordion-contentTitle">Location</h3>
 
-				<p>The retreat is located at <a href="https://www.google.com.au/maps/place/Calle+Parche,+26,+11687+El+Gastor,+C%C3%A1diz,+Spain/@36.85413,-5.3260487,17z/data=!3m1!4b1!4m2!3m1!1s0xd0d40b8fd1d6355:0xc16d88da254d5521">Calle Parche, 26, 11687 El Gastor, Cádiz, Spain</a>. This is 1h 20 mins from Jerez airport, 1h 30 mins from Sevilla airport, or 1h 30 mins from Malaga airport.</p>
+				<p>The retreat is located in the National Park of Toubkal, Morocco. This is about an hour from the Marrakesh airport or 1h 15 mins from Marrakesh medina (old city).</p>
 
-				<figure class="m-accordion-image ">
-					<img src="/assets/images/retreat/location.jpg">
+				<p>Marrakesh Menara International Airport is served by many standard and low cost companies, with <strong>hundreds of daily direct flights</strong> from the whole of Europe, and some Arabic countries. We are here to help you find the best traveling option so please don’t hesitate to ask.</p>
+
+				<figure class="m-accordion-image">
+					<img src="/assets/images/retreats/2016-september-morocco/landscape.jpg">
 				</figure>
 
-				<p>If you wish to have an airport transfer from Malaga we are happy to organise for you both pick up and drop off in time for your flight after the retreat. A transfer there and back can be arranged for £40 each way. You can also get to Grazalema House via train or bus to Ronda. Both buses and trains leave Malaga city regularly throughout the day and we can come pick you up from the bus/train station in Ronda.</p>
+				<p>Airport transfer from Marrakesh is included. There will be two pick-ups on the 24th, and two drop-offs on the 30th - one mid-morning and one in the afternoon. If any of the participants arrive a day or two before and would like to be picked up in the medina, please let us know and we’ll organise for the minibus to pick you up in the city centre.</p>
+
+				<p>Please check our <a class="js-jumpTo" href="#jumpTo-faqs">FAQs</a> for more information.</p>
 			</li>
 			<li id="jumpTo-rooms">
 				<h3 class="m-accordion-contentTitle">Rooms</h3>
 
+				<p>All spaces are simple, airy and colourful, built and decorated in traditional Berber style.</p>
+
 				<figure class="m-accordion-image right">
-					<img src="/assets/images/retreat/rooms.jpg">
+					<img src="/assets/images/retreats/2016-september-morocco/outdoor.jpg">
 				</figure>
 
-				<p class="margin-top-0">In Grazalema house there are either single or double occupancy rooms offered. All homes are beautifully decorated and all have private bathrooms attached. There is WiFi, LED TV, AC and heaters in each room. By default, you will share a room with one other student. <strong>If you wish to opt for a single room</strong>, there will be an additional fee of £130.</p>
+				<p>Double rooms have separate beds, however they can be put together if you come as a couple.</p>
+
+				<p><strong>There is no WiFi</strong>. We believe it defies the purpose of a true retreat, since that should include also a retreat from technology. (However for those that cannot stay away from the virtual world, there is a cyber-café in the nearby village, a short stroll away, and you can also buy very economic SIM cards that come with a fair amount of mobile internet. We will pretend we haven’t seen you instagramming your latest asana achievement.)</p>
+
+				<p>NB: By default upon booking, you will be assigned to a <strong>single</strong> room, unless you book for 2 or 3 people. <strong>If you wish to opt for a spot in a double or a triple</strong>, please get in touch with us asap. Bear in mind that the triple rooms are the fewest, followed by the double, so they tend to be filled up first, thus we cannot guarantee you a spot especially towards the end of the booking period.</p>
 			</li>
 			<li id="jumpTo-meals">
 				<h3 class="m-accordion-contentTitle">Meals</h3>
 
-				<p>All of your meals are included in the retreat. We will serve you a lovely prepared buffet-style breakfast, lunch and dinner every day. On the arrival day, dinner is included and on departure day we will serve you breakfast.</p>
+				<p>All meals are included. The morning will start with our Ayurvedic lemonade to purify, hydrate and energise you for your early yoga session. The session will be followed by a traditional Berber breakfast.</p>
 
 				<figure class="m-accordion-image ">
-					<img src="/assets/images/retreat/meals.jpg">
+					<img src="/assets/images/retreats/2016-september-morocco/smoothie.jpg">
 				</figure>
 				
-				<p>All the food served will be well balanced, vegetarian dishes planned by our food expert Javier to ensure that you are well taken care of during the retreat.</p>
+				<p>Meals will be served in our spacious dining room, on the terrace or in the garden; during hiking adventures there will be a packed lunch. On the arrival day, lunch and dinner are included and on departure day - breakfast.</p>
 
-				<p><strong>If you have any food allergies or special requests</strong>, please let us know so we can prepare the best alternative for your needs.</p>
+				<p>All meals will be well balanced, delicious Moroccan dishes made with <strong>local bio-dynamic, organic</strong> or at the very least <strong>pesticide-free ingredients</strong>.</p>
+
+				<p>NB: Our suggested menu options are vegan and vegetarian, however, should you have a severe deficiency or allergies/intolerances that prevent you from getting your essential nutrients from such diets, please let us know and we will organise a menu based on meat or particular meat substitutes. Ahimsa extends to also taking care of You.</p>
 			</li>
 			<li id="jumpTo-activities">
 				<h3 class="m-accordion-contentTitle">Activities</h3>
 
-				<p>The retreat will begin with a <strong>full anatomical assessment</strong>, so as to target the sequences to individual quirks - spine and postural issues (spondylitis, scoliosis, hyperlordosis, etc), joint issues (arthritis, chronic knee pain) - and provide <strong>solutions around your lifestyle</strong> (eg. how to keep a healthy posture if you sit in an office chair 8h+ a day).</p>
+				<p>Upon arrival we warmly recommend you to participate to our <strong>full anatomical assessment</strong>, so as to target the sequences to individual quirks - spine and postural issues (spondylitis, scoliosis, hyperlordosis, etc), joint issues (arthritis, chronic knee pain) - and provide <strong>solutions around your lifestyle</strong> (eg. how to keep a healthy posture if you sit in an office chair 8h+ a day).</p>
+
+				<p>The morning and evening sessions will be in our custom <strong>yoga fusion</strong> style: an exclusive mix of <em>asana</em> with multiple alternatives, postural gymnastics, tai chi, Tibetan rhythms, breathing techniques (<em>pranayama</em>, ki-kou, sufi, etc), pilates, relaxation techniques and <em>meditation</em>. Phew! We just said all that on one breath!</p>
 
 				<figure class="m-accordion-image right">
-					<img src="/assets/images/retreat/course.jpg">
+					<img src="/assets/images/retreats/2016-september-morocco/massage.jpg">
 				</figure>
 
-				<p>It will also provide an introduction to breathing techniques (pranayama), relaxation techniques, meditation, diet and especially - the experience and knowledge to personalise your own yoga practice for years to come. Last but not least you have the chance to explore the unique nature around the place, through bushwalks, canoeing, kayaking and more.</p>
+				<p>Moreover, our wonderful host Khalid will take you on silent (and non-silent) walking meditations across the national park.</p>
+
+				<p>We have put together some awesome jaw-drop themed days for you:</p>
+
+				<ul class="list-bullets">
+					<li>the spa & pampering day: which doesn’t mean there will be no pampering during the other days, just so you know,</li>
+					<li>the cultural full-immersion day: visit to the Berber market (a little bit of frenzy in the middle of absolute tranquility, just so you don’t forget what it’s like), the organic Argan oil women’s cooperative, and an antique traditional foods workshop,</li>
+					<li>the big hiking adventure day: that’s when you’ll find out why from Scorsese to Ridley Scott to Iñárritu, so many great directors have chosen to film here (forget Casablanca, that’s not where it’s at)</li>
+					<li>and more! (You don’t want us to ruin all surprises from the jump, do you?)</li>
+				</ul>
+
+				<figure class="m-accordion-image ">
+					<img src="/assets/images/retreats/2016-september-morocco/kitchen.jpg">
+				</figure>
+
+				<p><strong>We are ready to rock your world</strong> and provide you with the experience and knowledge to personalise your own yoga practice for years to come, but also with some sheer joy of living and a different kind of break from your usual routine.</p>
+
+				<p>Of course if during any day - or more days - you want to just have your own space, feel free by all means to take it! The estate offers lots of privacy and you are welcome to go on adventures on your own: it’s very safe and you’re only likely to meet goats that climb on trees! (yeah, that’s what they do here, these are goats 2.0!)</p>
 			</li>
 			<li id="jumpTo-schedule">
 				<h3 class="m-accordion-contentTitle">Schedule</h3>
 
-				<p>Beginners will be offered a wonderful (re)introduction to the practice of yoga and the more advanced will have a chance to revisit and enrich their practice with perhaps a(n) new/alternate vision. <strong>Individual attention and options customised in the classroom environment</strong> will ensure you enjoy a safe yet challenging experience.</p>
+				<p>Beginners will be offered a (re)introduction to the practice of yoga and the more advanced will have a chance to revisit and enrich their practice with perhaps a(n) new/alternate vision. Individual attention and <strong>options customised in the classroom environment</strong> will ensure you enjoy a safe yet challenging experience.</p>
 
 				<ul class="m-schedule">
-					<li><span class="m-schedule-time">06:30</span> Suggested wakeup time</li>
+					<li><span class="m-schedule-time">06:30</span> Suggested wakeup time (please don't cry, the best energising lemonade is waiting for you!) </li>
 					<li><span class="m-schedule-time">07:00</span> Pranayama (15 min)</li>
-					<li><span class="m-schedule-time">07:15</span> Dynamic Vinyasa Flow (60 min)</li>
-					<li><span class="m-schedule-time">08:30</span> Breakfast</li>
-					<li><span class="m-schedule-time">09:30</span> Free time / other activities *</li>
+					<li><span class="m-schedule-time">07:15</span> Dynamic Yoga Fusion Flow (60 min)</li>
+					<li><span class="m-schedule-time">08:30</span> Berber breakfast</li>
+					<li><span class="m-schedule-time">09:30</span> Awesome activities / Free time *</li>
 					<li><span class="m-schedule-time">13:30</span> Lunch</li>
-					<li><span class="m-schedule-time">14:30</span> Free time </li>
-					<li><span class="m-schedule-time">15:30</span> Raw Vegan Cuisine Workshop by Karen (optional - 45 min)</li>
-					<li><span class="m-schedule-time">16:15</span> Free time / other activities *</li>
-					<li><span class="m-schedule-time">18:15</span> Evening Hatha or Yin (60 min) </li>
+					<li><span class="m-schedule-time">14:30</span> More awesome activities </li>
+					<li><span class="m-schedule-time">15:30</span> Walking meditation through the groves & Moroccan mint tea (you'll become addicted, it's guaranteed)</li>
+					<li><span class="m-schedule-time">16:30</span> Free time / other activities *</li>
+					<li><span class="m-schedule-time">18:15</span> Evening Slow Flow (60 min)</li>
 					<li><span class="m-schedule-time">19:15</span> Yogic Meditation (15-25 min)</li>
 					<li><span class="m-schedule-time">19:40</span> Dinner</li>
-					<li class="u-text-center">* You can schedule your one-on-one session for individual coaching during these intervals. One session per person during the retreat is included. These sessions are optional but recommended.</li>
 				</ul>
 
 				<p>This schedule is just indicative and may be subject to change.</p>
@@ -173,21 +201,30 @@ cover-image: retreatMorocco
 			<li id="jumpTo-faqs">
 				<h3 class="m-accordion-contentTitle">FAQs</h3>
 
-				<ul class="m-faqs margin-top-0">
-					<li class="m-faqs-question">Are activities included in the yoga retreat?</li>
-					<li class="m-faqs-answer">Activities are paid separate, this way you can choose the ones you prefer. Once you arrive, we'll reserve your favorite activities for you.</li>
+				<ul class="m-faqs margin-top-sm">
+					<li class="m-faqs-question">“Oh my gosh! Are you serious about all activities being included in the yoga retreat?”</li>
+					<li class="m-faqs-answer">Well, uhm, …yeah? We want to go beyond the usual and offer a true experience of Morocco, and also create the awesomest retreat there ever was.</li>
 
-					<li class="m-faqs-question">How can I get to the yoga retreat?</li>
-					<li class="m-faqs-answer">The best option is to rent a car from the airport for your entire stay. It´s cheaper than a taxi and that way you can enjoy the freedom of transportation every day on the retreat.</li>
+					<li class="m-faqs-question">“What if I want more?/What if I want it different?” </li>
+					<li class="m-faqs-answer">Some of the adventures come with option A and option B.  We are confident there will be something you will like on offer.</li>
 
-					<li class="m-faqs-question">I need a special diet, can you provide it?</li>
-					<li class="m-faqs-answer">Of course! As long as you let us know before your arrival, we can prepare the diet you need. For example, if you are gluten intolerant, vegan, or have any other special diet needs.</li>
+					<li class="m-faqs-question">“How can I get to this awesome yoga retreat of yours?”</li>
+					<li class="m-faqs-answer">We will sync with all participants so we can pick everyone up on a smooth minibus ride from Marrakesh to the National Park. There is NO extra cost involved. Unless you really want to catch a cab and pay for it just because. In the end we can’t argue with that.</li>
 
-					<li class="m-faqs-question">Are cancellations allowed?</li>
-					<li class="m-faqs-answer">You can cancel your reservation up to 60 days before the retreat. If you cancel after the allotted time period you'll lose the deposit or you can transfer it to another guest.</li>
+					<li class="m-faqs-question">“Too bad. I’m flying from New Zealand and the only reasonably affordable combo of flights is getting me to Casablanca.”</li>
+					<li class="m-faqs-answer">Just have a chat with us before organising your flight. We are very resourceful at finding the best options for international transfers. We are itinerant yoga teachers for a reason! Or if you’ve already bought your flight, we can organise a ride from Casablanca for you (it might take over 3.5 hours though) or you can book a cheap national flight from Casablanca to Marrakesh.</li>
 
-					<li class="m-faqs-question">What should I bring?</li>
-					<li class="m-faqs-answer">Bring comfortable clothing for practicing yoga, a swimsuit, beach towel, sunscreen, and your yoga mat (although we'll provide one if you don't have).</li>
+					<li class="m-faqs-question">“I am special therefore I need a special diet, can you provide it?”</li>
+					<li class="m-faqs-answer">Of course! As long as you let us know before your arrival, so we can prepare for the diet you need. Whether you’re gluten intolerant, vegan, or both we will still find a way to feed you. Oh, there’s kosher goat milk available in the area. No, really.</li>
+
+					<li class="m-faqs-question">“I tend to change my mind a lot. Also my boss does - when we talk holiday times… Are cancellations allowed?”</li>
+					<li class="m-faqs-answer">You can cancel your reservation up to 40 days before the retreat. If you cancel after the allotted time period you'll lose the deposit, unless you transfer it to another guest, or choose another retreat from those we have on offer. (We do, we do… just wait.)</li>
+
+					<li class="m-faqs-question">“What should I bring?”</li>
+					<li class="m-faqs-answer">Bring comfortable clothing, a swimsuit, a beach towel, sunscreen, and good trekking shoes. You can also bring your yoga mat, but only if you’re very committed to your own and think you might absorb someone else’s unwanted energy from ours.</li>
+
+					<li class="m-faqs-question">“Can I bring my dog/cat/rhino?”</li>
+					<li class="m-faqs-answer">The resort is animal friendly, and there is a special area for animals. However you are fully responsible for your animal and for the damage it creates. Be mindful of how a destructive animal might inconvenience your fellow participants.</li>
 				</ul>
 			</li>
 		</ul>
@@ -209,6 +246,8 @@ cover-image: retreatMorocco
 
 	<p>Despite exposing herself to many styles along the years (Yin, Iyengar, Ashtanga Vinyasa, a.s.o) for Rua the one size fits all approach won’t do. “Adapting yoga to suit the needs of every unique individual is where the true greatness of yoga lies” as TKV Desikachar had put it, and it’s how her classes inevitably develop.</p>
 
+	<p>She can’t get into lotus for the life of her.</p>
+
 	<h3>Karen</h3>
 
 	<figure class="u-pull-right image-small">
@@ -221,25 +260,27 @@ cover-image: retreatMorocco
 
 	<p>Today her biggest passion is to share the gift of yoga, linking Breath and Movement with Intention. She sees yoga as a way of life — something to practice both on and off the mat. She also loves to share her delicious smoothie and raw vegan cake recipes to infuse more energy and fun into the after practice.</p>
 
-	<p>Karen will lead Vinyasa flow and Rua will lead most Hatha and Yin, however both will be present to all classes for your extra support and assistance.</p>
+	<p>Karen will lead morning classes (she’s a very-very-early morning person) and Rua will lead most late afternoon classes (Rua is not a morning person, her spirit animal is the sloth), however both might be present in class for your extra support and assistance.</p>
 </section>
 
 <section id="jumpTo-philosophy">
 	<h3>Our Philosophy</h3>
 
-	<p>Whether doing yoga asana or other types of physical exercise, or even only sitting, postural alignment is crucial, a lot of issues originate in it, so a lot of focus will be placed on it during our classes. Yoga is however not just asana, therefore our retreat will provide an overview of all the 8 limbs of yoga.</p>
+	<p><em>(Ok, here comes our chance to say something incredibly clever to truly impress)</em></p>
 
-	<img class="m-doubleExposure" src="/assets/images/retreat/double-exposure.jpg">
+	<p>Yoga is not just asana, and holidays aren’t just Paris?</p>
+
+	<img class="m-doubleExposure" src="/assets/images/retreats/double-exposure.jpg">
 
 	<h3 class="u-text-right">What makes us unique?</h3>
 
 	<ul class="u-pull-right list-bullets">
-		<li>You’ll get to dip a toe or two into Hatha, Vinyasa, Yin and Iyengar yoga, as well as Pranayama and various Meditation techniques.</li>
-		<li>Small groups of up to 16 people and two teachers present, to keep it intimate and ensure you get lots of individual attention and support.</li> 
-		<li>3 vegetarian meals/day, made from local Mediterranean ingredients, are always a win.</li>
-		<li>You can opt for an additional individual yoga session outside of the group session times, to help construct your ideal, personalised practice or...</li>
-		<li>..you can just hike in the mountains, exploring this unbelievable habitat, swim in the pool, play tennis, ride on horseback.</li>
-		<li>Yoga Ruka commits to donate a <strong>minimum of 10% of the profit</strong> from their retreats to support environment, education and environmental education.</li>
+		<li>You’ll get to dip a toe or two into so many styles of yoga</li>
+		<li>Small groups of up to 16 people and two teachers present, to keep it intimate and ensure you get lots of individual attention and support</li>
+		<li>3 vegetarian meals/day, made from local organic ingredients under the principles of a Mediterranean diet, are always a win</li>
+		<li>The individual assessment will help you construct your ideal, personalised practice</li>
+		<li>Lots and lots to do with us and by yourself: You can just hike in the mountains, exploring this unbelievable habitat, swim in the pool, bla in the bla</li>
+		<li>Yoga Ruka commits to donate a <strong>minimum of 10% of the profit</strong> from their retreats to support environment, education and environmental education</li>
 	</ul>
 </section>
 
@@ -290,13 +331,13 @@ cover-image: retreatMorocco
 		</div>
 	</div>
 
-	<p class="center">From griffon vulture colonies to hundreds of endemic Mediterranean plant species such as the rare Spanish fir, relic of the Tertiary geological era, the Sierra de Grazalema's fragile ecosystem needs our protection.</p>
+	<p class="center">YogaRuka commit to donate a <strong>minimum 10% of their profits</strong> to support the nature and the local communities in the Atlas area.</p>
 	
-	<p class="center">This is why Ruka Yoga commit to <strong>donate a minimum 10% of their profits</strong> to support projects such as the protection of this incredible natural reserve through O-Live Environmental Association, but also the education of disadvantaged children in India through organisations such as Make a difference or Nanhi Kali.</p>
+	<!-- {% include retreat-form-2016-september-morocco.html %} -->
 
-	{% include retreat-form-2016-may-spain.html %}
+	{% include expression-of-interest.html %}
 
-	<p class="center">By purchasing this deposit, you accept and agree to our <a href="terms/" target="_blank">terms and conditions</a>. Don't worry, they're not scary!</p>
+	<!-- <p class="center">By purchasing this deposit, you accept and agree to our <a href="terms/" target="_blank">terms and conditions</a>. Don't worry, they're not scary!</p> -->
 
 	<div class="row">
 		<div class="col-sm-push-2 col-sm-8 col-md-push-3 col-md-6">
