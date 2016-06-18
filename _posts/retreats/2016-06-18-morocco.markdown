@@ -6,7 +6,7 @@ categories:
 
 title: "Reclaim Yourself — Nature Wellness Retreat"
 location: 'Marrakech, Morocco'
-dates: '24<span class="superscript">th</span> - 30<span class="superscript">th</span> September 2016</h6>'
+dates: '24<span class="superscript">th</span> - 30<span class="superscript">th</span> September 2016'
 
 permalink: /retreats/reclaim-yourself-marrakech-september-2016/
 cover-image: retreatMorocco
