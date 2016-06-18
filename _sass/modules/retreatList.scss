@@ -1,0 +1,49 @@
+.m-retreatList {
+	list-style: none;
+	max-width: none;
+}
+.m-retreatList-link {
+	display: block;
+	position: relative;
+	padding: $rhythm / 2;
+	@include noSelect();
+	cursor: pointer;
+	background: black !important;
+	color: white !important;
+	text-shadow: 0 1px 1px rgba(black,0.1), 2px 0 20px rgba(black,0.3);
+	z-index: 1;
+	&:after {
+		content: "";
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		z-index: -1;
+		background-size: cover;
+		background-position: center;
+		opacity: 0.9;
+	}
+}
+.m-retreatList-title {
+	font-size: 1.66rem;
+	font-style: italic;
+	margin-top: 0.25em;
+}
+.m-retreatList-info {
+	font-size: 14px;
+	font-family: $font-sans;
+}
+
+@media (min-width: 768px) {
+	.m-retreatList-info {
+		font-size: 16px;
+	}
+}
+
+@media (min-width: 1024px) {
+	.m-retreatList-title {
+		font-size: 2.5rem;
+	}
+
+}

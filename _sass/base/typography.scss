@@ -40,6 +40,7 @@ h2,
 }
 h3,
 .h3 {
+	color: inherit;
 	font-size: 1.66rem;
 	font-weight: 500;
 	line-height: $line-height-header;
@@ -47,12 +48,15 @@ h3,
 }
 h4,
 .h4 {
+	color: inherit;
 	font-size: 1.33rem;
 	font-weight: 500;
 	line-height: $line-height-header;
 	text-align: left;
 }
-h5 {
+h5,
+.h5 {
+	color: inherit;
 	font-family: $font-sans;
 	font-size: 1.33rem;
 	font-weight: 400;
@@ -60,7 +64,9 @@ h5 {
 	-webkit-font-smoothing: subpixel-antialiased;
 	-moz-osx-font-smoothing: auto;
 }
-h6 {
+h6,
+.h6 {
+	color: inherit;
 	font-size: 1rem;
 	font-weight: 400;
 	text-align: center;
