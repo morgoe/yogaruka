@@ -331,6 +331,18 @@ cover-image: retreatMorocco
 		</div>
 	</div>
 
+	<div class="row">
+		<div class="col-sm-push-2 col-sm-8 col-md-push-3 col-md-6">
+			<h3>Not included:</h3>
+			<ul class="m-prices-includedList margin-top-xs">
+				<li>
+					<img src="/assets/icons/minus.svg">
+					flights to Morocco
+				</li>
+			</ul>
+		</div>
+	</div>
+
 	<p class="center">YogaRuka commit to donate a minimum 10% of their profits to support the nature and the local communities in the Atlas area.</p>
 	
 	{% include retreat-form-2016-september-morocco.html %}
@@ -340,16 +352,4 @@ cover-image: retreatMorocco
 	<p class="center">If you have any questions before you book, please get in touch, and we'll get back to you within 24 hours.</p>
 	
 	{% include retreat-form-questions.html %}
-
-	<div class="row">
-		<div class="col-sm-push-2 col-sm-8 col-md-push-3 col-md-6">
-			<h3>Not included:</h3>
-			<ul class="m-prices-includedList margin-top-xs">
-				<li>
-					<img src="/assets/icons/minus.svg">
-					Flights
-				</li>
-			</ul>
-		</div>
-	</div>
 </section>
