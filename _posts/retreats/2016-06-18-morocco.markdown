@@ -54,7 +54,7 @@ cover-image: retreatMorocco
 	<div class="m-hero-text u-text-antialiase">
 		<h6>{{ page.dates }}</h6>
 		<h1>Reclaim Yourself</h1>
-		<h3>Nature Wellness Retreat near Marrakech</h3>
+		<h3>Nature Wellness Retreat in Marrakech</h3>
 	</div>
 
 	<div class="m-hero-photo {% if page.cover-image %}coverImage-{{ page.cover-image }}{% endif %}"></div>
@@ -331,11 +331,15 @@ cover-image: retreatMorocco
 		</div>
 	</div>
 
-	<p class="center">YogaRuka commit to donate a <strong>minimum 10% of their profits</strong> to support the nature and the local communities in the Atlas area.</p>
+	<p class="center">YogaRuka commit to donate a minimum 10% of their profits to support the nature and the local communities in the Atlas area.</p>
 	
-	{% include expression-of-interest.html %}
+	{% include retreat-form-2016-september-morocco.html %}
 
-	<!-- <p class="center">By purchasing this deposit, you accept and agree to our <a href="terms/" target="_blank">terms and conditions</a>. Don't worry, they're not scary!</p> -->
+	<p class="center">By purchasing this deposit, you accept and agree to our <a href="terms/" target="_blank">terms and conditions</a>. Don't worry, they're not scary!</p>
+
+	<p class="center">If you have any questions before you book, please get in touch, and we'll get back to you within 24 hours.</p>
+	
+	{% include retreat-form-questions.html %}
 
 	<div class="row">
 		<div class="col-sm-push-2 col-sm-8 col-md-push-3 col-md-6">
@@ -344,14 +348,6 @@ cover-image: retreatMorocco
 				<li>
 					<img src="/assets/icons/minus.svg">
 					Flights
-				</li>
-				<li>
-					<img src="/assets/icons/minus.svg">
-					Airport transfer
-				</li>
-				<li>
-					<img src="/assets/icons/minus.svg">
-					Gratuities
 				</li>
 			</ul>
 		</div>

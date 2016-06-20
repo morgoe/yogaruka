@@ -12,7 +12,7 @@
 .m-prices {
 	color: $blue-45;
 	font-size: 17px;
-	display: table;
+	max-width: 32rem;
 	margin-left: auto;
 	margin-right: auto;
 	padding: $rhythm / 2;
@@ -56,16 +56,13 @@
 		background: $yellow;
 	}
 }
-.m-prices-priceName {
-	display: inline-block;
-	width: 210px;
-	text-align: right;
+.m-prices-priceName,
+.m-prices-priceValue {
+	display: block;
+	text-align: center;
 }
 .m-prices-priceValue {
-	display: inline-block;
 	margin-top: 0;
-	width: 50px;
-	padding-left: 5px;
 	strong {
 		-webkit-font-smoothing: subpixel-antialiased;
 		-moz-osx-font-smoothing: auto;
@@ -95,6 +92,25 @@
 	}
 }
 
+@media (min-width: 568px) {
+
+	.m-prices-price {
+		@include clearfix();
+	}
+	.m-prices-priceName,
+	.m-prices-priceValue {
+		float: left;
+	}
+	.m-prices-priceName {
+		width: 60%;
+		text-align: right;
+	}
+	.m-prices-priceValue {
+		width: 40%;
+		text-align: left;
+		padding-left: 5px;
+	}
+}
 @media (min-width: 768px) {
 	.m-prices-includedList img {
 		top: 2px;
@@ -108,10 +124,8 @@
 	.m-prices-date {
 		font-size: 13px;
 	}
-	.m-prices-priceName {
-		width: 230px;
-	}
+	.m-prices-priceName,
 	.m-prices-priceValue {
-		width: 130px;
+		width: 50%;
 	}
 }
