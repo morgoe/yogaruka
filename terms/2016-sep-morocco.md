@@ -10,7 +10,7 @@ Please read carefully the terms and conditions between you and YogaRuka for all 
 
 #### 1. Booking
 
-(A) The initial deposit is £180. A 4% PayPal processing fee will be added before payment, to the total of £187.2.
+(A) The initial deposit is £180. A 4% PayPal processing fee will be added before payment, to the total of £187.5.
 
 (B) Your payment is refundable up to 40 days before the start date of yoga retreat. After that date the retreat can be transferred to different retreat or another person according to our availability and discretion. Refunds of payments are charged at £50 as a cancellation fee. Cancellation charges are detailed in section 7.
 

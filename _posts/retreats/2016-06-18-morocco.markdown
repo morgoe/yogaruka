@@ -61,7 +61,7 @@ cover-image: retreatMorocco
 </section>
 
 <section>
-	<h2>Holy Moly If this isn’t a Yoga retreat!</h2>
+	<h2>Atlas can carry the heavens on his shoulders, you can restore your lightness!  </h2>
 
 	<div class="row">
 		<div class="col-sm-5 col-md-6 col-lg-7">
@@ -71,9 +71,17 @@ cover-image: retreatMorocco
 		</div>
 		<div class="col-sm-7 col-md-6 col-lg-5">
 			<blockquote class="right">
-				<p>Let us take you to a <strong>magical place in the heart of the Ourika Valley</strong> - an exclusive eco-retreat an hour out of Marrakesh into the Atlas Mountains. Old Greek legends say Atlas was the rebel Titan that Zeus punished, turning his body into rock to hold the heavens on his shoulders. (You'd never heard of that? Oh let our geeky yoga teacher tell you all about it, if you can bear it)</p>
+				<p>Let us take you to a <strong>magical place in the heart of the Ourika Valley</strong> - an exclusive eco-retreat an hour out of Marrakesh into the Atlas Mountains. Old Greek legends say Atlas was the rebel Titan that Zeus punished, turning his body into rock to hold the heavens on his shoulders. (You'd never heard of that? Oh let our geeky yoga teacher tell you all about it)</p>
 
-				<p>Join us this end of September for a week that will change you forever: take your yoga practice to the next level, with a <strong>new approach on postural dynamics</strong>, explore through walking meditations the marvels of the National Park of Toubkal (did you know Martin Scorsese’s Kundun was filmed in one of the nearby historical kasbahs?), discover the <strong>best local organic dishes</strong>, experience a real Berber Hammam, massages, and so much more.</p>
+				<p>Join us this end of September for a week that will change you forever: </p>
+
+				<ul class="list-bullets">
+					<li>a more integrative kind of yoga with a <strong>new approach on postural dynamics</strong>, to get your stature, self-confidence and lightness back,</li>
+					<li><strong>walking meditations</strong> the marvels of the National Park of Toubkal (did you know Martin Scorsese’s Kundun was filmed here?), to regain your breath and inner peace,</li>
+					<li>the best local organic dishes, to remember you can have taste and health combined,</li>
+					<li>a real Berber Hammam, <strong>organic Argan oil massages</strong>, so much pampering you’ll finally understand you do deserve it,</li>
+					<li>like-minded people in a non judgemental, joyful and cooperative environment, that will turn into lifelong friendships.</li>
+				</ul>
 			</blockquote>
 		</div>
 	</div>
@@ -89,24 +97,28 @@ cover-image: retreatMorocco
 
 				<p>The estate is about 50 kilometres from Marrakesh, the most important - and fascinating - of Morocco's historical imperial cities, at the heart of the Ourika Valley, in the High Atlas mountain range. It expands in the midst of olive tree groves over the hills, by a crystalline stream.</p>
 
-				<p>Featured in National Geographic Traveler this May, and in the January 2015 issue of the yoga magazine <a href="http://www.happinez.com/">Happinez</a>, the eco-lodge is the dream come reality of the Moroccan-Dutch entrepreneur Khalid Boukhima. This lovely kasbah offers single, double and triple occupancy rooms, all with complete, private bathrooms.</p>
-
 				<figure class="m-accordion-image right">
 					<img src="/assets/images/retreats/2016-september-morocco/pool.jpg">
 				</figure>
 
-				<p>Don’t let yourself be fooled: the unassuming quality of these spaces is not accidental, rather meant to enhance the experience of the overwhelming surroundings.</p>
+				<p>Featured in National Geographic Traveler this May, and in the January 2015 issue of the yoga magazine <a href="http://www.happinez.com/">Happinez</a>, the eco-lodge is the dream come reality of the Moroccan-Dutch entrepreneur Khalid Boukhima. This lovely kasbah offers single, double and triple occupancy rooms, all with complete, private bathrooms.</p>
 
-				<p>There is a spacious yoga shala donned with eco-mats, a breathtaking sun-bathed terrace overlooking the National Park and several kiosks for yoga outdoors or your 5 (and 6, and 7) o’clock tea, a <strong>private pool</strong>, a wooden swing and <strong>hammocks</strong> to read or rest by the river and listen to the multitude of different birdsongs. Here start uncountable hiking routes through this sector of the Atlas mountains.</p>
+				<p>You'll find:</p>
 
-				<p>Nothing compares to this peace, we vouch for it!</p>
+				<ul class="list-bullets">
+					<li>a spacious yoga shala donned with eco-mats,</li>
+					<li>a sun-bathed terrace overlooking the breathtaking National Park</li>
+					<li>several kiosks for yoga outdoors or your 5 (and 6, and 7) o’clock tea,</li>
+					<li>a private pool,</li>
+					<li>a wooden swing and hammocks to read or rest by the river and listen to the multitude of different birdsongs. Here start uncountable hiking routes through this sector of the Atlas mountains.</li>
+				</ul>
 			</li>
 			<li id="jumpTo-location">
 				<h3 class="m-accordion-contentTitle">Location</h3>
 
 				<p>The retreat is located in the National Park of Toubkal, Morocco. This is about an hour from the Marrakesh airport or 1h 15 mins from Marrakesh medina (old city).</p>
 
-				<p>Marrakesh Menara International Airport is served by many standard and low cost companies, with <strong>hundreds of daily direct flights</strong> from the whole of Europe, and some Arabic countries. We are here to help you find the best traveling option so please don’t hesitate to ask.</p>
+				<p>Marrakesh Menara International Airport is served by many standard and low cost companies (from Air Berlin to Ryanair to Vueling) with <strong>hundreds of daily direct flights</strong> from the whole of Europe, and some Arabic countries. We are here to help you find the best traveling option so please don’t hesitate to ask.</p>
 
 				<figure class="m-accordion-image">
 					<img src="/assets/images/retreats/2016-september-morocco/landscape.jpg">
@@ -119,7 +131,7 @@ cover-image: retreatMorocco
 			<li id="jumpTo-rooms">
 				<h3 class="m-accordion-contentTitle">Rooms</h3>
 
-				<p>All spaces are simple, airy and colourful, built and decorated in traditional Berber style.</p>
+				<p>All spaces are simple, airy and colourful, built and decorated in traditional Berber style. Don’t let yourself be fooled: the unassuming quality of these spaces is not accidental, rather meant to enhance the experience of the overwhelming surroundings.</p>
 
 				<figure class="m-accordion-image right">
 					<img src="/assets/images/retreats/2016-september-morocco/outdoor.jpg">
@@ -202,9 +214,6 @@ cover-image: retreatMorocco
 				<h3 class="m-accordion-contentTitle">FAQs</h3>
 
 				<ul class="m-faqs margin-top-sm">
-					<li class="m-faqs-question">“Oh my gosh! Are you serious about all activities being included in the yoga retreat?”</li>
-					<li class="m-faqs-answer">Well, uhm, …yeah? We want to go beyond the usual and offer a true experience of Morocco, and also create the awesomest retreat there ever was.</li>
-
 					<li class="m-faqs-question">“What if I want more?/What if I want it different?” </li>
 					<li class="m-faqs-answer">Some of the adventures come with option A and option B.  We are confident there will be something you will like on offer.</li>
 
@@ -214,8 +223,8 @@ cover-image: retreatMorocco
 					<li class="m-faqs-question">“Too bad. I’m flying from New Zealand and the only reasonably affordable combo of flights is getting me to Casablanca.”</li>
 					<li class="m-faqs-answer">Just have a chat with us before organising your flight. We are very resourceful at finding the best options for international transfers. We are itinerant yoga teachers for a reason! Or if you’ve already bought your flight, we can organise a ride from Casablanca for you (it might take over 3.5 hours though) or you can book a cheap national flight from Casablanca to Marrakesh.</li>
 
-					<li class="m-faqs-question">“I am special therefore I need a special diet, can you provide it?”</li>
-					<li class="m-faqs-answer">Of course! As long as you let us know before your arrival, so we can prepare for the diet you need. Whether you’re gluten intolerant, vegan, or both we will still find a way to feed you. Oh, there’s kosher goat milk available in the area. No, really.</li>
+					<li class="m-faqs-question">“I have special dietary requirements, will this be a problem?”</li>
+					<li class="m-faqs-answer">As long as you let us know before your arrival, so we can prepare for the diet you need. Whether you’re gluten intolerant, vegan, or have food allergies, we’ll still find a way to feed you. Oh, there’s kosher goat milk available in the area. No, really. </li>
 
 					<li class="m-faqs-question">“I tend to change my mind a lot. Also my boss does - when we talk holiday times… Are cancellations allowed?”</li>
 					<li class="m-faqs-answer">You can cancel your reservation up to 40 days before the retreat. If you cancel after the allotted time period you'll lose the deposit, unless you transfer it to another guest, or choose another retreat from those we have on offer. (We do, we do… just wait.)</li>
@@ -275,9 +284,9 @@ cover-image: retreatMorocco
 	<h3 class="u-text-right">What makes us unique?</h3>
 
 	<ul class="u-pull-right list-bullets">
-		<li>You’ll get to dip a toe or two into so many styles of yoga</li>
+		<li>You’ll get to dip a toe or two into so many styles of yoga (and find what works for you)</li>
 		<li>Small groups of up to 16 people and two teachers present, to keep it intimate and ensure you get lots of individual attention and support</li>
-		<li>3 vegetarian meals/day, made from local organic ingredients under the principles of a Mediterranean diet, are always a win</li>
+		<li>3 vegetarian meals/day, made from local organic ingredients under the principles of a Mediterranean diet (to provide you with energy and maximise the benefits of your training)</li>
 		<li>The individual assessment will help you construct your ideal, personalised practice</li>
 		<li>Lots and lots to do with us and by yourself: You can just hike in the mountains, exploring this unbelievable habitat, swim in the pool, bla in the bla</li>
 		<li>Yoga Ruka commits to donate a <strong>minimum of 10% of the profit</strong> from their retreats to support environment, education and environmental education</li>
@@ -293,11 +302,11 @@ cover-image: retreatMorocco
 			<ul class="m-prices-includedList margin-top-xs">
 				<li>
 					<img src="/assets/icons/check.svg">
-					6 nights accommodation in an eco-kasbah
+					6 nights accommodation in an eco-kasbah with staff providing the warm hospitality Morrocans are renowned for
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
-					3 vegetarian meals / day, all <strong>locally-sourced & organic</strong>
+					3 local organic vegetarian meals / day, based on Ayurvedic principles, with people you won't forget for as long as you live
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
@@ -309,7 +318,7 @@ cover-image: retreatMorocco
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
-					silent walking meditation in the National Park
+					silent walking meditation in the National Park allowing you time for inner reflection
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
@@ -321,7 +330,7 @@ cover-image: retreatMorocco
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
-					<strong>2 Ayurvedic massages</strong>: full body & foot/reflexology 
+					<strong>2 Ayurvedic massages</strong> to knead the stress from your muscles and sweep away the concerns of the day.
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
