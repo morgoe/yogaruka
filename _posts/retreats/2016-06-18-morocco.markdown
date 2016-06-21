@@ -76,9 +76,10 @@ cover-image: retreatMorocco
 				<p>Join us this end of September for a week that will change you forever: </p>
 
 				<ul class="list-bullets">
-					<li>a more integrative kind of yoga with a <strong>new approach on postural dynamics</strong>, to get your stature, self-confidence and lightness back,</li>
-					<li><strong>walking meditations</strong> in the marvels of the National Park of Toubkal (did you know Martin Scorsese’s Kundun was filmed here?), to regain your breath and inner peace,</li>
+					<li>a more integrative take on yoga with a <strong>new approach on postural dynamics</strong>, to get your stature, self-confidence and lightness back,</li>
+					<li><strong>walking meditations</strong> through the National Park of Toubkal (did you know Martin Scorsese’s Kundun was filmed here?), to regain your breath and inner peace,</li>
 					<li>the best local organic dishes, to remember you can have taste and health combined,</li>
+					<li>the best starry nights you’ve ever seen, by far,</li>
 					<li>a real Berber Hammam, <strong>organic Argan oil massages</strong>, so much pampering you’ll finally understand you do deserve it,</li>
 					<li>like-minded people in a non judgemental, joyful and cooperative environment, that will turn into lifelong friendships.</li>
 				</ul>
@@ -184,7 +185,7 @@ cover-image: retreatMorocco
 					<img src="/assets/images/retreats/2016-september-morocco/kitchen.jpg">
 				</figure>
 
-				<p><strong>We are ready to rock your world</strong> and provide you with the experience and knowledge to personalise your own yoga practice for years to come, but also with some sheer joy of living and a different kind of break from your usual routine.</p>
+				<p><strong>We are ready to rock your world</strong> by giving you challenging asana that won’t break you, access to a well of untouched nature, sheer joy of living and the arms to disconnect with a busy, agitated mind.</p>
 
 				<p>Of course if during any day - or more days - you want to just have your own space, feel free by all means to take it! The estate offers lots of privacy and you are welcome to go on adventures on your own: it’s very safe and you’re only likely to meet goats that climb on trees! (yeah, that’s what they do here, these are goats 2.0!)</p>
 			</li>
@@ -284,8 +285,8 @@ cover-image: retreatMorocco
 	<h3 class="u-text-right">What makes us unique?</h3>
 
 	<ul class="u-pull-right list-bullets">
-		<li>You’ll get to dip a toe or two into so many styles of yoga (and find what works for you)</li>
-		<li>Small groups of up to 16 people and two teachers present, to keep it intimate and ensure you get lots of individual attention and support</li>
+		<li>You’ll get to dip a toe or two into so many styles of yoga (and filter what works for you)</li>
+		<li>Small groups of up to 12 people and two teachers present, to keep it intimate and ensure you get lots of individual attention and support</li>
 		<li>3 vegetarian meals/day, made from local organic ingredients under the principles of a Mediterranean diet (to provide you with energy and maximise the benefits of your training)</li>
 		<li>The individual assessment will help you construct your ideal, personalised practice</li>
 		<li>Lots and lots to do with us and by yourself: You can just hike in the mountains, exploring this unbelievable habitat, swim in the pool, bla in the bla</li>
@@ -322,7 +323,7 @@ cover-image: retreatMorocco
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
-					a <strong>traditional Hammam</strong> bath, scrub & body mask treatment
+					a <strong>traditional Hammam</strong> bath, scrub & body mask treatment to clean you to the bottom of your souls (or pores, at least) 
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
