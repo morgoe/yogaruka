@@ -80,6 +80,12 @@ $('.js-jumpTo').click(function(e) {
 toggleScrollspyVisibility();
 
 
+/* Click on "Pay" button */
+$('.js-buyRetreat').click(function() {
+	ga('send', 'event', 'engagement', 'click-retreat-buy-button', $(this).attr('data-retreat'));
+});	
+
+
 /* Instant Click */
 // InstantClick.init();
 
