@@ -40,9 +40,8 @@
 	background: white;
 	text-align: center;
 	margin-top: 0;
+	font-family: $font-sans;
 	font-size: $font-size-sm;
-	-webkit-font-smoothing: subpixel-antialiased;
-	-moz-osx-font-smoothing: auto;
 }
 
 @media (min-width: 768px) {

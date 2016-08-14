@@ -1,5 +1,6 @@
 button,
-input[type="button"] {
+input[type="button"],
+input[type="submit"] {
 	color: $blue-45;
 	font-size: 14px;
 	font-family: $font-mono;

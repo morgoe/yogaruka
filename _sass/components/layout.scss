@@ -12,10 +12,13 @@ body + * {
 	margin-top: 0;
 }
 .margin-top-xl {
-	margin-top: $line_height * 3em;
+	margin-top: $line_height * 3em !important;
 }
 .margin-top-lg {
-	margin-top: $line_height * 2em;
+	margin-top: $line_height * 2em !important;
+}
+.margin-top-md {
+	margin-top: $line_height * 1em !important;
 }
 .margin-top-sm {
 	margin-top: $line_height / 2 * 1em !important;
@@ -26,17 +29,32 @@ body + * {
 .margin-top-0 {
 	margin-top: 0 !important;
 }
+.margin-left-xl {
+	margin-left: $line_height * 3em !important;
+}
+.margin-left-lg {
+	margin-left: $line_height * 2em !important;
+}
+.margin-left-md {
+	margin-left: $line_height * 1em !important;
+}
+.margin-left-sm {
+	margin-left: $line_height / 2 * 1em !important;
+}
+.margin-left-xs {
+	margin-left: $line_height / 4 * 1em !important;
+}
 .margin-left-0 {
 	margin-left: 0 !important;
 }
 .margin-bottom-xl {
-	margin-bottom: $line_height * 3em;
+	margin-bottom: $line_height * 3em !important;
 }
 .margin-bottom-lg {
-	margin-bottom: $line_height * 2em;
+	margin-bottom: $line_height * 2em !important;
 }
 .margin-bottom-md {
-	margin-bottom: $line_height * 1em;
+	margin-bottom: $line_height * 1em !important;
 }
 .margin-bottom-sm {
 	margin-bottom: $line_height / 2 * 1em !important;

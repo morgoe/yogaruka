@@ -38,10 +38,9 @@
 	text-indent: -9999px;
 	background: url('/assets/images/logo.svg');
 	background-size: cover;
-	width: 200px;
-	height: 200px;
+	width: 128px;
+	height: 128px;
 }
-
 .m-home-nav {
 	text-align: center;
 }
@@ -52,9 +51,7 @@
 	font-size: 1.33rem;
 	text-decoration: none;
 	vertical-align: top;
-	+ .m-home-link {
-		margin-top: $rhythm;
-	}
+	margin-bottom: $rhythm;
 	&,
 	.no-touch &:focus,
 	.no-touch &:hover,
@@ -69,12 +66,23 @@
 	img {
 		width: 1em;
 	}
+	&.is-social {
+		display: inline-block;
+		margin: 0 $rhythm / 2;
+	}
 }
 
 @media (min-width: 768px) {
 	#home .border-container {
 		width: calc(100% - 3rem);
 		height: calc(100% - 3rem);
+	}
+	.m-home-logo {
+		width: 192px;
+		height: 192px;
+	}
+	.m-home-nav {
+		margin-top: $rhythm * 2;
 	}
 }
 @media (min-width: 1024px) {
@@ -94,16 +102,25 @@
 
 	.m-home-nav {
 		position: absolute;
-		bottom: $rhythm;
+		left: $rhythm;
 		right: $rhythm;
+		bottom: $rhythm;
+		text-align: left;
 	}
 	.m-home-link {
 		display: inline-block;
 		border-bottom: 2px solid transparent;
+		margin: 0;
 		.no-touch &:focus,
 		.no-touch &:hover,
 		.touch &:active {
 			border-color: initial;
+		}
+		&.is-social {
+			margin: 0;
+			position: relative;
+			top: 4px;
+			float: right;
 		}
 		+ .m-home-link {
 			margin-top: 0;

@@ -4,12 +4,14 @@ site-nav: retreats
 categories:
 - retreats
 
-title: "Reclaim Yourself — Nature Wellness Retreat"
+title: 'Reclaim Yourself — Nature Wellness Retreat'
 location: 'Marrakech, Morocco'
 dates: '24<span class="superscript">th</span> - 30<span class="superscript">th</span> September 2016'
+description: 'Let us take you to a magical place in the heart of the Ourika Valley - an exclusive eco-retreat an hour out of Marrakesh into the Atlas Mountains. Old Greek legends say Atlas was the rebel Titan that Zeus punished, turning his body into rock to hold the heavens on his shoulders.'
 
 permalink: /retreats/reclaim-yourself-marrakech-september-2016/
 cover-image: retreatMorocco
+image: retreats/2016-september-morocco/thumbnail.jpg
 ---
 
 <header class="m-retreat-header js-jumpTo-wrapper">
@@ -90,7 +92,6 @@ cover-image: retreatMorocco
 
 <section>
 	<h2>General Information</h2>
-
 	<div class="m-accordion">
 		<ul class="m-accordion-content">
 			<li id="jumpTo-setting" class="active">

@@ -51,6 +51,9 @@
 	text-align: right;
 }
 
+.hidden {
+	display: none !important;
+}
 // Display
 @media (max-width: 374px) {
 	.hidden-xs {

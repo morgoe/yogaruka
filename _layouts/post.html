@@ -1,15 +1,23 @@
 ---
 layout: default
+body-class: hero
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+<section class="m-hero">
+	<div class="m-hero-text u-text-antialiase">
+		<h6 class="sans-serif">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</h6>
+		<h1 class="margin-top-0">{{ page.title }}</h1>
+	</div>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+	<div class="m-hero-photo {% if page.cover-image %}coverImage-{{ page.cover-image }}{% endif %}">
+</section>
 
-</div>
+<article class="m-blog-article">
+	{{ content }}
+</article>
+
+{% include newsletter-signup.html %}
+
+<hr class="margin-top-lg">
+
+{% include upcoming-retreats.html %}

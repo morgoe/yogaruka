@@ -1,19 +1,17 @@
 ---
 layout: page
-site-nav: retreats
-title:  "Retreats"
-permalink: /retreats/
+site-nav: blog
+title:  "Blog"
+permalink: /blog/
 ---
 
-{% include upcoming-retreats.html %}
-
-<h2>Past Retreats</h2>
+<h2 class="h5">Recent Blog Posts</h2>
 
 <ul class="m-retreatList margin-top-sm">
-{% for post in site.categories['past-retreats'] %}
+{% for post in site.categories['blog'] %}
 	<li class="m-retreatList-row">
 		<a class="m-retreatList-link {% if post.cover-image %}coverImage-{{ post.cover-image }}-sm{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
-			<p class="m-retreatList-info">{{ post.dates }} in {{ post.location }}</p>
+			<p class="m-retreatList-info">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
 			<h3 class="m-retreatList-title">{{ post.title }}</h3>
 		</a>
 	</li>

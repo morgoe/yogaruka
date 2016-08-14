@@ -1,0 +1,25 @@
+.m-blog-article {
+	.m-review-listItem,
+	p {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.m-review-listItem {
+		max-width: 32rem;
+	}
+	h3,
+	h4 {
+		text-align: center;
+	}
+}
+.m-blog-image {
+	width: 100%;
+	max-width: 480px;
+	float: left;
+	&.right {
+		float: right;
+	}
+	figure {
+		margin-top: 0;
+	}
+}

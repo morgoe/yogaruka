@@ -1,13 +1,36 @@
 	<header class="m-header u-text-antialiase">
-		<a class="m-header-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 		<nav class="m-header-nav">
-			<a class="m-header-link {% if page.site-nav == 'home' %}active{% endif %}" href="/">Home</a>
-			<a class="m-header-link {% if page.site-nav == 'about' %}active{% endif %}" href="/about/">About</a>
-			<a class="m-header-link {% if page.site-nav == 'retreats' %}active{% endif %}" href="/retreats/">Retreats</a>
-			<a class="m-header-link {% if page.site-nav == 'reviews' %}active{% endif %}" href="/reviews/">Reviews</a>
-			<a class="m-header-link {% if page.site-nav == 'contact' %}active{% endif %}" href="/contact/">Contact</a>
-			<a class="m-header-link" href="https://www.facebook.com/yogaruka/">
-				<img src="/assets/icons/facebook.svg">
+			<a class="m-header-link is-logo hidden-xs" href="{{ site.baseurl }}/">
+				<span class="m-header-logo">{{ site.title }}</span>
+			</a>
+			<a class="m-header-link hidden-sm" href="/">
+				<span class="m-header-linkText">Home</span>
+			</a>
+			<a class="m-header-link {% if page.site-nav == 'about' %}active{% endif %}" href="/about/">
+				<span class="m-header-linkText">About</span>
+			</a>
+			<a class="m-header-link {% if page.site-nav == 'retreats' %}active{% endif %}" href="/retreats/">
+				<span class="m-header-linkText">Retreats</span>
+			</a>
+			<a class="m-header-link {% if page.site-nav == 'reviews' %}active{% endif %}" href="/reviews/">
+				<span class="m-header-linkText">Reviews</span>
+			</a>
+			<!-- <a class="m-header-link {% if page.site-nav == 'blog' %}active{% endif %}" href="/blog/">
+				<span class="m-header-linkText">Blog</span>
+			</a> -->
+			<a class="m-header-link {% if page.site-nav == 'contact' %}active{% endif %}" href="/contact/">
+				<span class="m-header-linkText">Contact</span>
 			</a>
 		</nav>
+		<div class="m-header-social">
+			<a class="m-header-link is-social" href="https://www.facebook.com/yogaruka/">
+				<img class="m-header-socialImg" src="/assets/icons/facebook-dark.svg">
+			</a>
+			<a class="m-header-link is-social" href="https://www.instagram.com/yogaruka/">
+				<img class="m-header-socialImg" src="/assets/icons/instagram-dark.svg">
+			</a>
+			<a class="m-header-link is-social" href="https://twitter.com/yogarukastudio">
+				<img class="m-header-socialImg" src="/assets/icons/twitter-dark.svg">
+			</a>
+		</div>
 	</header>
