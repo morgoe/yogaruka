@@ -216,6 +216,9 @@ image: retreats/2016-september-morocco/thumbnail.jpg
 				<h3 class="m-accordion-contentTitle">FAQs</h3>
 
 				<ul class="m-faqs margin-top-sm">
+					<li class="m-faqs-question"><strong>Have you guys done this before?</strong></li>
+					<li class="m-faqs-answer">Yes! We did a <a href="/blog/spain/" target="_blank">write-up</a> of our last retreat so you can read all about it (and hear what our students said) and see photos and videos and everything.</li>
+					
 					<li class="m-faqs-question">“What if I want more?/What if I want it different?” </li>
 					<li class="m-faqs-answer">Some of the adventures come with option A and option B.  We are confident there will be something you will like on offer.</li>
 
