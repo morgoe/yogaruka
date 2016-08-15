@@ -17,6 +17,12 @@ Strange verb to use, I know, for a retreat. Yet it’s pretty much how you go ab
 
 A retreat is pretty much a story that you are putting together to tell the world - the story of a great adventure that is meant to last a week and change you for a lifetime. (Also an adventure you’ll certainly survive, since most people would not be too keen to go if there’s a noted risk to be eaten by a crocodile or fall into a kilometre-deep crevice). An adventure that will offer you genuine occasions to make connections with likeminded individuals and also abundant time to reflect upon, and by, oneself. (The word “retreat” comes from the Latin “retrahere”, which meant “to withdraw”. The meaning of “place of seclusion" is from early XVth century;  "period of retirement for religious self-examination" is from mid-XVIIIth. You’re welcome.) And people that are willing to pass through the looking glass to join you will only have this means - the written story - to recognise it, to gauge if this adventure works for them, if it’s the story they are after, the story that they need.
 
+<div class="m-blog-image right">
+	<figure class="">
+		<img src="/assets/images/blog/spain-review/yup-that-s-wine-on-the-table.jpg">
+	</figure>
+</div>
+
 The retreat happened - which is a great feat in itself - and it was to the agreement of all involved a success in as much as anything can be a success: it was, sure, imperfect, but it was a week filled with wonder and beauty and laughter and reflection and liberation of&from all sorts of feelings, and we would do this again anytime. In fact we are [doing it again](/retreats/reclaim-yourself-marrakech-september-2016/)!
 
 This article is, more than a recount of the events, a contemplation on the lessons that it’s taught us. It mentions the things we were supposed to do but didn’t and those we were supposed not to do and did, and how that can impact a retreat, but might not, because every story is unique and no one can know ahead how things are going to go. So please don’t look at this as advice on going to or organising a retreat, since we believe advice to be presumptuous in the given situation. Here we are only volunteering a tour of observations based on ours, and our students’, perspectives.
@@ -89,12 +95,6 @@ Since doing one-to-one’s as two-to-one’s meant we were pushed for time, at o
 
 ### 1. Targeting a wider audience, rather than a narrow niche
 
-<div class="m-blog-image right">
-	<figure class="">
-		<img src="/assets/images/blog/spain-review/sabine.jpg">
-	</figure>
-	<figcaption>“Sabine - a total rockstar hot mama from Belgium” –Jin</figcaption>
-</div>
 Perhaps we would’ve ended up with the best knit group in the history of retreats? And everyone would’ve married each other and gone live in a commune to raise their respective children on the Great Barrier Reef? It’s possible. 
 
 But variety remains a strong point in our opinion, and peacefully confronting divergent ideas is always enriching. It also allows people to feel like they don’t need to all be asana experts, all be vegans, all be non-smokers, all be magic thinkers and flower-power and peace to the world. Someone has to welcome the “bad” yogis too. No judgements.
@@ -104,6 +104,12 @@ But variety remains a strong point in our opinion, and peacefully confronting di
 From experience attending teacher trainings and specialisations, we knew that sometimes our bodies, so accustomed to the physical perils of modern life, can struggle with the jump into 3+ hours of yoga every day. We let people attend the classes they wanted to, and skip whenever it felt necessary. Everyone turned up to most classes anyway, and it meant that everyone stayed in great shape without injury throughout the week. (Plus the occasional lie-in is part of a holiday, right?)
 
 ### 3. Improvising and Loose Scheduling
+
+<div class="m-blog-image">
+	<figure class="">
+		<img src="/assets/images/blog/spain-review/first-day-walk.jpg">
+	</figure>
+</div>
 
 Yogic getaways should never be as rigid as a train timetable in Tokyo. Most of us get enough of that in our daily life, and it can lead to us feeling both stressed and in a rut.
 
@@ -121,6 +127,12 @@ Given our modest following, only a handful of subscribers joined our challenge. 
 
 ### 1. Experience ≠ Professionalism
 
+<div class="m-blog-image right">
+	<figure class="">
+		<img src="/assets/images/blog/spain-review/patri-rua.jpg">
+	</figure>
+</div>
+
 Working on this retreat contoured our belief that experience and professionalism are often unrelated. We feared that, being our first full-length retreat, people might be wary or untrusting. But in fact we ourselves decided to collaborate with Lucia Yoga who are also new to the game. It turned out to be one the best decisions we made. In fact, we’ve had yoga-related collaborations with groups and studios with way more experience than Lucia Yoga, but who behaved much less professionally. 
 
 ### 2. Sometimes You Need to Make Decisions
@@ -130,7 +142,7 @@ Initially we thought that giving lots of choice amongst activities, allowing peo
 ### 3. Differences Are to Be Celebrated
 
 <figure class="m-blog-image">
-	<img src="/assets/images/blog/spain-review/mask.jpg">
+	<img src="/assets/images/blog/spain-review/whole_group_last_day.jpg">
 </figure>
 
 Between staff and students we had a total of 9 different nationalities at our retreat. Some of our students were younger than us, others were older, with the difference between the youngest and the oldest spanning just over two decades.
