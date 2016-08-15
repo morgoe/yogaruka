@@ -7,7 +7,7 @@ categories:
 title:  'Impressions of a First Yoga Retreat'
 description: 'In May this year (2016, for those reading from the future), together with my partner Karen, I wrote our first full-length yoga retreat. Strange verb to use, I know, for a retreat'
 
-cover-image: retreatSpain
+cover-image: blogSpain
 image: retreats/2016-may-spain/thumbnail.jpg
 ---
 
@@ -17,8 +17,8 @@ Strange verb to use, I know, for a retreat. Yet it’s pretty much how you go ab
 
 A retreat is pretty much a story that you are putting together to tell the world - the story of a great adventure that is meant to last a week and change you for a lifetime. (Also an adventure you’ll certainly survive, since most people would not be too keen to go if there’s a noted risk to be eaten by a crocodile or fall into a kilometre-deep crevice). An adventure that will offer you genuine occasions to make connections with likeminded individuals and also abundant time to reflect upon, and by, oneself. (The word “retreat” comes from the Latin “retrahere”, which meant “to withdraw”. The meaning of “place of seclusion" is from early XVth century;  "period of retirement for religious self-examination" is from mid-XVIIIth. You’re welcome.) And people that are willing to pass through the looking glass to join you will only have this means - the written story - to recognise it, to gauge if this adventure works for them, if it’s the story they are after, the story that they need.
 
-<div class="m-blog-image right">
-	<figure class="">
+<div class="m-blog-imageWrapper">
+	<figure class="m-blog-image right">
 		<img src="/assets/images/blog/spain-review/yup-that-s-wine-on-the-table.jpg">
 	</figure>
 </div>
@@ -31,22 +31,13 @@ This article is, more than a recount of the events, a contemplation on the lesso
 
 ### 1. Choosing a Hard-To-Get-To National Park
 
-
-<div class="m-blog-image padding-md margin-top-0">
-	<div class="m-review-listItem padding-md margin-top-0">
-		<header class="m-review-header">
-			<img class="m-review-avatar" src="/assets/images/reviews/morgan.jpg">
-			<div class="m-review-caption">
-				<h4 class="m-review-name">Morgan</h4>
-			</div>
-		</header>
-		<div class="m-review-message">
-			<p>A year before this retreat I went to Rishikesh, India to do a four-week yoga teacher training course. I went with the expectation of fantastic healthy food, a beautiful environment in the middle of nature, and peace and quiet. That course didn’t turn out the way I expected, and I was really disappointed. But just one year later, at Rua and Karen’s retreat, I found exactly that.</p>
-		</div>
-	</div>
+<div class="m-blog-imageWrapper">
+	<figure class="m-blog-image">
+		<img src="/assets/images/blog/spain-review/salamander.jpg">
+	</figure>
 </div>
 
-Prehistoric dolmens. Booted eagles soaring over whitewashed villas in the midst of the lush high maquis of Sierra De Grazalema. The rarest salamander. Emerald green and turquoise of the river and its banks of sand where we could swim (and did – some of us naked to the dismay of others!) forgotten to the world. Peaks with historic pueblos of fairytale houses, pot-lined windows heavy with the reddest geraniums. 
+Prehistoric dolmens. Booted eagles soaring over whitewashed villas in the midst of the lush high maquis of Sierra De Grazalema. The rarest salamander. Emerald green and turquoise of the river and its banks of sand where we could swim (and did – some of us naked to the dismay of others!) forgotten to the world. Peaks with historic pueblos of fairytale houses, pot-lined windows heavy with the reddest geraniums.
 
 Although it was not exactly straightforward trying to get ourselves to the resort (2 hours’ drive from the nearest airport, getting-lost-inclusive), it was very worth it: the location we chose truly was a retreat from everyday modern life. 
 
@@ -54,9 +45,11 @@ We found, moreover, it created a disposition of compassion toward nature, even i
 
 ### 2. Joining Forces With Another Yoga Business 
 
-<div class="m-blog-image padding-md margin-top-0 right">
-	<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BE-mJd2JWyM/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">We overcome limitation when we change our perspective #yogaeverywhere #yogaretreat</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A video posted by Yogaruka (@yogaruka) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-05-04T08:08:05+00:00">May 4, 2016 at 1:08am PDT</time></p></div></blockquote>
-	<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+<div class="m-blog-imageWrapper">
+	<div class="m-blog-image padding-md padding-top-0 margin-top-0 right">
+		<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BE-mJd2JWyM/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">We overcome limitation when we change our perspective #yogaeverywhere #yogaretreat</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A video posted by Yogaruka (@yogaruka) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-05-04T08:08:05+00:00">May 4, 2016 at 1:08am PDT</time></p></div></blockquote>
+		<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+	</div>
 </div>
 
 Oh, [Lucia Yoga](http://www.luciayoga.com/)! We will never be grateful enough to you, mates, for providing us with so much more than most “yoga-friendly” resorts have to offer.
@@ -105,8 +98,8 @@ From experience attending teacher trainings and specialisations, we knew that so
 
 ### 3. Improvising and Loose Scheduling
 
-<div class="m-blog-image">
-	<figure class="">
+<div class="m-blog-imageWrapper">
+	<figure class="m-blog-image">
 		<img src="/assets/images/blog/spain-review/first-day-walk.jpg">
 	</figure>
 </div>
@@ -127,8 +120,8 @@ Given our modest following, only a handful of subscribers joined our challenge. 
 
 ### 1. Experience ≠ Professionalism
 
-<div class="m-blog-image right">
-	<figure class="">
+<div class="m-blog-imageWrapper">
+	<figure class="m-blog-image right">
 		<img src="/assets/images/blog/spain-review/patri-rua.jpg">
 	</figure>
 </div>
@@ -141,9 +134,11 @@ Initially we thought that giving lots of choice amongst activities, allowing peo
 
 ### 3. Differences Are to Be Celebrated
 
-<figure class="m-blog-image">
-	<img src="/assets/images/blog/spain-review/whole_group_last_day.jpg">
-</figure>
+<div class="m-blog-imageWrapper">
+	<figure class="m-blog-image">
+		<img src="/assets/images/blog/spain-review/whole_group_last_day.jpg">
+	</figure>
+</div>
 
 Between staff and students we had a total of 9 different nationalities at our retreat. Some of our students were younger than us, others were older, with the difference between the youngest and the oldest spanning just over two decades.
 

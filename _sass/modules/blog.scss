@@ -1,10 +1,12 @@
 .m-blog-article {
 	.m-review-listItem,
+	.m-blog-imageWrapper,
 	p {
 		margin-left: auto;
 		margin-right: auto;
 	}
-	.m-review-listItem {
+	.m-review-listItem,
+	.m-blog-imageWrapper {
 		max-width: 32rem;
 	}
 	> h3,
@@ -20,7 +22,16 @@
 	&.right {
 		float: right;
 	}
-	figure {
+}
+
+@media (min-width: 1024px) {
+	.m-blog-image {
 		margin-top: 0;
+	}
+	.m-blog-image:not(.right) {
+	    margin-left: -100px;
+	}
+	.m-blog-image.right {
+	    margin-right: -100px;
 	}
 }
