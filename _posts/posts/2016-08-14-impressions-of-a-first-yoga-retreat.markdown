@@ -54,7 +54,7 @@ We found, moreover, it created a disposition of compassion toward nature, even i
 
 Oh, [Lucia Yoga](http://www.luciayoga.com/)! We will never be grateful enough to you, mates, for providing us with so much more than most “yoga-friendly” resorts have to offer.
 
-These guys haven't been around the yoga world for long, but they are certainly rocking it! They aggregate teachers across the world and eco-centres across southern Spain, easing the job of many a retreat maker: their small but dedicated team of pros takes over part of the logistics, such as providing a raw vegan cook who brings the pesticide-free veggies from his own, bio-dynamic farm (no doubt everyone would be vegan had they chef&master yogi Javier Guzman cook for them), the gear for the yoga shala (strictly ecological, of course), hiking and exploring ideas and an additional transportation means to the one we had - which in change gave us time to concentrate on the teaching, healing, informing and connecting, basically, what we do best. 
+These guys haven't been around the yoga world for long, but they are certainly rocking it! They aggregate teachers across the world and eco-centres across southern Spain, easing the job of many a retreat maker: their small but dedicated team of pros takes over part of the logistics, providing vegetarian, vegan and raw vegan cuisine with pesticide-free veggies from locally owned bio-dynamic farms (no doubt everyone would be vegan had they farmer, chef&master yogi Javier Guzman cook for them), the gear for the yoga shala (strictly ecological, of course), hiking quests and cultural exploration tours - which in change gave us time to concentrate on the teaching, healing, informing and connecting, basically, what we do best.
 
 ### 3. Offering Individual Body Assessments
 
@@ -62,21 +62,23 @@ We began our retreat with a full anatomical assessment of the participants, to e
 
 ### 4. Offering One-to-One Classes
 
-Yoga begun with a master and an acolyte. Through thousands of years it kept its guise until it started to adapt and shift, transitioning into what yoga is today. It's great to progress but some times old is actually the best. (Seriously – go hug your grandma right now, if you can!)
-
-<div class="m-review-listItem padding-md">
-	<header class="m-review-header">
-		<img class="m-review-avatar" src="/assets/images/reviews/jin.jpg">
-		<div class="m-review-caption">
-			<h4 class="m-review-name">Jin</h4>
+<div class="m-blog-imageWrapper">
+	<div class="m-blog-image padding-md padding-top-0">
+		<div class="m-review-listItem padding-md margin-top-0">
+			<header class="m-review-header">
+				<img class="m-review-avatar" src="/assets/images/reviews/morgan.jpg">
+				<div class="m-review-caption">
+					<h4 class="m-review-name">Morgan</h4>
+				</div>
+			</header>
+			<div class="m-review-message">
+				<p>A year before this retreat I went to Rishikesh, India to do a four-week yoga teacher training course. I went with the expectation of fantastic healthy food, a beautiful environment in the middle of nature, and peace and quiet. That course didn’t turn out the way I expected, and I was really disappointed. But just one year later, at Rua and Karen’s retreat, I found exactly that.</p>
+			</div>
 		</div>
-	</header>
-	<div class="m-review-message">
-		<p>“…we bow to the light of each other, the light within ourselves, the light that we all share, because we are all the same, and Karen sees me from her mat across from me, and she tells me ‘It's okay,’ and I let it go. I let it all go.</p>
-		<p>For a brief moment, I sit in the warmth and understanding and shared experience of the people within the small yoga shala with me, in the beautiful, ancient, alive mountains of Spain, and I cry. I cry, without sorrow, without joy, I just cry, and I feel the relief and the beauty and the meaning of it all. And I take this moment, small and powerful, and I store it deep within myself.”</p>
-		<p class="u-text-right"><a href="http://www.jinntonic.com/secreteuropeantraveljournal/may-5th-day-7-catching-a-breath-not">Keep Reading</a></p>
 	</div>
 </div>
+
+Yoga begun with a master and an acolyte. Through thousands of years it kept its guise until it started to adapt and shift, transitioning into what yoga is today. It's great to progress but some times old is actually the best. (Seriously – go hug your grandma right now, if you can!)
 
 One-to-one yoga classes are demanding in many ways: time, focus, energy, empathy, understanding of the underlying issues of your student, exploration of all limbs beyond physical exercise (asana) and breathing techniques (pranayama). They are also very rewarding, allowing for a personalisation of the practice and the most meaningful sharing between facilitator(s) and partaker. Sometimes even an inversion of roles can occur, when the former will have just as much to learn from the latter as the other way around.
 
@@ -87,6 +89,12 @@ Since doing one-to-one’s as two-to-one’s meant we were pushed for time, at o
 ## 4 Things We Were Told Never To Do And Did Them Anyway (& We’re Not Sorry)
 
 ### 1. Targeting a wider audience, rather than a narrow niche
+
+<div class="m-blog-imageWrapper">
+	<figure class="m-blog-image right">
+		<img src="/assets/images/blog/spain-review/hiking.jpg">
+	</figure>
+</div>
 
 Perhaps we would’ve ended up with the best knit group in the history of retreats? And everyone would’ve married each other and gone live in a commune to raise their respective children on the Great Barrier Reef? It’s possible. 
 
@@ -115,6 +123,8 @@ However we found that pretty much everyone wanted to explore the area, beautiful
 We decided to run a 6-day posture challenge on social media: people were to take daily pictures of themselves running through the whole Virabadhra’s Series, from Warrior 1 to Retreating Warrior, and post them tagging #YogaRuka and #ReclaimYourself. This is however something only worth doing when you have 10k+ Instagram followers. Looks like we don’t have enough fancy pants (yet) to garner 10k followers on Instagram. Too bad, we will survive.
 
 Given our modest following, only a handful of subscribers joined our challenge. No point hiding: from a financial perspective it was a black hole. But out of the hat (or the black hole, if you’d rather) we drew Jin’s name - gorgeous model, actress and blogger from LA, California. And it was her presence there that offered Karen and myself some of the most precious insights into why it’s so important for us to be doing what we’re doing. Teach the yoga thing, that is.
+
+{% include newsletter-signup.html %}
 
 ## 4 Lessons We’ve (Maybe) Learnt
 
@@ -149,3 +159,17 @@ Age variations appear to be a concern for many a retreat organiser, and sometime
 Finally, we learned (again – we never grow tired of learning this lesson) that worry is never worth it. Things have a way of happening as they happen. There’s no point in the 8 month lead-up or during the 7 day retreat that we look back on and say “gee, I wish we would’ve stressed more then”.
 
 As Dalai Lama put it, “If it can be solved, there’s no need to worry. If it can’t be solved, there’s no need to worry.”
+
+<div class="m-review-listItem padding-md">
+	<header class="m-review-header">
+		<img class="m-review-avatar" src="/assets/images/reviews/jin.jpg">
+		<div class="m-review-caption">
+			<h4 class="m-review-name">Jin</h4>
+		</div>
+	</header>
+	<div class="m-review-message">
+		<p>“…we bow to the light of each other, the light within ourselves, the light that we all share, because we are all the same, and Karen sees me from her mat across from me, and she tells me ‘It's okay,’ and I let it go. I let it all go.</p>
+		<p>For a brief moment, I sit in the warmth and understanding and shared experience of the people within the small yoga shala with me, in the beautiful, ancient, alive mountains of Spain, and I cry. I cry, without sorrow, without joy, I just cry, and I feel the relief and the beauty and the meaning of it all. And I take this moment, small and powerful, and I store it deep within myself.”</p>
+		<p class="u-text-right"><a href="http://www.jinntonic.com/secreteuropeantraveljournal/may-5th-day-7-catching-a-breath-not">Keep Reading</a></p>
+	</div>
+</div>
