@@ -12,10 +12,8 @@
 	}
 }
 .m-review-avatar {
-	width: $rhythm * 3;
-	height: $rhythm * 3;
-	margin-top: -$rhythm;
-	margin-left: -$rhythm;
+	width: $rhythm * 2;
+	height: $rhythm * 2;
 	margin-right: $rhythm / 3;
 	float: left;
 }
@@ -55,8 +53,8 @@
 		}
 	}
 	.m-review-avatar {
-		margin-top: 0;
-		margin-left: 0;
+		width: $rhythm * 3;
+		height: $rhythm * 3;
 		margin-right: 0;
 	}
 	.m-review-caption {
