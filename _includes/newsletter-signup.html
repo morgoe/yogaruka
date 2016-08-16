@@ -6,8 +6,8 @@
             <div class="response margin-top-sm m-form-feedback error" id="mce-error-response" style="display:none"></div>
             <div class="response margin-top-sm m-form-feedback success" id="mce-success-response" style="display:none"></div>
             <div class="mc-field-group form-group margin-top-0">
-                <label for="mce-NAME" class="hidden">Name</label>
-                <input type="text" value="" name="NAME" class="form-control" id="mce-NAME" placeholder="Name">
+                <label for="mce-FIRSTNAME" class="hidden">Name</label>
+                <input type="text" value="" name="FIRSTNAME" class="form-control" id="mce-FIRSTNAME" placeholder="Name">
             </div>
             <div class="mc-field-group form-group margin-top-0">
                 <label for="mce-EMAIL" class="hidden">Email Address</label>
@@ -28,10 +28,12 @@
 (function($) {
     window.fnames = new Array();
     window.ftypes = new Array();
+    fnames[2] = 'FIRSTNAME';
+    ftypes[2] = 'text';
     fnames[0] = 'EMAIL';
     ftypes[0] = 'email';
-    fnames[2] = 'NAME';
-    ftypes[2] = 'text';
+    fnames[3] = 'LASTNAME';
+    ftypes[3] = 'text';
 }(jQuery));
 var $mcj = jQuery.noConflict(true);
 </script>

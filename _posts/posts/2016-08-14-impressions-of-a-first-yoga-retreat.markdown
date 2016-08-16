@@ -124,8 +124,6 @@ We decided to run a 6-day posture challenge on social media: people were to take
 
 Given our modest following, only a handful of subscribers joined our challenge. No point hiding: from a financial perspective it was a black hole. But out of the hat (or the black hole, if you’d rather) we drew Jin’s name - gorgeous model, actress and blogger from LA, California. And it was her presence there that offered Karen and myself some of the most precious insights into why it’s so important for us to be doing what we’re doing. Teach the yoga thing, that is.
 
-{% include newsletter-signup.html %}
-
 ## 4 Lessons We’ve (Maybe) Learnt
 
 ### 1. Experience ≠ Professionalism
