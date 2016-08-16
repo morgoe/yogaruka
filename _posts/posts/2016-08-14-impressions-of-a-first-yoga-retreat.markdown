@@ -29,7 +29,7 @@ This article is, more than a recount of the events, a contemplation on the lesso
 
 ## The 4 Things We Did Right
 
-### 1. Choosing a Hard-To-Get-To National Park
+### 1. Choosing a hard-to-get-to National Park
 
 <div class="m-blog-imageWrapper">
 	<figure class="m-blog-image">
@@ -43,7 +43,7 @@ Although it was not exactly straightforward trying to get ourselves to the resor
 
 We found, moreover, it created a disposition of compassion toward nature, even in those that weren't exactly tree-huggers. Since one of our main goals is to open people’s minds toward the importance of preservation, a retreat far from urban areas felt like the right, least forceful, way. 
 
-### 2. Joining Forces With Another Yoga Business 
+### 2. Joining forces with another yoga business 
 
 <div class="m-blog-imageWrapper">
 	<div class="m-blog-image padding-md padding-top-0 margin-top-0 right">
@@ -56,11 +56,11 @@ Oh, [Lucia Yoga](http://www.luciayoga.com/)! We will never be grateful enough to
 
 These guys haven't been around the yoga world for long, but they are certainly rocking it! They aggregate teachers across the world and eco-centres across southern Spain, easing the job of many a retreat maker: their small but dedicated team of pros takes over part of the logistics, providing vegetarian, vegan and raw vegan cuisine with pesticide-free veggies from locally owned bio-dynamic farms (no doubt everyone would be vegan had they farmer, chef&master yogi Javier Guzman cook for them), the gear for the yoga shala (strictly ecological, of course), hiking quests and cultural exploration tours - which in change gave us time to concentrate on the teaching, healing, informing and connecting, basically, what we do best.
 
-### 3. Offering Individual Body Assessments
+### 3. Offering individual body assessments
 
 We began our retreat with a full anatomical assessment of the participants, to establish body issues and idiosyncrasies. Understanding where each yogi is at can help shape the class, and bring awareness to the facilitator on what modifications to suggest to those that can’t go too deep into [some] poses. We had quite a disparity in terms of skill level, so this was important to ensure each class was suitably challenging yet safe for everyone. 
 
-### 4. Offering One-to-One Classes
+### 4. Offering one-to-one classes
 
 <div class="m-blog-imageWrapper">
 	<div class="m-blog-image padding-md padding-top-0">
@@ -100,11 +100,11 @@ Perhaps we would’ve ended up with the best knit group in the history of retrea
 
 But variety remains a strong point in our opinion, and peacefully confronting divergent ideas is always enriching. It also allows people to feel like they don’t need to all be asana experts, all be vegans, all be non-smokers, all be magic thinkers and flower-power and peace to the world. Someone has to welcome the “bad” yogis too. No judgements.
 
-### 2. Encouraging People to Choose Which Classes They Attended
+### 2. Encouraging people to choose which classes they attended
 
 From experience attending teacher trainings and specialisations, we knew that sometimes our bodies, so accustomed to the physical perils of modern life, can struggle with the jump into 3+ hours of yoga every day. We let people attend the classes they wanted to, and skip whenever it felt necessary. Everyone turned up to most classes anyway, and it meant that everyone stayed in great shape without injury throughout the week. (Plus the occasional lie-in is part of a holiday, right?)
 
-### 3. Improvising and Loose Scheduling
+### 3. Improvising and loose scheduling
 
 <div class="m-blog-imageWrapper">
 	<figure class="m-blog-image">
@@ -118,7 +118,7 @@ We hoped that our ways would give people a chance to set their own rhythms. Thos
 
 However we found that pretty much everyone wanted to explore the area, beautiful as it was, and having so many choices of places to visit became just another thing to stress about. (Ha! So that was both a positive and a negative.) On the plus side, it led to a few gloriously improvised moments – like Javier’s 5am Kundalini Yoga class, or my yoga fusion flow followed by his and Antonio’s didgeridoo vibrational healing – counted amongst the absolute highlights of the retreat. 
 
-### 4. Doing a Tombola Pick as a Means to Get Our Names Out There 
+### 4. Doing a tombola pick as a means to get our names out there 
 
 We decided to run a 6-day posture challenge on social media: people were to take daily pictures of themselves running through the whole Virabadhra’s Series, from Warrior 1 to Retreating Warrior, and post them tagging #YogaRuka and #ReclaimYourself. This is however something only worth doing when you have 10k+ Instagram followers. Looks like we don’t have enough fancy pants (yet) to garner 10k followers on Instagram. Too bad, we will survive.
 
@@ -136,11 +136,11 @@ Given our modest following, only a handful of subscribers joined our challenge. 
 
 Working on this retreat contoured our belief that experience and professionalism are often unrelated. We feared that, being our first full-length retreat, people might be wary or untrusting. But in fact we ourselves decided to collaborate with Lucia Yoga who are also new to the game. It turned out to be one the best decisions we made. In fact, we’ve had yoga-related collaborations with groups and studios with way more experience than Lucia Yoga, but who behaved much less professionally. 
 
-### 2. Sometimes You Need to Make Decisions
+### 2. Sometimes you need to make decisions
 
 Initially we thought that giving lots of choice amongst activities, allowing people to opt in or out of everything, including the yoga and meditation, would mean truly accommodating everyone. But sometimes being too accommodating can go in the detriment of all, bringing confusion and potentially even tension in a group. It’s important to create a structure where activities are planned ahead and there’s also room for just resting and hanging out without doing anything in particular. Participants have already chosen your retreat for its theme and because of the classes and extras it includes: too many alternatives may become redundant and distracting. Taking the lead and choosing, and organising a bit more of the logistics on behalf of the partakers won’t turn the experience into an army camp, it will allow them to fully relax. 
 
-### 3. Differences Are to Be Celebrated
+### 3. Differences are to be celebrated
 
 <div class="m-blog-imageWrapper">
 	<figure class="m-blog-image">
