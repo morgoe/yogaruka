@@ -63,8 +63,7 @@ image: retreats/2016-september-morocco/thumbnail.jpg
 </section>
 
 <section>
-	<h2>Atlas can carry the heavens on his shoulders, you can restore your lightness!  </h2>
-
+	<h2>Atlas can carry the heavens on his shoulders, you can restore your lightness!</h2>
 	<div class="row">
 		<div class="col-sm-5 col-md-6 col-lg-7">
 			<figure>
@@ -202,12 +201,13 @@ image: retreats/2016-september-morocco/thumbnail.jpg
 					<li><span class="m-schedule-time">08:30</span> Berber breakfast</li>
 					<li><span class="m-schedule-time">09:30</span> Awesome activities / Free time *</li>
 					<li><span class="m-schedule-time">13:30</span> Lunch</li>
-					<li><span class="m-schedule-time">14:30</span> More awesome activities </li>
+					<li><span class="m-schedule-time">14:30</span> More awesome activities *</li>
 					<li><span class="m-schedule-time">15:30</span> Walking meditation through the groves & Moroccan mint tea (you'll become addicted, it's guaranteed)</li>
 					<li><span class="m-schedule-time">16:30</span> Free time / other activities *</li>
 					<li><span class="m-schedule-time">18:15</span> Evening Slow Flow (60 min)</li>
 					<li><span class="m-schedule-time">19:15</span> Yogic Meditation (15-25 min)</li>
 					<li><span class="m-schedule-time">19:40</span> Dinner</li>
+					<li class="u-text-center">* You can schedule your one-on-one session for individual coaching during these intervals. One session per person during the retreat is included. These sessions are optional but recommended.</li>
 				</ul>
 
 				<p>This schedule is just indicative and may be subject to change.</p>
@@ -292,7 +292,7 @@ image: retreats/2016-september-morocco/thumbnail.jpg
 		<li>You’ll get to dip a toe or two into so many styles of yoga (and filter what works for you)</li>
 		<li>Small groups of up to 12 people and two teachers present, to keep it intimate and ensure you get lots of individual attention and support</li>
 		<li>3 vegetarian meals/day, made from local organic ingredients under the principles of a Mediterranean diet (to provide you with energy and maximise the benefits of your training)</li>
-		<li>The individual assessment will help you construct your ideal, personalised practice</li>
+		<li>The individual assessment and <strong>private yoga class</strong> will help you construct your ideal, personalised practice</li>
 		<li>Lots and lots to do with us and by yourself: You can just hike in the mountains, exploring this unbelievable habitat, swim in the pool, bla in the bla</li>
 		<li>Yoga Ruka commits to donate a <strong>minimum of 10% of the profit</strong> from their retreats to support environment, education and environmental education</li>
 	</ul>
@@ -300,7 +300,6 @@ image: retreats/2016-september-morocco/thumbnail.jpg
 
 <section id="jumpTo-prices">
 	<h2>Prices</h2>
-
 	<div class="row">
 		<div class="col-sm-push-2 col-sm-8 col-md-push-3 col-md-6">
 			<h3>Included:</h3>
@@ -319,7 +318,11 @@ image: retreats/2016-september-morocco/thumbnail.jpg
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
-					a <strong>full anatomical assessment</strong> to customise your practice to your uniqueness
+					a full anatomical assessment to customise your practice to your uniqueness
+				</li>
+				<li>
+					<img src="/assets/icons/check.svg">
+					1 individually tailored <strong>private session</strong> (free of cost)
 				</li>
 				<li>
 					<img src="/assets/icons/check.svg">
