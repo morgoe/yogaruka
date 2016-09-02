@@ -20,7 +20,7 @@ Kurt Cobain thought his scoliosis - which he attributed to poor posture while pl
 Almost 80% of Westerners will experience back pain by the time they’re middle-aged. Not a great statistic, I’m sure you’d agree. Many of us experience back pain plainly because we don't exercise enough and spend way too much time bent over our devices, rather than our toes. Yet many avid exercisers alike end up with chronic, crippling back pain. It looks like you're damned if you don't train, and, eventually, damned if you do.
 
 ![Before and After][before-after]
-<figcaption>With and without user-uploaded display photos. <a href="https://dribbble.com/shots/1818748-Appon-Chat-Widget" target="_blank">Original by Olia Gozha</a>.</figcaption>
+<figcaption>Source: Tom Fonder of <a href="http://www.happyjar.com/comic/back-probs/" target="_blank">HappyJar Comics</a>.</figcaption>
 
 From compulsive treadmill runners down to couch potatoes, yoga has been proven to almost always provide the right answer by increasing the range of motion in your joints, spinal disks included, by strengthening and coordinating weak muscles, by improving posture and by generally giving people a better outlook on life so that they don't slump into poor posture. 
 
@@ -71,49 +71,17 @@ Plymouth-born nutritionist and recipe developer. On a journey of study and disco
 		<ul class="m-prices-includedList list-unstyled margin-top-xs">
 			<li>
 				<img src="/assets/icons/check.svg">
-				6 nights accommodation in an eco-kasbah with staff providing the warm hospitality Morrocans are renowned for
+				Butts
 			</li>
 			<li>
 				<img src="/assets/icons/check.svg">
-				3 local organic vegetarian meals / day, based on Ayurvedic principles, with people you won't forget for as long as you live
-			</li>
-			<li>
-				<img src="/assets/icons/check.svg">
-				2 yoga fusion classes daily (asana, pranayama, meditation, functional training)
-			</li>
-			<li>
-				<img src="/assets/icons/check.svg">
-				a full anatomical assessment to customise your practice to your uniqueness
-			</li>
-			<li>
-				<img src="/assets/icons/check.svg">
-				1 individually tailored <strong>private session</strong> (free of cost)
-			</li>
-			<li>
-				<img src="/assets/icons/check.svg">
-				silent walking meditation in the National Park allowing you time for inner reflection
-			</li>
-			<li>
-				<img src="/assets/icons/check.svg">
-				a <strong>traditional Hammam</strong> bath, scrub & body mask treatment to clean you to the bottom of your souls (or pores, at least) 
-			</li>
-			<li>
-				<img src="/assets/icons/check.svg">
-				a guided hike of your choice (Kundun’s kasbah, Ourika waterfalls, etc)
-			</li>
-			<li>
-				<img src="/assets/icons/check.svg">
-				<strong>2 Ayurvedic massages</strong> to knead the stress from your muscles and sweep away the concerns of the day.
-			</li>
-			<li>
-				<img src="/assets/icons/check.svg">
-				return transport from Marrakech airport or city centre
+				Smoothies
 			</li>
 		</ul>
 	</div>
 </div>
-	
-{% include retreat-form-2016-september-morocco.html %}
+
+{% include paypal-workshop-plymouth.html %}
 
 If you have any questions before you book, please get in touch, and we'll get back to you within 24 hours.
 

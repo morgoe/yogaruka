@@ -18,6 +18,7 @@ social-image: workshops/plymouth-bandha/thumbnail.jpg
 <div class="m-blog-imageWrapper">
 	<figure class="m-blog-image image-small right has-noBorder">
 		<img src="/assets/images/workshops/plymouth-bandha/cartoon.png">
+		<figcaption>Source: <a href="https://www.facebook.com/TheYogaComics/photos/a.492192500861089.1073741826.420731538007186/434763219937351/?type=3&theater" target="_blank">The Yoga Comics</a>.</figcaption>
 	</figure>
 </div>
 
@@ -50,7 +51,23 @@ RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India
 
 ## RSVP
 
+<div class="row">
+	<div class="col-sm-push-2 col-sm-8 col-md-push-3 col-md-6">
+		<h3>Included:</h3>
+		<ul class="m-prices-includedList list-unstyled margin-top-xs">
+			<li>
+				<img src="/assets/icons/check.svg">
+				Butts
+			</li>
+			<li>
+				<img src="/assets/icons/minus.svg">
+				No Smoothies :(
+			</li>
+		</ul>
+	</div>
+</div>
 
+{% include paypal-workshop-plymouth.html %}
 
 If you have any questions before you book, please get in touch, and we'll get back to you within 24 hours.
 

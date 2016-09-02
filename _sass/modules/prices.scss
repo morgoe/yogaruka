@@ -42,9 +42,11 @@
 }
 .m-prices-price {
 	margin-top: $rhythm / 4;
-	opacity: 0.5;
 	strong {
 		font-weight: 400;
+	}
+	&.upcoming {
+		opacity: 0.5;
 	}
 	&.disabled {
 		> * {
@@ -89,6 +91,12 @@
 	input[type="image"] {
 		width: 230px;
 		float: right;
+	}
+	table,
+	select {
+		width: 100%;
+		max-width: 320px;
+		margin: auto;
 	}
 }
 
