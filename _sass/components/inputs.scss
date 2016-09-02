@@ -1,6 +1,9 @@
 .form-group {
 	@include clearfix();
 }
+select {
+	width: 100%;
+}
 .form-control {
 	letter-spacing: inherit;
 	line-height: normal;

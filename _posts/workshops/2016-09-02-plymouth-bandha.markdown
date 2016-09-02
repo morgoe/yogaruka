@@ -68,7 +68,3 @@ RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India
 </div>
 
 {% include paypal-workshop-plymouth.html %}
-
-If you have any questions before you book, please get in touch, and we'll get back to you within 24 hours.
-
-{% include retreat-form-questions.html %}

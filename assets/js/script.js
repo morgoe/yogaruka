@@ -105,6 +105,7 @@ $(document).on('click', '#form-submit', function(e){
 	var contactForm = $("#form")[0],
 	inputName = $("#form-name"),
 	inputEmail = $("#form-email"),
+	inputChoice = $("#form-choice"),
 	inputMessage = $("#form-message"),
 	sendButton = $("#form-submit");
 
@@ -120,6 +121,7 @@ $(document).on('click', '#form-submit', function(e){
 	xhr.send(
 		"name=" + inputName.val() +
 		"&email=" + inputEmail.val() +
+		"&choice=" + inputChoice.val() +
 		"&message=" + inputMessage.val());
 
 	xhr.onloadend = function (res) {
@@ -130,6 +132,7 @@ $(document).on('click', '#form-submit', function(e){
 			// Clear form values
 			inputName.val('');
 			inputEmail.val('');
+			inputChoice.val('');
 			inputMessage.val('');
 		}
 		else {
