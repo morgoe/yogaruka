@@ -1,0 +1,36 @@
+.tabs {
+	@include flexbox();	
+	border-bottom: 2px solid rgba($brown-30, 0.2);
+}
+.tabs-listItem {
+	margin-top: 0;
+	margin-bottom: -2px;
+	@include flex-basis(0);
+	@include flex-grow(1);
+	text-align: center;
+	+ .tabs-listItem {
+		margin-left: 1rem;
+	}
+	&:hover .tabs-link {
+		border-color: $blue-90;
+	}
+	&.active .tabs-link {
+		color: $pink;
+		border-color: $pink;
+	}
+}
+.tabs-link {
+	display: block;
+	font-family: $font-sans;
+	background: none !important;
+	border-bottom: 2px solid transparent;
+	padding: 2px 6px;
+}
+.tabs-content {
+}
+.tabs-pane {
+	display: none;
+	&.active {
+		display: block;
+	}
+}
