@@ -125,7 +125,7 @@ $(document).on('click', '#form-submit', function(e){
 	xhr.onloadend = function (res) {
 		if (res.target.status === 200){
 			$('#form').addClass('success');
-			$('#form-feedback').html('Thanks for contacting me!<br> I\'ll be in touch within a couple of days.');
+			$('#form-feedback').html('Thanks for contacting us!<br> We’ll be in touch within 24 hours.');
 
 			// Clear form values
 			inputName.val('');

@@ -47,3 +47,11 @@ Good thing this workshop comes to save you and - pun intended - rock you to your
 </div>
 
 RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India), Rua has integrated her original studies with other yoga lineages (Yin, Iyengar), Functional training and Kinesiology. Co-founder of the itinerant study YogaRuka that organizes exclusive seminars and yoga retreats around the world, her motto is "Reclaim yourself" and her style - a dynamic fusion of elements from yoga, Pilates, physio, mixed breathing techniques, meditation and mindfulness.
+
+## RSVP
+
+
+
+If you have any questions before you book, please get in touch, and we'll get back to you within 24 hours.
+
+{% include retreat-form-questions.html %}
