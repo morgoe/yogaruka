@@ -3,6 +3,7 @@ layout: default
 site-nav: retreats
 categories:
 - retreats
+- events
 
 title: 'Reclaim Yourself — Nature Wellness Retreat'
 location: 'Marrakech, Morocco'

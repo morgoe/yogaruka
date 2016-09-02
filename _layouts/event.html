@@ -1,0 +1,17 @@
+---
+layout: default
+body-class: hero
+---
+
+<section class="m-hero">
+	<div class="m-hero-text u-text-antialiase">
+		<h6 class="sans-serif">{{ page.dates }}</h6>
+		<h1 class="margin-top-0">{{ page.title }}</h1>
+	</div>
+
+	<div class="m-hero-photo {% if page.cover-image %}coverImage-{{ page.cover-image }}{% endif %}">
+</section>
+
+<article class="m-blog-article">
+	{{ content }}
+</article>

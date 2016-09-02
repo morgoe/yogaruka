@@ -3,6 +3,7 @@ layout: default
 site-nav: retreats
 categories:
 - past-retreats
+- past-events
 
 title:  'Reclaim Yourself — Nature Yoga Retreat'
 location: 'Cádiz, Spain'

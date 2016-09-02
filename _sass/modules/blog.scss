@@ -1,7 +1,8 @@
 .m-blog-article {
 	.m-review-listItem,
 	.m-blog-imageWrapper,
-	p {
+	p,
+	ul {
 		margin-left: auto;
 		margin-right: auto;
 	}
@@ -32,15 +33,22 @@
 .m-blog-image {
 	width: 100%;
 	max-width: 480px;
-	float: left;
-	&.right {
-		float: right;
+	margin-left: auto;
+	margin-right: auto;
+	&.image-small {
+		max-width: 320px;
 	}
 }
 
 @media (min-width: 1024px) {
 	.m-blog-image {
 		margin-top: 0;
+		margin-left: 1rem;
+		margin-right: 1rem;
+		float: left;
+		&.right {
+			float: right;
+		}
 	}
 	.m-blog-image:not(.right) {
 	    margin-left: -100px;

@@ -1,0 +1,32 @@
+---
+layout: page
+site-nav: workshops
+title:  "Workshops"
+permalink: /workshops/
+---
+
+<h2>Upcoming Workshops</h2>
+
+<ul class="m-retreatList margin-top-sm">
+{% for post in site.categories['workshops'] %}
+	<li class="m-retreatList-row">
+		<a class="m-retreatList-link {% if post.cover-image %}coverImage-{{ post.cover-image }}-sm{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
+			<p class="m-retreatList-info">{{ post.dates }} in {{ post.location }}</p>
+			<h3 class="m-retreatList-title">{{ post.title }}</h3>
+		</a>
+	</li>
+{% endfor %}
+</ul>
+
+<!-- <h2>Past Workshops</h2>
+
+<ul class="m-retreatList margin-top-sm">
+{% for post in site.categories['past-workshops'] %}
+	<li class="m-retreatList-row">
+		<a class="m-retreatList-link {% if post.cover-image %}coverImage-{{ post.cover-image }}-sm{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
+			<p class="m-retreatList-info">{{ post.dates }} in {{ post.location }}</p>
+			<h3 class="m-retreatList-title">{{ post.title }}</h3>
+		</a>
+	</li>
+{% endfor %}
+</ul> -->

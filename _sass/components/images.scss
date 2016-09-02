@@ -12,6 +12,9 @@ figure {
 		margin: $rhythm / 2;
 		border: $rhythm / 2 solid white;
 	}
+	&.has-noBorder:after {
+		content: none;
+	}
 }
 
 .iframe-wrapper {
@@ -37,13 +40,16 @@ figure {
 figcaption {
 	display: table;
 	font-family: $font-sans;
-	margin-top: -$rhythm / 3;
+	margin-top: 0;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: $rhythm;
 	font-size: $font-size-sm;
 	text-align: center;
 	opacity: 0.75;
+	figure + & {
+		margin-top: -$rhythm / 3;
+	}
 	figure:hover + & {
 		opacity: 1;
 		background: $yellow;
