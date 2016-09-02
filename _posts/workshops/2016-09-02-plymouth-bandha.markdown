@@ -49,6 +49,16 @@ Good thing this workshop comes to save you and - pun intended - rock you to your
 
 RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India), Rua has integrated her original studies with other yoga lineages (Yin, Iyengar), Functional training and Kinesiology. Co-founder of the itinerant study YogaRuka that organizes exclusive seminars and yoga retreats around the world, her motto is "Reclaim yourself" and her style - a dynamic fusion of elements from yoga, Pilates, physio, mixed breathing techniques, meditation and mindfulness.
 
+<!-- ## Schedule
+
+<ul class="m-schedule u-text-center">
+	<li class="m-schedule-title">Saturday 17th October</li>
+	<li><span class="m-schedule-time">10:00 - 13:00:</span> Session 1</li>
+	<li><span class="m-schedule-time">13:30 - 16:30:</span> Session 2</li>
+	<li class="m-schedule-title margin-top-lg">Sunday 18th October</li>
+	<li><span class="m-schedule-time">12:30 - 15:30:</span> Session 3</li>
+</ul> -->
+
 ## RSVP
 
 <div class="row">
@@ -57,11 +67,7 @@ RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India
 		<ul class="m-prices-includedList list-unstyled margin-top-xs">
 			<li>
 				<img src="/assets/icons/check.svg">
-				Butts
-			</li>
-			<li>
-				<img src="/assets/icons/minus.svg">
-				No Smoothies :(
+				Yoga Mats (£3 surcharge on the day, or bring your own)
 			</li>
 		</ul>
 	</div>

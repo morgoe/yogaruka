@@ -49,6 +49,12 @@ RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India
 
 ___________________
 
+<div class="m-blog-imageWrapper">
+	<figure class="m-blog-image image-small right">
+		<img src="/assets/images/workshops/plymouth-merudanda/smoothie.jpg">
+	</figure>
+</div>
+
 The second part of this double-workshop - of about 60’ - is something even juicier. No, really. 
 
 Smoothies are a fantastic way to grab a quick breakfast - or even snack - that is packed with the nutrients and energy you’ll need to see you through several hours of your day. During our workshop, we take a slightly more scientific approach to smoothie making, and you will learn not only which ingredients are good for your body, but why they are good and how the body uses them. We deconstruct the smoothies into bases (liquid), fruit, vedge, nuts/seeds and optional additional supplements, and learn how to create the perfect healthy smoothie-as-a-full-meal for you. Our fruit and veggies will be supplied by Riverford Organic Farms, and supplements by Goodness Unearthed – all 100% organic and BS-free!
@@ -63,6 +69,16 @@ Smoothies are a fantastic way to grab a quick breakfast - or even snack - that i
 
 Plymouth-born nutritionist and recipe developer. On a journey of study and discovery of the secrets of healthy diets for all and each of us. Also working to become a certified PT.
 
+<!-- ## Schedule
+
+<ul class="m-schedule u-text-center">
+	<li class="m-schedule-title">Saturday 17th October</li>
+	<li><span class="m-schedule-time">10:00 - 13:00:</span> Session 1</li>
+	<li><span class="m-schedule-time">13:30 - 16:30:</span> Session 2</li>
+	<li class="m-schedule-title margin-top-lg">Sunday 18th October</li>
+	<li><span class="m-schedule-time">12:30 - 15:30:</span> Session 3</li>
+</ul> -->
+
 ## RSVP
 
 <div class="row">
@@ -71,11 +87,7 @@ Plymouth-born nutritionist and recipe developer. On a journey of study and disco
 		<ul class="m-prices-includedList list-unstyled margin-top-xs">
 			<li>
 				<img src="/assets/icons/check.svg">
-				Butts
-			</li>
-			<li>
-				<img src="/assets/icons/check.svg">
-				Smoothies
+				Yoga Mats (£3 surcharge on the day, or bring your own)
 			</li>
 		</ul>
 	</div>
