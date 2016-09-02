@@ -8,10 +8,11 @@ categories:
 title: 'Merudanda — Rebuilding the Spine'
 location: 'Plymouth, UK'
 dates: '17<span class="superscript">th</span> September 2016'
-description: 'Let us take you to a magical place in the heart of the Ourika Valley - an exclusive eco-retreat an hour out of Marrakesh into the Atlas Mountains. Old Greek legends say Atlas was the rebel Titan that Zeus punished, turning his body into rock to hold the heavens on his shoulders.'
+description: 'Kurt Cobain thought his scoliosis - which he attributed to poor posture while playing guitar - brought anger to his music. In a good way. An interesting approach to Nirvana, eh? Well, we think having a healthy back is just so much better.'
 
 permalink: /workshops/merudanda-rebuilding-the-spine/
 cover-image: workshopPlymouthMerudanda
+social-image: workshops/plymouth-merudanda/thumbnail.jpg
 ---
 
 Kurt Cobain thought his scoliosis - which he attributed to poor posture while playing guitar - brought anger to his music. In a good way. An interesting approach to Nirvana, eh? Well, we think having a healthy back is just so much better. Hence during this 120-minute yoga fusion workshop, we’re planning to take you on a special kind of trip: a trip along your spine. It is meant to help you acquire awareness of your posture, of how breath influences it, of how all the tiny, subtle movements that turn into habits can influence it. 

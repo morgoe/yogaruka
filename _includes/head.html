@@ -27,8 +27,8 @@
 		<meta property="og:url"              content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 		<link rel="canonical"                href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	{% if page.image %}
-		<meta name="twitter:image"         content="{{ site.url }}/assets/images/{{ page.image }}">
-		<meta property="og:image"          content="{{ site.url }}/assets/images/{{ page.image }}">
+		<meta name="twitter:image"         content="{{ site.url }}/assets/images/{{ page.social-image }}">
+		<meta property="og:image"          content="{{ site.url }}/assets/images/{{ page.social-image }}">
 	{% else %}
 		<meta name="twitter:image"         content="{{ site.url }}/assets/images/home/video.jpg">
 		<meta property="og:image"          content="{{ site.url }}/assets/images/home/video.jpg">

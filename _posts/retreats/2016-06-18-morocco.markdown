@@ -12,7 +12,7 @@ description: 'Let us take you to a magical place in the heart of the Ourika Vall
 
 permalink: /retreats/reclaim-yourself-marrakech-september-2016/
 cover-image: retreatMorocco
-image: retreats/2016-september-morocco/thumbnail.jpg
+social-image: retreats/2016-september-morocco/thumbnail.jpg
 ---
 
 <header class="m-retreat-header js-jumpTo-wrapper">

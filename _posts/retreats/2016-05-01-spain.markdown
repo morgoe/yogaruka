@@ -11,6 +11,7 @@ dates: '1<span class="superscript">st</span> - 7<span class="superscript">th</sp
 
 permalink: /retreats/reclaim-yourself-cadiz-may-2016/
 cover-image: retreatSpain
+social-image: retreats/2016-may-spain/thumbnail.jpg
 ---
 
 <header class="m-retreat-header js-jumpTo-wrapper">

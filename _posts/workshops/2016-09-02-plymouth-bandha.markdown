@@ -8,10 +8,11 @@ categories:
 title: 'Bandha — Exploring the Core'
 location: 'Plymouth, UK'
 dates: '18<span class="superscript">th</span> September 2016'
-description: 'Let us take you to a magical place in the heart of the Ourika Valley - an exclusive eco-retreat an hour out of Marrakesh into the Atlas Mountains. Old Greek legends say Atlas was the rebel Titan that Zeus punished, turning his body into rock to hold the heavens on his shoulders.'
+description: "Your core is your motion stabiliser and force transfer center - it's what keeps you going even while not moving. Against common belief, it includes much more than your abdominal wall muscles, such as: your rib muscles, para-vetrebral muscles, but also the profound diaphragm, the pelvic floor, the elusive psoas, the glutes... It also constitutes your foundation, the centre of your balance and stability and even sense of self. But office jobs and modern lifestyle leave it weak."
 
 permalink: /workshops/bandha-exploring-the-core/
 cover-image: workshopPlymouthBandha
+social-image: workshops/plymouth-bandha/thumbnail.jpg
 ---
 
 <div class="m-blog-imageWrapper">

@@ -9,6 +9,7 @@ description: 'In May this year (2016, for those reading from the future), togeth
 
 permalink: /blog/impressions-of-a-first-yoga-retreat/
 cover-image: blogSpain
+social-image: blog/spain-review/thumbnail.jpg
 ---
 
 In May this year (2016, for those reading from the future), my partner Karen and I wrote our first full-length yoga retreat. 
