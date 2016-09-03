@@ -48,8 +48,8 @@ Going through this 120' intense session with Rua will teach you the appropriate 
 ### Rua Hvitulv
 
 <div class="m-blog-imageWrapper">
-	<figure class="m-blog-image image-small">
-		<img src="/assets/images/about/rua.jpg">
+	<figure class="m-blog-image right">
+		<img src="/assets/images/about/rua1.jpg">
 	</figure>
 </div>
 

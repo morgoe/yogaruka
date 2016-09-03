@@ -42,8 +42,8 @@ Good thing this workshop comes to save you and - pun intended - rock you to your
 ### Rua Hvitulv
 
 <div class="m-blog-imageWrapper">
-	<figure class="m-blog-image image-small">
-		<img src="/assets/images/about/rua.jpg">
+	<figure class="m-blog-image right">
+		<img src="/assets/images/about/rua1.jpg">
 	</figure>
 </div>
 
