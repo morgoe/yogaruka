@@ -83,7 +83,7 @@ Our fruit and veggies will be supplied by [Riverford Organic Farms](http://www.r
 	</figure>
 </div>
 
-Plymouth-born nutritionist and recipe developer. On a journey of study and discovery of the secrets of healthy diets for all and each of us. Also working to become a certified PT.
+Plymouth-born nutritionist and recipe developer. On a journey of study and research to unveil the secrets of an optimal diet for humans as a whole and then as individuals. Also preparing at the moment to obtain her PT certification. Yogi and lover of all things healthy.
 
 ## Schedule
 
