@@ -49,6 +49,35 @@ Good thing this workshop comes to save you and - pun intended - rock you to your
 
 RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India), Rua has integrated her original studies with other yoga lineages (Yin, Iyengar), Functional training and Kinesiology. Co-founder of the itinerant study YogaRuka that organizes exclusive seminars and yoga retreats around the world, her motto is "Reclaim yourself" and her style - a dynamic fusion of elements from yoga, Pilates, physio, mixed breathing techniques, meditation and mindfulness.
 
+___________________
+
+<div class="m-blog-imageWrapper">
+	<figure class="m-blog-image image-small right">
+		<img src="/assets/images/workshops/plymouth-bandha/smoothie.jpg">
+	</figure>
+</div>
+
+Our second foodies session is dedicated to smoothies for healthy skin, hair, joints, heart, and more. We'll start with a little presentation on protein synthesis to get a better understanding of why it's so important to fuel our bodies with the stuff they need. And we'll explain how eating poorly affects our bodies over time.
+
+We'll take a look at:
+<ul class="list-bullets">
+	<li>how to listen to our bodies and recognise what subtle signs to look for</li>
+	<li>what cravings mean and how to overcome them *without* eating a whole tub of ice-cream</li>
+	<li>how you can whip up a smoothie to help a specific function within the body by understanding how it all works</li>
+</ul>
+
+Our fruit and veggies will be supplied by [Riverford Organic Farms](http://www.riverford.co.uk/), amazing birch water by [Treevitalise](http://www.treevitalise.com/) and supplements by [Goodness Unearthed](http://www.potatogoodness.com/) – all 100% **organic** and BS-free!
+
+### Charlotte Jane
+
+<div class="m-blog-imageWrapper">
+	<figure class="m-blog-image image-small">
+		<img src="/assets/images/workshops/plymouth-merudanda/charlotte.jpg">
+	</figure>
+</div>
+
+Plymouth-born nutritionist and recipe developer. On a journey of study and discovery of the secrets of healthy diets for all and each of us. Also working to become a certified PT.
+
 ## Schedule
 
 <ul class="m-schedule">
@@ -61,6 +90,12 @@ RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India
 </ul>
 
 ## Venue
+
+<div class="m-blog-imageWrapper">
+	<figure class="m-blog-image right">
+		<img src="/assets/images/workshops/plymouth-bandha/cover.jpg">
+	</figure>
+</div>
 
 [Dartington Hall](https://goo.gl/maps/c4bv1NjBy9J2) is an inspiring destination near Totnes, Devon, where you can remove yourself from the hustle and bustle of modern life.
 

@@ -86,6 +86,12 @@ Plymouth-born nutritionist and recipe developer. On a journey of study and disco
 
 ## Venue
 
+<div class="m-blog-imageWrapper">
+	<figure class="m-blog-image right">
+		<img src="/assets/images/workshops/plymouth-merudanda/cover.jpg">
+	</figure>
+</div>
+
 [Dartington Hall](https://goo.gl/maps/c4bv1NjBy9J2) is an inspiring destination near Totnes, Devon, where you can remove yourself from the hustle and bustle of modern life.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2540.408482882613!2d-3.698362084356603!3d50.4521176951259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486d1ccd8364e3eb%3A0x6542dfeeb1f8fa22!2sDartington+Hall%2C+Totnes+TQ9+6ED%2C+UK!5e0!3m2!1sen!2sau!4v1472899660929" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
