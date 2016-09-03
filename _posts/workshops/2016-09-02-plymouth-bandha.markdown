@@ -66,6 +66,12 @@ We'll take a look at:
 	<li>how you can whip up a smoothie to help a specific function within the body by understanding how it all works</li>
 </ul>
 
+And you'll get to eat:
+<ul class="list-bullets">
+	<li>smoothie for healthy joints (to help you recover from all that yoga!)</li>
+	<li>gaspacho</li>
+</ul>
+
 Our fruit and veggies will be supplied by [Riverford Organic Farms](http://www.riverford.co.uk/), amazing birch water by [Treevitalise](http://www.treevitalise.com/) and supplements by [Goodness Unearthed](http://www.potatogoodness.com/) – all 100% **organic** and BS-free!
 
 ### Charlotte Jane

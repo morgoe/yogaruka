@@ -61,6 +61,12 @@ The second part of this double-workshop - of about 60’ - is something even jui
 
 Smoothies are a fantastic way to grab a quick breakfast - or even snack - that is packed with the nutrients and energy you’ll need to see you through several hours of your day. During our workshop, we take a slightly more scientific approach to smoothie making, and you will learn not only which ingredients are good for your body, but why they are good and how the body uses them. We deconstruct the smoothies into bases (liquid), fruit, vedge, nuts/seeds and optional additional supplements, and learn how to create the perfect healthy smoothie-as-a-full-meal for you. 
 
+Included is:
+<ul class="list-bullets">
+	<li>healthy breakfast smoothie</li>
+	<li>light salad</li>
+</ul>
+
 Our fruit and veggies will be supplied by [Riverford Organic Farms](http://www.riverford.co.uk/), amazing birch water by [Treevitalise](http://www.treevitalise.com/) and supplements by [Goodness Unearthed](http://www.potatogoodness.com/) – all 100% **organic** and BS-free!
 
 ### Charlotte Jane
