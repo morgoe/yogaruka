@@ -58,7 +58,7 @@ RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India
 ___________________
 
 <div class="m-blog-imageWrapper">
-	<figure class="m-blog-image image-small right has-noBorder">
+	<figure class="m-blog-image image-small right">
 		<img src="/assets/images/workshops/plymouth-merudanda/smoothie.jpg">
 	</figure>
 </div>
