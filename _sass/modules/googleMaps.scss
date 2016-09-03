@@ -1,0 +1,20 @@
+.m-googleMaps {
+	position: relative;
+	clear: both;
+}
+.m-googleMaps-overlay {
+	background: transparent;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	cursor: pointer;
+	&:hover {
+		box-shadow: 0 6px 30px rgba($brown-30, 0.25);
+	}
+}
+.m-googleMaps-iframe {
+	display: block;
+	margin: 0;
+}
