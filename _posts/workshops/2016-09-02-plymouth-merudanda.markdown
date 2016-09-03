@@ -104,7 +104,7 @@ Plymouth-born nutritionist and recipe developer. On a journey of study and resea
 	</figure>
 </div>
 
-[Dartington Hall](https://goo.gl/maps/c4bv1NjBy9J2) is an inspiring destination near Totnes, Devon, where you can remove yourself from the hustle and bustle of modern life.
+[Dartington Hall](https://goo.gl/maps/c4bv1NjBy9J2) is an inspiring Devon destination, where you can remove yourself from the hustle and bustle of modern life. Situated right near Totnes and close to the Dartmoor National Park, it is comfortably reachable from anywhere Plymouth to Exeter.
 
 <div class="m-googleMaps">
 	<div class="m-googleMaps-overlay" onClick="style.pointerEvents='none'"></div>

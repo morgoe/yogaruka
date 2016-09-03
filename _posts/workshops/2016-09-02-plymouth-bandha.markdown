@@ -24,7 +24,7 @@ social-image: workshops/plymouth-bandha/thumbnail.jpg
 
 Your core is your motion stabiliser and force transfer center - it's what keeps you going even while not moving. Against common belief, it includes much more than your abdominal wall muscles, such as: your rib muscles, para-vetrebral muscles, but also the profound diaphragm, the pelvic floor, the elusive psoas, the glutes... It also constitutes your foundation, the centre of your balance and stability and even sense of self. But office jobs and modern lifestyle leave it weak.
 
-Also yoga can often confuses us with suggestions like, "relax your bum” - not a great idea since gaining a soft posterior will in time only help destabilise you.
+Also yoga can often confuse us with suggestions like, "relax your bum” - not a great idea since gaining a soft posterior will in time only help destabilise you.
 
 Good thing this workshop comes to save you and - pun intended - rock you to your core! Going through this 100' intense session with Rua will give you the appropriate tools to:
 
@@ -103,7 +103,7 @@ Plymouth-born nutritionist and recipe developer. On a journey of study and resea
 	</figure>
 </div>
 
-[Dartington Hall](https://goo.gl/maps/c4bv1NjBy9J2) is an inspiring destination near Totnes, Devon, where you can remove yourself from the hustle and bustle of modern life.
+[Dartington Hall](https://goo.gl/maps/c4bv1NjBy9J2) is an inspiring Devon destination, where you can remove yourself from the hustle and bustle of modern life. Situated right near Totnes and close to the Dartmoor National Park, it is comfortably reachable from anywhere Plymouth to Exeter.
 
 <div class="m-googleMaps">
 	<div class="m-googleMaps-overlay" onClick="style.pointerEvents='none'"></div>
