@@ -6,7 +6,7 @@ categories:
 - events
 
 title: 'Bandha — Exploring the Core'
-location: 'Plymouth, UK'
+location: 'Totnes, UK'
 dates: '18<span class="superscript">th</span> September 2016'
 description: "Your core is your motion stabiliser and force transfer center - it's what keeps you going even while not moving. Against common belief, it includes much more than your abdominal wall muscles, such as: your rib muscles, para-vetrebral muscles, but also the profound diaphragm, the pelvic floor, the elusive psoas, the glutes... It also constitutes your foundation, the centre of your balance and stability and even sense of self. But office jobs and modern lifestyle leave it weak."
 
@@ -49,15 +49,22 @@ Good thing this workshop comes to save you and - pun intended - rock you to your
 
 RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India), Rua has integrated her original studies with other yoga lineages (Yin, Iyengar), Functional training and Kinesiology. Co-founder of the itinerant study YogaRuka that organizes exclusive seminars and yoga retreats around the world, her motto is "Reclaim yourself" and her style - a dynamic fusion of elements from yoga, Pilates, physio, mixed breathing techniques, meditation and mindfulness.
 
-<!-- ## Schedule
+## Schedule
 
-<ul class="m-schedule u-text-center">
+<ul class="m-schedule">
 	<li class="m-schedule-title">Saturday 17th October</li>
-	<li><span class="m-schedule-time">10:00 - 13:00:</span> Session 1</li>
-	<li><span class="m-schedule-time">13:30 - 16:30:</span> Session 2</li>
+	<li><span class="m-schedule-time">10:30am - 12:30pm:</span> Merudanda Yoga Session</li>
+	<li><span class="m-schedule-time">12:30am - 1:30pm:</span> Healthy Breakfasts & Smoothies</li>
 	<li class="m-schedule-title margin-top-lg">Sunday 18th October</li>
-	<li><span class="m-schedule-time">12:30 - 15:30:</span> Session 3</li>
-</ul> -->
+	<li><span class="m-schedule-time">1:00pm - 2:45pm</span> Bandha Yoga Session</li>
+	<li><span class="m-schedule-time">2:45pm - 3:45pm</span> Food for Healing the Body</li>
+</ul>
+
+## Venue
+
+[Dartington Hall](https://goo.gl/maps/c4bv1NjBy9J2) is an inspiring destination near Totnes, Devon, where you can remove yourself from the hustle and bustle of modern life.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2540.408482882613!2d-3.698362084356603!3d50.4521176951259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486d1ccd8364e3eb%3A0x6542dfeeb1f8fa22!2sDartington+Hall%2C+Totnes+TQ9+6ED%2C+UK!5e0!3m2!1sen!2sau!4v1472899660929" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## RSVP
 
@@ -67,7 +74,15 @@ RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India
 		<ul class="m-prices-includedList list-unstyled margin-top-xs">
 			<li>
 				<img src="/assets/icons/check.svg">
-				Yoga Mats (£3 surcharge on the day, or bring your own)
+				Light lunch / degustation
+			</li>
+			<li>
+				<img src="/assets/icons/check.svg">
+				Organic birch water to rehydrate throughout
+			</li>
+			<li>
+				<img src="/assets/icons/check.svg">
+				Yoga mats (£2 surcharge/day, or bring your own)
 			</li>
 		</ul>
 	</div>
