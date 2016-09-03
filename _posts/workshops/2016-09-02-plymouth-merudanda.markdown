@@ -28,6 +28,12 @@ From compulsive treadmill runners down to couch potatoes, yoga has been proven t
 
 Come to our brilliant workshop to discover how to comfortably tie those shoelaces again, without wincing or tumbling over. Even lie your forehead on your knees while you’re at it, since it’s a nice party trick. 
 
+<div class="m-blog-imageWrapper">
+	<figure class="m-blog-image image-small right">
+		<img src="/assets/images/workshops/plymouth-merudanda/yoga.jpg">
+	</figure>
+</div>
+
 Going through this 120' intense session with Rua will teach you the appropriate strategies to:
 
 <ul class="list-bullets">
