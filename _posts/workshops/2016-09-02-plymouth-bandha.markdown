@@ -87,10 +87,10 @@ Plymouth-born nutritionist and recipe developer. On a journey of study and resea
 ## Schedule
 
 <ul class="m-schedule">
-	<li class="m-schedule-title">Saturday 17th October</li>
+	<li class="m-schedule-title">Saturday 17th September</li>
 	<li><span class="m-schedule-time">10:30am - 12:30pm:</span> Merudanda Yoga Session</li>
 	<li><span class="m-schedule-time">12:30am - 1:30pm:</span> Healthy Breakfasts & Smoothies</li>
-	<li class="m-schedule-title margin-top-lg">Sunday 18th October</li>
+	<li class="m-schedule-title margin-top-lg">Sunday 18th September</li>
 	<li><span class="m-schedule-time">1:00pm - 2:45pm</span> Bandha Yoga Session</li>
 	<li><span class="m-schedule-time">2:45pm - 3:45pm</span> Food for Healing the Body</li>
 </ul>
