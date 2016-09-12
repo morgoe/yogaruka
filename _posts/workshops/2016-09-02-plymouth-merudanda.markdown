@@ -2,17 +2,20 @@
 layout: event
 site-nav: workshops
 categories:
-- workshops
-- events
-
-title: 'Merudanda — Rebuilding the Spine'
+  - workshops
+  - events
+title: Merudanda — Rebuilding the Spine
 location: 'Totnes, UK'
-dates: '17<span class="superscript">th</span> September 2016'
-description: 'Kurt Cobain thought his scoliosis - which he attributed to poor posture while playing guitar - brought anger to his music. In a good way. An interesting approach to Nirvana, eh? Well, we think having a healthy back is just so much better.'
-
+dates: 17<span class="superscript">th</span> September 2016
+description: >-
+  Kurt Cobain thought his scoliosis - which he attributed to poor posture while
+  playing guitar - brought anger to his music. In a good way. An interesting
+  approach to Nirvana, eh? Well, we think having a healthy back is just so much
+  better.
 permalink: /workshops/merudanda-rebuilding-the-spine/
 cover-image: workshopPlymouthMerudanda
 social-image: workshops/plymouth-merudanda/thumbnail.jpg
+published: true
 ---
 
 Kurt Cobain thought his scoliosis - which he attributed to poor posture while playing guitar - brought anger to his music. In a good way. An interesting approach to Nirvana, eh? Well, we think having a healthy back is just so much better. Hence during this 120-minute yoga fusion workshop, we’re planning to take you on a special kind of trip: a trip along your spine. It is meant to help you acquire awareness of your posture, of how breath influences it, of how all the tiny, subtle movements that turn into habits can influence it. 
@@ -53,7 +56,7 @@ Going through this 120' intense session with Rua will teach you the appropriate 
 	</figure>
 </div>
 
-RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India), Rua has integrated her original studies with other yoga lineages (Yin, Iyengar), Functional training and Kinesiology. Co-founder of the itinerant study YogaRuka that organizes exclusive seminars and yoga retreats around the world, her motto is "Reclaim yourself" and her style - a dynamic fusion of elements from yoga, Pilates, physio, mixed breathing techniques, meditation and mindfulness.
+RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India), Rua has integrated her original studies with other yoga lineages (Yin, Iyengar), Functional training and Kinesiology. Co-founder of the itinerant study YogaRuka that organizes exclusive seminars and yoga retreats around the world under the "Reclaim yourself" motto, her style is a dynamic fusion of elements from yoga, Pilates, physio, mixed breathing techniques, meditation and mindfulness.
 
 ___________________
 
