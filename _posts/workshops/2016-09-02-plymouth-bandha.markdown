@@ -5,14 +5,21 @@ categories:
 - past-workshops
 - past-events
 
-title: 'Bandha — Exploring the Core'
+title: Bandha — Exploring the Core
 location: 'Totnes, UK'
-dates: '18<span class="superscript">th</span> September 2016'
-description: "Your core is your motion stabiliser and force transfer center - it's what keeps you going even while not moving. Against common belief, it includes much more than your abdominal wall muscles, such as: your rib muscles, para-vetrebral muscles, but also the profound diaphragm, the pelvic floor, the elusive psoas, the glutes... It also constitutes your foundation, the centre of your balance and stability and even sense of self. But office jobs and modern lifestyle leave it weak."
-
+dates: 18<span class="superscript">th</span> September 2016
+description: >-
+  Your core is your motion stabiliser and force transfer center - it's what
+  keeps you going even while not moving. Against common belief, it includes much
+  more than your abdominal wall muscles, such as: your rib muscles,
+  para-vetrebral muscles, but also the profound diaphragm, the pelvic floor, the
+  elusive psoas, the glutes... It also constitutes your foundation, the centre
+  of your balance and stability and even sense of self. But office jobs and
+  modern lifestyle leave it weak.
 permalink: /workshops/bandha-exploring-the-core/
 cover-image: workshopPlymouthBandha
 social-image: workshops/plymouth-bandha/thumbnail.jpg
+published: true
 ---
 
 <div class="m-blog-imageWrapper">
@@ -47,8 +54,7 @@ Good thing this workshop comes to save you and - pun intended - rock you to your
 	</figure>
 </div>
 
-RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India), Rua has integrated her original studies with other yoga lineages (Yin, Iyengar), Functional training and Kinesiology. Co-founder of the itinerant study YogaRuka that organizes exclusive seminars and yoga retreats around the world, her motto is "Reclaim yourself" and her style - a dynamic fusion of elements from yoga, Pilates, physio, mixed breathing techniques, meditation and mindfulness.
-
+RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India), Rua has integrated her original studies with other yoga lineages (Yin, Iyengar), Functional training and Kinesiology. Co-founder of the itinerant study YogaRuka that organizes exclusive seminars and yoga retreats around the world under the "Reclaim yourself" motto, her style is a dynamic fusion of elements from yoga, Pilates, physio, mixed breathing techniques, meditation and mindfulness.
 ___________________
 
 <div class="m-blog-imageWrapper">
