@@ -2,8 +2,8 @@
 layout: event
 site-nav: workshops
 categories:
-- workshops
-- events
+- past-workshops
+- past-events
 
 title: 'Merudanda — Rebuilding the Spine'
 location: 'Totnes, UK'
@@ -133,6 +133,6 @@ Plymouth-born nutritionist and recipe developer. On a journey of study and resea
 	</div>
 </div>
 
-{% include paypal-workshop-plymouth.html %}
+{% include workshop-form-expired.html %}
 
 [before-after]: /assets/images/workshops/plymouth-merudanda/cartoon.png

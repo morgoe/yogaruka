@@ -2,8 +2,8 @@
 layout: event
 site-nav: workshops
 categories:
-- workshops
-- events
+- past-workshops
+- past-events
 
 title: 'Bandha — Exploring the Core'
 location: 'Totnes, UK'
@@ -132,4 +132,4 @@ Plymouth-born nutritionist and recipe developer. On a journey of study and resea
 	</div>
 </div>
 
-{% include paypal-workshop-plymouth.html %}
+{% include workshop-form-expired.html %}
