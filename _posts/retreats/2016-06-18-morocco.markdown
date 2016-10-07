@@ -2,8 +2,8 @@
 layout: default
 site-nav: retreats
 categories:
-- retreats
-- events
+- past-retreats
+- past-events
 
 title: 'Reclaim Yourself — Nature Wellness Retreat'
 location: 'Marrakech, Morocco'
@@ -363,7 +363,7 @@ social-image: retreats/2016-september-morocco/thumbnail.jpg
 
 	<p class="center">YogaRuka commit to donate a minimum 10% of their profits to support the nature and the local communities in the Atlas area.</p>
 	
-	{% include retreat-form-2016-september-morocco.html %}
+	{% include retreat-form-expired.html %}
 
 	<p class="center">By purchasing this deposit, you accept and agree to our <a href="terms/" target="_blank">terms and conditions</a>. Don't worry, they're not scary!</p>
 
