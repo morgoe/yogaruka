@@ -120,7 +120,7 @@ social-image: retreats/2016-september-morocco/thumbnail.jpg
 
 				<p>The retreat is located in the National Park of Toubkal, Morocco. This is about an hour from the Marrakesh airport or 1h 15 mins from Marrakesh medina (old city).</p>
 
-				<p>Marrakesh Menara International Airport is served by many standard and low cost companies (from Air Berlin to Ryanair to Vueling) with <strong>hundreds of daily direct flights</strong> from the whole of Europe, and some Arabic countries. We are here to help you find the best traveling option so please don’t hesitate to ask.</p>
+				<p>Marrakesh Menara International Airport is served by many standard and low cost companies (from Air Berlin to Ryanair to Vueling) with hundreds of daily direct flights from the whole of Europe, and some Arabic countries. We are here to help you find the best traveling option so please don’t hesitate to ask.</p>
 
 				<figure class="m-accordion-image">
 					<img src="/assets/images/retreats/2016-september-morocco/landscape.jpg">
