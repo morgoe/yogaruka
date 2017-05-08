@@ -107,15 +107,23 @@ function initExternalLinks() {
 
 
 /* Formspree Contact Form */
-$(document).on('click', '#form-submit', function(e){
-	e.preventDefault(); // prevent the form to do the post.
-
-	var contactForm = $("#form")[0],
+function sendContactForm(){
+	var contactForm = $("#form-contact")[0],
 	inputName = $("#form-name"),
 	inputEmail = $("#form-email"),
 	inputChoice = $("#form-choice"),
 	inputMessage = $("#form-message"),
+	inputReferredBy = $("#form-referred-by"),
+	inputSubsNewsPromo = $("#form-subs-news-promo"),
 	sendButton = $("#form-submit");
+
+	if (inputSubsNewsPromo.is(":checked"))
+	{
+	  // it is checked
+	  inputSubsNewsPromo = "Subscribe to our newsletter and promotion";
+	}else{
+		inputSubsNewsPromo = "No subscribe";
+	}
 
 	sendButton.text("Sending...");
 
@@ -130,12 +138,14 @@ $(document).on('click', '#form-submit', function(e){
 		"name=" + inputName.val() +
 		"&email=" + inputEmail.val() +
 		"&choice=" + inputChoice.val() +
+		"&Referredby=" + inputReferredBy.val() +
+		"&subscribe=" + inputSubsNewsPromo +
 		"&message=" + inputMessage.val());
 
 	xhr.onloadend = function (res) {
 		if (res.target.status === 200){
-			$('#form').addClass('success');
-			$('#form-feedback').html('Thanks for contacting us!<br> We’ll be in touch within 24 hours.');
+			$('#form-contact').addClass('has-feedback');
+			$('#form-feedback-contact').addClass('success').html('Thanks for contacting us!<br> We’ll be in touch within 24 hours.');
 
 			// Clear form values
 			inputName.val('');
@@ -144,13 +154,18 @@ $(document).on('click', '#form-submit', function(e){
 			inputMessage.val('');
 		}
 		else {
-			$('#form').addClass('error');
-			$('#form-feedback').html(res.target.responseText["error"]);
+			console.log(res.target.status);
+			$('#form-feedback-contact').addClass('error');
+			$('#form-feedback-contact').html(res.target.responseText["error"]);
 			sendButton.text("Submit");			
-			$('#form-feedback').html('Something went wrong.<br> Please double check your details.');
+			$('#form-feedback-contact').html('Something went wrong.<br> Please double check your details.');
 		}
 		setTimeout(function() {
 			sendButton.text("Submit");
 		}, 1000);
 	}
-});
+}
+/* Reset error message contact form */
+$(".form-control").click(function(){
+	$("#form-feedback-contact").removeClass("error").empty();
+})

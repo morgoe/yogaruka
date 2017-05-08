@@ -2,7 +2,7 @@
 	padding: $rhythm / 2;
 	background: white;
 	box-shadow: $shadow;
-	&.success {
+	&.has-feedback {
 		.form-group {
 			display: none;
 		}
@@ -27,9 +27,9 @@
 		color: $pink;
 		background: rgba($pink, 0.1);
 		margin-bottom: 1.5em;
+		display: block;
 	}
-	.error &,
-	.success & {
+	.has-feedback & {
 		display: block;
 	}
 }
@@ -45,4 +45,8 @@
 }
 #mce-success-response:not([style*="display:none"]) ~ * {
 	display: none;
+}
+/* karen */
+.g-recaptcha{
+	visibility:hidden;
 }

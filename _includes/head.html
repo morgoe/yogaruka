@@ -51,4 +51,39 @@
 	<!-- End Facebook Pixel Code -->
 
 	<link rel="stylesheet" href="{{ "/assets/css/my.css" | prepend: site.baseurl }}">
+
+	<!-- recaptcha for contact form -->
+	<script>
+	  function onSubmit(token) {
+	  	console.debug("send contact form");//DEBUG
+	  }
+
+	  function validate(event) {
+	    event.preventDefault();
+	    var requiredField = [];
+	    $('form#form-contact').find('input').each(function(){
+		    if(!$(this).prop('required')){
+		        console.log("No required field");//DEBUG
+		    } else {
+		        if (!$(this).val()) {
+			      requiredField.push($(this).name);
+			    }
+		    }
+		});
+	    if (requiredField.length !== 0) {
+	    	
+	      	$("#form-feedback-contact").addClass("error").html("Please fill in the * required fields");
+	    } else {
+	    	sendContactForm();
+	      grecaptcha.execute();
+	    }
+	  }
+
+	  function onload() {
+	    var element = document.getElementById('form-submit');
+	    element.onclick = validate;
+	  }
+	</script>
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<!-- end recaptcha for contact form -->
 </head>
