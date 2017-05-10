@@ -101,7 +101,7 @@ $('.tabs-link').click(function(e) {
 initExternalLinks();
 function initExternalLinks() {
 	$(document.links).filter(function() {
-	    return this.hostname != window.location.hostname;
+		return this.hostname != window.location.hostname;
 	}).attr('target', '_blank');
 }
 
@@ -111,19 +111,10 @@ function sendContactForm(){
 	var contactForm = $("#form-contact")[0],
 	inputName = $("#form-name"),
 	inputEmail = $("#form-email"),
-	inputChoice = $("#form-choice"),
 	inputMessage = $("#form-message"),
 	inputReferredBy = $("#form-referred-by"),
-	inputSubsNewsPromo = $("#form-subs-news-promo"),
+	inputSubscribe = $("#form-subscribe"),
 	sendButton = $("#form-submit");
-
-	if (inputSubsNewsPromo.is(":checked"))
-	{
-	  // it is checked
-	  inputSubsNewsPromo = "Subscribe to our newsletter and promotion";
-	}else{
-		inputSubsNewsPromo = "No subscribe";
-	}
 
 	sendButton.text("Sending...");
 
@@ -137,15 +128,14 @@ function sendContactForm(){
 	xhr.send(
 		"name=" + inputName.val() +
 		"&email=" + inputEmail.val() +
-		"&choice=" + inputChoice.val() +
-		"&Referredby=" + inputReferredBy.val() +
-		"&subscribe=" + inputSubsNewsPromo +
+		"&referredBy=" + inputReferredBy.val() +
+		"&subscribe=" + inputSubscribe.is(':checked') +
 		"&message=" + inputMessage.val());
 
 	xhr.onloadend = function (res) {
 		if (res.target.status === 200){
 			$('#form-contact').addClass('has-feedback');
-			$('#form-feedback-contact').addClass('success').html('Thanks for contacting us!<br> We’ll be in touch within 24 hours.');
+			$('#form-feedback').addClass('success').html('Thanks for contacting us!<br> We’ll be in touch within 24 hours.');
 
 			// Clear form values
 			inputName.val('');
@@ -154,18 +144,39 @@ function sendContactForm(){
 			inputMessage.val('');
 		}
 		else {
-			console.log(res.target.status);
-			$('#form-feedback-contact').addClass('error');
-			$('#form-feedback-contact').html(res.target.responseText["error"]);
+			$('#form-feedback').addClass('error');
+			$('#form-feedback').html(res.target.responseText["error"]);
 			sendButton.text("Submit");			
-			$('#form-feedback-contact').html('Something went wrong.<br> Please double check your details.');
+			$('#form-feedback').html('Something went wrong.<br> Please double check your details.');
 		}
 		setTimeout(function() {
 			sendButton.text("Submit");
 		}, 1000);
 	}
 }
-/* Reset error message contact form */
-$(".form-control").click(function(){
-	$("#form-feedback-contact").removeClass("error").empty();
-})
+
+function validateForm(event) {
+	event.preventDefault();
+	var $form = $('#form-contact');
+	var $formFeedback = $form.find('#form-feedback');
+
+	$formFeedback.removeClass("error").empty(); // Reset validation
+
+	var requiredField = [];
+	$form.find('.form-control').each(function(){
+		if ($(this).prop('required')) {
+			if (!$(this).val()) {
+			  requiredField.push($(this));
+			}
+		}
+	});
+	if (requiredField.length) {
+		$formFeedback.addClass("error").html('Please fill in your ' + requiredField[0].attr('placeholder').toLowerCase() + '.');
+	} else {
+		sendContactForm();
+	}
+}
+
+$('#form-submit').click(function(event) {
+	validateForm(event);
+});

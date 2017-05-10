@@ -24,8 +24,19 @@ select {
 	}
 	.no-touch &:focus,
 	.touch &:focus {
-		background: white;
+		background-color: white;
 		outline: none;
 		border-bottom-color: $blue-90;
+	}
+}
+select.form-control {
+	background-image: url('/assets/icons/select-dropdown.svg');
+	background-size: 24px;
+	background-repeat: no-repeat;
+	background-position: center right;
+
+	.no-touch &:focus,
+	.touch &:focus {
+		background-image: url('/assets/icons/select-dropdown-focus.svg');
 	}
 }
