@@ -7,7 +7,7 @@ permalink: /about/
 
 <h5>YogaRuka is a yoga studio run by <a href="#rua">Rua Hvitulv</a> and <a href="#karen">Karen Pasquel</a>.</h5>
 
-## Rua
+## Ruxandra
 
 I have always been scientifically inclined and skeptical to a fault. Thus it came as a big surprise for those who knew me to hear I had gone to India to become a yoga teacher. Abandoning a very promising - and joyless - career in corporate IT, in Australia.
 
