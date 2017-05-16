@@ -1,8 +1,8 @@
-.m-retreatList {
+.EventList {
 	list-style: none;
 	max-width: none;
 }
-.m-retreatList-link {
+.EventList-link {
 	display: block;
 	position: relative;
 	padding: $rhythm / 2;
@@ -26,24 +26,24 @@
 		opacity: 0.85;
 	}
 }
-.m-retreatList-title {
+.EventList-title {
 	font-size: 1.66rem;
 	font-style: italic;
 	margin-top: 0.25rem;
 }
-.m-retreatList-info {
+.EventList-info {
 	font-size: 14px;
 	font-family: $font-sans;
 }
 
 @media (min-width: 768px) {
-	.m-retreatList-info {
+	.EventList-info {
 		font-size: 16px;
 	}
 }
 
 @media (min-width: 1024px) {
-	.m-retreatList-title {
+	.EventList-title {
 		font-size: 2.5rem;
 	}
 

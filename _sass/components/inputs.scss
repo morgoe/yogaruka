@@ -1,10 +1,4 @@
-.form-group {
-	@include clearfix();
-}
-select {
-	width: 100%;
-}
-.form-control {
+.input {
 	letter-spacing: inherit;
 	line-height: normal;
 	border-radius: 0;
@@ -29,7 +23,7 @@ select {
 		border-bottom-color: $blue-90;
 	}
 }
-select.form-control {
+select.input {
 	background-image: url('/assets/icons/select-dropdown.svg');
 	background-size: 24px;
 	background-repeat: no-repeat;

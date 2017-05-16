@@ -9,12 +9,12 @@ permalink: /retreats/
 
 <h2>Past Retreats</h2>
 
-<ul class="m-retreatList margin-top-sm">
+<ul class="EventList margin-top-sm">
 {% for post in site.categories['past-retreats'] %}
-	<li class="m-retreatList-row">
-		<a class="m-retreatList-link {% if post.cover-image %}coverImage-{{ post.cover-image }}-sm{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
-			<p class="m-retreatList-info">{{ post.dates }} in {{ post.location }}</p>
-			<h3 class="m-retreatList-title">{{ post.title }}</h3>
+	<li class="EventList-row">
+		<a class="EventList-link {% if post.cover-image %}EventList--{{ post.cover-image }}{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
+			<p class="EventList-info">{{ post.dates }} in {{ post.location }}</p>
+			<h3 class="EventList-title">{{ post.title }}</h3>
 		</a>
 	</li>
 {% endfor %}

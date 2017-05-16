@@ -1,8 +1,8 @@
-.m-googleMaps {
+.googleMaps {
 	position: relative;
 	clear: both;
 }
-.m-googleMaps-overlay {
+.googleMaps-overlay {
 	background: transparent;
 	position: absolute;
 	top: 0;
@@ -14,7 +14,7 @@
 		box-shadow: 0 6px 30px rgba($brown-30, 0.25);
 	}
 }
-.m-googleMaps-iframe {
+.googleMaps-iframe {
 	display: block;
 	margin: 0;
 }

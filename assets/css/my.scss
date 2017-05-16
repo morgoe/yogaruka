@@ -14,11 +14,13 @@
 // // Components
 @import 'components/layout';
 @import 'components/defaults';
+@import 'components/forms';
 @import 'components/inputs';
 @import 'components/buttons';
 @import 'components/images';
 @import 'components/tabs';
 @import 'components/cards';
+@import 'components/googleMaps';
 
 // // Plugins
 @import 'plugins/instantClick';
@@ -27,20 +29,17 @@
 // // Modules
 @import 'modules/header';
 @import 'modules/Page';
+@import 'modules/BackgroundImages';
 @import 'modules/misc';
-@import 'modules/form';
 @import 'modules/hero';
 @import 'modules/home';
-@import 'modules/googleMaps';
 @import 'modules/accordion';
 @import 'modules/schedule';
 @import 'modules/faqs';
 @import 'modules/prices';
-@import 'modules/coverImages';
 @import 'modules/retreat';
 @import 'modules/reviews';
-@import 'modules/flexTable';
-@import 'modules/retreatList';
+@import 'modules/EventList';
 @import 'modules/blog';
 
 // // Utilities

@@ -1,4 +1,4 @@
-.m-form {
+.form {
 	padding: $rhythm / 2;
 	background: white;
 	box-shadow: $shadow;
@@ -8,13 +8,16 @@
 		}
 	}
 }
-.m-form-description,
-.m-form {
+.form-group {
+	@include clearfix();
+}
+.form-description,
+.form {
 	max-width: 480px;
 	margin-left: auto;
 	margin-right: auto;
 }
-.m-form-feedback {
+.form-feedback {
 	display: none;
 	text-align: center;
 	padding: 5px 9px 5px;

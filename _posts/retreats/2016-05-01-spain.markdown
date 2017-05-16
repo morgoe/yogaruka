@@ -1,6 +1,6 @@
 ---
 layout: default
-site-nav: retreats
+site-nav: events
 categories:
 - past-retreats
 - past-events
