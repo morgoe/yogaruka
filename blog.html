@@ -1,18 +1,18 @@
 ---
 layout: page
-site-nav: blog
-title:  "Blog"
-permalink: /blog/
+site-nav: posts
+title:  "Posts"
+permalink: /posts/
 ---
 
 <h2 class="h5">Recent Blog Posts</h2>
 
-<ul class="m-retreatList margin-top-sm">
+<ul class="EventList margin-top-sm">
 {% for post in site.categories['blog'] %}
-	<li class="m-retreatList-row">
-		<a class="m-retreatList-link {% if post.cover-image %}coverImage-{{ post.cover-image }}-sm{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
-			<p class="m-retreatList-info">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
-			<h3 class="m-retreatList-title">{{ post.title }}</h3>
+	<li class="EventList-row">
+		<a class="EventList-link {% if post.cover-image %}EventList-link--{{ post.cover-image }}{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
+			<p class="EventList-info">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
+			<h3 class="EventList-title">{{ post.title }}</h3>
 		</a>
 	</li>
 {% endfor %}

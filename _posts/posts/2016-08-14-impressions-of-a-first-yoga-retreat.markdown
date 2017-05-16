@@ -1,6 +1,6 @@
 ---
 layout: post
-site-nav: blog
+site-nav: posts
 categories:
 - blog
 
