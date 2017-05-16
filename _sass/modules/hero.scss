@@ -1,8 +1,7 @@
 .m-hero {
 	position: relative;
 	overflow: hidden;
-	margin: -$rhythm / 2;
-	margin-bottom: 0 !important;
+	background: rgba(black, 0.25);
 	padding: $rhythm * 2 $rhythm / 2;
 	z-index: 1;
 	+ section {
@@ -39,14 +38,10 @@
 
 @media (min-width: 768px) {
 	.m-hero {
-		margin: -$rhythm;
 		padding: $rhythm * 6 $rhythm * 3;
 	}
 }
 @media (min-width: 1024px) {
-	.m-hero {
-		margin: -$rhythm * 1.5;
-	}
 	.m-hero-photo {
 		top: -$rhythm * 3;
 		left: -$rhythm * 3;

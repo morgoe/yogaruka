@@ -1,27 +1,17 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
+  <body class="Page" {% if page.body-id %}id="{{ page.body-id }}"{% endif %}>
+    <div class="Page-background {% if page.cover-image %}coverImage-{{ page.cover-image }}{% endif %}"></div>
+    <div class="Page-border" id="jumpTo-top">
+     	{% include header.html %}
+  		<div id="content" class="margin-top-0">
 
-  <body {% if page.body-id %}id="{{ page.body-id }}"{% endif %}>
+  			{{ content }}
 
-    <div class="background {% if page.cover-image %}coverImage-{{ page.cover-image }}{% endif %}"></div>
-    
-    <div class="border-container" id="jumpTo-top">
-
-   	{% include header.html %}
-
-		<div id="content" class="margin-top-0">
-
-			{{ content }}
-		</div>
-
+  		</div>
     </div>
-
     {% include footer.html %}
-
     {% include foot.html %}
-
   </body>
-
 </html>

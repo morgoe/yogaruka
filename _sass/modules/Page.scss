@@ -1,0 +1,52 @@
+.Page {
+	position: relative;
+	overflow-x: hidden;
+	background: white;
+	max-width: $max-width;
+	margin: 0 auto;
+}
+.Page-background {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-position: top center;
+	background-size: cover;
+	z-index: -1;
+}
+.Page-border {
+	position: relative;
+	margin-top: 0;
+	overflow: hidden;
+	box-shadow: $shadow;
+}
+.Page-hero,
+.Page-content {
+	margin-top: 0;
+	padding: $rhythm / 2;
+}
+.Page-content {
+	background: $brown-90;
+}
+@media (min-width: 768px) {
+	.Page-border {
+		margin: $rhythm;
+		border: $rhythm solid white;
+		overflow: visible;
+	}
+	.Page-hero,
+	.Page-content {
+		padding: $rhythm;
+	}
+}
+@media (min-width: 1024px) {
+	.Page-border {
+		margin: $rhythm * 1.5;
+		border: $rhythm * 1.5 solid white;
+	}
+	.Page-hero,
+	.Page-content {
+		padding: $rhythm * 1.5;
+	}
+}

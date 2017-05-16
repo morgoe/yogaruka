@@ -3,13 +3,12 @@ layout: default
 body-class: hero
 ---
 
-<section class="m-hero">
+<section class="Page-hero m-hero">
 	<div class="m-hero-text u-text-antialiase">
-		<!-- <h5>1<span class="superscript">st</span> - 7<span class="superscript">th</span> May 2016</h5> -->
 		<h1 class="margin-top-0">{{ page.title }}</h1>
 	</div>
-
-	<div class="m-hero-photo {% if page.cover-image %}coverImage-{{ page.cover-image }}{% endif %}">
 </section>
 
-{{ content }}
+<article class="Page-content">
+	{{ content }}
+</article>
