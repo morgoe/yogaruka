@@ -3,28 +3,32 @@ layout: default
 body-id: home
 ---
 
-<div class="m-home-video" data-vide-bg="/assets/images/home/video.mp4" data-vide-options="posterType: jpg"></div>
+<div class="Home-video-wrapper">
+	<video class="Home-video" playsinline autoplay muted loop poster="/assets/images/home/video.jpg">
+		<source src="/assets/images/home/video.mp4">
+	</video>
+</div>
 
 <div class="u-text-antialiase">
-	<header class="m-home-header">
-		<h1 class="m-home-logo">Yoga Ruka</h1>
+	<header class="Home-header">
+		<h1 class="Home-logo">Yoga Ruka</h1>
 	</header>
 
-	<nav class="m-home-nav">
-		<a class="m-home-link" href="/about/">About</a>
-		<a class="m-home-link hidden-sm" href="/retreats/">Retreats</a>
-		<a class="m-home-link hidden-sm" href="/workshops/">Workshops</a>
-		<a class="m-home-link hidden-md-up" href="/events/">Events</a>
-		<a class="m-home-link" href="/reviews/">Reviews</a>
-		<a class="m-home-link" href="/blog/">Blog</a>
-		<a class="m-home-link" href="/contact/">Contact</a>
-		<a class="m-home-link is-social" href="https://www.facebook.com/yogaruka/">
+	<nav class="Home-nav">
+		<a class="Home-link" href="/about/">About</a>
+		<a class="Home-link hidden-sm" href="/retreats/">Retreats</a>
+		<a class="Home-link hidden-sm" href="/workshops/">Workshops</a>
+		<a class="Home-link hidden-md-up" href="/events/">Events</a>
+		<a class="Home-link" href="/reviews/">Reviews</a>
+		<a class="Home-link" href="/blog/">Blog</a>
+		<a class="Home-link" href="/contact/">Contact</a>
+		<a class="Home-link is-social" href="https://www.facebook.com/yogaruka/">
 			<img src="/assets/icons/facebook-white.svg">
 		</a>
-		<a class="m-home-link is-social" href="https://www.instagram.com/yogaruka/">
+		<a class="Home-link is-social" href="https://www.instagram.com/yogaruka/">
 			<img src="/assets/icons/instagram-white.svg">
 		</a>
-		<a class="m-home-link is-social" href="https://twitter.com/yogarukastudio">
+		<a class="Home-link is-social" href="https://twitter.com/yogarukastudio">
 			<img src="/assets/icons/twitter-white.svg">
 		</a>
 	</nav>
