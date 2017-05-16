@@ -14,7 +14,7 @@ cover-image: retreatSpain
 social-image: retreats/2016-may-spain/thumbnail.jpg
 ---
 
-<header class="m-retreat-header js-jumpTo-wrapper">
+<header class="Retreat-header js-jumpTo-wrapper">
 	<ul class="nav nav-tabs">
 		<li>
 			<a class="js-jumpTo" href="#jumpTo-top">Top</a>
@@ -52,8 +52,8 @@ social-image: retreats/2016-may-spain/thumbnail.jpg
 	</ul>
 </header>
 
-<section class="Page-hero m-hero m-retreat-hero">
-	<div class="m-hero-text u-text-antialiase">
+<section class="Page-hero Hero Retreat-hero">
+	<div class="Hero-text u-text-antialiase">
 		<h6>{{ page.dates }}</h6>
 		<h1>Reclaim Yourself</h1>
 		<h3>Nature Yoga Retreat in Cádiz</h3>

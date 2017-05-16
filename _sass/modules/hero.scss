@@ -1,4 +1,4 @@
-.m-hero {
+.Hero {
 	position: relative;
 	overflow: hidden;
 	background: rgba(black, 0.25);
@@ -8,11 +8,11 @@
 		margin-top: $rhythm;
 	}
 }
-.m-hero-text {
+.Hero-text {
 	color: white;
 	text-shadow: 0 2px 4px rgba(black,0.2)
 }
-.m-hero-photo {
+.Hero-photo {
 	position: relative;
 	background: $brown-30;
 	background-size: cover;
@@ -37,12 +37,12 @@
 }
 
 @media (min-width: 768px) {
-	.m-hero {
+	.Hero {
 		padding: $rhythm * 6 $rhythm * 3;
 	}
 }
 @media (min-width: 1024px) {
-	.m-hero-photo {
+	.Hero-photo {
 		top: -$rhythm * 3;
 		left: -$rhythm * 3;
 		right: -$rhythm * 3;

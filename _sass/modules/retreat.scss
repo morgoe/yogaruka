@@ -1,5 +1,5 @@
-.m-retreat-hero {
-	.m-hero-text {
+.Retreat-hero {
+	.Hero-text {
 		max-width: 700px;
 		margin: 0 auto;
 	}
@@ -18,7 +18,7 @@
 		font-size: 1.33rem;
 	}
 }
-.m-retreat-header {
+.Retreat-header {
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -60,13 +60,13 @@
 }
 
 @media (min-width: 768px) {
-	.m-retreat-header {
+	.Retreat-header {
 		left: $rhythm;
 		right: $rhythm;
 	}
 }
 @media (min-width: 1024px) {
-	.m-retreat-header {
+	.Retreat-header {
 		left: $rhythm * 1.5;
 		right: $rhythm * 1.5;
 		max-width: calc(1440px - #{$rhythm * 3});

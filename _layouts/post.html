@@ -3,8 +3,8 @@ layout: default
 body-class: hero
 ---
 
-<section class="m-hero">
-	<div class="m-hero-text u-text-antialiase">
+<section class="Hero">
+	<div class="Hero-text u-text-antialiase">
 		<h6 class="sans-serif">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</h6>
 		<h1 class="margin-top-0">{{ page.title }}</h1>
 	</div>
@@ -18,8 +18,4 @@ body-class: hero
 	<hr class="margin-top-lg margin-bottom-lg">
 
 	{% include newsletter-signup.html %}
-
-	<hr class="margin-top-lg">
-
-	{% include upcoming-retreats.html %}
 </div>
