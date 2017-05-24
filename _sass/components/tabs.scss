@@ -27,8 +27,6 @@
 	padding: 2px 6px;
 }
 .tabs-content {
-	max-width:100%;
-	p{@extend .tabs-content;}
 }
 .tabs-pane {
 	display: none;

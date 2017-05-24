@@ -4,32 +4,39 @@ site-nav: yoga
 title:  "Yoga"
 permalink: /yoga/
 ---
-<ul class="tabs">
-	<li class="tabs-listItem active">
-		<a class="tabs-link" href="#timetable">Timetable</a>
-	</li>
-	<li class="tabs-listItem">
-		<a class="tabs-link" href="#classes">Classes</a>
-	</li>
-	<li class="tabs-listItem">	
-		<a class="tabs-link" href="#corporate">Corporate</a>
-	</li>
-	<li class="tabs-listItem">
-		<a class="tabs-link" href="#prices">Prices</a>
-	</li>
-</ul>
+
+<div class="tabs-wrapper">
+	<ul class="tabs">
+		<li class="tabs-listItem active">
+			<a class="tabs-link" href="#timetable">Timetable</a>
+		</li>
+		<li class="tabs-listItem">
+			<a class="tabs-link" href="#classes">Classes</a>
+		</li>
+		<li class="tabs-listItem">
+			<a class="tabs-link" href="#services">Additional Services</a>
+		</li>
+		<li class="tabs-listItem">
+			<a class="tabs-link" href="#packages">Packages</a>
+		</li>
+		<li class="tabs-listItem">
+			<a class="tabs-link" href="#prices">Prices</a>
+		</li>
+	</ul>
+</div>
 
 <ul class="tabs-content">
-	
 	<li class="tabs-pane active" id="timetable">
 		<p>
 			We also offer memberships and packages that are not available through the Mindbody app. Please contact us to purchase or find out more.
 		</p>
-		<div class="card">
+
+		<div class="card Timetable">
 			<script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
 			<healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="73387482d3c" data-widget-version="0.1"></healcode-widget>
-		</div> 
+		</div>
 	</li>
+
 	<li class="tabs-pane" id="classes">
 		<h3>
 			Dynamic Fusion Flow
@@ -103,9 +110,15 @@ permalink: /yoga/
 			Yoga Brunch
 		</h3>
 	</li>
-	<li class="tabs-pane" id="corporate">
-		corporate www
+
+	<li class="tabs-pane" id="services">
+		services
 	</li>
+
+	<li class="tabs-pane" id="packages">
+		packages
+	</li>
+
 	<li class="tabs-pane" id="prices">
 		prices
 	</li>
