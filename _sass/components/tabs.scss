@@ -1,30 +1,52 @@
+.tabs-wrapper {
+	margin: 0 #{-$rhythm/2};
+	margin-bottom: $spacing-lg;
+	@include overflow-x();
+	.tabs {
+		&:before,
+		&:after {
+			content: "";
+			width: $rhythm/2;
+			background: transparent;
+			@include flex-shrink(0);
+		}
+	}
+}
 .tabs {
 	@include flexbox();	
-	border-bottom: 2px solid rgba($brown-30, 0.2);
+	white-space: nowrap;
 }
 .tabs-listItem {
-	margin-top: 0;
-	margin-bottom: -2px;
+	@include flexbox();
 	@include flex-basis(0);
 	@include flex-grow(1);
 	text-align: center;
 	+ .tabs-listItem {
-		margin-left: 1rem;
+		&:before {
+			content: "";
+			width: 1rem;
+			@include flex-shrink(0);
+			border-bottom: 2px solid rgba($brown-30, 0.25);
+		}
 	}
 	&:hover .tabs-link {
 		border-color: $blue-90;
+		opacity: 1;
 	}
 	&.active .tabs-link {
 		color: $pink;
 		border-color: $pink;
+		opacity: 1;
 	}
 }
 .tabs-link {
 	display: block;
 	font-family: $font-sans;
 	background: none !important;
-	border-bottom: 2px solid transparent;
+	opacity: 0.5;
+	border-bottom: 2px solid rgba($brown-30, 0.5);
 	padding: 2px 6px;
+	cursor: pointer;
 }
 .tabs-content {
 }

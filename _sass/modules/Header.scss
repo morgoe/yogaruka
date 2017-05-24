@@ -21,17 +21,16 @@ body {
 	height: 100%;
 }
 .Header-link {
-	&,
-	.no-touch &:focus,
-	.no-touch &:hover,
-	.touch &:active {
-		background: none;
+	position: relative;
+	display: inline;
+	line-height: 1.2;
+	&:hover .Header-linkText {
+		border-bottom: 2px solid;
 	}
 	&.active {
 		.Header-linkText {
 			color: $pink;
 			border-bottom: 2px solid;
-
 		}
 	}
 }

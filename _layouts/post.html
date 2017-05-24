@@ -11,11 +11,12 @@ body-class: hero
 </section>
 
 <div class="Page-content">
-	<article class="m-blog-article">
+	<article class="m-blog-article Longform Longform--blogpost">
 		{{ content }}
 	</article>
-
-	<hr class="margin-top-lg margin-bottom-lg">
-
-	{% include newsletter-signup.html %}
+	
+	{% if page.include-newsletter-signup %}
+		<hr>
+		{% include newsletter-signup.html %}
+	{% endif %}
 </div>

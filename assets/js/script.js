@@ -174,7 +174,7 @@ function validateForm(event) {
 	$formFeedback.removeClass("error").empty(); // Reset validation
 
 	var requiredField = [];
-	$form.find('.form-control').each(function(){
+	$form.find('.input').each(function(){
 		if ($(this).prop('required')) {
 			if (!$(this).val()) {
 			  requiredField.push($(this));

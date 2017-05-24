@@ -2,6 +2,9 @@
 	list-style: none;
 	max-width: none;
 }
+.EventList-row {
+	margin-top: $spacing-lg;
+}
 .EventList-link {
 	display: block;
 	position: relative;

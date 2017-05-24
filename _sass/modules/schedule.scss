@@ -1,6 +1,7 @@
-.m-schedule {
+.Schedule {
 	background: rgba($brown-30, 0.1);
 	padding: $rhythm / 2;
+	margin-top: $rhythm;
 	margin-left: -$rhythm / 2;
 	margin-right: -$rhythm / 2;
 	font-family: $font-mono;
@@ -12,10 +13,10 @@
 	-webkit-font-smoothing: subpixel-antialiased;
 	-moz-osx-font-smoothing: auto;
 }
-.m-schedule-time {
+.Schedule-time {
 	opacity: 0.6;
 }
-.m-schedule-title {
+.Schedule-title {
 	color: $blue-45;
 	font-weight: bold;
 }

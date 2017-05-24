@@ -10,6 +10,7 @@
 }
 .form-group {
 	@include clearfix();
+	margin-bottom: $rhythm;
 }
 .form-description,
 .form {
@@ -29,7 +30,7 @@
 	&.error {
 		color: $pink;
 		background: rgba($pink, 0.1);
-		margin-bottom: 1.5em;
+		margin-bottom: $rhythm;
 		display: block;
 	}
 	.has-feedback & {

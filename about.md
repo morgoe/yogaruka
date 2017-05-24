@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About
 site-nav: about
 permalink: /about/

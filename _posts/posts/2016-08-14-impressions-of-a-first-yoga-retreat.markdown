@@ -10,6 +10,8 @@ description: 'In May this year (2016, for those reading from the future), togeth
 permalink: /blog/impressions-of-a-first-yoga-retreat/
 cover-image: blogSpain
 social-image: blog/spain-review/thumbnail.jpg
+
+include-newsletter-signup: true
 ---
 
 In May this year (2016, for those reading from the future), my partner Karen and I wrote our first full-length yoga retreat. 
@@ -47,7 +49,7 @@ We found, moreover, it created a disposition of compassion toward nature, even i
 ### 2. Joining forces with another yoga business 
 
 <div class="m-blog-imageWrapper">
-	<div class="m-blog-image padding-md padding-top-0 margin-top-0 right">
+	<div class="m-blog-image p--md p-top--0 right">
 		<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BE-mJd2JWyM/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">We overcome limitation when we change our perspective #yogaeverywhere #yogaretreat</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A video posted by Yogaruka (@yogaruka) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-05-04T08:08:05+00:00">May 4, 2016 at 1:08am PDT</time></p></div></blockquote>
 		<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 	</div>
@@ -64,8 +66,8 @@ We began our retreat with a full anatomical assessment of the participants, to e
 ### 4. Offering one-to-one classes
 
 <div class="m-blog-imageWrapper">
-	<div class="m-blog-image padding-md padding-top-0">
-		<div class="m-review-listItem padding-md margin-top-0">
+	<div class="m-blog-image p--md p-top--0">
+		<div class="m-review-listItem p--md m-top--0">
 			<header class="m-review-header">
 				<img class="m-review-avatar" src="/assets/images/reviews/morgan.jpg">
 				<div class="m-review-caption">
@@ -159,7 +161,7 @@ Finally, we learned (again – we never grow tired of learning this lesson) that
 
 As Dalai Lama put it, “If it can be solved, there’s no need to worry. If it can’t be solved, there’s no need to worry.”
 
-<div class="m-review-listItem padding-md">
+<div class="m-review-listItem p--md">
 	<header class="m-review-header">
 		<img class="m-review-avatar" src="/assets/images/reviews/jin.jpg">
 		<div class="m-review-caption">

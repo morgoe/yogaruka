@@ -60,9 +60,9 @@ social-image: retreats/2016-may-spain/thumbnail.jpg
 	</div>
 </section>
 
-<div class="Page-content">
+<div class="Page-content Longform">
 	<section>
-		<h2>Do good to your spirit and good to the planet by joining this one of a kind retreat</h2>
+		<h2 class="m-bottom--md">Do good to your spirit and good to the planet by joining this one of a kind retreat</h2>
 
 		<div class="row">
 			<div class="col-sm-5 col-md-6 col-lg-7">
@@ -87,7 +87,7 @@ social-image: retreats/2016-may-spain/thumbnail.jpg
 	<section>
 		<h2>General Information</h2>
 
-		<div class="iframe-wrapper">
+		<div class="iframe-wrapper m-top--md">
 			<div class="iframe">
 				<iframe src="https://www.youtube.com/embed/aKOKTurGi_A" frameborder="0" allowfullscreen></iframe>
 			</div>
@@ -157,19 +157,19 @@ social-image: retreats/2016-may-spain/thumbnail.jpg
 
 					<p>Beginners will be offered a wonderful (re)introduction to the practice of yoga and the more advanced will have a chance to revisit and enrich their practice with perhaps a(n) new/alternate vision. <strong>Individual attention and options customised in the classroom environment</strong> will ensure you enjoy a safe yet challenging experience.</p>
 
-					<ul class="m-schedule">
-						<li><span class="m-schedule-time">06:30</span> Suggested wakeup time</li>
-						<li><span class="m-schedule-time">07:00</span> Pranayama (15 min)</li>
-						<li><span class="m-schedule-time">07:15</span> Dynamic Vinyasa Flow (60 min)</li>
-						<li><span class="m-schedule-time">08:30</span> Breakfast</li>
-						<li><span class="m-schedule-time">09:30</span> Free time / other activities *</li>
-						<li><span class="m-schedule-time">13:30</span> Lunch</li>
-						<li><span class="m-schedule-time">14:30</span> Free time </li>
-						<li><span class="m-schedule-time">15:30</span> Raw Vegan Cuisine Workshop by Karen (optional - 45 min)</li>
-						<li><span class="m-schedule-time">16:15</span> Free time / other activities *</li>
-						<li><span class="m-schedule-time">18:15</span> Evening Hatha or Yin (60 min) </li>
-						<li><span class="m-schedule-time">19:15</span> Yogic Meditation (15-25 min)</li>
-						<li><span class="m-schedule-time">19:40</span> Dinner</li>
+					<ul class="Schedule">
+						<li><span class="Schedule-time">06:30</span> Suggested wakeup time</li>
+						<li><span class="Schedule-time">07:00</span> Pranayama (15 min)</li>
+						<li><span class="Schedule-time">07:15</span> Dynamic Vinyasa Flow (60 min)</li>
+						<li><span class="Schedule-time">08:30</span> Breakfast</li>
+						<li><span class="Schedule-time">09:30</span> Free time / other activities *</li>
+						<li><span class="Schedule-time">13:30</span> Lunch</li>
+						<li><span class="Schedule-time">14:30</span> Free time </li>
+						<li><span class="Schedule-time">15:30</span> Raw Vegan Cuisine Workshop by Karen (optional - 45 min)</li>
+						<li><span class="Schedule-time">16:15</span> Free time / other activities *</li>
+						<li><span class="Schedule-time">18:15</span> Evening Hatha or Yin (60 min) </li>
+						<li><span class="Schedule-time">19:15</span> Yogic Meditation (15-25 min)</li>
+						<li><span class="Schedule-time">19:40</span> Dinner</li>
 						<li class="u-text-center">* You can schedule your one-on-one session for individual coaching during these intervals. One session per person during the retreat is included. These sessions are optional but recommended.</li>
 					</ul>
 
@@ -178,21 +178,21 @@ social-image: retreats/2016-may-spain/thumbnail.jpg
 				<li id="jumpTo-faqs">
 					<h3 class="m-accordion-contentTitle">FAQs</h3>
 
-					<ul class="m-faqs margin-top-0">
-						<li class="m-faqs-question">Are activities included in the yoga retreat?</li>
-						<li class="m-faqs-answer">Activities are paid separate, this way you can choose the ones you prefer. Once you arrive, we'll reserve your favorite activities for you.</li>
+					<ul class="faqs">
+						<li class="faqs-question">Are activities included in the yoga retreat?</li>
+						<li class="faqs-answer">Activities are paid separate, this way you can choose the ones you prefer. Once you arrive, we'll reserve your favorite activities for you.</li>
 
-						<li class="m-faqs-question">How can I get to the yoga retreat?</li>
-						<li class="m-faqs-answer">The best option is to rent a car from the airport for your entire stay. It´s cheaper than a taxi and that way you can enjoy the freedom of transportation every day on the retreat.</li>
+						<li class="faqs-question">How can I get to the yoga retreat?</li>
+						<li class="faqs-answer">The best option is to rent a car from the airport for your entire stay. It´s cheaper than a taxi and that way you can enjoy the freedom of transportation every day on the retreat.</li>
 
-						<li class="m-faqs-question">I need a special diet, can you provide it?</li>
-						<li class="m-faqs-answer">Of course! As long as you let us know before your arrival, we can prepare the diet you need. For example, if you are gluten intolerant, vegan, or have any other special diet needs.</li>
+						<li class="faqs-question">I need a special diet, can you provide it?</li>
+						<li class="faqs-answer">Of course! As long as you let us know before your arrival, we can prepare the diet you need. For example, if you are gluten intolerant, vegan, or have any other special diet needs.</li>
 
-						<li class="m-faqs-question">Are cancellations allowed?</li>
-						<li class="m-faqs-answer">You can cancel your reservation up to 60 days before the retreat. If you cancel after the allotted time period you'll lose the deposit or you can transfer it to another guest.</li>
+						<li class="faqs-question">Are cancellations allowed?</li>
+						<li class="faqs-answer">You can cancel your reservation up to 60 days before the retreat. If you cancel after the allotted time period you'll lose the deposit or you can transfer it to another guest.</li>
 
-						<li class="m-faqs-question">What should I bring?</li>
-						<li class="m-faqs-answer">Bring comfortable clothing for practicing yoga, a swimsuit, beach towel, sunscreen, and your yoga mat (although we'll provide one if you don't have).</li>
+						<li class="faqs-question">What should I bring?</li>
+						<li class="faqs-answer">Bring comfortable clothing for practicing yoga, a swimsuit, beach towel, sunscreen, and your yoga mat (although we'll provide one if you don't have).</li>
 					</ul>
 				</li>
 			</ul>
@@ -293,7 +293,7 @@ social-image: retreats/2016-may-spain/thumbnail.jpg
 
 		<div class="row">
 			<div class="col-sm-push-2 col-sm-8 col-md-push-3 col-md-6">
-				<h3>Not included:</h3>
+				<h3 class="m-top--md">Not included:</h3>
 				<ul class="m-prices-includedList margin-top-xs">
 					<li>
 						<img src="/assets/icons/minus.svg">

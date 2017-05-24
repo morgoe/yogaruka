@@ -1,0 +1,51 @@
+.Longform {
+	a {
+		@extend .link;
+	}
+	h1,
+	h2,
+	h3,
+	h4 {
+		clear: both;
+		&:not(:first-child) {
+			margin-top: 1.5em;
+		}
+	}
+}
+.Longform--blogpost {
+	.m-review-listItem,
+	.m-blog-imageWrapper,
+	p,
+	ul {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	ol,
+	ul {
+		@extend .list-bullets;
+	}
+	.m-review-listItem,
+	.m-blog-imageWrapper {
+		max-width: 32rem;
+	}
+	> h2,
+	> h3,
+	> h4 {
+		text-align: center;
+		clear: both;
+	}
+	blockquote {
+		background: none;
+		padding: 0;
+		p {
+			padding-left: 1em;
+			border-left: 2px solid;
+		}
+		+ blockquote {
+			margin-top: 0;
+			p {
+				padding-top: 1.5em;
+			}
+		}
+	}
+}

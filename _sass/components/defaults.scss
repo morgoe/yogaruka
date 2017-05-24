@@ -6,6 +6,10 @@ body {
 	margin: 0 auto;
 }
 a {
+	color: inherit;
+	text-decoration: none;
+}
+.link {
 	position: relative;
 	display: inline;
 	line-height: 1.2;
@@ -66,15 +70,17 @@ ul {
 }
 .list-bullets {
 	list-style: initial;
-	padding-left: 1rem;
+	padding-left: $spacing-md;
+	li {
+		margin-top: $spacing-sm;
+	}
 }
 hr {
 	border: none;
 	border-top: 2px solid $brown-30;
 	opacity: 0.2;
 	max-width: 40rem;
-	margin-left: auto;
-	margin-right: auto;
+	margin: $spacing-xl auto;
 }
 
 // // When selecting a text, it does this:

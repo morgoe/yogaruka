@@ -61,9 +61,9 @@ social-image: retreats/2016-september-morocco/thumbnail.jpg
 	</div>
 </section>
 
-<div class="Page-content">
+<div class="Page-content Longform">
 	<section>
-		<h2>Atlas can carry the heavens on his shoulders, you can restore your lightness!</h2>
+		<h2 class="m-bottom--md">Atlas can carry the heavens on his shoulders, you can restore your lightness!</h2>
 		<div class="row">
 			<div class="col-sm-5 col-md-6 col-lg-7">
 				<figure>
@@ -71,7 +71,7 @@ social-image: retreats/2016-september-morocco/thumbnail.jpg
 				</figure>
 			</div>
 			<div class="col-sm-7 col-md-6 col-lg-5">
-				<blockquote class="right">
+				<blockquote class="right Longform">
 					<p>Let us take you to a <strong>magical place in the heart of the Ourika Valley</strong> - an exclusive eco-retreat an hour out of Marrakesh into the Atlas Mountains. Old Greek legends say Atlas was the rebel Titan that Zeus punished, turning his body into rock to hold the heavens on his shoulders. (You'd never heard of that? Oh let our geeky yoga teacher tell you all about it)</p>
 
 					<p>Join us this end of September for a week that will change you forever: </p>
@@ -194,19 +194,19 @@ social-image: retreats/2016-september-morocco/thumbnail.jpg
 
 					<p>Beginners will be offered a (re)introduction to the practice of yoga and the more advanced will have a chance to revisit and enrich their practice with perhaps a(n) new/alternate vision. Individual attention and <strong>options customised in the classroom environment</strong> will ensure you enjoy a safe yet challenging experience.</p>
 
-					<ul class="m-schedule">
-						<li><span class="m-schedule-time">06:30</span> Suggested wakeup time (please don't cry, the best energising lemonade is waiting for you!) </li>
-						<li><span class="m-schedule-time">07:00</span> Pranayama (15 min)</li>
-						<li><span class="m-schedule-time">07:15</span> Dynamic Yoga Fusion Flow (60 min)</li>
-						<li><span class="m-schedule-time">08:30</span> Berber breakfast</li>
-						<li><span class="m-schedule-time">09:30</span> Awesome activities / Free time *</li>
-						<li><span class="m-schedule-time">13:30</span> Lunch</li>
-						<li><span class="m-schedule-time">14:30</span> More awesome activities *</li>
-						<li><span class="m-schedule-time">15:30</span> Walking meditation through the groves & Moroccan mint tea (you'll become addicted, it's guaranteed)</li>
-						<li><span class="m-schedule-time">16:30</span> Free time / other activities *</li>
-						<li><span class="m-schedule-time">18:15</span> Evening Slow Flow (60 min)</li>
-						<li><span class="m-schedule-time">19:15</span> Yogic Meditation (15-25 min)</li>
-						<li><span class="m-schedule-time">19:40</span> Dinner</li>
+					<ul class="Schedule">
+						<li><span class="Schedule-time">06:30</span> Suggested wakeup time (please don't cry, the best energising lemonade is waiting for you!) </li>
+						<li><span class="Schedule-time">07:00</span> Pranayama (15 min)</li>
+						<li><span class="Schedule-time">07:15</span> Dynamic Yoga Fusion Flow (60 min)</li>
+						<li><span class="Schedule-time">08:30</span> Berber breakfast</li>
+						<li><span class="Schedule-time">09:30</span> Awesome activities / Free time *</li>
+						<li><span class="Schedule-time">13:30</span> Lunch</li>
+						<li><span class="Schedule-time">14:30</span> More awesome activities *</li>
+						<li><span class="Schedule-time">15:30</span> Walking meditation through the groves & Moroccan mint tea (you'll become addicted, it's guaranteed)</li>
+						<li><span class="Schedule-time">16:30</span> Free time / other activities *</li>
+						<li><span class="Schedule-time">18:15</span> Evening Slow Flow (60 min)</li>
+						<li><span class="Schedule-time">19:15</span> Yogic Meditation (15-25 min)</li>
+						<li><span class="Schedule-time">19:40</span> Dinner</li>
 						<li class="u-text-center">* You can schedule your one-on-one session for individual coaching during these intervals. One session per person during the retreat is included. These sessions are optional but recommended.</li>
 					</ul>
 
@@ -215,30 +215,30 @@ social-image: retreats/2016-september-morocco/thumbnail.jpg
 				<li id="jumpTo-faqs">
 					<h3 class="m-accordion-contentTitle">FAQs</h3>
 
-					<ul class="m-faqs margin-top-sm">
-						<li class="m-faqs-question"><strong>Have you guys done this before?</strong></li>
-						<li class="m-faqs-answer">Yes! We did a <a href="/blog/spain/" target="_blank">write-up</a> of our last retreat so you can read all about it (and hear what our students said) and see photos and videos and everything.</li>
+					<ul class="faqs">
+						<li class="faqs-question"><strong>Have you guys done this before?</strong></li>
+						<li class="faqs-answer">Yes! We did a <a href="/blog/spain/" target="_blank">write-up</a> of our last retreat so you can read all about it (and hear what our students said) and see photos and videos and everything.</li>
 						
-						<li class="m-faqs-question">“What if I want more?/What if I want it different?” </li>
-						<li class="m-faqs-answer">Some of the adventures come with option A and option B.  We are confident there will be something you will like on offer.</li>
+						<li class="faqs-question">“What if I want more?/What if I want it different?” </li>
+						<li class="faqs-answer">Some of the adventures come with option A and option B.  We are confident there will be something you will like on offer.</li>
 
-						<li class="m-faqs-question">“How can I get to this awesome yoga retreat of yours?”</li>
-						<li class="m-faqs-answer">We will sync with all participants so we can pick everyone up on a smooth minibus ride from Marrakesh to the National Park. There is NO extra cost involved. Unless you really want to catch a cab and pay for it just because. In the end we can’t argue with that.</li>
+						<li class="faqs-question">“How can I get to this awesome yoga retreat of yours?”</li>
+						<li class="faqs-answer">We will sync with all participants so we can pick everyone up on a smooth minibus ride from Marrakesh to the National Park. There is NO extra cost involved. Unless you really want to catch a cab and pay for it just because. In the end we can’t argue with that.</li>
 
-						<li class="m-faqs-question">“Too bad. I’m flying from New Zealand and the only reasonably affordable combo of flights is getting me to Casablanca.”</li>
-						<li class="m-faqs-answer">Just have a chat with us before organising your flight. We are very resourceful at finding the best options for international transfers. We are itinerant yoga teachers for a reason! Or if you’ve already bought your flight, we can organise a ride from Casablanca for you (it might take over 3.5 hours though) or you can book a cheap national flight from Casablanca to Marrakesh.</li>
+						<li class="faqs-question">“Too bad. I’m flying from New Zealand and the only reasonably affordable combo of flights is getting me to Casablanca.”</li>
+						<li class="faqs-answer">Just have a chat with us before organising your flight. We are very resourceful at finding the best options for international transfers. We are itinerant yoga teachers for a reason! Or if you’ve already bought your flight, we can organise a ride from Casablanca for you (it might take over 3.5 hours though) or you can book a cheap national flight from Casablanca to Marrakesh.</li>
 
-						<li class="m-faqs-question">“I have special dietary requirements, will this be a problem?”</li>
-						<li class="m-faqs-answer">As long as you let us know before your arrival, so we can prepare for the diet you need. Whether you’re gluten intolerant, vegan, or have food allergies, we’ll still find a way to feed you. Oh, there’s kosher goat milk available in the area. No, really. </li>
+						<li class="faqs-question">“I have special dietary requirements, will this be a problem?”</li>
+						<li class="faqs-answer">As long as you let us know before your arrival, so we can prepare for the diet you need. Whether you’re gluten intolerant, vegan, or have food allergies, we’ll still find a way to feed you. Oh, there’s kosher goat milk available in the area. No, really. </li>
 
-						<li class="m-faqs-question">“I tend to change my mind a lot. Also my boss does - when we talk holiday times… Are cancellations allowed?”</li>
-						<li class="m-faqs-answer">You can cancel your reservation up to 40 days before the retreat. If you cancel after the allotted time period you'll lose the deposit, unless you transfer it to another guest, or choose another retreat from those we have on offer. (We do, we do… just wait.)</li>
+						<li class="faqs-question">“I tend to change my mind a lot. Also my boss does - when we talk holiday times… Are cancellations allowed?”</li>
+						<li class="faqs-answer">You can cancel your reservation up to 40 days before the retreat. If you cancel after the allotted time period you'll lose the deposit, unless you transfer it to another guest, or choose another retreat from those we have on offer. (We do, we do… just wait.)</li>
 
-						<li class="m-faqs-question">“What should I bring?”</li>
-						<li class="m-faqs-answer">Bring comfortable clothing, a swimsuit, a beach towel, sunscreen, and good trekking shoes. You can also bring your yoga mat, but only if you’re very committed to your own and think you might absorb someone else’s unwanted energy from ours.</li>
+						<li class="faqs-question">“What should I bring?”</li>
+						<li class="faqs-answer">Bring comfortable clothing, a swimsuit, a beach towel, sunscreen, and good trekking shoes. You can also bring your yoga mat, but only if you’re very committed to your own and think you might absorb someone else’s unwanted energy from ours.</li>
 
-						<li class="m-faqs-question">“Can I bring my dog/cat/rhino?”</li>
-						<li class="m-faqs-answer">The resort is animal friendly, and there is a special area for animals. However you are fully responsible for your animal and for the damage it creates. Be mindful of how a destructive animal might inconvenience your fellow participants.</li>
+						<li class="faqs-question">“Can I bring my dog/cat/rhino?”</li>
+						<li class="faqs-answer">The resort is animal friendly, and there is a special area for animals. However you are fully responsible for your animal and for the damage it creates. Be mindful of how a destructive animal might inconvenience your fellow participants.</li>
 					</ul>
 				</li>
 			</ul>
