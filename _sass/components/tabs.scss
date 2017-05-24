@@ -1,9 +1,8 @@
 .tabs-wrapper {
-	margin: 0 #{-$rhythm/2};
-	margin-bottom: $spacing-lg;
+	margin: 0 #{-$rhythm/2} $spacing-md;
 	@include overflow-x();
 	.tabs {
-		&:before,
+		margin-left: $rhythm/2;
 		&:after {
 			content: "";
 			width: $rhythm/2;
@@ -15,40 +14,40 @@
 .tabs {
 	@include flexbox();	
 	white-space: nowrap;
+	max-width: none;
+	box-shadow: inset 0 -2px $brown-75;
 }
 .tabs-listItem {
 	@include flexbox();
 	@include flex-basis(0);
-	@include flex-grow(1);
 	text-align: center;
-	+ .tabs-listItem {
-		&:before {
-			content: "";
-			width: 1rem;
-			@include flex-shrink(0);
-			border-bottom: 2px solid rgba($brown-30, 0.25);
-		}
+	&:after {
+		content: "";
+		width: 1rem;
+		@include flex-shrink(0);
+		@include flex-grow(1);
+		border-bottom: 2px solid $brown-75;
 	}
 	&:hover .tabs-link {
-		border-color: $blue-90;
-		opacity: 1;
+		color: $brown-30;
+		border-color: initial;
 	}
 	&.active .tabs-link {
 		color: $pink;
-		border-color: $pink;
-		opacity: 1;
+		border-color: initial;
 	}
 }
 .tabs-link {
 	display: block;
 	font-family: $font-sans;
 	background: none !important;
-	opacity: 0.5;
-	border-bottom: 2px solid rgba($brown-30, 0.5);
+	color: $brown-60;
+	border-bottom: 2px solid $brown-75;
 	padding: 2px 6px;
 	cursor: pointer;
 }
 .tabs-content {
+	max-width: none;
 }
 .tabs-pane {
 	display: none;

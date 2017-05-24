@@ -5,6 +5,8 @@ title:  "Yoga"
 permalink: /yoga/
 ---
 
+
+
 <div class="tabs-wrapper">
 	<ul class="tabs">
 		<li class="tabs-listItem active">
@@ -31,13 +33,13 @@ permalink: /yoga/
 			We also offer memberships and packages that are not available through the Mindbody app. Please contact us to purchase or find out more.
 		</p>
 
-		<div class="card Timetable">
+		<div class="card Timetable m-top--md">
 			<script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
 			<healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="73387482d3c" data-widget-version="0.1"></healcode-widget>
 		</div>
 	</li>
 
-	<li class="tabs-pane" id="classes">
+	<li class="tabs-pane Longform" id="classes">
 		<h3>
 			Dynamic Fusion Flow
 		</h3>
@@ -119,8 +121,90 @@ permalink: /yoga/
 		packages
 	</li>
 
-	<li class="tabs-pane" id="prices">
-		prices
+	<li class="tabs-pane Longform" id="prices">
+		<h3>Introductory 3-Week Pass</h3>
+		<p><strong>$39</strong>: available strictly for new students who have not attended yoga classes at YogaRuka before; valid for 21 consecutive days (starting from the date of purchase), one pass per person.</p>
+  
+		<h3>10 Class Pack</h3>
+    	<p><strong>$188</strong>: optimal for those who want to practice occasionally. This pass saves you money (-15% on the full price) and is valid for six months.</p>
+  
+		<h3>Monthly Membership</h3>
+    	<p><strong>$149</strong>: gives you access to unlimited classes - even several daily if you’re up for it - and is the most efficient way for you to begin and/or maintain a consistent practice. Monthly direct debit payments, min. 3 month contract. </p>
+  
+    	<p>Other membership benefits include:</p>
+		
+		<ul class="list-bullets">
+			<li>10% discount off retail products</li>
+			<li>10% discount off workshops, seminars and retreats </li>
+			<li>the option to suspend membership anytime after the first quarter (please see T&C’s)</li>
+			<li>exclusive member deals and offers</li>
+		</ul>
+
+		<h3>Drop-in Class</h3>
+		<p><strong>$22</strong>: welcome to drop-in anytime for a one-off class</p>
+
+		<p>The table below provides the average cost per class for concession categories, based on how many times a week you would be practicing.</p>
+
+		<div class="card m-top--md">
+			<table class="table">
+				<thead>
+					<tr>
+						<th>Type of Pass</th>
+						<th>Total price</th>
+						<th>
+							Price per class<br>
+							@ once a week
+						</th>
+						<th>
+							Price per class<br>
+							@ twice a week
+						</th>
+						<th>
+							Price per class<br>
+							@ thrice a week
+						</th>
+						<th>
+							Price per class<br>
+							@ 4+ times a week
+						</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Introductory pass</td>
+						<td>$39</td>
+						<td>$13</td>
+						<td>$6.5</td>
+						<td>$3.9</td>
+						<td>&lt;$3</td>
+					</tr>
+					<tr>
+						<td>Drop in class</td>
+						<td>$22</td>
+						<td>$22</td>
+						<td>$22</td>
+						<td>$22</td>
+						<td>$22</td>
+					</tr>
+					<tr>
+						<td>10-class pass (-15%)</td>
+						<td>$188</td>
+						<td>$188</td>
+						<td>$188</td>
+						<td>$188</td>
+						<td>$188</td>
+					</tr>
+					<tr>
+						<td>Monthly membership</td>
+						<td>$149</td>
+						<td>$37</td>
+						<td>$18.5</td>
+						<td>$11.5</td>
+						<td>&lt;$8.75</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
 	</li>
 </ul>
 
