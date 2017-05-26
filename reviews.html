@@ -1,21 +1,21 @@
 ---
-layout: page
+layout: post
 site-nav: reviews
 title:  "Reviews"
 permalink: /reviews/
 ---
 
-<ul class="m-review-list">
+<ul class="review-list">
 {% for member in site.data.reviews %}
-	<li class="m-review-listItem p--md">
-		<header class="m-review-header">
-			<img class="m-review-avatar" src="/assets/images/reviews/{{ member.image }}.jpg">
-			<div class="m-review-caption">
-				<h4 class="m-review-name">{{ member.name }}</h4>
-				<div class="m-review-role">{{ member.role }}</div>
+	<li class="review-listItem p--md">
+		<header class="review-header">
+			<img class="review-avatar" src="/assets/images/reviews/{{ member.image }}.jpg">
+			<div class="review-caption">
+				<h4 class="review-name">{{ member.name }}</h4>
+				<div class="review-role">{{ member.role }}</div>
 			</div>
 		</header>
-		<div class="m-review-message">{{ member.message }}</div>
+		<div class="review-message">{{ member.message }}</div>
 	</li>
 {% endfor %}
 </ul>

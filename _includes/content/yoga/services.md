@@ -4,7 +4,21 @@ Private yoga tuition and yoga therapy adjusted to your very specific needs, via 
 It can be held at the YogaRuka studio, at the student’s domicile, or via Skype. 
 Facilitated by any of our teachers at request.
 
-<review by Andrew Pollock-Tape - France/Canada, master brewer>
+<ul class="review-list">
+	{% assign people = site.data.reviews | where:"name", "Andrew Pollock-Tape" %}
+	{% for member in people %}
+		<li class="review-listItem p--md">
+			<header class="review-header">
+				<img class="review-avatar" src="/assets/images/reviews/{{ member.image }}.jpg">
+				<div class="review-caption">
+					<h4 class="review-name">{{ member.name }}</h4>
+					<div class="review-role">{{ member.role }}</div>
+				</div>
+			</header>
+			<div class="review-message">{{ member.message }}</div>
+		</li>
+	{% endfor %}
+</ul>
 
 #### Open - by Donation
 

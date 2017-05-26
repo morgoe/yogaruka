@@ -67,14 +67,14 @@ We began our retreat with a full anatomical assessment of the participants, to e
 
 <div class="m-blog-imageWrapper">
 	<div class="m-blog-image p--md p-top--0">
-		<div class="m-review-listItem p--md m-top--0">
-			<header class="m-review-header">
-				<img class="m-review-avatar" src="/assets/images/reviews/morgan.jpg">
-				<div class="m-review-caption">
-					<h4 class="m-review-name">Morgan</h4>
+		<div class="review-listItem p--md m-top--0">
+			<header class="review-header">
+				<img class="review-avatar" src="/assets/images/reviews/morgan.jpg">
+				<div class="review-caption">
+					<h4 class="review-name">Morgan</h4>
 				</div>
 			</header>
-			<div class="m-review-message">
+			<div class="review-message">
 				<p>A year before this retreat I went to Rishikesh, India to do a four-week yoga teacher training course. I went with the expectation of fantastic healthy food, a beautiful environment in the middle of nature, and peace and quiet. That course didn’t turn out the way I expected, and I was really disappointed. But just one year later, at Rua and Karen’s retreat, I found exactly that.</p>
 			</div>
 		</div>
@@ -161,14 +161,14 @@ Finally, we learned (again – we never grow tired of learning this lesson) that
 
 As Dalai Lama put it, “If it can be solved, there’s no need to worry. If it can’t be solved, there’s no need to worry.”
 
-<div class="m-review-listItem p--md">
-	<header class="m-review-header">
-		<img class="m-review-avatar" src="/assets/images/reviews/jin.jpg">
-		<div class="m-review-caption">
-			<h4 class="m-review-name">Jin</h4>
+<div class="review-listItem p--md">
+	<header class="review-header">
+		<img class="review-avatar" src="/assets/images/reviews/jin.jpg">
+		<div class="review-caption">
+			<h4 class="review-name">Jin</h4>
 		</div>
 	</header>
-	<div class="m-review-message">
+	<div class="review-message">
 		<p>“…we bow to the light of each other, the light within ourselves, the light that we all share, because we are all the same, and Karen sees me from her mat across from me, and she tells me ‘It's okay,’ and I let it go. I let it all go.</p>
 		<p>For a brief moment, I sit in the warmth and understanding and shared experience of the people within the small yoga shala with me, in the beautiful, ancient, alive mountains of Spain, and I cry. I cry, without sorrow, without joy, I just cry, and I feel the relief and the beauty and the meaning of it all. And I take this moment, small and powerful, and I store it deep within myself.”</p>
 		<p class="u-text-right"><a href="http://www.jinntonic.com/secreteuropeantraveljournal/may-5th-day-7-catching-a-breath-not">Keep Reading</a></p>

@@ -17,7 +17,7 @@
 	ul {
 		@extend .list-bullets;
 	}
-	.m-review-listItem,
+	.review-listItem,
 	.m-blog-imageWrapper {
 		max-width: 32rem;
 	}
@@ -37,7 +37,7 @@
 	}
 }
 .Longform--center {
-	.m-review-listItem,
+	.review-listItem,
 	.m-blog-imageWrapper,
 	p,
 	ul {
