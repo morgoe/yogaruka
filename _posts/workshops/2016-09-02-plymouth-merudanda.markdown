@@ -13,7 +13,7 @@ description: >-
   playing guitar - brought anger to his music. In a good way. An interesting
   approach to Nirvana, eh? Well, we think having a healthy back is just so much
   better.
-permalink: /workshops/merudanda-rebuilding-the-spine/
+permalink: /events/merudanda-rebuilding-the-spine/
 cover-image: workshopPlymouthMerudanda
 social-image: workshops/plymouth-merudanda/thumbnail.jpg
 published: true

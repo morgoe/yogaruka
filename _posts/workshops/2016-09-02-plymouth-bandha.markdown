@@ -16,7 +16,7 @@ description: >-
   elusive psoas, the glutes... It also constitutes your foundation, the centre
   of your balance and stability and even sense of self. But office jobs and
   modern lifestyle leave it weak.
-permalink: /workshops/bandha-exploring-the-core/
+permalink: /events/bandha-exploring-the-core/
 cover-image: workshopPlymouthBandha
 social-image: workshops/plymouth-bandha/thumbnail.jpg
 published: true

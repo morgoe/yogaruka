@@ -9,7 +9,7 @@ title:  'Reclaim Yourself — Nature Yoga Retreat'
 location: 'Cádiz, Spain'
 dates: '1<span class="superscript">st</span> - 7<span class="superscript">th</span> May 2016'
 
-permalink: /retreats/reclaim-yourself-cadiz-may-2016/
+permalink: /events/reclaim-yourself-cadiz-may-2016/
 cover-image: retreatSpain
 social-image: retreats/2016-may-spain/thumbnail.jpg
 ---

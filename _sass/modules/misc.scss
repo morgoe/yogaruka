@@ -35,13 +35,16 @@
 	}
 }
 
-.m-footer {
+.Footer {
 	color: $mono-60;
 	background: white;
 	text-align: center;
 	margin-top: 0;
 	font-family: $font-sans;
 	font-size: $font-size-sm;
+	a:hover {
+		text-decoration: underline;
+	}
 }
 
 @media (min-width: 768px) {
@@ -49,7 +52,7 @@
 		left: 0;
 		right: auto;
 	}
-	.m-footer {
+	.Footer {
 		background: none;
 		position: absolute;
 		bottom: 3px;
@@ -58,12 +61,12 @@
 	}
 }
 @media (min-width: 1024px) {
-	.m-footer {
+	.Footer {
 		bottom: 9px;
 	}
 }
 @media (min-width: 1281px) {
-	.m-footer {
+	.Footer {
 		bottom: 12px;
 	}
 }
