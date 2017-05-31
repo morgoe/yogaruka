@@ -32,8 +32,8 @@ From compulsive treadmill runners down to couch potatoes, yoga has been proven t
 
 Come to our brilliant workshop to discover how to comfortably tie those shoelaces again, without wincing or tumbling over. Even lie your forehead on your knees while you’re at it, since it’s a nice party trick. 
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image image-small right">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image image-small right">
 		<img src="/assets/images/workshops/plymouth-merudanda/yoga.jpg">
 	</figure>
 </div>
@@ -51,8 +51,8 @@ Going through this 120' intense session with Rua will teach you the appropriate 
 
 ### Rua Hvitulv
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image right">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image right">
 		<img src="/assets/images/about/rua1.jpg">
 	</figure>
 </div>
@@ -61,8 +61,8 @@ RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India
 
 ___________________
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image image-small right">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image image-small right">
 		<img src="/assets/images/workshops/plymouth-merudanda/smoothie.jpg">
 	</figure>
 </div>
@@ -81,8 +81,8 @@ Our fruit and veggies will be supplied by [Riverford Organic Farms](http://www.r
 
 ### Charlotte Jane
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image image-small">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image image-small">
 		<img src="/assets/images/workshops/plymouth-merudanda/charlotte.jpg">
 	</figure>
 </div>
@@ -102,8 +102,8 @@ Plymouth-born nutritionist and recipe developer. On a journey of study and resea
 
 ## Venue
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image right">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image right">
 		<img src="/assets/images/workshops/plymouth-merudanda/cover.jpg">
 	</figure>
 </div>

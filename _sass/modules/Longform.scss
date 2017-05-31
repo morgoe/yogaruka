@@ -18,8 +18,8 @@
 		@extend .list-bullets;
 	}
 	.review-listItem,
-	.m-blog-imageWrapper {
-		max-width: 32rem;
+	.Blog-imageWrapper {
+		max-width: 40rem;
 	}
 	blockquote {
 		background: none;
@@ -38,7 +38,7 @@
 }
 .Longform--center {
 	.review-listItem,
-	.m-blog-imageWrapper,
+	.Blog-imageWrapper,
 	p,
 	ul {
 		margin-left: auto;
