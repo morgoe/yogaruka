@@ -1,7 +1,7 @@
-.m-blog-imageWrapper {
+.Blog-imageWrapper {
 	margin-top: $spacing-md;
 }
-.m-blog-image {
+.Blog-image {
 	width: 100%;
 	max-width: 480px;
 	margin-left: auto;
@@ -12,7 +12,7 @@
 }
 
 @media (min-width: 1024px) {
-	.m-blog-image {
+	.Blog-image {
 		margin-top: 0;
 		margin-left: 1rem;
 		margin-right: 1rem;
@@ -21,10 +21,10 @@
 			float: right;
 		}
 	}
-	.m-blog-image:not(.right) {
+	.Blog-image:not(.right) {
 	    margin-left: -100px;
 	}
-	.m-blog-image.right {
+	.Blog-image.right {
 	    margin-right: -100px;
 	}
 }

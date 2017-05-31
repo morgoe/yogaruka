@@ -20,8 +20,8 @@ Strange verb to use, I know, for a retreat. Yet it’s pretty much how you go ab
 
 A retreat is pretty much a story that you are putting together to tell the world - the story of a great adventure that is meant to last a week and change you for a lifetime. (Also an adventure you’ll certainly survive, since most people would not be too keen to go if there’s a noted risk to be eaten by a crocodile or fall into a kilometre-deep crevice). An adventure that will offer you genuine occasions to make connections with likeminded individuals and also abundant time to reflect upon, and by, oneself. (The word “retreat” comes from the Latin “retrahere”, which meant “to withdraw”. The meaning of “place of seclusion" is from early XVth century;  "period of retirement for religious self-examination" is from mid-XVIIIth. You’re welcome.) And people that are willing to pass through the looking glass to join you will only have this means - the written story - to recognise it, to gauge if this adventure works for them, if it’s the story they are after, the story that they need.
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image right">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image right">
 		<img src="/assets/images/blog/spain-review/yup-that-s-wine-on-the-table.jpg">
 	</figure>
 </div>
@@ -34,8 +34,8 @@ This article is, more than a recount of the events, a contemplation on the lesso
 
 ### 1. Choosing a hard-to-get-to National Park
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image">
 		<img src="/assets/images/blog/spain-review/salamander.jpg">
 	</figure>
 </div>
@@ -48,8 +48,8 @@ We found, moreover, it created a disposition of compassion toward nature, even i
 
 ### 2. Joining forces with another yoga business 
 
-<div class="m-blog-imageWrapper">
-	<div class="m-blog-image p--md p-top--0 right">
+<div class="Blog-imageWrapper">
+	<div class="Blog-image p--md p-top--0 right">
 		<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BE-mJd2JWyM/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">We overcome limitation when we change our perspective #yogaeverywhere #yogaretreat</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A video posted by Yogaruka (@yogaruka) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-05-04T08:08:05+00:00">May 4, 2016 at 1:08am PDT</time></p></div></blockquote>
 		<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 	</div>
@@ -65,8 +65,8 @@ We began our retreat with a full anatomical assessment of the participants, to e
 
 ### 4. Offering one-to-one classes
 
-<div class="m-blog-imageWrapper">
-	<div class="m-blog-image p--md p-top--0">
+<div class="Blog-imageWrapper">
+	<div class="Blog-image p--md p-top--0">
 		<div class="review-listItem p--md m-top--0">
 			<header class="review-header">
 				<img class="review-avatar" src="/assets/images/reviews/morgan.jpg">
@@ -93,8 +93,8 @@ Since doing one-to-one’s as two-to-one’s meant we were pushed for time, at o
 
 ### 1. Targeting a wider audience, rather than a narrow niche
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image right">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image right">
 		<img src="/assets/images/blog/spain-review/hiking.jpg">
 	</figure>
 </div>
@@ -109,8 +109,8 @@ From experience attending teacher trainings and specialisations, we knew that so
 
 ### 3. Improvising and loose scheduling
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image">
 		<img src="/assets/images/blog/spain-review/first-day-walk.jpg">
 	</figure>
 </div>
@@ -131,8 +131,8 @@ Given our modest following, only a handful of subscribers joined our challenge. 
 
 ### 1. Experience ≠ Professionalism
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image right">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image right">
 		<img src="/assets/images/blog/spain-review/patri-rua.jpg">
 	</figure>
 </div>
@@ -145,8 +145,8 @@ Initially we thought that giving lots of choice amongst activities, allowing peo
 
 ### 3. Differences are to be celebrated
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image">
 		<img src="/assets/images/blog/spain-review/whole_group_last_day.jpg">
 	</figure>
 </div>
