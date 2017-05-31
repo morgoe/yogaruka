@@ -8,7 +8,7 @@
 
 #### Monthly Membership
 
-**$149**: gives you access to **unlimited classes** - even several daily if you’re up for it - and is the most efficient way for you to begin and/or maintain a consistent practice. Monthly direct debit payments, min. 1 month contract. [Terms and conditions](/terms/) apply. 
+**$149**: gives you access to **unlimited classes** - even several daily if you’re up for it - and is the most efficient way for you to begin and/or maintain a consistent practice. Monthly direct debit payments, min. 1 month contract. [Terms and conditions](/terms-and-conditions/) apply. 
 
 Other membership benefits include:
 
@@ -52,8 +52,8 @@ The table below provides the average cost per class for concession categories, b
 				<td>Introductory pass</td>
 				<td>$39</td>
 				<td>$13</td>
-				<td>$6.5</td>
-				<td>$3.9</td>
+				<td>$6.50</td>
+				<td>$3.90</td>
 				<td>&lt;$3</td>
 			</tr>
 			<tr>
@@ -76,8 +76,8 @@ The table below provides the average cost per class for concession categories, b
 				<td>Monthly membership</td>
 				<td>$149</td>
 				<td>$37</td>
-				<td>$18.5</td>
-				<td>$11.5</td>
+				<td>$18.50</td>
+				<td>$11.50</td>
 				<td>&lt;$8.75</td>
 			</tr>
 		</tbody>
@@ -120,8 +120,8 @@ The table below provides the average cost per class for concession categories, b
 				<td>$24</td>
 				<td>$8</td>
 				<td>$4</td>
-				<td>$2.5</td>
-				<td>$1.8</td>
+				<td>$2.50</td>
+				<td>$1.80</td>
 			</tr>
 			<tr>
 				<td>Drop in class (-40%)</td>
@@ -144,7 +144,7 @@ The table below provides the average cost per class for concession categories, b
 				<td>$90</td>
 				<td>$22</td>
 				<td>$11</td>
-				<td>$6.9</td>
+				<td>$6.90</td>
 				<td>$5</td>
 			</tr>
 		</tbody>

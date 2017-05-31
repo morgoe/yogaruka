@@ -7,7 +7,7 @@ categories:
 title:  'Impressions of a First Yoga Retreat'
 description: 'In May this year (2016, for those reading from the future), together with my partner Karen, I wrote our first full-length yoga retreat. Strange verb to use, I know, for a retreat'
 
-permalink: /blog/impressions-of-a-first-yoga-retreat/
+permalink: /posts/impressions-of-a-first-yoga-retreat/
 cover-image: blogSpain
 social-image: blog/spain-review/thumbnail.jpg
 
