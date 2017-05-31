@@ -1,6 +1,7 @@
 ---
 layout: page
 site-nav: yoga
+cover-image: yoga
 title:  "Yoga"
 permalink: /yoga/
 ---

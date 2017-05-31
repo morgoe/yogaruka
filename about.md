@@ -1,7 +1,8 @@
 ---
 layout: post
-title: About
 site-nav: about
+cover-image: about
+title: About
 permalink: /about/
 ---
 
