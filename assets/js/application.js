@@ -1,6 +1,7 @@
 ---
 ---
 
+{% include_relative lib/crisp.js %}
 {% include_relative lib/jquery.scrolldepth.min.js %}
 {% include_relative lib/jquery.scrollspy.js %}
 {% include_relative lib/jquery.vide.min.js %}
