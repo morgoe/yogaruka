@@ -6,9 +6,9 @@ title:  "Yoga"
 permalink: /yoga/
 ---
 
+YogaRuka is opening its doors to the wider public on **Thursday, the 29th of June, at 6pm**.
 
-
-<div class="tabs-wrapper">
+<div class="tabs-wrapper m-top--md">
 	<ul class="tabs">
 		<li class="tabs-listItem active">
 			<a class="tabs-link" href="#timetable">Timetable</a>
@@ -24,11 +24,8 @@ permalink: /yoga/
 		</li>
 	</ul>
 </div>
-
-
 <ul class="tabs-content">
 	<li class="tabs-pane active" id="timetable">
-		<p><strong>YogaRuka is finally opening its doors to a wider public on Thursday, the 29th of June, at 6:00 pm</strong></p>
 		<p>
 			We also offer classes, events, memberships and packages that are not currently available through the Mindbody app. Please contact us to purchase or find out more.
 		</p>
@@ -44,14 +41,12 @@ permalink: /yoga/
 
 	<li class="tabs-pane Longform" id="classes">
 <div class="Longform Longform--blogpost" markdown="1">
-<p><strong>YogaRuka is finally opening its doors to a wider public on Thursday, the 29th of June, at 6:00 pm</strong></p>
 {% include content/yoga/classes.md %}
 </div>
 	</li>
 
 	<li class="tabs-pane" id="services">
 <div class="Longform Longform--blogpost" markdown="1">
-<p><strong>YogaRuka is finally opening its doors to a wider public on Thursday, the 29th of June, at 6:00 pm</strong></p>
 {% include content/yoga/services.md %}
 </div>
 	</li>
@@ -62,7 +57,6 @@ permalink: /yoga/
 
 	<li class="tabs-pane Longform" id="prices">
 <div class="Longform Longform--blogpost" markdown="1">
-<p><strong>YogaRuka is finally opening its doors to a wider public on Thursday, the 29th of June, at 6:00 pm</strong></p>
 {% include content/yoga/prices.md %}
 </div>
 	</li>

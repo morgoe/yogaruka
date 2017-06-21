@@ -1,9 +1,9 @@
 ---
 layout: post
 site-nav: teacher
-cover-image: yoga
+cover-image: rua
 title:  "Rua Hvitulv"
-permalink: /teachers/rua
+permalink: /teachers/rua/
 ---
 
 I have always been scientifically inclined and skeptical to a fault. Thus it came as a big surprise for those who knew me to hear I had gone to India to train as a yoga teacher. Abandoning my latest gig: a very promising - and joyless - career in Australian corporate IT. 

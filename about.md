@@ -22,24 +22,29 @@ Co-founders Rua and Karen first met during their yoga teacher training in Rishik
 
 ## Karen Pasquel
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image image-small right">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image image-small right">
 		<img src="/assets/images/about/karen.jpg">
 	</figure>
 </div>
 
 A web developer for years in Spain and then the UK, Karen decided to make a leap for something more meaningful, and more human-oriented. Since experiencing the innumerable benefits of yoga first-hand, she began teaching it first in her corporate context, and from there the progression to a variety of settings was only natural. 
-Her biggest passion today is to share the gift of Yoga and focused movement with as many individuals as possible. [read more](/teachers/karen/)
+
+Her biggest passion today is to share the gift of Yoga and focused movement with as many individuals as possible.
+
+[Read more...](/teachers/karen/)
 
 ## Rua Hvitulv
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image image-small">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image image-small">
 		<img src="/assets/images/about/rua.jpg">
 	</figure>
 </div>
 
-From a history as a teacher of sciences, to a journalist writing about the Mafia in the heated Neapolitan metropolis, to a multi-disciplinary artist fiddling with print and the web, Rua has changed lives a few times over.  The only thing that seems to stick is her passion for learning and for sharing mindful experiences rather than just knowledge - and that’s how today she is a dedicated meditation facilitator, a stretch therapist and a multi-style yoga instructor.   [read more...](/teachers/rua/)
+From a history as a teacher of sciences, to a journalist writing about the Mafia in the heated Neapolitan metropolis, to a multi-disciplinary artist fiddling with print and the web, Rua has changed lives a few times over.  The only thing that seems to stick is her passion for learning and for sharing mindful experiences rather than just knowledge - and that’s how today she is a dedicated meditation facilitator, a stretch therapist and a multi-style yoga instructor.
+
+[Read more...](/teachers/rua/)
 
 
 
