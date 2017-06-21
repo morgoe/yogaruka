@@ -8,7 +8,7 @@
 
 #### Monthly Membership
 
-**$149**: gives you access to **unlimited classes** - even several daily if you’re up for it - and is the most efficient way for you to begin and/or maintain a consistent practice. Monthly direct debit payments, min. 1 month contract. [Terms and conditions](/terms-and-conditions/) apply. 
+**$149**: gives you access to **unlimited classes** - even several daily if you’re up for it - and is the most efficient way for you to begin and/or maintain a consistent practice. Monthly direct debit payments, min. 3 months contract. [Terms and conditions](/terms-and-conditions/) apply.  
 
 Other membership benefits include:
 
