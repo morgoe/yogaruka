@@ -22,8 +22,8 @@ social-image: workshops/plymouth-bandha/thumbnail.jpg
 published: true
 ---
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image image-small right has-noBorder">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image image-small right has-noBorder">
 		<img src="/assets/images/workshops/plymouth-bandha/cartoon.png">
 		<figcaption>Source: <a href="https://www.facebook.com/TheYogaComics/photos/a.492192500861089.1073741826.420731538007186/434763219937351/?type=3&theater" target="_blank">The Yoga Comics</a>.</figcaption>
 	</figure>
@@ -48,8 +48,8 @@ Good thing this workshop comes to save you and - pun intended - rock you to your
 
 ### Rua Hvitulv
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image right">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image right">
 		<img src="/assets/images/about/rua1.jpg">
 	</figure>
 </div>
@@ -57,8 +57,8 @@ Good thing this workshop comes to save you and - pun intended - rock you to your
 RYT® certified in Hatha Yoga (traditional) and Vinyasa Flow in Rishikesh (India), Rua has integrated her original studies with other yoga lineages (Yin, Iyengar), Functional training and Kinesiology. Co-founder of the itinerant study YogaRuka that organizes exclusive seminars and yoga retreats around the world under the "Reclaim yourself" motto, her style is a dynamic fusion of elements from yoga, Pilates, physio, mixed breathing techniques, meditation and mindfulness.
 ___________________
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image image-small right">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image image-small right">
 		<img src="/assets/images/workshops/plymouth-bandha/smoothie.jpg">
 	</figure>
 </div>
@@ -82,8 +82,8 @@ Our fruit and veggies will be supplied by [Riverford Organic Farms](http://www.r
 
 ### Charlotte Jane
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image image-small">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image image-small">
 		<img src="/assets/images/workshops/plymouth-merudanda/charlotte.jpg">
 	</figure>
 </div>
@@ -103,8 +103,8 @@ Plymouth-born nutritionist and recipe developer. On a journey of study and resea
 
 ## Venue
 
-<div class="m-blog-imageWrapper">
-	<figure class="m-blog-image right">
+<div class="Blog-imageWrapper">
+	<figure class="Blog-image right">
 		<img src="/assets/images/workshops/plymouth-bandha/cover.jpg">
 	</figure>
 </div>
