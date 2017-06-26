@@ -71,11 +71,6 @@ body {
 	font-family: $font-sans;
 	text-decoration: none;
 }
-#home {
-	.Header {
-		display: none;
-	}
-}
 
 @media (min-width: 480px) {
 	.Header {

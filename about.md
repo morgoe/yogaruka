@@ -45,17 +45,3 @@ Her biggest passion today is to share the gift of Yoga and focused movement with
 From a history as a teacher of sciences, to a journalist writing about the Mafia in the heated Neapolitan metropolis, to a multi-disciplinary artist fiddling with print and the web, Rua has changed lives a few times over.  The only thing that seems to stick is her passion for learning and for sharing mindful experiences rather than just knowledge - and that’s how today she is a dedicated meditation facilitator, a stretch therapist and a multi-style yoga instructor.
 
 [Read more...](/teachers/rua/)
-
-
-
-
-<div class="fb-page" data-href="https://www.facebook.com/yogaruka/" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/yogaruka/"><a href="https://www.facebook.com/yogaruka/">Yoga Ruka</a></blockquote></div></div>
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=147976175388475";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>

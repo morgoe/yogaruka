@@ -1,6 +1,9 @@
 .Page-background {
 	background-image: url('/assets/images/home/video.jpg');
 }
+.Page-background--home {
+	background-image: url('/assets/images/cover-images/home.jpg');
+}
 .Page-background--yoga {
 	background-image: url('/assets/images/cover-images/yoga-2.jpg');
 }
@@ -21,6 +24,20 @@
 }
 .Page-background--karen {
 	background-image: url('/assets/images/cover-images/karen.jpg');
+}
+
+
+.Page-background--yoga-sm {
+	background-image: url('/assets/images/cover-images/yoga-sm.jpg');
+}
+.Page-background--events-sm {
+	background-image: url('/assets/images/cover-images/events-sm.jpg');
+}
+.Page-background--about-sm {
+	background-image: url('/assets/images/cover-images/about-sm.jpg');
+}
+.Page-background--contact-sm {
+	background-image: url('/assets/images/cover-images/contact-sm.jpg');
 }
 
 .Page-background--retreatSpain {
@@ -54,3 +71,4 @@
 .EventList-link--retreatMorocco:after {
 	background-image: url('/assets/images/retreats/2016-september-morocco/thumbnail.jpg');
 }
+
