@@ -13,19 +13,42 @@ permalink: /
 </section>
 
 <div class="Page-content">
-	<article class="m-blog-article Longform Longform--blogpost Longform--center">
+	<section>
+		<h2 class="m-bottom--md">Welcome to YogaRuka Studio.</h2>
 
-		<p>The YogaRuka Studio in Sydney is your new space for a holistic practice that transcends conventions to reform the culture of physical and mental health.</p>
+		<div class="row">
+			<div class="col-md-6 col-lg-7">
+				<figure>
+					<img src="/assets/images/cover-images/about.jpg">
+				</figure>
+			</div>
+			<div class="col-md-6 col-lg-5">
+				<blockquote class="right">
+					<p>The YogaRuka Studio in Sydney is your new space for a holistic practice that transcends conventions to reform the culture of physical and mental health.</p>
 
-		<p>It is a space for practitioners of all sorts and flavours: the traditional yogis; the transversal yogis; the stiff; the flexible; the fitness addicts; the procrastinators; the nerds; the hippies; the skeptics; the disenchanted; the people who live for movement and those who have never exercised before; those who are looking to relieve stress, recover from injuries and acquire grace and ease, through methods backed by science; those who, more generally, want to maximise balance and sustainability in their life routines.</p>
+					<p>It is a space for practitioners of all sorts and flavours: the traditional yogis; the transversal yogis; the stiff; the flexible; the fitness addicts; the procrastinators; the nerds; the hippies; the skeptics; the disenchanted; the people who live for movement and those who have never exercised before; those who are looking to relieve stress, recover from injuries and acquire grace and ease, through methods backed by science; those who, more generally, want to maximise balance and sustainability in their life routines.</p>
 
-		<p>
-			<a href="/about/">Read more...</a>
-		</p>
+					<p>
+						<a class="link" href="/about/">Read more...</a>
+					</p>
+				</blockquote>
+			</div>
+		</div>
+	</section>
 
+	<article class="m-blog-article Longform Longform--blogpost Longform--center m-top--lg">
 		<h3>YogaRuka is opening its doors to the wider public with a <strong>free</strong> Partner Yoga class this Thursday, the 29th of June, at 6:15pm.</h3>
 
-		<div class="card facebook-eventCard m-top--md m-bottom--md">
+		<div class="card facebook-card m-top--md m-bottom--md">
+			<div id="fb-root"></div>
+			<script>(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=1905241103023291";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+
 			<div class="fb-page" data-href="https://www.facebook.com/yogaruka/" data-tabs="events" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/yogaruka/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/yogaruka/">YogaRuka</a></blockquote>
 			</div>
 		</div>
@@ -58,3 +81,4 @@ permalink: /
 		</ul>
 	</nav>
 </div>
+
