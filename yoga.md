@@ -6,9 +6,7 @@ title:  "Yoga"
 permalink: /yoga/
 ---
 
-YogaRuka is opening its doors to the wider public on **Thursday, the 29th of June, at 6:15pm**.
-
-<div class="tabs-wrapper m-top--md">
+<div class="tabs-wrapper">
 	<ul class="tabs">
 		<li class="tabs-listItem active">
 			<a class="tabs-link" href="#timetable">Timetable</a>

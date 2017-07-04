@@ -6,9 +6,11 @@ title:  "Home"
 permalink: /
 ---
 
-<section class="Hero">
-	<div class="Hero-text u-text-antialiase">
-		<h1 class="Home-logo">Yoga Ruka</h1>
+<section class="Hero Retreat-hero">
+	<div class="Hero-text u-text-antialiase u-text-center">
+		<h1>Introductory Offer</h1>
+		<h3>Unlimited classes for 3 weeks</h3>
+		<a class="button m-top--md" href="https://clients.mindbodyonline.com/classic/ws?studioid=700225&stype=41&sTG=22">Buy Now: $39</a>
 	</div>
 </section>
 
@@ -37,7 +39,7 @@ permalink: /
 	</section>
 
 	<article class="m-blog-article Longform Longform--blogpost Longform--center m-top--lg">
-		<h3>YogaRuka is opening its doors to the wider public with a <strong>free</strong> Partner Yoga class this Thursday, the 29th of June, at 6:15pm.</h3>
+		
 
 		<div class="card facebook-card m-top--md m-bottom--md">
 			<div id="fb-root"></div>
