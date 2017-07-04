@@ -26,3 +26,19 @@ input[type="submit"] {
 		background: #ffda61;
 	}
 }
+.button {
+	display: inline-block;
+	font-family: $font-sans;
+	color: white;
+	background: $green;
+	padding: 5px $spacing-md 7px;
+	text-shadow: none;
+	text-transform: uppercase;
+	box-shadow: $shadow;
+	&:hover {
+		background: lighten($green, 3%);
+	}
+	&:active {
+		background: darken($green, 3%);
+	}
+}

@@ -6,12 +6,11 @@ title:  "Home"
 permalink: /
 ---
 
-<section class="Hero">
-	<div class="Hero-text u-text-antialiase">
-		<!--h1 class="Home-logo">Yoga Ruka</h1-->
-		<h1>Introductory Offer $39</h1>
-		<a href="https://clients.mindbodyonline.com/classic/ws?studioid=700225&stype=41&sTG=22">Buy Now</a>
-		<p>Unlimited classes for 3 weeks</p>
+<section class="Hero Retreat-hero">
+	<div class="Hero-text u-text-antialiase u-text-center">
+		<h1>Introductory Offer</h1>
+		<h3>Unlimited classes for 3 weeks</h3>
+		<a class="button m-top--md" href="https://clients.mindbodyonline.com/classic/ws?studioid=700225&stype=41&sTG=22">Buy Now: $39</a>
 	</div>
 </section>
 

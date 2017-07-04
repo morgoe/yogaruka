@@ -6,8 +6,7 @@ title:  "Yoga"
 permalink: /yoga/
 ---
 
-
-<div class="tabs-wrapper m-top--md">
+<div class="tabs-wrapper">
 	<ul class="tabs">
 		<li class="tabs-listItem active">
 			<a class="tabs-link" href="#timetable">Timetable</a>

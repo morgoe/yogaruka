@@ -21,7 +21,6 @@
 	overflow: hidden;
 	box-shadow: $shadow;
 }
-.Page-hero,
 .Page-content {
 	margin-top: 0;
 	padding: $rhythm / 2;
@@ -35,7 +34,6 @@
 		border: $rhythm solid white;
 		overflow: visible;
 	}
-	.Page-hero,
 	.Page-content {
 		padding: $rhythm;
 	}
@@ -45,7 +43,6 @@
 		margin: $rhythm * 1.5;
 		border: $rhythm * 1.5 solid white;
 	}
-	.Page-hero,
 	.Page-content {
 		padding: $rhythm * 1.5;
 	}

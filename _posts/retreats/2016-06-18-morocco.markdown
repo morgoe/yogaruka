@@ -53,7 +53,7 @@ social-image: retreats/2016-september-morocco/thumbnail.jpg
 	</ul>
 </header>
 
-<section class="Page-hero Hero Retreat-hero">
+<section class="Hero Retreat-hero">
 	<div class="Hero-text u-text-antialiase">
 		<h6>{{ page.dates }}</h6>
 		<h1>Reclaim Yourself</h1>
