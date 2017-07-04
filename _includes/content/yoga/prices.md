@@ -2,9 +2,13 @@
 
 **$39**: available strictly for new students who have not attended yoga classes at YogaRuka before; **valid for 21 consecutive days** (starting from the date of purchase), one pass per person.
 
+[Buy Now](https://clients.mindbodyonline.com/classic/ws?studioid=700225&stype=41&sTG=22)
+
 #### 10 Class Pack
 
 **$188**: optimal for those who want to practice occasionally. This pass saves you money (-15% on the full price) and is **valid for six months**.
+
+[Buy Now](https://clients.mindbodyonline.com/classic/ws?studioid=700225&stype=41&sTG=22)
 
 #### Monthly Membership
 
@@ -16,6 +20,8 @@ Other membership benefits include:
 - 10% discount off workshops, seminars and retreats 
 - the option to suspend membership anytime after the first quarter
 - exclusive member deals and offers
+
+[Buy Now](https://clients.mindbodyonline.com/classic/ws?studioid=700225&stype=40&prodid=100)
 
 #### Drop-in Class
 

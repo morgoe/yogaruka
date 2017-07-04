@@ -31,7 +31,7 @@ For all membership enquiries, pass suspensions and cancellations, please email u
 
 One week notice is required to cancel, after minimum contract period is complete.
 
-Minimum contract period for Monthly Membership is one month (one debit). At the end of the minimum contract number, the membership will continue on a monthly basis unless you notify us by email with minimum one week notice of your intent to discontinue membership.
+Minimum contract period for Monthly Membership is 3 months (3 debits). At the end of the minimum contract number, the membership will continue on a monthly basis unless you notify us by email with minimum one week notice of your intent to discontinue membership.
 
 
 ### Suspensions
