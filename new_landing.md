@@ -10,7 +10,7 @@ permalink: /
 	<div class="Hero-text u-text-antialiase u-text-center">
 		<h1>Introductory Offer</h1>
 		<h3>Unlimited classes for 3 weeks</h3>
-		<a class="button m-top--md" href="https://clients.mindbodyonline.com/classic/ws?studioid=700225&stype=41&sTG=22">Buy Now: $39</a>
+		<a class="button m-top--md" href="/yoga">Buy Now: $39</a>
 	</div>
 </section>
 
@@ -39,22 +39,6 @@ permalink: /
 	</section>
 
 	<article class="m-blog-article Longform Longform--blogpost Longform--center m-top--lg">
-		
-
-		<div class="card facebook-card m-top--md m-bottom--md">
-			<div id="fb-root"></div>
-			<script>(function(d, s, id) {
-				var js, fjs = d.getElementsByTagName(s)[0];
-				if (d.getElementById(id)) return;
-				js = d.createElement(s); js.id = id;
-				js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=1905241103023291";
-				fjs.parentNode.insertBefore(js, fjs);
-			}(document, 'script', 'facebook-jssdk'));</script>
-
-			<div class="fb-page" data-href="https://www.facebook.com/yogaruka/" data-tabs="events" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/yogaruka/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/yogaruka/">YogaRuka</a></blockquote>
-			</div>
-		</div>
-
 		<p>Our studio hosts daily group and private sessions of <strong>yoga, meditation, yoga fusion, stretch therapy™</strong>, together with a variety of workshops and retreats in unique locations around the world.</p>
 	</article>
 
