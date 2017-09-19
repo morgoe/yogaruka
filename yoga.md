@@ -12,13 +12,10 @@ permalink: /yoga/
 			<a class="tabs-link" href="#timetable">Timetable</a>
 		</li>
 		<li class="tabs-listItem">
-			<a class="tabs-link" href="#classes">Classes</a>
+			<a class="tabs-link" href="#classes">Class Descriptions</a>
 		</li>
 		<li class="tabs-listItem">
 			<a class="tabs-link" href="#services">Additional Services</a>
-		</li>
-		<li class="tabs-listItem">
-			<a class="tabs-link" href="#prices">Prices</a>
 		</li>
 	</ul>
 </div>
@@ -52,12 +49,6 @@ permalink: /yoga/
 
 	<li class="tabs-pane" id="packages">
 		packages
-	</li>
-
-	<li class="tabs-pane Longform" id="prices">
-<div class="Longform Longform--blogpost" markdown="1">
-{% include content/yoga/prices.md %}
-</div>
 	</li>
 </ul>
 
