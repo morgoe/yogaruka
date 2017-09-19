@@ -9,7 +9,7 @@ permalink: /
 <section class="Hero Retreat-hero">
 	<div class="Hero-text u-text-antialiase u-text-center">
 		<h1>Introductory Offer</h1>
-		<h3>Unlimited classes for 3 weeks</h3>
+		<h3>Unlimited classes for 14 days</h3>
 		<a class="button m-top--md" href="/yoga">Buy Now: $39</a>
 	</div>
 </section>
