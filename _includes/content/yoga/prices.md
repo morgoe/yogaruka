@@ -14,7 +14,7 @@ For absolute freedom and no commitments whatsoever, you can always simply book a
 
 #### Drop-in Class
 
-**$25**: welcome to book a one-off class anytime
+**$25**: welcome to book a one-off group class anytime.
 
 
 Once you've used up your Intro pass, we have 3 easy multi-class pass options to cover for all situations and necessities. 
