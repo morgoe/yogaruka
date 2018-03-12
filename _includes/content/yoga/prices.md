@@ -11,30 +11,28 @@ For absolute freedom and no commitments whatsoever, you can always simply book a
 
 **$25**: welcome to book a one-off class anytime
 
-Once you've used up your Intro pass, we have 4 very simple multi-class pass options to cover for all situations and necessities. 
 
-#### 5 Class Pack
+Once you've used up your Intro pass, we have 3 easy multi-class pass options to cover for all situations and necessities. 
+We want to keep things very simple so all you ever need to worry about is your practice! 
 
-**$110**: optimal for those who want to practice occasionally. This pass saves you money (-12% on the full price) and is **valid for three months**. Great to offer it as a gift to a friend or family member!
 
-#### 10 Class Pack
+#### 10-Class Pack
 
-**$200**: optimal for those who want to practice once a week or even once a fortnight. This pass is a really sweet deal (you basically pay for 8 classes and get 2 more free!) and is **valid for five months**.
+**$200**: optimal for those who want to practice once a week or even once a fortnight. This pass is a really sweet deal (you basically pay for 8 classes and get 2 more free!) and is **valid for twenty weeks** (five months). It can make for a wonderful gift for a dear one and it can be used for any group classes of your choice. 
 
 #### Monthly Membership
 
-**$175**: gives you access to **unlimited classes** - even several daily if you’re up for it. No commitment to a contract. Renew or upgrade to the 3-month membership. 
+**$175**: it gives you access to **unlimited classes** - even several daily if you’re up for it. Renewal is not automated and there is **no commitment to a contract.** At any point you can switch to a 10-class pass or upgrade to the 3-month membership. 
 
 #### 3 Month Membership
 
-**$420**: comes down to **only $140 per month** and gives you access to **unlimited classes** - it is the most efficient way for you to begin and/or maintain a consistent practice. Instead of a commitment to a contract, you simply pay your 3 months upfront and get a 20% discount on the full price. Which converts to as much as 18 days of free practice!!
+**$420**: it comes down to **only $140 per month** and gives you access to **unlimited classes** - it is the most efficient way for you to begin and/or maintain a consistent practice. Instead of a commitment to a contract, you simply pay your 3 months upfront and get a 20% discount on the full price. Which converts to **as much as 18 days of free practice!**
 
 Other 3 month membership benefits include:
 
 - 10% discount off retail products
 - 10% discount off workshops, seminars and retreats 
-- the option to suspend membership anytime
-- exclusive member deals and offers
+- **no contract, no hidden fees, no small writing conditions**
 
 
 The table below provides the average cost per class for type of pass, based on how many times a week you would be practicing.
@@ -81,15 +79,7 @@ The table below provides the average cost per class for type of pass, based on h
 				<td>$25</td>
 			</tr>
 			<tr>
-				<td>5 class pass (-12%)</td>
-				<td>$22</td>
-				<td>$22</td>
-				<td>$22</td>
-				<td>$22</td>
-				<td>$22</td>
-			</tr>
-			<tr>
-				<td>10 class pass (-20%)</td>
+				<td>10-Class Pass (-20%)</td>
 				<td>$20</td>
 				<td>$20</td>
 				<td>$20</td>
@@ -105,7 +95,7 @@ The table below provides the average cost per class for type of pass, based on h
 				<td>&lt;$10.50</td>
 			</tr>
 			<tr>
-				<td>3 Month membership (-20%)</td>
+				<td>3-Month membership (-20%)</td>
 				<td>$420</td>
 				<td>$32</td>
 				<td>$16</td>
@@ -130,10 +120,10 @@ Private sessions can go from 45' to 75' in length. Your first private session wi
 				<th>Private Session</th>
 				<th>One-off</th>
 				<th>
-					10 Class Pack
+					10-Class Pack
 				</th>
 				<th>
-					20 Class Pack
+					20-Class Pack
 				</th>
 			</tr>
 		</thead>
@@ -164,9 +154,9 @@ Private sessions can go from 45' to 75' in length. Your first private session wi
 
 #### Concessions + Giving Back to the Community 
 
-Concession drop-ins and concession passes are available for kids, all full time students, some part time students and pensioners. They offer a discount of about 40% on the full price and can be purchased in studio as long as you have a valid concession ID card. They can only be used for two classes a week max.   
+Concession drop-ins and concession passes are available for kids, all full time students, some part time students and pensioners. They offer a discount of min. 30% on the full price and can be purchased in studio as long as you have a valid concession ID card. 
 
-The table below provides the average cost per class for concession categories, based on how many times a week you would be practicing (1 or 2). 
+The table below provides the average cost per class for concession categories, based on how many times a week you would be practicing. 
 
 <div class="card m-top--md">
 	<table class="table">
@@ -182,29 +172,51 @@ The table below provides the average cost per class for concession categories, b
 					Price per class<br>
 					@ twice a week
 				</th>
+              <th>
+					Price per class<br>
+					@ thrice a week
+				</th>
+				<th>
+					Price per class<br>
+					@ 4+ times a week
+				</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td>Drop-in class (-40%)</td>
-				<td>$14</td>
-				<td>$14</td>
-				<td>$14</td>
+				<td>Drop-in class (-32%)</td>
+				<td>$17</td>
+				<td>$17</td>
+				<td>$17</td>
+                <td>$17</td>
+                <td>$17</td>
 			</tr>
 			<tr>
-				<td>10 class pass (-40%)</td>
-				<td>$120</td>
-				<td>$12</td>
-				<td>$12</td>
+				<td>10 class pass (-30%)</td>
+				<td>$140</td>
+				<td>$14</td>
+				<td>$14</td>
+                <td>$14</td>
+                <td>$14</td>
+			</tr>
+          <tr>
+				<td>Monthly membership (-32%)</td>
+				<td>$119</td>
+				<td>$29.75</td>
+				<td>$14.90</td>
+                <td>$9</td>
+                <td>&lt;$7</td>
 			</tr>
 			<tr>
-				<td>3 Month membership (-40%)</td>
-				<td>$249</td>
-				<td>$19</td>
-				<td>$9.50</td>
+				<td>3-Month membership (-30%)</td>
+				<td>$294</td>
+				<td>$22.50</td>
+				<td>$11.25</td>
+                <td>$7.50</td>
+                <td>&lt;$5.90</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-We are also offering **FREE** classes for highly disadvantaged social groups: Aboriginal Australians, refugees and their children, homeless people of any extraction. Please [contact us](/contact/) to find out more and organise your free yoga training schedule. 
+We are also offering **FREE** classes for highly disadvantaged social groups: Aboriginal Australians, refugees and their children, homeless people of any extraction. Please [contact us](/contact/) to find out more and organise your free yoga training schedule.
