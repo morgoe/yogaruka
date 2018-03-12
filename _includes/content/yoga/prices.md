@@ -1,4 +1,9 @@
-We are always happy to welcome new students to experience our unique space and method, so the Introductory offer has been created for you, to enjoy unlimited classes for two weeks from the day of purchase. 
+We are always happy to welcome new students experience our very exclusive space and method and take the time they need to figure which classes and times fit best within their schedule. 
+The Introductory offer has been created for you to enjoy unlimited classes for two weeks from the day of purchase so it's a very good starting point. 
+
+If you are after a taster pack for your kid(s), we have a 3-class pack option below. 
+
+If you are an expectant mother, great news! We have recently partnered with Mother Nurture Yoga, Sydney's leading Pregnancy Yoga School, and packs are to be purchased through them, that can be used at our location but also at any of their other locations throughout the Sydney area (CBD, Chatswood, Hornsby, and more). 
 
 
 #### Intro 14 Day Pass
@@ -157,6 +162,10 @@ Private sessions can go from 45' to 75' in length. Your first private session wi
 Concession drop-ins and concession passes are available for kids, all full time students, some part time students and pensioners. They offer a discount of min. 30% on the full price and can be purchased in studio as long as you have a valid concession ID card. 
 
 The table below provides the average cost per class for concession categories, based on how many times a week you would be practicing. 
+
+#### 3-Class Taster Pack
+
+**$27**: available for kids only, that have not attended any classes at YogaRuka before. It can be used for any kids classes within 40 days from purchase. 
 
 <div class="card m-top--md">
 	<table class="table">
