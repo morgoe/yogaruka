@@ -131,20 +131,20 @@ Private sessions can go from 45' to 75' in length. Your first private session wi
 			<tr>
 				<td>45-Minute</td>
 				<td>$75</td>
-				<td>$675</td>
-				<td>$1200</td>
+				<td>$675 ($67.5 per session)</td>
+				<td>$1200 ($60 per session)</td>
 			</tr>
 			<tr>
 				<td>60-Minute</td>
 				<td>$95</td>
-				<td>$850</td>
-				<td>$1500</td>
+				<td>$850 ($85 per session)</td>
+				<td>$1500 ($75 per session)</td>
 			</tr>
 			<tr>
 				<td>75-Minute</td>
 				<td>$110</td>
-				<td>$990</td>
-				<td>$1750</td>
+				<td>$990 ($99 per session)</td>
+				<td>$1750 ($87.5 per session)</td>
 			</tr>
 		</tbody>
 	</table>
