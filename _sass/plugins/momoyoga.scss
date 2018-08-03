@@ -1,0 +1,32 @@
+.momoyoga-schedule {
+	max-width: $media-md;
+	margin: $spacing-md auto 0;
+	.momoyoga-section {
+		box-shadow: $shadow;
+		border: none;
+	}
+}
+.momoyoga-lesson-action-booknow {
+	font-family: $font-sans;
+	color: white;
+	background: $green;
+
+    padding: 4px;
+    text-transform: uppercase;
+    display: block;
+    font-size: 12px;
+    text-align: center;
+
+}
+@media screen and (max-width: 480px) {
+	.momoyoga-lesson-action-booknow {
+	    margin-top: $spacing-xxs;
+	}
+	.momoyoga-schedule {
+		margin-left: -$spacing-sm;
+		margin-right: -$spacing-sm;
+		.momoyoga-section {
+			border-radius: 0;
+		}
+	}
+}

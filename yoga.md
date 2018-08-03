@@ -33,8 +33,8 @@ published: true
 			NB: Our yoga shala is not a big franchise - it is an independent studio, and each assigned teacher does also their class’ reception work. We ask you to please arrive <strong>min. 5 minutes before</strong> the commencement of classes, so we can check you in and have you settle, pick your spot and mat, do some gentle warm up at your own pace, and hydrate before class.
 		</p>
 
-		
-		<iframe class="card Timetable m-top--md" src="https://www.momoyoga.com/yogaruka/en" width="100%" height="800" frameBorder="0"></iframe>
+		<div class="momoyoga-schedule m-top--md" data-momo-schedule="https://www.momoyoga.com/yogaruka"></div>
+		<script src="https://www.momoyoga.com/schedule-plugin/v2/js/schedule.js" crossorigin="anonymous"></script>
 	</li>
 
 	<li class="tabs-pane Longform" id="classes">
