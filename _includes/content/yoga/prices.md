@@ -85,7 +85,7 @@ The table below provides the average cost per class for type of pass, based on h
 			</tr>
 			<tr>
 				<td>10-Class Pass (-20%)</td>
-				<td>$20</td>
+				<td>$200</td>
 				<td>$20</td>
 				<td>$20</td>
 				<td>$20</td>
