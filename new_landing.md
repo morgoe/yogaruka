@@ -42,6 +42,34 @@ permalink: /
 		<p>Our studio hosts daily group and private sessions of <strong>yoga, meditation, yoga fusion, stretch therapy™</strong>, together with a variety of workshops and retreats in unique locations around the world.</p>
 	</article>
 
+	<section>
+		<div class="row">
+			<div class="col-md-6">
+				{% include newsletter-signup.html %}
+			</div>
+
+			<div class="col-md-6 m-top--md">
+				<h4>Get Started!</h4>
+				<ul>
+					<li class="m-top--lg">
+						→
+						<a class="link" href="https://www.momoyoga.com/yogaruka/member/upgrade" target="_blank">Buy 2 weeks unlimited intro pass · $39</a>
+					</li>
+					<li class="m-top--lg">
+						→
+						<a class="link" href="https://www.momoyoga.com/yogaruka/member/upgrade" target="_blank">Buy monthly membership · $175/mo</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<h4 class="u-text-center">Timetable</h4>
+		<div class="momoyoga-schedule" data-momo-schedule="https://www.momoyoga.com/yogaruka"></div>
+		<script src="https://www.momoyoga.com/schedule-plugin/v2/js/schedule.js" crossorigin="anonymous"></script>
+	</section>
+
 	<nav class="Home-nav m-top--md">
 		<ul class="row">
 			<li class="col-sm-6">
