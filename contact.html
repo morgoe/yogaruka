@@ -11,7 +11,7 @@ permalink: /contact/
 		<p class="form-description">Please fill in the following form to contact us, leave a review or email us at <a href="mailto:{{ site.email }}">{{ site.email }}</a>. All your comments and emails will be replied to <strong>within 24 hours.</strong></p>
 		<p class="form-description">Alternatively, you can call us on <a href="tel:+61297051551">(02) 9705 1551</a>.</p>
 
-		<form class="form m-top--md" id="form-contact">
+		<form class="form m-top--md" id="form" name="contact">
 			<div class="form-feedback" id="form-feedback"></div>
 			
 			<div class="form-group">
@@ -22,7 +22,7 @@ permalink: /contact/
 				<input class="input" type="email" id="form-email" name="email" placeholder="Email Address" required="true">
 			</div>
 			<div class="form-group">
-				<select class="input" name="form-referred-by" id="form-referred-by">
+				<select class="input" name="referredBy" id="form-referred-by">
 					<option value="">How did you hear about us?</option>
 					<option value="Another Client">Another Client</option>
 					<option value="Google Search">Google Search</option>
@@ -33,11 +33,11 @@ permalink: /contact/
 				</select>  
 			</div>
 			<div class="form-group"> 
-				<textarea class="input" rows="3" id="form-message" placeholder="Message" required="true"></textarea>
+				<textarea class="input" rows="3" id="form-message" name="message" placeholder="Message" required="true"></textarea>
 			</div>
 			<div class="form-group">
 				<label>
-					<input type="checkbox" name="form-subscribe" id="form-subscribe">
+					<input type="checkbox" name="subscribeToNewsletter" id="form-subscribe">
 					Subscribe to our newsletter &amp; promotion
 				</label>
 			</div>
