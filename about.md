@@ -36,12 +36,17 @@ Her biggest passion today is to share the gift of Yoga and focused movement with
 
 ## Rua Hvitulv
 
+<div class="clearfix">
 <div class="Blog-imageWrapper">
 	<figure class="Blog-image image-small">
 		<img src="/assets/images/about/rua.jpg">
 	</figure>
 </div>
 
+<div markdown="1">
 From a history as a teacher of sciences, to a journalist writing about the Mafia in the heated Neapolitan metropolis, to a multi-disciplinary artist fiddling with print and the web, Rua has changed lives a few times over.  The only thing that seems to stick is her passion for learning and for sharing mindful experiences rather than just knowledge - and that’s how today she is a dedicated meditation facilitator, a stretch therapist and a multi-style yoga instructor.
 
 [Read more...](/teachers/rua/)
+</div>
+
+</div>

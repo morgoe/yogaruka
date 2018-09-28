@@ -19,12 +19,12 @@ permalink: /
 		<h2 class="m-bottom--md">Welcome to YogaRuka Studio.</h2>
 
 		<div class="row">
-			<div class="col-md-6 col-lg-7">
+			<div class="col-sm-6 col-md-7">
 				<figure>
 					<img src="/assets/images/cover-images/about.jpg">
 				</figure>
 			</div>
-			<div class="col-md-6 col-lg-5">
+			<div class="col-sm-6 col-md-5">
 				<blockquote class="right">
 					<p>The YogaRuka Studio in Sydney is your new space for a holistic practice that transcends conventions to reform the culture of physical and mental health.</p>
 
