@@ -53,11 +53,15 @@ permalink: /
 				<ul>
 					<li class="m-top--lg">
 						→
-						<a class="link" href="https://www.momoyoga.com/yogaruka/member/upgrade" target="_blank">Buy 2 weeks unlimited intro pass · $39</a>
+						<a class="link" href="https://www.momoyoga.com/yogaruka/member/upgrade" target="_blank">
+							Buy 2 weeks unlimited intro pass · $39
+						</a>
 					</li>
 					<li class="m-top--lg">
 						→
-						<a class="link" href="https://www.momoyoga.com/yogaruka/member/upgrade" target="_blank">Buy monthly membership · $175/mo</a>
+						<a class="link" href="https://www.momoyoga.com/yogaruka/member/upgrade" target="_blank">
+							Buy monthly membership · 39/wk
+						</a>
 					</li>
 				</ul>
 			</div>
