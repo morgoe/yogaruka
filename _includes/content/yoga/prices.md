@@ -15,7 +15,7 @@ For absolute freedom and no commitments whatsoever, you can always simply book a
 
 #### Monthly Membership
 
-**$39/wk (billed monthly)**: it gives you access to **unlimited classes** - even several daily if you’re up for it. Renewal is not automated and there is **no commitment to a contract.** At any point you can switch to a 10-class pass or upgrade to the 3-month membership. 
+**$39/wk (billed monthly)**: it gives you access to **unlimited classes** - even several daily if you’re up for it. Renewal is automated and there is **no commitment to a contract.** At any point you can switch to a 10-class pass or upgrade to the 3-month membership. 
 
 
 #### Drop-in Class
