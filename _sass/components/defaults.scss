@@ -2,21 +2,11 @@ body {
 	position: relative;
 	overflow-x: hidden;
 	background: white;
-	max-width: $max-width;
-	margin: 0 auto;
 }
 a {
 	color: inherit;
 	text-decoration: none;
-}
-.link {
-	position: relative;
-	display: inline;
-	line-height: 1.2;
-	color: $blue-90;
-	text-decoration: underline;
 	cursor: pointer;
-	margin-top: 0;
 }
 a,
 button {
@@ -25,20 +15,10 @@ button {
 	}
 	@include noSelect();
 }
-section {
-	position: relative;
-	z-index: 1;
-	+ section {
-		margin-top: $rhythm * 3;
-	}
-	@include clearfix();
-}
 img {
 	display: block;
 	max-width: 100%;
 	max-height: 100%;
-	margin-left: auto;
-	margin-right: auto;
 }
 ol,
 ul {
@@ -53,32 +33,6 @@ ul {
 }
 hr {
 	border: none;
-	border-top: 2px solid $brown-30;
+	border-top: 1px solid $text-dark;
 	opacity: 0.2;
-	max-width: 40rem;
-	margin: $spacing-xl auto;
 }
-
-// // When selecting a text, it does this:
-// ::selection {
-//     color: $pink_dark;
-//     background: $yellow;
-//     background: rgba($yellow, 0.25); /* WebKit/Blink Browsers */
-// }
-// ::-moz-selection {
-//     color: $pink_dark;
-//     background: $yellow;
-//     background: rgba($yellow, 0.25); /* Gecko Browsers */
-// }
-
-
-// input::selection {
-//     color: white;
-//     background: none;
-//     background: rgba(white, 0.15); /* WebKit/Blink Browsers */
-// }
-// input::-moz-selection {
-//     color: white;
-//     background: none;
-//     background: rgba(white, 0.15); /* Gecko Browsers */
-// }

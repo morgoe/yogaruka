@@ -1,44 +1,36 @@
-button,
-input[type="button"],
-input[type="submit"] {
-	color: $blue-45;
-	font-size: 14px;
-	font-family: $font-mono;
-	-webkit-font-smoothing: subpixel-antialiased;
-	-moz-osx-font-smoothing: auto;
-	font-weight: 600;
-	letter-spacing: 0.25px;
-
-	@include gradient(#fcf1b3, #ffda61);
-	border: 2px solid #ffae00;
-	padding: 5px 20px;
-	
-	float: right;
-	text-rendering: optimizeLegibility;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-
-	&:hover,
-	&:focus {
-		background: #fcf1b3;
-	}
-	&:active {
-		background: #ffda61;
-	}
+// Reset
+.button {
+	border: none;
+	box-shadow: none;
+	line-height: normal;
 }
 .button {
+	@include inline-flex();
+	@include align-items(center);
+	border-radius: 2rem;
+	border: 1px solid rgba($blue, 0.5);
+	height: $button-height;
 	display: inline-block;
-	font-family: $font-sans;
-	color: white;
-	background: $green;
-	padding: 5px $spacing-md 7px;
-	text-shadow: none;
-	text-transform: uppercase;
-	box-shadow: $shadow;
+	font-family: $font-system;
+	font-weight: 700;
+	padding: 8px $spacing-md 9px;
+	color: $blue;
+	background: white;
 	&:hover {
-		background: lighten($green, 3%);
+		background: lighten($blue, 3%);
 	}
 	&:active {
-		background: darken($green, 3%);
+		background: darken($blue, 3%);
 	}
+}
+.button--fullWidth {
+	width: 100%;
+}
+.button--primary {
+	color: white;
+	background: $blue;
+	border-color: transparent;
+}
+.button--inverted {
+	border-color: transparent;
 }

@@ -1,3 +1,13 @@
+html {
+	font-size: 12px;
+}
+
+@media (min-width: $media-tablet) {
+	html {
+		font-size: 16px;
+	}
+}
+
 *,
 *:before,
 *:after {
@@ -66,27 +76,12 @@
 // 	margin-bottom: 0 !important;
 // }
 
-.container-xl,
-.container-lg,
-.container-md,
-.container-sm,
-.container-xs {
+.container {
+	max-width: $max-width;
 	margin-left: auto;
 	margin-right: auto;
 }
-.container-xl {
-	max-width: 1440px;
-}
-.container-lg {
-	max-width: 1280px;
-}
-.container-md {
-	max-width: 1024px;
-}
 .container-sm {
-	max-width: 768px;
-}
-.container-xs {
 	max-width: 568px;
 }
 // .padding-md {

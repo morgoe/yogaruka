@@ -2,15 +2,25 @@
 <html>
   {% include head.html %}
   <body class="Page" {% if page.body-id %}id="{{ page.body-id }}"{% endif %}>
-    <div class="Page-background {% if page.cover-image %}Page-background--{{ page.cover-image }}{% endif %}"></div>
-    <div class="Page-border" id="jumpTo-top">
-     	{% include header.html %}
-  		<div id="content" class="margin-top-0">
+   	{% include global-cta.html %}
+   	{% include header.html %}
 
-  			{{ content }}
+	<div class="Page-hero">
+		<div class="container">
+			<div class="container-sm">
+				<h1>{{ page.h1 }}</h1>
+				<p class="subtitle">{{ page.subtitle }}</p>
+			</div>
+		</div>
+		<div class="Page-heroImage {% if page.cover-image %}Page-heroImage--{{ page.cover-image }}{% endif %}"></div>
+	</div>
 
-  		</div>
-    </div>
+	<main class="Page-content">
+		<div class="container">
+			{{ content }}
+		</div>
+	</main>
+
     {% include footer.html %}
     {% include foot.html %}
   </body>

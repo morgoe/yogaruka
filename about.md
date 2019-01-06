@@ -4,6 +4,9 @@ site-nav: about
 cover-image: about
 title: About
 permalink: /about/
+
+h1: Studio and Teachers
+subtitle: We teach generalised fitness that transfers as much to your athletic adventures as to your daily life.
 ---
 
 
