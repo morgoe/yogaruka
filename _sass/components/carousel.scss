@@ -6,7 +6,7 @@
 
 .carousel {
 	position: relative;
-	margin: $spacing-sm #{-$spacing-md};
+	margin: $spacing-xs #{-$spacing-md};
 }
 
 // .carousel-frame {
@@ -15,17 +15,23 @@
 // 	margin-right: auto;
 // }
 .carousel-list {
-
-	padding: 0 $spacing-md;
+	padding: 0 #{$spacing-md - $spacing-xs};
 }
 .carousel-listItem {
 	position: relative;
 	float: left;
 	width: calc(100vw - 2 * #{$spacing-md} - #{$spacing-sm});
-	margin: 0 !important;
-	margin-left: $spacing-sm !important;
-	figcaption {
-		display: none;
+	// margin: 0 !important;
+	// margin-left: $spacing-sm;
+	padding: $spacing-xs;
+	// &:last-child {
+	// 	margin-right: $spacing-sm;
+	// }
+	h3 {
+		margin-top: $spacing-xs;
+	}
+	p {
+		margin-top: $spacing-xxs;
 	}
 }
 
@@ -51,18 +57,14 @@
 	cursor: e-resize;
 }
 
-@media (min-width: $media-md) {
-	.carousel-listItem {
-		width: calc(100vw - 3rem);
+@media (min-width: $media-tablet) {
+	.carousel-list {
+		width: auto !important;
+		transform: none !important;
+		@include flexbox();
+		@include flex-wrap(wrap);
 	}
-}
-@media (min-width: $media-lg) {
 	.carousel-listItem {
-		width: calc(50vw - 3rem);
-	}
-}
-@media (min-width: 1408px) {
-	.carousel-listItem {
-		width: 640px;
+		width: 33.333333%;
 	}
 }

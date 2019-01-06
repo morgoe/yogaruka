@@ -1,42 +1,51 @@
 <div class="carousel">
 	<div class="carousel-frame">
-		<ul class="carousel-list">
+		<ul class="carousel-list {% if include.image1 %}grid-1{% endif %} {% if include.image2 %}grid-2{% endif %} {% if include.image3 %}grid-3{% endif %} {% if include.image4 %}grid-4{% endif %} {% if include.image5 %}grid-5{% endif %}">
 			{% if include.image1 %}
 				<li class="carousel-listItem">
 					<img src="{{ include.image1 }}">
-					{% if include.image1_description %}
-						<figcaption>
-							<p class="js-carouselItemCaption">{{ include.image1_description }}</p>
-						</figcaption>
-					{% endif %}
+					<figcaption>
+						{% if include.image1_title %}
+							<h3>{{ include.image1_title }}</h3>
+						{% endif %}
+						{% if include.image1_caption %}
+							<p class="subtitle">{{ include.image1_caption }}</p>
+						{% endif %}
+					</figcaption>
 				</li>
 			{% endif %}
 			{% if include.image2 %}
 				<li class="carousel-listItem">
 					<img src="{{ include.image2 }}">
-					{% if include.image2_description %}
-						<figcaption>
-							<p class="js-carouselItemCaption">{{ include.image2_description }}</p>
-						</figcaption>
-					{% endif %}
+					<figcaption>
+						{% if include.image2_title %}
+							<h3>{{ include.image2_title }}</h3>
+						{% endif %}
+						{% if include.image2_caption %}
+							<p class="subtitle">{{ include.image2_caption }}</p>
+						{% endif %}
+					</figcaption>
 				</li>
 			{% endif %}
 			{% if include.image3 %}
 				<li class="carousel-listItem">
 					<img src="{{ include.image3 }}">
-					{% if include.image3_description %}
-						<figcaption>
-							<p class="js-carouselItemCaption">{{ include.image3_description }}</p>
-						</figcaption>
-					{% endif %}
+					<figcaption>
+						{% if include.image3_title %}
+							<h3>{{ include.image3_title }}</h3>
+						{% endif %}
+						{% if include.image3_caption %}
+							<p class="subtitle">{{ include.image3_caption }}</p>
+						{% endif %}
+					</figcaption>
 				</li>
 			{% endif %}
 			{% if include.image4 %}
 				<li class="carousel-listItem">
 					<img src="{{ include.image4 }}">
-					{% if include.image4_description %}
+					{% if include.image4_caption %}
 						<figcaption>
-							<p class="js-carouselItemCaption">{{ include.image4_description }}</p>
+							<p class="js-carouselItemCaption">{{ include.image4_caption }}</p>
 						</figcaption>
 					{% endif %}
 				</li>
@@ -44,9 +53,9 @@
 			{% if include.image5 %}
 				<li class="carousel-listItem">
 					<img src="{{ include.image5 }}">
-					{% if include.image5_description %}
+					{% if include.image5_caption %}
 						<figcaption>
-							<p class="js-carouselItemCaption">{{ include.image5_description }}</p>
+							<p class="js-carouselItemCaption">{{ include.image5_caption }}</p>
 						</figcaption>
 					{% endif %}
 				</li>

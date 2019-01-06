@@ -3,6 +3,7 @@
 	border: none;
 	box-shadow: none;
 	line-height: normal;
+	text-align: center;
 }
 .button {
 	@include inline-flex();
@@ -12,15 +13,14 @@
 	height: $button-height;
 	display: inline-block;
 	font-family: $font-system;
+	font-size: $font-size;
 	font-weight: 700;
 	padding: 8px $spacing-md 9px;
 	color: $blue;
 	background: white;
 	&:hover {
-		background: lighten($blue, 3%);
-	}
-	&:active {
-		background: darken($blue, 3%);
+		color: white;
+		background: $blue;
 	}
 }
 .button--fullWidth {
@@ -31,6 +31,14 @@
 	background: $blue;
 	border-color: transparent;
 }
+.button--minimal {
+	background: rgba($blue, 0.2);
+	border-color: transparent;
+	border: 4px solid white;
+	padding: 5px 0 6px;
+}
 .button--inverted {
 	border-color: transparent;
+}
+.button--sm {
 }
