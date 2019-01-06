@@ -14,8 +14,3 @@ window.onbeforeunload = function(){
 $('.js-buyRetreat').click(function() {
 	ga('send', 'event', 'engagement', 'click-retreat-buy-button', $(this).attr('data-retreat'));
 });	
-
-// Track scroll depth
-jQuery(function() {
-	jQuery.scrollDepth();
-});
