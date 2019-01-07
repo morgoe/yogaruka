@@ -19,21 +19,11 @@
 	border-radius: 5px;
 	border: 1px solid transparent;
 	height: $button-height;
-	padding: 8px 12px 9px;
+	padding: 8px 8px 9px;
 
-	// .no-touch &:hover,
-	// .touch &:active {
-	// 	border-bottom-color: $brown-30;
-	// }
 	&:focus {
 		border-color: $blue;
 	}
-	// .no-touch &:focus,
-	// .touch &:focus {
-	// 	background-color: white;
-	// 	outline: none;
-	// 	border-bottom-color: $blue-90;
-	// }
 }
 
 input.input {
@@ -43,14 +33,3 @@ input.input {
 textarea.input {
 	height: auto;
 }
-// select.input {
-// 	background-image: url('/assets/icons/select-dropdown.svg');
-// 	background-size: 24px;
-// 	background-repeat: no-repeat;
-// 	background-position: center right;
-
-// 	.no-touch &:focus,
-// 	.touch &:focus {
-// 		background-image: url('/assets/icons/select-dropdown-focus.svg');
-// 	}
-// }

@@ -38,7 +38,11 @@
 	padding: 5px 0 6px;
 }
 .button--inverted {
-	border-color: transparent;
+	border-color: white;
+	&:hover {
+		color: $blue;
+		background: rgba(white, 0.8);
+	}
 }
 .button--sm {
 }
