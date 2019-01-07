@@ -6,8 +6,8 @@
 	background: black;
 	z-index: 1;
 	margin-top: -$header-nav-mobile-height;
-	padding: $spacing-md;
-	padding-top: $spacing-md + $header-nav-mobile-height;
+	padding: $spacing-lg $spacing-md;
+	padding-top: $spacing-lg + $header-nav-mobile-height;
 	h1,
 	.subtitle {
 		color: white;
@@ -28,11 +28,24 @@
 .Page-content {
 	padding: $spacing-md;
 }
+.Page-footer {
+	padding: $spacing-xl $spacing-md;
+	color: $text-muted;
+	font-size: $font-size-sm;
+	font-family: $font-system;
+	text-align: center;
+	a {
+		text-decoration: underline;
+	}
+}
 
 @media (min-width: $media-tablet) {
 	.Page-hero {
 		margin-top: -$header-nav-desktop-height;
 		padding-top: $spacing-xl + $header-nav-desktop-height;
 		padding-bottom: $spacing-xl;
+	}
+	.Page-footer {
+		padding-bottom: $spacing-xs;
 	}
 }

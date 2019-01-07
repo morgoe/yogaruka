@@ -63,12 +63,22 @@
 }
 
 .Header-actionLink {
+	@include flexbox();
+	@include align-items(center);
 	text-decoration: underline;
 	text-decoration-color: rgba(white, 0.5);
 	padding: $spacing-xxs 0;
 	&:hover {
 		text-decoration-color: white;	
+		.Header-actionIcon {
+			opacity: 1;
+		}
 	}
+}
+
+.Header-actionIcon {
+	margin-right: $spacing-xxs;
+	opacity: 0.8;
 }
 
 @media (min-width: $media-tablet) {

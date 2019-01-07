@@ -43,7 +43,7 @@ hr {
 }
 section {
 	margin-bottom: $spacing-md;
-	> p {
+	> p:not(:first-child) {
 		margin-top: $spacing-sm;
 	}
 }

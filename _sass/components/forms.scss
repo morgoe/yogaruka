@@ -1,52 +1,74 @@
 .form {
-	padding: $rhythm / 2;
-	background: white;
-	box-shadow: $shadow;
-	&.has-feedback {
-		.form-group {
-			display: none;
-		}
-	}
+	background: rgba($text-muted, 0.1);
+	padding: $spacing-md;
+	margin-top: $spacing-sm;
+	margin-left: -$spacing-md;
+	margin-right: -$spacing-md;
 }
+
 .form-group {
-	@include clearfix();
-	margin-bottom: $rhythm;
+	margin-bottom: $spacing-sm;
 }
-.form-description,
-.form {
-	max-width: 480px;
-	margin-left: auto;
-	margin-right: auto;
+.form-footer {
+	text-align: right;
 }
-.form-feedback {
-	display: none;
-	text-align: center;
-	padding: 5px 9px 5px;
-	border-radius: 5px;
-	&.success {
-		color: $green;
-		background: rgba($green, 0.1);
-	}
-	&.error {
-		color: $pink;
-		background: rgba($pink, 0.1);
-		margin-bottom: $rhythm;
-		display: block;
-	}
-	.has-feedback & {
-		display: block;
+
+@media (min-width: $media-tablet) {
+	.form {
+		padding: $spacing-sm;
+		margin-left: auto;
+		margin-right: auto;
 	}
 }
-#mc_embed_signup div.mce_inline_error.mce_inline_error {
-	color: $pink;
-	background: none;
-	margin-bottom: 0;
-	text-align: center;
-	font-weight: normal;
-}
-#mc_embed_signup input.mce_inline_error.mce_inline_error {
-	border-color: $pink;
-}
-#mce-success-response:not([style*="display:none"]) ~ * {
-	display: none;
-}
+// .form {
+// 	padding: $rhythm / 2;
+// 	background: white;
+// 	box-shadow: $shadow;
+// 	&.has-feedback {
+// 		.form-group {
+// 			display: none;
+// 		}
+// 	}
+// }
+// .form-group {
+// 	@include clearfix();
+// 	margin-bottom: $rhythm;
+// }
+// .form-description,
+// .form {
+// 	max-width: 480px;
+// 	margin-left: auto;
+// 	margin-right: auto;
+// }
+// .form-feedback {
+// 	display: none;
+// 	text-align: center;
+// 	padding: 5px 9px 5px;
+// 	border-radius: 5px;
+// 	&.success {
+// 		color: $green;
+// 		background: rgba($green, 0.1);
+// 	}
+// 	&.error {
+// 		color: $pink;
+// 		background: rgba($pink, 0.1);
+// 		margin-bottom: $rhythm;
+// 		display: block;
+// 	}
+// 	.has-feedback & {
+// 		display: block;
+// 	}
+// }
+// #mc_embed_signup div.mce_inline_error.mce_inline_error {
+// 	color: $pink;
+// 	background: none;
+// 	margin-bottom: 0;
+// 	text-align: center;
+// 	font-weight: normal;
+// }
+// #mc_embed_signup input.mce_inline_error.mce_inline_error {
+// 	border-color: $pink;
+// }
+// #mce-success-response:not([style*="display:none"]) ~ * {
+// 	display: none;
+// }

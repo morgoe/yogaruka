@@ -17,8 +17,8 @@ h2,
 	line-height: $line-height-header;
 }
 
-.h1-jumbo {
-	font-size: 3rem;
+.h0 {
+	font-size: 2.5rem;
 }
 
 h1,
@@ -47,6 +47,11 @@ h3,
 	body {
 		font-size: $font-size-lg;
 	}
+
+	.h0 {
+		font-size: 4rem;
+	}
+
 	h1,
 	.h1 {
 		font-size: 3rem;

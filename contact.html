@@ -1,17 +1,20 @@
 ---
-layout: page
+layout: default
 site-nav: contact
 cover-image: contact
 title:  "Contact Us"
 permalink: /contact/
+
+h1: Get in Touch
+subtitle: We can’t wait to meet you. If you have any questions, feel free to use the form below, call us, or just drop by.
 ---
 
 <div class="row">
-	<div class="col-md-6">
-		<p class="form-description">Please fill in the following form to contact us, leave a review or email us at <a class="link" href="mailto:{{ site.email }}">{{ site.email }}</a>. All your comments and emails will be replied to <strong>within 24 hours.</strong></p>
-		<p class="form-description">Alternatively, you can call us on <a href="tel:+61297051551">(02) 9705 1551</a>.</p>
+	<section class="col-md-6">
+		<p>Please fill in the following form to contact us, or email us at <a class="link" href="mailto:{{ site.email }}">{{ site.email }}</a>. All your comments and emails will be replied to <strong>within 24 hours.</strong></p>
+		<p>Alternatively, you can call us on <a class="link" href="tel:+61297051551">(02) 9705 1551</a>.</p>
 
-		<form class="form m-top--md" id="form" name="contact">
+		<form class="form" id="form" name="contact">
 			<div class="form-feedback" id="form-feedback"></div>
 			
 			<div class="form-group">
@@ -37,25 +40,25 @@ permalink: /contact/
 			</div>
 			<div class="form-group">
 				<label>
-					<input type="checkbox" name="subscribeToNewsletter" id="form-subscribe">
+					<input type="checkbox" name="subscribeToNewsletter" id="form-subscribe" checked="checked">
 					Subscribe to our newsletter &amp; promotion
 				</label>
 			</div>
-			<div class="form-group m-bottom--0">
-				<button class="" id="form-submit">Submit</button>
+			<div class="form-footer">
+				<button class="button button--primary" id="form-submit">Submit</button>
 			</div>
 		</form>
-	</div>
+	</section>
 
-	<div class="col-md-6">
-		<p class="form-description">
-			Find us at 289 Lyons Road, Russell Lea 2046 close to the intersection with Lithgow Street.
+	<section class="col-md-6">
+		<p>
+			Find us at <a class="link" href="https://www.google.com/maps/place/YogaRuka/@-33.8601573,151.1397601,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12aff7b8e25631:0x237b26f4ee6dea9a!8m2!3d-33.8601618!4d151.1419488?hl=en-US" target="_blank">289 Lyons Road, Russell Lea 2046</a> close to the intersection with Lithgow Street.
 		</p>
-		<p class="form-description">
+		<p>
 			We are a 2-minute walk from the bus stop for 436, 492, 502 and 490 and a 5-minute walk from the famous Bay Run. The Russell Lea Infants School is just around the corner.
 		</p>
-		<p class="form-description">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3313.1376046576715!2d151.1399585983176!3d-33.860344419460425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12aff7b8c32117%3A0xd854b943c857c68a!2s289+Lyons+Rd%2C+Russell+Lea+NSW+2046!5e0!3m2!1sen!2sau!4v1494212773371" style="width:100%; height:100%;"  frameborder="0" style="border:0" allowfullscreen></iframe>
+		<p>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3313.1376046576715!2d151.1399585983176!3d-33.860344419460425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12aff7b8c32117%3A0xd854b943c857c68a!2s289+Lyons+Rd%2C+Russell+Lea+NSW+2046!5e0!3m2!1sen!2sau!4v1494212773371" style="width:100%; height:320px;"  frameborder="0" style="border:0" allowfullscreen></iframe>
 		</p>
-	</div>
+	</section>
 </div>

@@ -12,7 +12,7 @@ subtitle: A wide variety of movement disciplines integrated under one roof—eve
 <section>
 	<h2>Popular Classes</h2>
 
-	{% include carousel.html image1="/assets/images/cover-images/about-sm.jpg" image1_title="YR Mobility: Foundations" image1_caption="Dynamic and static asanas in a flow guided by the breath. Hatha tradition and Indian Yoga Therapy intertwined with Dynamic Movement Therapy, Contemporary methods of Mobility, resistance training, Pranayama, mixed breathing techniques." image2="/assets/images/cover-images/about-sm.jpg" image2_title="YR Strong and Steady Flow" image2_caption="Tuesdays 6pm with Justyna." image3="/assets/images/cover-images/about-sm.jpg" image3_title="YR Slow Fusion Flow" image3_caption="The studio space is a reformed chapel with a rich history, redesigned with ecological sustainability at its core." %}
+	{% include carousel.html image1="/assets/images/new/yoga-class.jpg" image1_title="YR Mobility: Foundations" image1_caption="Dynamic and static asanas in a flow guided by the breath. Hatha tradition and Indian Yoga Therapy intertwined with Dynamic Movement Therapy, Contemporary methods of Mobility, resistance training, Pranayama, mixed breathing techniques." image2="/assets/images/new/yoga-class.jpg" image2_title="YR Strong and Steady Flow" image2_caption="Tuesdays 6pm with Justyna." image3="/assets/images/new/yoga-class.jpg" image3_title="YR Slow Fusion Flow" image3_caption="The studio space is a reformed chapel with a rich history, redesigned with ecological sustainability at its core." %}
 </section>
 
 <section>
