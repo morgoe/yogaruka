@@ -27,7 +27,7 @@ published: true
 		</p>
 
 		<p>
-			We also offer classes, events, memberships and packages that are not currently available through the Momoyoga app. Please contact us to purchase or find out more. On Wednesdays and Saturdays, there are prenatal classes we are running in partnership with Mother Nurture Yoga. <strong>More information and all prenatal bookings are available through the <a class="link" href="https://www.mothernurtureyoga.com.au/timetable-and-costs">Mother Nurture website</a>.</strong>
+			We also offer classes, events, memberships and packages that are not currently available through the Momoyoga app. Please contact us to purchase or find out more. On Wednesdays, Thursdays and Saturdays, there are prenatal classes (yoga and Pilates fusions) that we are running in partnership with Mother Nurture Yoga. <strong>More information and all prenatal bookings are strictly available through the <a class="link" href="https://www.mothernurtureyoga.com.au/timetable-and-costs">Mother Nurture website</a>.</strong>
 		</p>
 		<p>
 			NB: Our yoga shala is not a big franchise - it is an independent studio, and each assigned teacher does also their class’ reception work. We ask you to please arrive <strong>min. 5 minutes before</strong> the commencement of classes, so we can check you in and have you settle, pick your spot and mat, do some gentle warm up at your own pace, and hydrate before class.
