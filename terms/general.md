@@ -3,7 +3,7 @@ layout: post
 site-nav: terms
 title: Terms and Conditions
 permalink: /terms-and-conditions/
-published: false
+published: true
 ---
 YogaRuka provides movement sessions (yoga, mixed mobility, Pilates, Stretch Therapy™, etc) taught by the best independent teachers. YogaRuka also provides the space for independent teachers and therapists to provide services such as movement classes, workshops and treatments. All payments for these services are accepted by YogaRuka on behalf of the teacher or therapist.
 
