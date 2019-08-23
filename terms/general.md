@@ -73,7 +73,7 @@ For all private classes we have a strict 24-hour cancellation policy. If you do 
 Bringing extra participants to your private session will incur an extra of 25% per person to the total. 
 (Practically, a private class for two will cost 1,25 times more than a private class for one. A private class for three will cost 1,56 times more than a private class for one. A private class for four will cost 1,95 times more.) 
 
-All private classes that are taken as 10-class packs are subject to the same conditions as the group class passes: they are 3 months valid; they can under no circumstance be exchanged, transferred, or refunded. 
+All private classes that are taken as 10-class passes are subject to the same conditions as the group class passes: they are 3 months valid; as they present a significant discount on the single, they can under no circumstance be refunded, nor can they be transferred or exchanged. 
 
 
 ### Intake Forms 
