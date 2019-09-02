@@ -50,7 +50,7 @@ Discounted passes may have different conditions to the above so make sure to che
 
 If you are on an Auto-Membership, you are welcome to hold or suspend your membership for holiday or business travel, or if you are unable to practice due to serious illness or injury.
 One week notice in writing prior to the suspension date is required. Membership suspensions cannot be applied retroactively.
-Minimum suspension period for memberships is 7 days. Maximum suspension period is 14 days per 3 months membership period, a total of 56 days per year.
+Minimum suspension period for memberships is 7 days. Maximum suspension period is 21 days per 3 months membership period, a total of 84 days per year.
 Please note that we do not allow suspended memberships to be cancelled. One billing period (30 days) must be completed after suspension and prior to cancelling membership.
 
 Class passes cannot be suspended or cancelled under any circumstance.
