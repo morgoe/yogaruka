@@ -79,7 +79,7 @@ Private sessions can go from 45' to 75' in length. Your first private session wi
 
 #### Concessions + Giving Back to the Community 
 
-Concession drop-ins and concession passes are available for kids, all full time students, some part time students on low income, and pensioners. They offer a discount of min. 20% on the full price and can be purchased in studio **as long as you have a valid concession ID card.** 
+Concession passes are available for kids, all full time students, some part time students on low income, and pensioners. They offer discounts of min. 15% on the full price and can be purchased in studio only **as long as you have a valid concession ID card.** 
 
 
 We are also offering **FREE** classes for highly disadvantaged social groups: Aboriginal Australians, refugees and their children, homeless people of any extraction. Please [contact us](/contact/) to find out more and organise your free yoga training schedule.
