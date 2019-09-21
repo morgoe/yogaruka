@@ -4,6 +4,7 @@
 	@include justify-content(space-between);
 	color: white;
 	background: $blue;
+  font-family: $font-system;
 	padding: $spacing-xs $spacing-sm;
 	position: fixed;
 	bottom: 0;
@@ -23,6 +24,9 @@
 		@include justify-content(center);
 		top: 0;
 		bottom: auto;
+    br {
+      display: none;
+    }
 		span {
 			display: inline;
 			&:before {

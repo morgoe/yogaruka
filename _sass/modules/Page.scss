@@ -41,7 +41,7 @@
 
 @media (min-width: $media-tablet) {
 	.Page-hero {
-		margin-top: -$header-nav-desktop-height;
+		margin-top: 0;
 		padding-top: $spacing-xl + $header-nav-desktop-height;
 		padding-bottom: $spacing-xl;
 	}

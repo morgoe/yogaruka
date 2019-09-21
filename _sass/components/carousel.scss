@@ -15,7 +15,7 @@
 // 	margin-right: auto;
 // }
 .carousel-list {
-	padding: 0 #{$spacing-md - $spacing-xs};
+	padding: 0 #{$spacing-md / 2};
 }
 .carousel-listItem {
 	position: relative;
@@ -23,7 +23,7 @@
 	width: calc(100vw - 2 * #{$spacing-md} - #{$spacing-sm});
 	// margin: 0 !important;
 	// margin-left: $spacing-sm;
-	padding: $spacing-xs;
+	padding: #{$spacing-md / 2};
 	// &:last-child {
 	// 	margin-right: $spacing-sm;
 	// }

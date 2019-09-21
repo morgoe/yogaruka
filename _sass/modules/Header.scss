@@ -14,11 +14,13 @@
 }
 
 .Header-logo {
+  display: block;
 	width: 108px;
 	height: 32px;
 }
 
 .Header-mobileNavWrapper {
+	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
 	background: rgba(black, 0.5);
@@ -86,8 +88,10 @@
 @media (min-width: $media-tablet) {
 	.Header {
 		background: rgba(black, 0.5);
-		position: sticky;
+		position: fixed;
 		top: $global-cta-desktop-height;
+		left: 0;
+		right: 0;
 		padding-top: 0;
 		padding-bottom: 0;
 	}

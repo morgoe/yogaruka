@@ -1,5 +1,6 @@
 // Reset
 .input {
+	-webkit-appearance: none;
 	display: block;
 	letter-spacing: inherit;
 	line-height: normal;
@@ -23,6 +24,7 @@
 
 	&:focus {
 		border-color: $blue;
+		outline: none;
 	}
 }
 
@@ -32,4 +34,11 @@ input.input {
 
 textarea.input {
 	height: auto;
+}
+
+select.input {
+	background-image: url('/assets/icons/select-dropdown.svg');
+	background-size: 24px;
+	background-repeat: no-repeat;
+	background-position: center right;
 }
