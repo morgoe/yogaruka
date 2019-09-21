@@ -24,7 +24,7 @@ subtitle: A wide variety of movement disciplines integrated under one roof—eve
 	<p>
 		On Wednesdays, Thursdays and Saturdays, there are prenatal classes we are running in partnership with Mother Nurture Yoga. <strong>More information and all prenatal bookings are available through the <a class="link" href="https://www.mothernurtureyoga.com.au/timetable-and-costs">Mother Nurture website</a>.</strong>
 	</p>
-
-	<div class="momoyoga-schedule m-top--md" data-momo-schedule="https://www.momoyoga.com/yogaruka"></div>
-	<script src="https://www.momoyoga.com/schedule-plugin/v2/js/schedule.js" crossorigin="anonymous"></script>
 </section>
+
+<div class="momoyoga-schedule m-top--md" data-momo-schedule="https://www.momoyoga.com/yogaruka"></div>
+<script src="https://www.momoyoga.com/schedule-plugin/v2/js/schedule.js" crossorigin="anonymous"></script>

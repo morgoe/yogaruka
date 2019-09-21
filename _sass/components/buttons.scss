@@ -35,8 +35,8 @@
 .button--minimal {
 	background: rgba($blue, 0.2);
 	border-color: transparent;
-	border: 4px solid white;
-	padding: 5px 0 6px;
+	padding: 10px 0 11px;
+  height: $input-height;
 }
 .button--inverted {
 	border-color: white;
