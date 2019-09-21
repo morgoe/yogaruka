@@ -5,54 +5,60 @@ cover-image: contact
 title:  "Contact Us"
 permalink: /contact/
 
-h1: Get in Touch
+h1: Contact Us
 subtitle: We can’t wait to meet you. If you have any questions, feel free to use the form below, call us, or just drop by.
 ---
 
 <div class="row">
-	<section class="col-md-6">
-		<p>Please fill in the following form to contact us, or email us at <a class="link" href="mailto:{{ site.email }}">{{ site.email }}</a>. All your comments and emails will be replied to <strong>within 24 hours.</strong></p>
-		<p>Alternatively, you can call us on <a class="link" href="tel:+61297051551">(02) 9705 1551</a>.</p>
+	<section class="col-md-7">
+    <div class="card">
+  		<p>Please fill in the following form to contact us, or email us at <a class="link" href="mailto:{{ site.email }}">{{ site.email }}</a>. All your comments and emails will be replied to <strong>within 24 hours.</strong></p>
+  		<p>Alternatively, you can call us on <a class="link" href="tel:+61297051551">(02) 9705 1551</a>.</p>
 
-		<form class="form" id="form" name="contact">
-			<div class="form-feedback" id="form-feedback"></div>
-			
-			<div class="form-group">
-				<input class="input" type="text" id="form-name" name="fname" placeholder="Name" required="true">
-			</div>
+  		<form class="form" id="form" name="contact">
+  			<div class="form-feedback" id="form-feedback"></div>
+  			
+  			<div class="form-group">
+          <label for="form-name">Name</label>
+  			  <input class="input" type="text" id="form-name" name="fname" placeholder="Jenny Yogini" required="true">
+  			</div>
 
-			<div class="form-group">
-				<input class="input" type="email" id="form-email" name="email" placeholder="Email Address" required="true">
-			</div>
-			<div class="form-group">
-				<select class="input" name="referredBy" id="form-referred-by">
-					<option value="" style="display: none;">How did you hear about us?</option>
-					<option value="Word of Mouth">Word of Mouth</option>
-					<option value="Google Maps">Google Maps</option>
-					<option value="Google Search">Google Search</option>
-					<option value="Facebook">Facebook</option>
-					<option value="Instagram">Instagram</option>
-					<option value="Twitter">Twitter</option>
-					<option value="Flyer">Flyer</option>
-					<option value="Other">Other</option>
-				</select>  
-			</div>
-			<div class="form-group"> 
-				<textarea class="input" rows="3" id="form-message" name="message" placeholder="Message" required="true"></textarea>
-			</div>
-			<div class="form-group">
-				<label>
-					<input type="checkbox" name="subscribeToNewsletter" id="form-subscribe" checked="checked">
-					Subscribe to our newsletter &amp; promotion
-				</label>
-			</div>
-			<div class="form-footer">
-				<button class="button button--primary" id="form-submit">Submit</button>
-			</div>
-		</form>
+  			<div class="form-group">
+          <label for="form-email">Email Address</label>
+  				<input class="input" type="email" id="form-email" name="email" placeholder="jenny@gmail.com" required="true">
+  			</div>
+  			<div class="form-group">
+          <label for="form-email">How did you hear about us?</label>
+  				<select class="input" name="referredBy" id="form-referred-by">
+  					<option value="" disabled selected></option>
+  					<option value="Word of Mouth">Word of Mouth</option>
+  					<option value="Google Maps">Google Maps</option>
+  					<option value="Google Search">Google Search</option>
+  					<option value="Facebook">Facebook</option>
+  					<option value="Instagram">Instagram</option>
+  					<option value="Twitter">Twitter</option>
+  					<option value="Flyer">Flyer</option>
+  					<option value="Other">Other</option>
+  				</select>  
+  			</div>
+  			<div class="form-group"> 
+          <label for="form-message">Message</label>
+  				<textarea class="input" rows="3" id="form-message" name="message" required="true"></textarea>
+  			</div>
+  			<div class="form-group">
+  				<label>
+  					<input type="checkbox" name="subscribeToNewsletter" id="form-subscribe" checked="checked">
+  					Subscribe to our newsletter &amp; promotion
+  				</label>
+  			</div>
+  			<div class="form-footer">
+  				<button class="button button--primary" id="form-submit">Submit</button>
+  			</div>
+  		</form>
+    </div>
 	</section>
 
-	<section class="col-md-6">
+	<section class="col-md-5">
 		<p>
 			Find us at <a class="link" href="https://www.google.com/maps/place/YogaRuka/@-33.8601573,151.1397601,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12aff7b8e25631:0x237b26f4ee6dea9a!8m2!3d-33.8601618!4d151.1419488?hl=en-US" target="_blank">289 Lyons Road, Russell Lea 2046</a> close to the intersection with Lithgow Street.
 		</p>

@@ -11,19 +11,28 @@
 	border: none;
 }
 
+label {
+  display: block;
+  font-size: $font-size-md;
+  font-family: $font-system;
+  margin-bottom: $spacing-xxs;
+}
+
 .input {
-	font-size: $font-size;
+	font-size: inherit;
 	font-family: $font-system;
 	width: 100%;
 
 	background: white;
-	border-radius: 5px;
-	border: 1px solid transparent;
-	height: $button-height;
+	border-radius: 0;
+	border: 1px solid $border;
+  box-shadow: $shadow-light;
+	height: $input-height;
 	padding: 8px 8px 9px;
 
 	&:focus {
-		border-color: $blue;
+		border-color: $text-dark;
+    box-shadow: $shadow-dark;
 		outline: none;
 	}
 }

@@ -12,6 +12,9 @@
 	.subtitle {
 		color: white;
 	}
+  .subtitle {
+    font-style: italic;
+  }
 }
 .Page-heroImage {
 	position: absolute;
@@ -26,12 +29,12 @@
     background-size: cover;
 }
 .Page-content {
-	padding: $spacing-md;
+	padding: $spacing-lg $spacing-md;
 }
 .Page-footer {
-	padding: $spacing-xl $spacing-md;
+	padding: #{$spacing-xl * 2} $spacing-md;
 	color: $text-muted;
-	font-size: $font-size-sm;
+	font-size: $font-size-xs;
 	font-family: $font-system;
 	text-align: center;
 	a {
@@ -42,9 +45,12 @@
 @media (min-width: $media-tablet) {
 	.Page-hero {
 		margin-top: 0;
-		padding-top: $spacing-xl + $header-nav-desktop-height;
-		padding-bottom: $spacing-xl;
+		padding-top: #{$spacing-xl * 2 + $header-nav-desktop-height};
+		padding-bottom: #{$spacing-xl * 2};
 	}
+  .Page-content {
+    padding: $spacing-xl $spacing-lg;
+  }
 	.Page-footer {
 		padding-bottom: $spacing-xs;
 	}

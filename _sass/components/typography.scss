@@ -1,11 +1,26 @@
+html,
 body {
-	font-family: $font-body;
-	font-size: $font-size;
-	line-height: $line-height;
-	color: $text-dark;
-	text-rendering: optimizeLegibility;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+	font-size: $font-size-md;
+}
+
+body {
+  color: $text-dark;
+  font-family: $font-body;
+  line-height: $line-height;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: $line-height-header;
+  margin-bottom: $spacing-xxs;
+  &:not(:first-child) {
+    margin-top: $spacing-xl;
+  }
 }
 
 h1,
@@ -19,11 +34,12 @@ h2,
 
 .h0 {
 	font-size: 2.5rem;
+  margin: 0;
 }
 
 h1,
 .h1 {
-	font-size: 2rem;
+	font-size: 2.5rem;
 }
 
 h2,
@@ -32,23 +48,29 @@ h2,
 }
 
 h3,
-.h3 {
-	font-size: 1.33rem;
+.h3,
+h4,
+.h4 {
+	font-size: 1.5rem;
 	font-weight: 600;
+  font-family: $font-system
 }
 
 strong {
   font-weight: 600;
 }
 
+p + p {
+  margin-top: $spacing-md;
+}
+
 .subtitle {
-	font-size: $font-size;
-	font-style: italic;
 	color: $text-muted;
 }
 
 @media (min-width: $media-tablet) {
-	body {
+	html,
+  body {
 		font-size: $font-size-lg;
 	}
 
@@ -60,7 +82,7 @@ strong {
 	.h1 {
 		font-size: 3rem;
 		+ .subtitle {
-			font-size: 1.25rem;
+			font-size: 20px;
 		}
 	}
 
@@ -71,7 +93,7 @@ strong {
 
 	h3,
 	.h3 {
-		font-size: 1rem;
+		font-size: 1.25rem;
 	}
 }
 

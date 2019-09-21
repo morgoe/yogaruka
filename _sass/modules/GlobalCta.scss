@@ -4,6 +4,7 @@
 	@include justify-content(space-between);
 	color: white;
 	background: $blue;
+  font-size: $font-size-sm;
   font-family: $font-system;
 	padding: $spacing-xs $spacing-sm;
 	position: fixed;
@@ -35,6 +36,7 @@
 		}
 		.button {
 			margin-left: $spacing-sm;
+      margin-right: 0;
 		}
 	}
 }

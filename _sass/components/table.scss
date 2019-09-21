@@ -4,9 +4,14 @@
 	white-space: nowrap;
 	font-size: 15px;
 	font-family: $font-system;
-	width: 100%;
+	width: auto;
+  margin: $spacing-md #{-$spacing-md - 1};
+  padding: 0 $spacing-md;
+  border: 1px solid $border;
+  box-shadow: $shadow-light;
+
 	tbody tr {
-		border-top: 1px solid $brown-90;
+		border-top: 1px solid $border;
 	}
 	td,
 	th {
@@ -15,8 +20,10 @@
 	}
 }
 
-@media (min-width: $media-lg) {
+@media (min-width: $media-tablet) {
 	.table {
 		display: table;
+    margin-left: 0;
+    margin-right: 0;
 	}
 }

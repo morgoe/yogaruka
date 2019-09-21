@@ -41,9 +41,3 @@ hr {
 	border-top: 1px solid $text-dark;
 	opacity: 0.2;
 }
-section {
-	margin-bottom: $spacing-md;
-	> p:not(:first-child) {
-		margin-top: $spacing-sm;
-	}
-}

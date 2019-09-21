@@ -8,14 +8,15 @@
 .button {
 	@include inline-flex();
 	@include align-items(center);
-	border-radius: 2rem;
+	border-radius: $button-height;
 	border: 1px solid rgba($blue, 0.5);
 	height: $button-height;
-	display: inline-block;
+	display: block;
+  width: 100%;
 	font-family: $font-system;
-	font-size: $font-size;
+	font-size: inherit;
 	font-weight: 700;
-	padding: 8px 1.5rem 9px;
+	padding: 14px $spacing-lg 15px;
 	color: $blue;
 	background: white;
 	&:hover {
@@ -28,7 +29,7 @@
 }
 .button--primary {
 	color: white;
-	background: $blue;
+	background: $text-dark;
 	border-color: transparent;
 }
 .button--minimal {
@@ -45,4 +46,16 @@
 	}
 }
 .button--sm {
+  font-size: $font-size-sm;
+  height: $button-height-sm;
+  padding: 8px $spacing-md 9px;
+  width: auto;
+}
+
+@media (min-width: $media-tablet) {
+  .button {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }

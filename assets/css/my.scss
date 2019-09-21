@@ -7,19 +7,19 @@
 // General Settings
 @import 'base/variables';
 @import 'base/reset';
-@import 'base/grid';
 @import 'base/mixins';
-@import 'base/typography';
 
 // // Components
-@import 'components/layout';
 @import 'components/defaults';
+@import 'components/layout';
+@import 'components/typography';
+@import 'components/grid';
 @import 'components/forms';
 @import 'components/inputs';
 @import 'components/buttons';
 // @import 'components/images';
 // @import 'components/tabs';
-// @import 'components/table';
+@import 'components/table';
 // @import 'components/cards';
 // @import 'components/googleMaps';
 @import 'components/carousel';
@@ -34,7 +34,7 @@
 @import 'modules/Page';
 @import 'modules/BackgroundImages';
 // @import 'modules/misc';
-// @import 'modules/Longform';
+@import 'modules/Longform';
 @import 'modules/Hero';
 // @import 'modules/Home';
 // @import 'modules/accordion';
