@@ -8,7 +8,7 @@ a {
 	text-decoration: none;
 	cursor: pointer;
 	&.link {
-		color: $blue;
+		color: $link;
 		text-decoration: underline;
 	}
 }
@@ -40,4 +40,5 @@ hr {
 	border: none;
 	border-top: 1px solid $text-dark;
 	opacity: 0.2;
+  margin: $spacing-xl 0;
 }

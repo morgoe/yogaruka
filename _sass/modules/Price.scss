@@ -1,0 +1,36 @@
+.Price {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: $spacing-md;
+
+  border: 1px solid $border;
+  padding: $spacing-sm;
+  font-size: $font-size-md;
+  text-decoration: none !important;
+
+  &:hover {
+    border-color: $link;
+    .Price-title {
+      color: $link;
+      text-decoration: underline;
+    }
+  }
+}
+
+.Price-content {
+
+}
+
+.Price-title {
+  color: $text-dark;
+  font-weight: 600;
+}
+
+.Price-subtitle {
+  color: $text-muted;
+}
+
+.Price-amount {
+  color: $text-muted;
+}

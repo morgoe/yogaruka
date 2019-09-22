@@ -46,6 +46,8 @@
 	.Page-hero {
 		margin-top: 0;
 		padding-top: #{$spacing-xl * 2 + $header-nav-desktop-height};
+    padding-left: $spacing-lg;
+    padding-right: $spacing-lg;
 		padding-bottom: #{$spacing-xl * 2};
 	}
   .Page-content {
