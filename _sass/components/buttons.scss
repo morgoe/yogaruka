@@ -9,7 +9,7 @@
 	@include inline-flex();
 	@include align-items(center);
 	border-radius: $button-height;
-	border: 1px solid rgba($blue, 0.5);
+	border: 1px solid rgba($link, 0.5);
 	height: $button-height;
 	display: block;
   width: 100%;
@@ -17,11 +17,11 @@
 	font-size: inherit;
 	font-weight: 700;
 	padding: 14px $spacing-lg 15px;
-	color: $blue;
+	color: $link;
 	background: white;
 	&:hover {
 		color: white;
-		background: $blue;
+		background: $link;
 	}
 }
 .button--fullWidth {
@@ -33,13 +33,14 @@
 	border-color: transparent;
 }
 .button--minimal {
-	background: rgba($blue, 0.2);
+	background: rgba($link, 0.2);
 	border-color: transparent;
 	padding: 10px 0 11px;
   height: $input-height;
 }
 .button--inverted {
 	border-color: white;
+  color: $blue;
 	&:hover {
 		color: $blue;
 		background: rgba(white, 0.8);

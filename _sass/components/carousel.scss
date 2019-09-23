@@ -27,11 +27,13 @@
 	// &:last-child {
 	// 	margin-right: $spacing-sm;
 	// }
+  figcaption {
+    margin-top: $spacing-xs;
+  }
 	h3 {
-		margin-top: $spacing-xs;
 	}
 	p {
-		margin-top: $spacing-xxs;
+    font-size: $font-size-md;
 	}
 }
 

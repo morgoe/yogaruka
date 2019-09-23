@@ -26,13 +26,11 @@ label {
 	background: white;
 	border-radius: 0;
 	border: 1px solid $border;
-  box-shadow: $shadow-light;
 	height: $input-height;
 	padding: 8px 8px 9px;
 
 	&:focus {
 		border-color: $text-dark;
-    box-shadow: $shadow-dark;
 		outline: none;
 	}
 }

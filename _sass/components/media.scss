@@ -14,8 +14,17 @@
 }
 
 .media-image {
+  position: relative;
   width: 4rem;
   margin-right: $spacing-sm;
+}
+
+.media-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
 .media-title {
@@ -50,6 +59,7 @@
     .media-title {
       display: block;
     }
+    font-size: $font-size-md;
   }
 
 }

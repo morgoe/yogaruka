@@ -1,6 +1,6 @@
 .Header {
 	background: black;
-	padding: 12px $spacing-sm;
+	padding: 12px $spacing-md;
 	z-index: 2;
 }
 
@@ -30,7 +30,7 @@
 .Header-nav {
 	@include flexbox();
 	@include justify-content(space-between);
-	padding: 0 $spacing-sm;
+	padding: 0 #{$spacing-md - $spacing-xs};
 }
 .Header-nav--mobile {
 	max-width: 400px;
@@ -92,8 +92,7 @@
 		top: $global-cta-desktop-height;
 		left: 0;
 		right: 0;
-		padding-top: 0;
-		padding-bottom: 0;
+    padding: 0 $spacing-lg;
 	}
 	.Header-nav--desktop {
 		display: block;

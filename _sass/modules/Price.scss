@@ -3,6 +3,7 @@
   align-items: center;
   justify-content: space-between;
   margin-top: $spacing-md;
+  min-height: 84px;
 
   border: 1px solid $border;
   padding: $spacing-sm;
@@ -23,7 +24,7 @@
 }
 
 .Price-title {
-  color: $text-dark;
+  color: $link;
   font-weight: 600;
 }
 
@@ -33,4 +34,11 @@
 
 .Price-amount {
   color: $text-muted;
+}
+
+
+@media (min-width: $media-tablet) {
+  .Price-title {
+    color: $text-dark;
+  }
 }

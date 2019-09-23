@@ -51,9 +51,18 @@ h3,
 .h3,
 h4,
 .h4 {
-	font-size: 1.5rem;
 	font-weight: 600;
   font-family: $font-system
+}
+
+h3,
+.h3 {
+  font-size: 1.5rem;
+}
+
+h4,
+.h4 {
+  font-size: 1.25rem;
 }
 
 strong {
@@ -92,9 +101,9 @@ p + p {
 		font-size: 2rem;
 	}
 
-	h3,
-	.h3 {
-		// font-size: 1.25rem;
+	h4,
+	.h4 {
+		font-size: 1.25rem;
 	}
 }
 
