@@ -50,9 +50,15 @@ $media-amounts: $media-xs, $media-sm, $media-md, $media-lg, $media-xl;
 
 
 // Magic Numbers
+$action-height: 40px;
+$action-height-sm: 36px;
+$action-border-radius: 4px;
+$action-font-size: $font-size-md;
+
 $button-height-sm: 36px;
 $input-height: 40px;
-$button-height: 48px;
+$button-height: 40px;
+$border-radius: 4px;
 $header-nav-mobile-height: 56px;
 $header-nav-desktop-height: 64px;
 $global-cta-desktop-height: 52px;

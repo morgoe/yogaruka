@@ -8,24 +8,21 @@
 .button {
 	@include inline-flex();
 	@include align-items(center);
-	border-radius: $button-height;
+	border-radius: $action-border-radius;
 	border: 1px solid rgba($link, 0.5);
-	height: $button-height;
+	height: $action-height;
 	display: block;
   width: 100%;
 	font-family: $font-system;
-	font-size: inherit;
+  font-size: $action-font-size;
 	font-weight: 700;
-	padding: 14px $spacing-lg 15px;
+	padding: 10px $spacing-lg 11px;
 	color: $link;
 	background: white;
 	&:hover {
 		color: white;
 		background: $link;
 	}
-}
-.button--fullWidth {
-	width: 100%;
 }
 .button--primary {
 	color: white;
@@ -48,7 +45,7 @@
 }
 .button--sm {
   font-size: $font-size-sm;
-  height: $button-height-sm;
+  height: $action-height-sm;
   padding: 8px $spacing-md 9px;
   width: auto;
 }
@@ -58,5 +55,8 @@
     width: auto;
     margin-left: auto;
     margin-right: auto;
+  }
+  .button--fullWidth {
+    width: 100%;
   }
 }

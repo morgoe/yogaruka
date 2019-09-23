@@ -1,0 +1,30 @@
+.Newsletter {
+    @extend .pagePadding;
+    padding-bottom: $spacing-xl;
+}
+
+.Newsletter-form {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -$spacing-md;
+    margin-left: -$spacing-sm;
+}
+
+.Newsletter-formGroup {
+    flex-basis: 200px;
+    flex-grow: 1;
+    margin-top: $spacing-md;
+    margin-left: $spacing-sm;
+}
+
+.Newsletter-formFooter {
+    flex-grow: 1;
+    margin-top: $spacing-md;
+    margin-left: $spacing-sm;
+}
+
+#mc_embed_signup div.mce_inline_error {
+    position: absolute;
+    font-size: $action-font-size;
+    font-family: $font-system;
+}

@@ -6,6 +6,15 @@
 	box-sizing: border-box;
 }
 
+.pagePadding {
+  padding-left: $spacing-md;
+  padding-right: $spacing-md;
+  @media (min-width: $media-tablet) {
+    padding-left: $spacing-lg;
+    padding-right: $spacing-lg;
+  }
+}
+
 .container {
 	max-width: $container;
 	margin-left: auto;

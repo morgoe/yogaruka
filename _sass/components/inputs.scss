@@ -19,14 +19,14 @@ label {
 }
 
 .input {
-  font-size: $font-size-md;
+  font-size: $action-font-size;
 	font-family: $font-system;
 	width: 100%;
 
 	background: white;
-	border-radius: 0;
+	border-radius: $action-border-radius;
 	border: 1px solid $border;
-	height: $input-height;
+	height: $action-height;
 	padding: 8px 8px 9px;
 
 	&:focus {

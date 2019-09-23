@@ -6,8 +6,9 @@
 	background: black;
 	z-index: 1;
 	margin-top: -$header-nav-mobile-height;
-	padding: $spacing-lg $spacing-md;
-	padding-top: $spacing-lg + $header-nav-mobile-height;
+  @extend .pagePadding;
+  padding-top: $spacing-lg + $header-nav-mobile-height;
+  padding-bottom: $spacing-lg;
 	h1,
 	.subtitle {
 		color: white;
@@ -29,10 +30,15 @@
     background-size: cover;
 }
 .Page-content {
-	padding: $spacing-lg $spacing-md;
+  @extend .pagePadding;
+  padding-top: $spacing-lg;
+  padding-bottom: $spacing-lg;
 }
 .Page-footer {
-	padding: #{$spacing-xl * 2} $spacing-md;
+  border-top: 1px solid $border-light;
+  @extend .pagePadding;
+  padding-top: $spacing-xl;
+  padding-bottom: $spacing-xl;
 	color: $text-muted;
 	font-size: $font-size-xs;
 	font-family: $font-system;
@@ -46,14 +52,12 @@
 	.Page-hero {
 		margin-top: 0;
 		padding-top: #{$spacing-xl * 2 + $header-nav-desktop-height};
-    padding-left: $spacing-lg;
-    padding-right: $spacing-lg;
 		padding-bottom: #{$spacing-xl * 2};
 	}
   .Page-content {
-    padding: $spacing-xl $spacing-lg;
+    padding-top: $spacing-xl;
+    padding-bottom: $spacing-xl;
   }
 	.Page-footer {
-		padding-bottom: $spacing-xs;
 	}
 }

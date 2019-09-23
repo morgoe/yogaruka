@@ -1,29 +1,34 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
-  <body class="Page" {% if page.body-id %}id="{{ page.body-id }}"{% endif %}>
-   	{% include global-cta.html %}
-   	{% include header.html %}
+    {% include head.html %}
+    <body class="Page" {% if page.body-id %}id="{{ page.body-id }}"{% endif %}>
+        {% include global-cta.html %}
+        {% include header.html %}
 
-	<div class="Page-hero">
-		<div class="container">
-			<h1 class="h0">{{ page.h0 }}</h1>
-			
-			<div class="container--sm">
-				<h1>{{ page.h1 }}</h1>
-				<p class="subtitle">{{ page.subtitle }}</p>
-			</div>
-		</div>
-		<div class="Page-heroImage {% if page.cover-image %}Page-heroImage--{{ page.cover-image }}{% endif %}"></div>
-	</div>
+        <div class="Page-hero">
+            <div class="container">
+                <h1 class="h0">{{ page.h0 }}</h1>
+                
+                <div class="container--sm">
+                    <h1>{{ page.h1 }}</h1>
+                    <p class="subtitle">{{ page.subtitle }}</p>
+                </div>
+            </div>
+            <div class="Page-heroImage {% if page.cover-image %}Page-heroImage--{{ page.cover-image }}{% endif %}"></div>
+        </div>
 
-	<main class="Page-content">
-		<div class="container">
-			{{ content }}
-		</div>
-	</main>
+        <main class="Page-content">
+            <div class="container">
+                {{ content }}
+            </div>
+        </main>
 
-    {% include footer.html %}
-    {% include foot.html %}
-  </body>
+        <footer class="Page-footer">
+          {% include newsletter-signup.html %}
+          
+          © 2015-2019 YogaRuka. All rights reserved. <a href="/terms-and-conditions/">Terms and conditions</a> apply.
+        </footer>
+
+        {% include foot.html %}
+    </body>
 </html>
