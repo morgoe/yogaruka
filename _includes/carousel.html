@@ -1,35 +1,48 @@
 <div class="carousel">
 	<div class="carousel-frame">
 		<ul class="carousel-list">
-			{% if include.tile1_image %}
-				<li class="carousel-listItem">
-					<img src="{{ include.tile1_image }}">
-					<figcaption>
-						{% if include.tile1_title %}
-							<h4>{{ include.tile1_title }}</h4>
-						{% endif %}
-						{% if include.tile1_caption %}
-							<p>{{ include.tile1_caption }}</p>
-						{% endif %}
-					</figcaption>
-				</li>
-			{% endif %}
-			{% if include.tile2_image %}
-				<li class="carousel-listItem">
-					<img src="{{ include.tile2_image }}">
-					<figcaption>
-						{% if include.tile2_title %}
-							<h4>{{ include.tile2_title }}</h4>
-						{% endif %}
-						{% if include.tile2_caption %}
-							<p>{{ include.tile2_caption }}</p>
-						{% endif %}
-					</figcaption>
-          {% if include.tile2_video %}
-            <div style="padding:50% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/361425855?autoplay=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-          {% endif %}
-				</li>
-			{% endif %}
+      {% if include.tile1_image %}
+        <li class="carousel-listItem {% if include.tile1_video %}carousel-listItem--video js-modal{% endif %}" id="{% if include.tile1_video %}{{ include.tile1_video }}{% endif %}">
+          <div class="carousel-image">
+            <img src="{{ include.tile1_image }}">
+
+            {% if include.tile1_video %}
+              <img class="carousel-playIcon" src="/assets/icons/play.svg">
+            {% endif %}
+          </div>
+          
+          <figcaption>
+            {% if include.tile1_title %}
+              <h4>{{ include.tile1_title }}</h4>
+            {% endif %}
+            {% if include.tile1_caption %}
+              <p>{{ include.tile1_caption }}</p>
+            {% endif %}
+          </figcaption>
+        </li>
+      {% endif %}
+
+
+      {% if include.tile2_image %}
+        <li class="carousel-listItem {% if include.tile2_video %}carousel-listItem--video js-modal{% endif %}" id="{% if include.tile2_video %}{{ include.tile2_video }}{% endif %}">
+          <div class="carousel-image">
+            <img src="{{ include.tile2_image }}">
+
+            {% if include.tile2_video %}
+              <img class="carousel-playIcon" src="/assets/icons/play.svg">
+            {% endif %}
+          </div>
+          
+          <figcaption>
+            {% if include.tile2_title %}
+              <h4>{{ include.tile2_title }}</h4>
+            {% endif %}
+            {% if include.tile2_caption %}
+              <p>{{ include.tile2_caption }}</p>
+            {% endif %}
+          </figcaption>
+        </li>
+      {% endif %}
 
 
 			{% if include.tile3_image %}
@@ -41,7 +54,7 @@
               <img class="carousel-playIcon" src="/assets/icons/play.svg">
             {% endif %}
           </div>
-          
+
 					<figcaption>
 						{% if include.tile3_title %}
 							<h4>{{ include.tile3_title }}</h4>
@@ -50,28 +63,6 @@
 							<p>{{ include.tile3_caption }}</p>
 						{% endif %}
 					</figcaption>
-				</li>
-			{% endif %}
-
-
-			{% if include.tile4_image %}
-				<li class="carousel-listItem">
-					<img src="{{ include.tile4_image }}">
-					{% if include.tile4_caption %}
-						<figcaption>
-							<p class="js-carouselItemCaption">{{ include.tile4_caption }}</p>
-						</figcaption>
-					{% endif %}
-				</li>
-			{% endif %}
-			{% if include.tile5_image %}
-				<li class="carousel-listItem">
-					<img src="{{ include.tile5_image }}">
-					{% if include.tile5_caption %}
-						<figcaption>
-							<p class="js-carouselItemCaption">{{ include.tile5_caption }}</p>
-						</figcaption>
-					{% endif %}
 				</li>
 			{% endif %}
 		</ul>
