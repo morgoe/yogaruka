@@ -9,16 +9,16 @@
 	@include inline-flex();
 	@include align-items(center);
 	border-radius: $action-border-radius;
-	border: 1px solid rgba($link, 0.5);
+	border: none;
 	height: $action-height;
 	display: block;
   width: 100%;
 	font-family: $font-system;
   font-size: $action-font-size;
 	font-weight: 700;
-	padding: 10px $spacing-lg 11px;
+	padding: 11px $spacing-md 12px;
 	color: $link;
-	background: white;
+  background: rgba($link, 0.15);
 	&:hover {
 		color: white;
 		background: $link;
@@ -26,17 +26,13 @@
 }
 .button--primary {
 	color: white;
-	background: $text-dark;
-	border-color: transparent;
+	background: $link;
 }
 .button--minimal {
 	background: rgba($link, 0.2);
-	border-color: transparent;
-	padding: 10px 0 11px;
-  height: $input-height;
 }
 .button--inverted {
-	border-color: white;
+  background: white;
   color: $blue;
 	&:hover {
 		color: $blue;
@@ -46,7 +42,7 @@
 .button--sm {
   font-size: $font-size-sm;
   height: $action-height-sm;
-  padding: 8px $spacing-md 9px;
+  padding: 9px $spacing-md 10px;
   width: auto;
 }
 

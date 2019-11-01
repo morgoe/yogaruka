@@ -17,7 +17,6 @@ button {
 	&:focus {
 		outline: none;
 	}
-	@include noSelect();
 }
 img {
 	display: block;

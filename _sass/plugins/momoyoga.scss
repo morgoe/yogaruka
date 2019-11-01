@@ -4,12 +4,18 @@
   max-width: $container-sm;
 	margin-left: -$spacing-md;
 	margin-right: -$spacing-md;
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px $border;
+
 	.momoyoga-section {
+    background: none;
 		border: none;
 		border-radius: 0;
-		box-shadow: 0 0 0 1px $border;
 		padding: $spacing-md;
 		margin-bottom: 0;
+    + .momoyoga-section {
+      border-top: 1px solid $border;
+    }
 	}
 	.momoyoga-day,
 	.momoyoga-date {
@@ -81,7 +87,7 @@
         top: auto;
         right: 0;
         bottom: $spacing-xxs;
-        width: 120px;
+        width: 160px;
       }
     }
   }
