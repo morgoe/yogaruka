@@ -14,6 +14,21 @@
 	text-align: center;
 }
 
+.form-feedback {
+  display: none;
+  padding: $spacing-sm;
+  margin-bottom: $spacing-md;
+  &.success {
+    display: block;
+    background: rgba($link, 0.15);
+  }
+  &.danger {
+    display: block;
+    background: rgba($red, 0.15);
+  }
+}
+
+
 @media (min-width: $media-tablet) {
 	.form {
 		// padding: $spacing-sm;

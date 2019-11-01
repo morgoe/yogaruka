@@ -5,8 +5,6 @@ $(document).ready(function() {
     initCarousels();
     initModals();
 		expandSVGs();
-		imageZoom();
-		initVideoScrubbers();
 		$(window).on('resize', resizeHomeVideo).resize();
 	});
 
