@@ -37,6 +37,43 @@
 	}
 }
 
+.carousel-listItem--video {
+  .carousel-image img {
+    opacity: 0.75;
+    transition: 0.25s ease-in-out;
+  }
+  &:hover {
+    cursor: pointer;
+    .carousel-image img {
+      opacity: 0.5;
+    }
+    .carousel-playIcon {
+      transform: scale(1.1);
+    }
+  }
+}
+
+.carousel-image {
+  position: relative;
+  background: $text-dark;
+}
+
+.carousel-playIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: $action-height;
+  height: $action-height;
+  margin: auto;
+
+  border-radius: 50%;
+  box-shadow: 0 0 8px black;
+
+  transition: 0.25s ease-in-out;
+}
+
 .carousel-button {
 	position: absolute;
 	top: 0;

@@ -12,7 +12,7 @@ subtitle: A wide variety of movement disciplines integrated under one roof—eve
 <section>
 	<h2>Featured Classes</h2>
 
-	{% include carousel.html image1="/assets/images/new/yoga-class.jpg" image1_title="YR Mobility: Foundations" image1_caption="Mondays 7:15pm with Rua" image2="/assets/images/new/yoga-class.jpg" image2_title="YR Foundations of Mobility" image2_caption="Saturdays 10:30am with Morgan." image3="/assets/images/new/yoga-class.jpg" image3_title="YR Slow Fusion Flow" image3_caption="Sundays 9:30am with Karen" %}
+	{% include carousel.html tile1_image="/assets/images/new/yoga-class.jpg" tile1_title="YR Mobility: Foundations" tile1_caption="Mondays 7:15pm with Rua" tile2_image="/assets/images/new/yoga-class.jpg" tile2_title="YR Foundations of Mobility" tile2_caption="Saturdays 10:30am with Morgan." tile3_image="/assets/images/classes/slow-flow.jpg" tile3_video="370262120" tile3_title="YR Slow Fusion Flow" tile3_caption="Sundays 9:30am with Karen" %}
 </section>
 
 <section class="Longform">
@@ -28,3 +28,5 @@ subtitle: A wide variety of movement disciplines integrated under one roof—eve
 
 <div class="momoyoga-schedule m-top--md" data-momo-schedule="https://www.momoyoga.com/yogaruka"></div>
 <script src="https://www.momoyoga.com/schedule-plugin/v2/js/schedule.js" crossorigin="anonymous"></script>
+
+{% include video-modal.html video="370262120" %}

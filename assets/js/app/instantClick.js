@@ -4,7 +4,8 @@ $(document).ready(function() {
 
 		sendGoogleAnalyticsPageView();
 		initExternalLinks();
-		initCarousels();
+    initCarousels();
+    initModals();
 		expandSVGs();
 		imageZoom();
 		initVideoScrubbers();

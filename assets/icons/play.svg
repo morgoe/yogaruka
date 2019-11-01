@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,0 C8.972,0 0,8.972 0,20 C0,31.028 8.972,40 20,40 C31.028,40 40,31.028 40,20 C40,8.972 31.028,0 20,0 M27.03,18.2848 L17.03,12.2848 C16.412,11.9148 15.642,11.9028 15.014,12.2588 C14.388,12.6148 14,13.2788 14,14.0008 L14,26.0008 C14,26.7208 14.388,27.3848 15.014,27.7408 C15.32,27.9148 15.66,28.0008 16,28.0008 C16.356,28.0008 16.712,27.9048 17.03,27.7148 L27.03,21.7148 C27.63,21.3528 28,20.7028 28,20.0008 C28,19.2988 27.63,18.6468 27.03,18.2848 L27.03,18.2848 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Icon" fill="#FFFFFF" xlink:href="#path-1"></use>
+    </g>
+</svg>

@@ -12,6 +12,7 @@
 {% include_relative app/imageZoom.js %}
 {% include_relative app/videoScrubber.js %}
 {% include_relative app/carousel.js %}
+{% include_relative app/modal.js %}
 {% include_relative app/masonry.js %}
 {% include_relative app/contactForm.js %}
 {% include_relative app/autosizeTextarea.js %}
