@@ -45,7 +45,7 @@
   &:hover {
     cursor: pointer;
     .carousel-image img {
-      opacity: 0.5;
+      opacity: 1;
     }
     .carousel-playIcon {
       transform: scale(1.1);
@@ -68,6 +68,7 @@
   height: $action-height;
   margin: auto;
 
+  opacity: 1 !important;
   border-radius: 50%;
   box-shadow: 0 0 20px black;
 

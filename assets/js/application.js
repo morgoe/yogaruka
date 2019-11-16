@@ -4,7 +4,6 @@
 {% include_relative lib/modernizr.js %}
 {% include_relative lib/jquery.easing.js %}
 {% include_relative lib/sly.min.js %}
-{% include_relative lib/instantclick.min.js %}
 
 {% include_relative app/carousel.js %}
 {% include_relative app/modal.js %}
@@ -14,4 +13,4 @@
 {% include_relative app/expandSvgs.js %}
 {% include_relative app/scrollTo.js %}
 {% include_relative app/googleAnalytics.js %}
-{% include_relative app/instantClick.js %}
+{% include_relative app/app.js %}

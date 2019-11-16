@@ -11,18 +11,26 @@ button, .button {
 	border-radius: $action-border-radius;
 	border: none;
 	height: $action-height;
-	display: block;
-  width: 100%;
 	font-family: $font-system;
   font-size: $action-font-size;
 	font-weight: 700;
 	padding: 11px $spacing-md 12px;
 	color: $link;
   background: rgba($link, 0.15);
+  transition: 0.25s ease-in-out;
 	&:hover {
 		color: white;
 		background: $link;
 	}
+  &:active {
+    transform: scale(0.98);
+    transition: none;
+  }
+}
+.button--fullWidth {
+  display: flex;
+  justify-content: center;
+  width: 100%;
 }
 .button--primary {
 	color: white;
@@ -51,8 +59,5 @@ button, .button {
     width: auto;
     margin-left: auto;
     margin-right: auto;
-  }
-  .button--fullWidth {
-    width: 100%;
   }
 }

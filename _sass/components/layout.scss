@@ -30,6 +30,10 @@
 
 section {
   margin-bottom: $spacing-xl;
+  + section {
+    border-top: 1px solid rgba($text-dark, 0.15);
+    padding-top: $spacing-xl;
+  }
 }
 
 
