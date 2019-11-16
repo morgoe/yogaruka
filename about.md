@@ -24,6 +24,12 @@ subtitle: We teach generalised fitness that transfers as much to your athletic a
         <div>About our Teachers</div>
       </a>
     </li>
+    <li>
+      <a class="link" href="/additional-services">
+        <span>→</span>
+        <div>Additional Services</div>
+      </a>
+    </li>
   </ul>
 </div>
 

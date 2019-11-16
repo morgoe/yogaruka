@@ -1,11 +1,10 @@
 ---
 layout: default
-cover-image: timetable
+cover-image: additionalServices
 permalink: /additional-services/
 published: true
 
-h1: Class Descriptions
-subtitle: A wide variety of movement disciplines integrated under one roof—everything your body needs to feel good.
+h1: Additional Services
 ---
 
 <div class="container container--sm">
@@ -15,6 +14,24 @@ subtitle: A wide variety of movement disciplines integrated under one roof—eve
         <a class="link" href="/timetable">
           <span>←</span>
           <div>Timetable and Classes</div>
+        </a>
+      </li>
+      <li>
+        <a class="link" href="#private-sessions">
+          <span>↘</span>
+          <div>Private Sessions</div>
+        </a>
+      </li>
+      <li>
+        <a class="link" href="#kids-yoga">
+          <span>↘</span>
+          <div>Kids Yoga</div>
+        </a>
+      </li>
+      <li>
+        <a class="link" href="#corporate-yoga">
+          <span>↘</span>
+          <div>Corporate Yoga</div>
         </a>
       </li>
     </ul>
