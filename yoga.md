@@ -9,6 +9,30 @@ h1: Timetable and Classes
 subtitle: A wide variety of movement disciplines integrated under one roof—everything your body needs to feel good.
 ---
 
+<div class="JumpLinks">
+  <h5>Jump to</h5>
+  <ul>
+    <li>
+      <a class="link" href="#studio">
+        <span>↘</span>
+        <div>Featured Classes</div>
+      </a>
+    </li>
+    <li>
+      <a class="link" href="#teachers">
+        <span>↘</span>
+        <div>Timetable</div>
+      </a>
+    </li>
+    <li>
+      <a class="link" href="/additional-services">
+        <span>→</span>
+        <div>Additional Services</div>
+      </a>
+    </li>
+  </ul>
+</div>
+
 <section>
 	<h2>Featured Classes</h2>
 

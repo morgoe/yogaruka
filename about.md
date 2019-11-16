@@ -9,7 +9,25 @@ h1: Studio and Teachers
 subtitle: We teach generalised fitness that transfers as much to your athletic adventures as to your daily life.
 ---
 
-<section>
+<div class="JumpLinks">
+  <h5>Jump to</h5>
+  <ul>
+    <li>
+      <a class="link" href="#studio">
+        <span>↘</span>
+        <div>About the Studio</div>
+      </a>
+    </li>
+    <li>
+      <a class="link" href="#teachers">
+        <span>↘</span>
+        <div>About our Teachers</div>
+      </a>
+    </li>
+  </ul>
+</div>
+
+<section id="studio">
 	<h2>The Studio</h2>
 
 	{% include carousel.html tile1_image="/assets/images/about/outside.jpg" tile1_caption="The studio space is a reformed chapel with a rich history, redesigned with ecological sustainability at its core." tile2_image="/assets/images/about/inside.jpg"  tile2_caption="The studio space is a reformed chapel with a rich history, redesigned with ecological sustainability at its core." tile3_image="/assets/images/about/props.jpg" tile3_caption="The studio space is a reformed chapel with a rich history, redesigned with ecological sustainability at its core." %}
@@ -30,7 +48,7 @@ YogaRuka is meant to be as much your practice space as it is ours, to accommodat
 Co-founders Rua and Karen first met during their yoga teacher training in Rishikesh, India. Albeit initially living in different countries - the former travelling, the latter back in London -, in the name of their shared passion for yoga and a mindful lifestyle, they decided to associate and teach together as itinerant instructors. They organised a few retreats, then workshops, and were honoured and humbled by the immense enthusiasm their little venture acquired. Given the more than positive feedback from practitioners all around the world, they eventually decided to open a physical studio in Sydney, NSW.
 </section>
 
-<section>
+<section id="teachers">
 	<h2>Our Teachers</h2>
 	<p class="subtitle">A wide variety of movement disciplines integrated under one roof—everything your body needs to feel good.</p>
 

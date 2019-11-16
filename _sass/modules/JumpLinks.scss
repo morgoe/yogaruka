@@ -1,0 +1,23 @@
+.JumpLinks {
+  border: 1px solid $border-light;
+  padding: $spacing-md;
+  max-width: $container-xs;
+  margin-bottom: $spacing-xl;
+  h5 {
+    margin-bottom: $spacing-xs;
+  }
+  ul li + li {
+    margin-top: $spacing-xs;
+  }
+  a {
+    display: flex;
+    text-decoration: none;
+  }
+  span {
+    font-family: $font-system;
+    margin-right: $spacing-xxs;
+  }
+  div {
+    text-decoration: underline;
+  }
+}

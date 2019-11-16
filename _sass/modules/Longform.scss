@@ -31,6 +31,7 @@
 	ol,
 	ul {
 		@extend .list-bullets;
+    margin-bottom: $spacing-lg;
 	}
 	.review-listItem,
 	.Blog-imageWrapper {
