@@ -3,6 +3,7 @@ $(document).ready(function() {
   initExternalLinks();
   initCarousels();
   initModals();
+  initAccordions();
   expandSVGs();
   $(window).on('resize', resizeHomeVideo).resize();
 });

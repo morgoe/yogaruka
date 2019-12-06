@@ -5,6 +5,7 @@
 {% include_relative lib/jquery.easing.js %}
 {% include_relative lib/sly.min.js %}
 
+{% include_relative app/accordion.js %}
 {% include_relative app/carousel.js %}
 {% include_relative app/modal.js %}
 {% include_relative app/videoResizer.js %}

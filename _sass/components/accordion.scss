@@ -1,0 +1,24 @@
+.accordion-list {
+
+}
+
+.accordion {
+  padding-top: $spacing-md;
+  border-top: 1px solid rgba($text-dark, 0.15);
+  margin-bottom: $spacing-md;
+
+  &.is-open {
+    .accordion-body {
+      display: block;
+    }
+  }
+}
+
+.accordion-toggler {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.accordion-body {
+  display: none;
+}

@@ -32,6 +32,9 @@
 		@extend .list-bullets;
     margin-bottom: $spacing-lg;
 	}
+  ol {
+    list-style: decimal;
+  }
 	.review-listItem,
 	.Blog-imageWrapper {
 		max-width: 40rem;
