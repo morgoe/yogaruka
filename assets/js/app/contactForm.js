@@ -8,7 +8,11 @@ $(document).ready(function() {
 
     for (var i=0; i<formInputs.length; i++) {
       var _this = $(formInputs[i]);
-      xhrString += _this.attr('name') + '=' + _this.val();
+      if (_this.attr('type') === "checkbox") {
+        xhrString += _this.attr('name') + '=' + _this.is(':checked'); 
+      } else {
+        xhrString += _this.attr('name') + '=' + _this.val(); 
+      }
       if (i < formInputs.length-1) {
         xhrString += '&';
       }
@@ -18,7 +22,7 @@ $(document).ready(function() {
     sendButton.text('Sending...');
 
 		var xhr = new XMLHttpRequest();
-		xhr.open('POST', '//formspree.io/studio@yogaruka.com', true);
+		xhr.open('POST', 'https://formspree.io/mwkprrjj', true);
 		xhr.setRequestHeader("Accept", "application/json")
 		xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded")
 
