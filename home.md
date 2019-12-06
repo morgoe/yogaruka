@@ -21,7 +21,7 @@ h0: A not-just-yoga studio in Drummoyne, Sydney.
 
 As a human, you are designed to move smoothly, efficiently and without pain. But our modern lifestyles can get in the way with extended periods of sitting, food that isn’t really food and unprecedented levels of stressful stimulation. At Yogaruka, our classes are a fusion of yoga, stretch therapy, functional movement and corrective work so you don’t just get fitter, stronger and firmer overall, you also reduce your pain and inflammation and create a body that can handle anything you want to do in your leisure time.
 
-Our classes are remarkably varied so to tackle all aspects of training and all the needs of a healthy mover’s body and mind: Strength, Flexibility, Resilience, Rhythm and Coordination, Breath, Focus, Relaxation.
+Our classes are remarkably varied so as to tackle all aspects of training and all the needs of a healthy mover’s body and mind: Strength, Flexibility, Resilience, Rhythm and Coordination, Breath, Focus, Relaxation.
 
 For 14 days of **UNLIMITED** access, try as many classes as you can and see which ones you vibe with most, and which fit best within your schedule.
 
