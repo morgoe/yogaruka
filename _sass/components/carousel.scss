@@ -6,7 +6,7 @@
 
 .carousel {
 	position: relative;
-	margin: $spacing-xs #{-$spacing-md};
+  margin: #{-$spacing-md / 2} #{-$spacing-md};
 }
 
 // .carousel-frame {
@@ -50,6 +50,15 @@
     .carousel-playIcon {
       transform: scale(1.1);
     }
+  }
+}
+
+.carousel-listItem--text {
+  figcaption {
+    margin: 0;
+    border: 1px solid $border-light;
+
+    padding: $spacing-md;
   }
 }
 
