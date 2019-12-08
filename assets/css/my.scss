@@ -18,10 +18,8 @@
 @import 'components/inputs';
 @import 'components/buttons';
 @import 'components/modals';
-// @import 'components/images';
 @import 'components/media';
 @import 'components/table';
-// @import 'components/cards';
 @import 'components/accordion';
 @import 'components/carousel';
 
@@ -31,21 +29,17 @@
 @import 'plugins/momoyoga';
 
 // // Modules
-@import 'modules/Header';
-@import 'modules/Page';
 @import 'modules/BackgroundImages';
-// @import 'modules/misc';
-@import 'modules/Longform';
+@import 'modules/Footer';
+@import 'modules/GlobalCta';
+@import 'modules/Header';
 @import 'modules/Hero';
 @import 'modules/Home';
-@import 'modules/Newsletter';
-// @import 'modules/schedule';
-@import 'modules/Footer';
-@import 'modules/Price';
-// @import 'modules/Retreat';
-@import 'modules/GlobalCta';
 @import 'modules/JumpLinks';
-// @import 'modules/blog';
+@import 'modules/Longform';
+@import 'modules/Newsletter';
+@import 'modules/Page';
+@import 'modules/Price';
 
 // // Utilities
 @import 'utilities/utilities';
