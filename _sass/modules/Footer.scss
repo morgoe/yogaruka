@@ -1,0 +1,30 @@
+.Footer {
+  background: rgba($text-dark, 0.05);
+  @extend .pagePadding;
+  padding-top: $spacing-xl;
+  padding-bottom: $spacing-xl;
+  color: $text-muted;
+  font-size: $font-size-xs;
+  font-family: $font-system;
+  text-align: center;
+  a {
+    text-decoration: underline;
+  }
+  ul {
+    display: flex;
+    justify-content: center;
+    margin-bottom: $spacing-md;
+    a {
+      display: block;
+      padding: $spacing-xs;
+    }
+    svg,
+    img {
+      display: block;
+      width: 24px;
+    }
+  }
+}
+
+@media (min-width: $media-tablet) {
+}

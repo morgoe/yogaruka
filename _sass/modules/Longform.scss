@@ -2,21 +2,42 @@
 	a {
 		@extend .link;
 	}
+  .button {
+    text-decoration: none;
+  }
 	h1,
 	h2,
 	h3,
 	h4 {
 		clear: both;
 		&:not(:first-child) {
-			margin-top: 1.5em;
+			margin-top: $spacing-xl;
 		}
 	}
+  h1 {
+    // font-size: 3rem;
+  }
+  h2 {
+    // font-size: 2rem;
+  }
+  h3,
+  h4 {
+    // font-size: 1.25rem;
+  }
 }
+
 .Longform--blogpost {
+  max-width: $container-sm;
+  margin-left: auto;
+  margin-right: auto;
 	ol,
 	ul {
 		@extend .list-bullets;
+    margin-bottom: $spacing-lg;
 	}
+  ol {
+    list-style: decimal;
+  }
 	.review-listItem,
 	.Blog-imageWrapper {
 		max-width: 40rem;
@@ -36,6 +57,7 @@
 		}
 	}
 }
+
 .Longform--center {
 	.review-listItem,
 	.Blog-imageWrapper,

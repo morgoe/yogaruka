@@ -1,0 +1,42 @@
+.GlobalCta {
+	@include flexbox();
+	@include align-items(center);
+	@include justify-content(space-between);
+	color: white;
+	background: $blue;
+  font-size: $font-size-sm;
+  font-family: $font-system;
+	padding: $spacing-xs $spacing-sm;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 4;
+	span {
+		display: block;
+	}
+}
+
+@media (min-width: $media-tablet) {
+	body {
+		padding-top: $global-cta-desktop-height;
+	}
+	.GlobalCta {
+		@include justify-content(center);
+		top: 0;
+		bottom: auto;
+    br {
+      display: none;
+    }
+		span {
+			display: inline;
+			&:before {
+				content: " · ";
+			}
+		}
+		.button {
+			margin-left: $spacing-sm;
+      margin-right: 0;
+		}
+	}
+}

@@ -1,4 +1,7 @@
+// Reset
 .input {
+	-webkit-appearance: none;
+	display: block;
 	letter-spacing: inherit;
 	line-height: normal;
 	border-radius: 0;
@@ -6,31 +9,43 @@
 	box-shadow: none;
 	color: inherit;
 	border: none;
+}
+
+label {
+  display: block;
+  font-size: $font-size-md;
+  font-family: $font-system;
+  margin-bottom: $spacing-xxs;
+}
+
+.input {
+  font-size: $action-font-size;
+	font-family: $font-system;
 	width: 100%;
-	-webkit-appearance: none;
 
-	padding: 5px 9px 3px;
-	border-bottom: 2px solid rgba($brown-30, 0.5);
+	background: white;
+	border-radius: $action-border-radius;
+	border: 1px solid $border;
+	height: $action-height;
+	padding: 8px 8px 9px;
 
-	.no-touch &:hover,
-	.touch &:active {
-		border-bottom-color: $brown-30;
-	}
-	.no-touch &:focus,
-	.touch &:focus {
-		background-color: white;
+	&:focus {
+		border-color: $text-dark;
 		outline: none;
-		border-bottom-color: $blue-90;
 	}
 }
+
+input.input {
+	-webkit-appearance: none;
+}
+
+textarea.input {
+	height: auto;
+}
+
 select.input {
 	background-image: url('/assets/icons/select-dropdown.svg');
-	background-size: 24px;
+	background-size: 32px;
 	background-repeat: no-repeat;
 	background-position: center right;
-
-	.no-touch &:focus,
-	.touch &:focus {
-		background-image: url('/assets/icons/select-dropdown-focus.svg');
-	}
 }

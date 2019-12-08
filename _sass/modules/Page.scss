@@ -1,49 +1,80 @@
 .Page {
-	position: relative;
-	overflow-x: hidden;
-	background: white;
-	max-width: $max-width;
-	margin: 0 auto;
+
 }
-.Page-background {
-	position: fixed;
+.Page-hero {
+	position: relative;
+	background: black;
+	z-index: 1;
+	margin-top: -$header-nav-mobile-height;
+  @extend .pagePadding;
+  padding-top: $spacing-lg + $header-nav-mobile-height;
+  padding-bottom: $spacing-lg;
+	h1,
+	.subtitle {
+		color: white;
+	}
+  .subtitle {
+    font-style: italic;
+  }
+}
+.Page-heroImage {
+	position: absolute;
 	top: 0;
 	left: 0;
 	right: 0;
 	bottom: 0;
+	opacity: 0.5;
+  z-index: -1;
 	background-position: top center;
-	background-size: cover;
-	z-index: -1;
+  background-size: cover;
 }
-.Page-border {
-	position: relative;
-	margin-top: 0;
-	overflow: hidden;
-	box-shadow: $shadow;
+
+.Page-videoWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0.5;
+  z-index: -1;
+  overflow: hidden;
+  pointer-events: none;
 }
+
+.Page-video {
+  background-position: top center;
+  background-size: cover;
+}
+
 .Page-content {
-	margin-top: 0;
-	padding: $rhythm / 2;
+  @extend .pagePadding;
+  padding-top: $spacing-lg;
+  padding-bottom: $spacing-lg;
 }
-.Page-content {
-	background: $brown-90;
+.Page-footer {
+  border-top: 1px solid $border-light;
+  @extend .pagePadding;
+  padding-top: $spacing-xl;
+  padding-bottom: $spacing-xl;
+	color: $text-muted;
+	font-size: $font-size-xs;
+	font-family: $font-system;
+	text-align: center;
+	a {
+		text-decoration: underline;
+	}
 }
-@media (min-width: 768px) {
-	.Page-border {
-		margin: $rhythm;
-		border: $rhythm solid white;
-		overflow: visible;
+
+@media (min-width: $media-tablet) {
+	.Page-hero {
+		margin-top: 0;
+		padding-top: #{$spacing-xl * 2 + $header-nav-desktop-height};
+		padding-bottom: #{$spacing-xl * 2};
 	}
-	.Page-content {
-		padding: $rhythm;
-	}
-}
-@media (min-width: 1024px) {
-	.Page-border {
-		margin: $rhythm * 1.5;
-		border: $rhythm * 1.5 solid white;
-	}
-	.Page-content {
-		padding: $rhythm * 1.5;
+  .Page-content {
+    padding-top: $spacing-xl;
+    padding-bottom: $spacing-xl;
+  }
+	.Page-footer {
 	}
 }

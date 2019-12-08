@@ -1,32 +1,108 @@
 .momoyoga-schedule {
-	max-width: 42rem;
-	margin: $spacing-md auto 0;
+	font-size: $font-size-md;
+  font-family: $font-system;
+  max-width: $container-sm;
+	margin-left: -$spacing-md;
+	margin-right: -$spacing-md;
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px $border;
+
 	.momoyoga-section {
-		box-shadow: $shadow;
+    background: none;
 		border: none;
+		border-radius: 0;
+		padding: $spacing-md;
+		margin-bottom: 0;
+    + .momoyoga-section {
+      border-top: 1px solid $border;
+    }
 	}
-}
-.momoyoga-lesson-action-booknow {
-	font-family: $font-sans;
-	color: white;
-	background: $green;
-
-    padding: 4px;
-    text-transform: uppercase;
-    display: block;
-    font-size: 12px;
-    text-align: center;
-
-}
-@media screen and (max-width: 480px) {
-	.momoyoga-lesson-action-booknow {
-	    margin-top: $spacing-xxs;
+	.momoyoga-day,
+	.momoyoga-date {
+		color: $text-muted;
+		font-size: inherit;
 	}
-	.momoyoga-schedule {
-		margin-left: -$spacing-sm;
-		margin-right: -$spacing-sm;
-		.momoyoga-section {
-			border-radius: 0;
+	.momoyoga-lesson {
+    min-height: 0;
+		.momoyoga-lesson-time,
+		.momoyoga-lesson-title,
+		> div {
+      display: block;
+      position: static;
+			color: $text-dark;
+			font-size: inherit;
+      min-height: 0;
+		}
+    .momoyoga-lesson-title {
+      position: absolute;
+      left: 80px;
+      right: 0;
+    }
+    .momoyoga-lesson-teacher {
+      margin-left: 80px;
+    }
+    .momoyoga-lesson-details {
+      margin-top: 0;
+      p {
+        margin-left: 80px;
+      }
+      p strong {
+        width: 80px;
+      }
+    }
+    .momoyoga-lesson-action {
+      width: 100%;
+      margin-top: $spacing-xs;
+      &:empty {
+        display: none;
+      }
+    }
+    + .momoyoga-lesson {
+      margin-top: $spacing-sm;
+      border-top: 1px solid $border-light;
+      padding-top: $spacing-sm;
+      .momoyoga-lesson-title {
+        top: $spacing-sm;
+      }
+    }
+	}
+	.momoyoga-lesson-title {
+		font-weight: 600;
+		a {
+      color: inherit;
+			text-decoration: none;
 		}
 	}
 }
+.momoyoga-lesson-action-booknow {
+	@extend .button;
+	@extend .button--minimal;
+	@extend .button--fullWidth;
+}
+
+@media (min-width: $container-sm) {
+	.momoyoga-schedule {
+		margin-left: auto;
+		margin-right: auto;
+    .momoyoga-lesson {
+      .momoyoga-lesson-action {
+        position: absolute;
+        top: auto;
+        right: 0;
+        bottom: $spacing-xxs;
+        width: 160px;
+      }
+    }
+  }
+}
+// @media screen and (max-width: 480px) {
+// 	.momoyoga-lesson-action-booknow {
+// 	}
+// 	.momoyoga-schedule {
+// 		margin-left: -$spacing-sm;
+// 		margin-right: -$spacing-sm;
+// 		.momoyoga-section {
+// 			border-radius: 0;
+// 		}
+// 	}
+// }

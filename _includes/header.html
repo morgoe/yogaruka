@@ -1,33 +1,36 @@
-<header class="Header u-text-antialiase">
-	<nav class="Header-nav">
-		<a class="Header-link is-logo" href="{{ site.baseurl }}/">
-			<span class="Header-logo">{{ site.title }}</span>
-		</a>
-		<a class="Header-link {% if page.site-nav == 'yoga' %}active{% endif %}" href="/yoga/">
-			<span class="Header-linkText">Yoga</span>
-		</a>
-		<a class="Header-link {% if page.site-nav == 'prices' %}active{% endif %}" href="/prices/">
-			<span class="Header-linkText">Prices</span>
-		</a>
-		<a class="Header-link {% if page.site-nav == 'events' %}active{% endif %}" href="/events/">
-			<span class="Header-linkText">Events</span>
-		</a>
-		<a class="Header-link {% if page.site-nav == 'about' %}active{% endif %}" href="/about/">
-			<span class="Header-linkText">About</span>
-		</a>
-		<a class="Header-link {% if page.site-nav == 'contact' %}active{% endif %}" href="/contact/">
-			<span class="Header-linkText">Contact</span>
-		</a>
-	</nav>
-	<div class="Header-social">
-		<a class="Header-link is-social" href="https://www.facebook.com/yogaruka/">
-			<img class="Header-socialImg" src="/assets/icons/facebook-dark.svg">
-		</a>
-		<a class="Header-link is-social" href="https://www.instagram.com/yogaruka/">
-			<img class="Header-socialImg" src="/assets/icons/instagram-dark.svg">
-		</a>
-		<a class="Header-link is-social" href="https://twitter.com/yogarukastudio">
-			<img class="Header-socialImg" src="/assets/icons/twitter-dark.svg">
-		</a>
+<header class="Header">
+	<div class="container Header-container">
+    <a href="/">
+		  <img src="/assets/images/new/header-logo.svg" class="Header-logo">
+    </a>
+
+		<nav class="Header-nav Header-nav--desktop">
+			<a class="Header-link {% if page.site-nav == 'home' %}now-active{% endif %}" href="/">Home</a>
+			<a class="Header-link {% if page.site-nav == 'about' %}now-active{% endif %}" href="/about/">About</a>
+			<a class="Header-link {% if page.site-nav == 'timetable' %}now-active{% endif %}" href="/timetable/">Timetable</a>
+			<a class="Header-link {% if page.site-nav == 'prices' %}now-active{% endif %}" href="/prices/">Prices</a>
+			<a class="Header-link {% if page.site-nav == 'contact' %}now-active{% endif %}" href="/contact/">Contact</a>
+		</nav>
+
+		<aside class="Header-actions">
+			<a class="Header-actionLink" href="https://www.google.com/maps/place/YogaRuka/@-33.8601573,151.1397601,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12aff7b8e25631:0x237b26f4ee6dea9a!8m2!3d-33.8601618!4d151.1419488?hl=en-US" target="_blank">
+				<img src="/assets/images/new/header-location-icon.svg" class="Header-actionIcon">
+				289 Lyons Road
+			</a>
+			<a class="Header-actionLink" href="tel:+61297051551">
+				<img src="/assets/images/new/header-phone-icon.svg" class="Header-actionIcon">
+				9705 1551
+			</a>
+		</aside>
 	</div>
 </header>
+
+<div class="Header-mobileNavWrapper">
+	<nav class="Header-nav Header-nav--mobile">
+		<a class="Header-link {% if page.site-nav == 'home' %}now-active{% endif %}" href="/">Home</a>
+		<a class="Header-link {% if page.site-nav == 'about' %}now-active{% endif %}" href="/about/">About</a>
+		<a class="Header-link {% if page.site-nav == 'timetable' %}now-active{% endif %}" href="/timetable/">Timetable</a>
+		<a class="Header-link {% if page.site-nav == 'prices' %}now-active{% endif %}" href="/prices/">Prices</a>
+		<a class="Header-link {% if page.site-nav == 'contact' %}now-active{% endif %}" href="/contact/">Contact</a>
+	</nav>
+</div>

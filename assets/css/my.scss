@@ -7,44 +7,45 @@
 // General Settings
 @import 'base/variables';
 @import 'base/reset';
-@import 'base/grid';
 @import 'base/mixins';
-@import 'base/typography';
 
 // // Components
-@import 'components/layout';
 @import 'components/defaults';
+@import 'components/layout';
+@import 'components/typography';
+@import 'components/grid';
 @import 'components/forms';
 @import 'components/inputs';
 @import 'components/buttons';
-@import 'components/images';
-@import 'components/tabs';
+@import 'components/modals';
+// @import 'components/images';
+@import 'components/media';
 @import 'components/table';
-@import 'components/cards';
-@import 'components/googleMaps';
-@import 'components/reviews';
+// @import 'components/cards';
+@import 'components/accordion';
+@import 'components/carousel';
 
 // // Plugins
-@import 'plugins/instantClick';
-@import 'plugins/facebook';
+// @import 'plugins/instantClick';
+// @import 'plugins/facebook';
 @import 'plugins/momoyoga';
 
 // // Modules
 @import 'modules/Header';
 @import 'modules/Page';
 @import 'modules/BackgroundImages';
-@import 'modules/misc';
+// @import 'modules/misc';
 @import 'modules/Longform';
 @import 'modules/Hero';
 @import 'modules/Home';
-@import 'modules/accordion';
-@import 'modules/schedule';
-@import 'modules/faqs';
-@import 'modules/prices';
-@import 'modules/Retreat';
-@import 'modules/EventList';
-@import 'modules/Timetable';
-@import 'modules/blog';
+@import 'modules/Newsletter';
+// @import 'modules/schedule';
+@import 'modules/Footer';
+@import 'modules/Price';
+// @import 'modules/Retreat';
+@import 'modules/GlobalCta';
+@import 'modules/JumpLinks';
+// @import 'modules/blog';
 
 // // Utilities
 @import 'utilities/utilities';
