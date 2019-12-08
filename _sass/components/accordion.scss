@@ -15,10 +15,12 @@
 }
 
 .accordion-toggler {
+  display: block;
   color: inherit !important;
   text-decoration: none !important;
 }
 
 .accordion-body {
   display: none;
+  margin-top: $spacing-sm;
 }
