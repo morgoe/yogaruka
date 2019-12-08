@@ -1,61 +1,64 @@
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
-	<!-- pinterest -->
-	<meta name="p:domain_verify" content="bcd0a8f2a0b546c9aa07b6003246c4fb"/>
+  <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+  <!-- pinterest -->
+  <meta name="p:domain_verify" content="bcd0a8f2a0b546c9aa07b6003246c4fb"/>
 
-	<!-- Social Sharing -->
-	{% if page.description %}
-		<title>{{ page.title }} — {{ site.title }}</title>
-		<meta name="twitter:title"       content="{{ page.title }} — {{ site.title }}">
-		<meta property="og:title"        content="{{ page.title }} — {{ site.title }}">
-		<meta name="description"         content="{{ page.description }}">
-		<meta name="twitter:description" content="{{ page.description }}">
-		<meta property="og:description"  content="{{ page.description }}">
-	{% else %}
-		<title>{{ site.title }}</title>
-		<meta name="twitter:title"       content="{{ site.title }}">
-		<meta property="og:title"        content="{{ site.title }}">
-		<meta name="description"         content="{{ site.description }}">
-		<meta name="twitter:description" content="{{ site.description }}">
-		<meta property="og:description"  content="{{ site.description }}">
-	{% endif %}
-		<meta name="twitter:card"            content="summary">
-		<meta property="og:type"             content="website">
-		<meta name="twitter:site"            content="{{ site.twitter_username }}">
-		<meta property="og:url"              content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-		<link rel="canonical"                href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-	{% if page.image %}
-		<meta name="twitter:image"         content="{{ site.url }}/assets/images/{{ page.social-image }}">
-		<meta property="og:image"          content="{{ site.url }}/assets/images/{{ page.social-image }}">
-	{% else %}
-		<meta name="twitter:image"         content="{{ site.url }}/assets/images/social/default.jpg">
-		<meta property="og:image"          content="{{ site.url }}/assets/images/social/default.jpg">
-	{% endif %}
+  <!-- Social Sharing -->
+  {% if page.description %}
+    <title>{{ page.title }} — {{ site.title }}</title>
+    <meta name="twitter:title"       content="{{ page.title }} — {{ site.title }}">
+    <meta property="og:title"        content="{{ page.title }} — {{ site.title }}">
+    <meta name="description"         content="{{ page.description }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    <meta property="og:description"  content="{{ page.description }}">
+  {% else %}
+    <title>{{ site.title }}</title>
+    <meta name="twitter:title"       content="{{ site.title }}">
+    <meta property="og:title"        content="{{ site.title }}">
+    <meta name="description"         content="{{ site.description }}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    <meta property="og:description"  content="{{ site.description }}">
+  {% endif %}
+    <meta name="twitter:card"            content="summary">
+    <meta property="og:type"             content="website">
+    <meta name="twitter:site"            content="{{ site.twitter_username }}">
+    <meta property="og:url"              content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical"                href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  {% if page.image %}
+    <meta name="twitter:image"         content="{{ site.url }}/assets/images/{{ page.social-image }}">
+    <meta property="og:image"          content="{{ site.url }}/assets/images/{{ page.social-image }}">
+  {% else %}
+    <meta name="twitter:image"         content="{{ site.url }}/assets/images/social/default.jpg">
+    <meta property="og:image"          content="{{ site.url }}/assets/images/social/default.jpg">
+  {% endif %}
 
-	<!-- Tracking -->
-	<!-- Facebook Pixel Code -->
-	<script>
-		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-		document,'script','https://connect.facebook.net/en_US/fbevents.js');
+  <!-- Tracking -->
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1200129390008339');
+    fbq('init', '1653259088330320');
+    fbq('track', 'PageView');
+  </script>
+  <noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1200129390008339&ev=PageView&noscript=1" />
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1653259088330320&ev=PageView&noscript=1" />
+  </noscript>
+  <!-- End Facebook Pixel Code -->
 
-		fbq('init', '1653259088330320');
-		fbq('track', "PageView");
-	</script>
-	<noscript><img height="1" width="1" style="display:none"
-	src="https://www.facebook.com/tr?id=1653259088330320&ev=PageView&noscript=1"
-	/></noscript>
-	<!-- End Facebook Pixel Code -->
-
-	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-	<script src="/assets/js/application.js" data-no-instant></script>
-	
-	<link rel="stylesheet" href="https://www.momoyoga.com/schedule-plugin/v2/css/schedule-frontend.css" crossorigin="anonymous">
-	<link rel="stylesheet" href="{{ "/assets/css/my.css" | prepend: site.baseurl }}">
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  
+  <link rel="stylesheet" href="https://www.momoyoga.com/schedule-plugin/v2/css/schedule-frontend.css" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{ "/assets/css/my.css" | prepend: site.baseurl }}">
 </head>

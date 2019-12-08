@@ -1,12 +1,8 @@
----
+We are always happy to welcome new students experience our very exclusive space and method and take the time you need to figure which classes and times fit best within your schedule. 
 
-We are always happy to welcome new students experience our very exclusive space and method and take the time they need to figure which classes and times fit best within their schedule. 
-  
-The Introductory offer has been created for you to enjoy unlimited classes for two weeks from the day of purchase so it's a very good starting point. 
+The Introductory offer has been created for you to enjoy unlimited classes for two weeks from the day of purchase to help you figure out the right frequency and the typology of class/es that works best for you. 
 
-If you are after a taster pack for your kid(s), we have a 3-class pack option below. 
-
-If you are an expectant mother, great news! We have recently partnered with Mother Nurture Yoga, Sydney's leading Pregnancy Yoga School, and packs are to be purchased through them, that can be used at our location but also at any of their other locations throughout the Sydney area (CBD, Chatswood, Hornsby, and more). 
+If you are expecting, or a neo-mum that would like to share yoga with her bub, you are in the right place: We are partnered with Mother Nurture Yoga, Sydney's leading Pregnancy Yoga School, and you can purchase a pass directly through them, that can be used at our location but also at any of their other locations throughout the Sydney area (CBD, Chatswood, Parramatta, Hornsby, and more). 
 
 ### Intro 14 Day Pass
 
@@ -21,7 +17,7 @@ For absolute freedom and no commitments whatsoever, you can always simply book a
 
 **$39/wk (billed monthly)**: it gives you access to **unlimited classes** - even several daily if you’re up for it. Renewal is automated and there is **no commitment to a contract**. At any point you can switch to a 10-class pass or downgrade to the two-classes weekly.
 
-$29/wk (billed monthly): it gives you access to any two classes weekly - and you can mix and match as much as you want. Renewal is automated and there is no commitment to a contract. At any point you can switch to a 10-class pass or upgrade to the 3-month membership.
+**$29/wk (billed monthly)**: it gives you access to **any two classes weekly** - and you can mix and match as much as you want. Renewal is automated and there is **no commitment to a contract.** At any point you can switch to a 10-class pass or upgrade to the 3-month membership.
 
 {% include price.html title="Unlimited Membership" subtitle="Unlimited classes per week" amount="$39/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
@@ -32,16 +28,17 @@ $29/wk (billed monthly): it gives you access to any two classes weekly - and you
 
 **$26**: welcome to book a one-off group class anytime.
 
-Once you’ve used up your Intro pass, we have 2 easy membership options and a multi-class pass to cover for all situations and necessities. We want to keep things very simple so all you ever need to worry about is your practice!
+Once you've used up your Intro pass, we have 2 easy membership options and a multi-class pass to cover for all situations and necessities. We want to keep things very simple so all you ever need to worry about is your practice! 
 
 {% include price.html title="Drop-in Class" amount="$26" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 
-### 10-Class Pack
+### 10-Class Pass
 
-**$208**: optimal for those who want to practice once a week or even once a fortnight. This pass is a really sweet deal (you basically pay for 8 classes and get 2 more free!) and is **valid for 3 months** which translates to precisely 13 weeks. It can make for a wonderful gift for a dear one and it can be used for any group classes of your choice.
+**$208**: optimal for those who want to practice once a week or even once a fortnight. This pass is a really sweet deal (you basically pay for 8 classes and get 2 more free!) and is **valid for 3 months** which translates to precisely 13 weeks. It can make for a wonderful gift for a dear one and it can be used for any group classes of your choice. 
 
 {% include price.html title="10-Class Pack" amount="$200" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+
 
 ### Private Sessions 
 
@@ -58,40 +55,39 @@ Private sessions can go from 45’ to 75’ in length. Your first private sessio
 				<th>Private Session</th>
 				<th>One-off</th>
 				<th>
-					10-Class Pack
+					10-Class Pass
 				</th>
 				<th>
-					20-Class Pack
+					20-Class Pass
 				</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
 				<td>45-Minute</td>
-				<td>$75</td>
-				<td>$675 ($67.5 per session)</td>
-				<td>$1200 ($60 per session)</td>
+				<td>$95</td>
+				<td>$760 ($76 per session)</td>
+				<td>$1400 ($70 per session)</td>
 			</tr>
 			<tr>
 				<td>60-Minute</td>
-				<td>$95</td>
-				<td>$850 ($85 per session)</td>
-				<td>$1500 ($75 per session)</td>
+				<td>$110</td>
+				<td>$880 ($88 per session)</td>
+				<td>$1600 ($80 per session)</td>
 			</tr>
 			<tr>
 				<td>75-Minute</td>
-				<td>$110</td>
-				<td>$990 ($99 per session)</td>
-				<td>$1750 ($87.5 per session)</td>
+				<td>$135</td>
+				<td>$1080 ($108 per session)</td>
+				<td>$2000 ($100 per session)</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
 
+### Concessions + Giving Back to the Community 
 
-### Concessions + Giving Back to the Community
-
-Concession passes are available for kids, all full time students, some part time students on low income, and pensioners. They offer discounts of min. 15% on the full price and can be purchased in studio only as long as you have a valid concession ID card.
+Concession passes are available for kids, all full time students, some part time students on low income, and pensioners. They offer discounts of min. 15% on the full price and can be purchased in studio only **as long as you have a valid concession ID card.** 
 
 We are also offering **FREE** classes for highly disadvantaged social groups: Aboriginal Australians, refugees and their children, homeless people of any extraction. Please [contact us](/contact/) to find out more and organise your free yoga training schedule.
