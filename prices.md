@@ -18,7 +18,7 @@ subtitle: Private and small group classes for all ages and all skill levels. Per
 
   {% include price.html title="Twice-Weekly Membership" subtitle="2 classes per week" amount="$29/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
-  {% include price.html title="Drop-in Class" amount="$25" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+  {% include price.html title="Drop-in Class" amount="$26" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
   {% include price.html title="Private Class" subtitle="45-75min" amount="from $70" url="/contact" %}
 </section>

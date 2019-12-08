@@ -12,14 +12,16 @@ If you are an expectant mother, great news! We have recently partnered with Moth
 
 **$39**: available strictly for new students who have not attended any classes at YogaRuka before; **valid for 14 consecutive days** (starting from the date of purchase), one pass per person.
 
-For absolute freedom and no commitments whatsoever, you can always simply book a drop-in class. 
+For absolute freedom and no commitments whatsoever, you can always simply book a drop-in class.
 
 {% include price.html title="Intro 14 Day Pass" subtitle="Unlimited classes for 14 days" amount="$39" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 
 ### Monthly Membership
 
-**$39/wk (billed monthly)**: it gives you access to **unlimited classes** - even several daily if you’re up for it. Renewal is automated and there is **no commitment to a contract.** At any point you can switch to a 10-class pass or upgrade to the 3-month membership. 
+**$39/wk (billed monthly)**: it gives you access to **unlimited classes** - even several daily if you’re up for it. Renewal is automated and there is **no commitment to a contract**. At any point you can switch to a 10-class pass or downgrade to the two-classes weekly.
+
+$29/wk (billed monthly): it gives you access to any two classes weekly - and you can mix and match as much as you want. Renewal is automated and there is no commitment to a contract. At any point you can switch to a 10-class pass or upgrade to the 3-month membership.
 
 {% include price.html title="Unlimited Membership" subtitle="Unlimited classes per week" amount="$39/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
@@ -28,28 +30,26 @@ For absolute freedom and no commitments whatsoever, you can always simply book a
 
 ### Drop-in Class
 
-**$25**: welcome to book a one-off group class anytime.
+**$26**: welcome to book a one-off group class anytime.
 
-Once you've used up your Intro pass, we have 3 easy multi-class pass options to cover for all situations and necessities. 
-We want to keep things very simple so all you ever need to worry about is your practice! 
+Once you’ve used up your Intro pass, we have 2 easy membership options and a multi-class pass to cover for all situations and necessities. We want to keep things very simple so all you ever need to worry about is your practice!
 
-{% include price.html title="Drop-in Class" amount="$25" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+{% include price.html title="Drop-in Class" amount="$26" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 
 ### 10-Class Pack
 
-**$200**: optimal for those who want to practice once a week or even once a fortnight. This pass is a really sweet deal (you basically pay for 8 classes and get 2 more free!) and is **valid for 3 months**. It can make for a wonderful gift for a dear one and it can be used for any group classes of your choice. 
+**$208**: optimal for those who want to practice once a week or even once a fortnight. This pass is a really sweet deal (you basically pay for 8 classes and get 2 more free!) and is **valid for 3 months** which translates to precisely 13 weeks. It can make for a wonderful gift for a dear one and it can be used for any group classes of your choice.
 
 {% include price.html title="10-Class Pack" amount="$200" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
-
 ### Private Sessions 
 
-Private sessions can go from 45' to 75' in length. Your first private session will include a **free 15' anatomical assessment,** to cater for your very specific needs. 
+Private sessions can go from 45’ to 75’ in length. Your first private session will include a **free 15’ anatomical assessment** to cater for your very specific needs, so allow for slightly more time than you booked.
 
 {% include price.html title="Private Class" subtitle="45-75min" amount="from $70" url="/contact" %}
  
-10-session packs offer a 10% discount on the full price and are valid over 16 consecutive weeks/4 months/ from purchase. 20-session packs offer a 20%+ discount on the full price and are valid over 34 consecutive weeks/8 months/ from purchase.
+10-session passes offer a 20% discount on the full price and are valid over 13 consecutive weeks/3 months/ from purchase. 20-session passes offer a **25%+ discount** on the full price and are valid over 34 consecutive weeks/8 months/ from purchase.
 
 <div class="card m-top--md">
 	<table class="table">
@@ -90,16 +90,8 @@ Private sessions can go from 45' to 75' in length. Your first private session wi
 
 
 
-### Concessions + Giving Back to the Community 
+### Concessions + Giving Back to the Community
 
-Concession drop-ins and concession passes are available for kids, all full time students, some part time students and pensioners. They offer a discount of min. 30% on the full price and can be purchased in studio as long as you have a valid concession ID card. 
-
-The table below provides the average cost per class for concession categories, based on how many times a week you would be practicing. 
-
-### 3-Class Taster Pack
-
-**$27**: available for kids only, that have not attended any classes at YogaRuka before. It can be used for any kids classes within 40 days from purchase. 
-
----
+Concession passes are available for kids, all full time students, some part time students on low income, and pensioners. They offer discounts of min. 15% on the full price and can be purchased in studio only as long as you have a valid concession ID card.
 
 We are also offering **FREE** classes for highly disadvantaged social groups: Aboriginal Australians, refugees and their children, homeless people of any extraction. Please [contact us](/contact/) to find out more and organise your free yoga training schedule.
