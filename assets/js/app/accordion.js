@@ -1,7 +1,5 @@
 function initAccordions() {
-  console.log('aa')
   $('.js-toggleAccordion').click(function() {
-    console.log('a')
     var accordion = $(this).closest('.accordion');
 
     if ($(accordion).hasClass('is-open')) {
