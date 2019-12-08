@@ -10,7 +10,7 @@ subtitle: Our easy step-by-step guide.
 <section class="Longform">
   <div class="row">
     <div class="col-md-6 col-md-push-6">
-      <img src="/assets/images/home/step1.jpg">
+      <img src="/assets/images/home/step1.JPG">
     </div>
     <div class="col-md-6 col-md-pull-6">
 <div markdown="1">
@@ -31,7 +31,7 @@ This amazing introductory offer is only for new clients and can only be purchase
 <section class="Longform">
   <div class="row">
     <div class="col-md-6">
-      <img src="/assets/images/home/step2.jpg">
+      <img src="/assets/images/home/step2.JPG">
     </div>
     <div class="col-md-6">
 <div markdown="1">
@@ -50,7 +50,7 @@ While bookings are not essential, they are highly recommended as some classes se
 <section class="Longform">
   <div class="row">
     <div class="col-md-6 col-md-push-6">
-      <img src="/assets/images/home/step3.jpg">
+      <img src="/assets/images/home/step3.JPG">
     </div>
     <div class="col-md-6 col-md-pull-6">
 <div markdown="1">
@@ -71,7 +71,7 @@ In addition to those comfy clothes we encourage you to wear Shoshin: the beginne
 <section class="Longform">
   <div class="row">
     <div class="col-md-6">
-      <img src="/assets/images/home/step4.jpg">
+      <img src="/assets/images/home/step4.JPG">
     </div>
     <div class="col-md-6">
 <div markdown="1">
@@ -92,7 +92,7 @@ Make yourself comfortable and treat the space with the same love and considerati
 <section class="Longform">
   <div class="row">
     <div class="col-md-6 col-md-push-6">
-      <img src="/assets/images/home/step5.jpg">
+      <img src="/assets/images/home/step5.JPG">
     </div>
     <div class="col-md-6 col-md-pull-6">
 <div markdown="1">

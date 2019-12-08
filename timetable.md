@@ -36,7 +36,7 @@ subtitle: A wide variety of movement disciplines integrated under one roof—eve
 <section id="featured">
 	<h2>Featured Classes</h2>
 
-	{% include carousel.html tile1_image="/assets/images/classes/yin-st.jpg" tile1_title="YR Yin Stretch Therapy™" tile1_caption="Tuesdays 7:15pm with Rua" tile1_video="370278281" tile2_image="/assets/images/classes/mobility.jpg" tile2_title="YR Foundations of Mobility" tile2_caption="Saturdays 10am with Morgan." tile2_video="377763862" tile3_image="/assets/images/classes/slow-flow.jpg" tile3_video="370262120" tile3_title="YR Slow Fusion Flow" tile3_caption="Sundays 9:30am with Karen" %}
+	{% include carousel.html tile1_image="/assets/images/classes/yin-st.jpg" tile1_title="YR Yin Stretch Therapy™" tile1_caption="Tuesdays 7:15pm with Rua" tile1_video="370278281" tile2_image="/assets/images/classes/mobility.jpg" tile2_title="YR Foundations of Mobility" tile2_caption="Saturdays 10am with Morgan." tile2_video="377763862" tile3_image="/assets/images/classes/slow-flow.JPG" tile3_video="370262120" tile3_title="YR Slow Fusion Flow" tile3_caption="Sundays 9:30am with Karen" %}
 </section>
 
 <section class="Longform" id="timetable">
