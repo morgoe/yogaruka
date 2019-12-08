@@ -12,3 +12,31 @@
     color: lighten($link, 10%);
   }
 }
+
+.Home-banner {
+  position: relative;
+  margin-bottom: $spacing-xl;
+  padding: $spacing-xl $spacing-md;
+  background: black;
+  z-index: 1;
+  h3 {
+    color: white;
+    margin: 0;
+    text-align: center;
+  }
+}
+
+.Home-bannerImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0.5;
+  z-index: -1;
+  overflow: hidden;
+
+  background-image: url('/assets/images/home/banner.jpg');
+  background-size: cover;
+  background-position: center left;
+}
