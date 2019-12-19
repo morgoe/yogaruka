@@ -4,8 +4,8 @@ body-id: home
 site-nav: home
 cover-image: home
 permalink: /
-
-h0: A not-just-yoga studio in Drummoyne, Sydney.
+h0: You’ve never done yoga like this before.
+published: true
 ---
 
 <section class="Longform Longform--blogpost" markdown="1">
@@ -27,7 +27,7 @@ h0: A not-just-yoga studio in Drummoyne, Sydney.
 <section class="Longform Longform--blogpost" markdown="1">
 **Join the Mindful Movement tribe and revolutionise your body and your lifestyle.**
 
-As a human, you are designed to move smoothly, efficiently and without pain. But our modern lifestyles can get in the way with extended periods of sitting, food that isn’t really food and unprecedented levels of stressful stimulation. At Yogaruka, our classes are a fusion of yoga, stretch therapy, functional movement and corrective work so you don’t just get fitter, stronger and firmer overall, you also reduce your pain and inflammation and create a body that can handle anything you want to do in your leisure time.
+As a human, you are designed to move smoothly, efficiently and without pain. But our modern lifestyles can get in the way with extended periods of sitting, food that isn’t really food and unprecedented levels of stressful stimulation. At YogaRuka, our classes are a fusion of yoga, stretch therapy, functional movement and corrective work so you don’t just get fitter, stronger and firmer overall, you also reduce your pain and inflammation and create a body that can handle anything you want to do in your leisure time.
 
 Our classes are remarkably varied so as to tackle all aspects of training and all the needs of a healthy mover’s body and mind: Strength, Flexibility, Resilience, Rhythm and Coordination, Breath, Focus, Relaxation.
 
