@@ -14,7 +14,7 @@ published: true
 <section class="container container--sm m-top--md">
   <h2>Popular Packages</h2>
 
-  {% include price.html title="Intro 14 Day Pass" subtitle="Unlimited classes for 14 days" amount="$45" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+  {% include price.html title="Intro 14 Day Pass" subtitle="Unlimited classes for 14 days" amount="$49" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
   {% include price.html title="Unlimited Membership" subtitle="Unlimited classes per week" amount="$45/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
