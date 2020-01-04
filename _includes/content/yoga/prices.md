@@ -6,11 +6,11 @@ If you are expecting, or a neo-mum that would like to share yoga with her bub, y
 
 ### Intro 14 Day Pass
 
-**$45**: available strictly for new students who have not attended any classes at YogaRuka before; **valid for 14 consecutive days** (starting from the date of purchase), one pass per person.
+**$49**: available strictly for new students who have not attended any classes at YogaRuka before; **valid for 14 consecutive days** (starting from the date of purchase), one pass per person.
 
 For absolute freedom and no commitments whatsoever, you can always simply book a drop-in class.
 
-{% include price.html title="Intro 14 Day Pass" subtitle="Unlimited classes for 14 days" amount="$45" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+{% include price.html title="Intro 14 Day Pass" subtitle="Unlimited classes for 14 days" amount="$49" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 
 ### Monthly Membership - 6-Month Min. Contract
