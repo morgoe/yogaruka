@@ -7,9 +7,11 @@ published: true
 ---
 YogaRuka provides group and private mixed movement sessions (fusions of yoga, mobility, calisthenics, Stretch Therapy™, contemporary Pilates, etc) taught by some of the most highly trained independent teachers in Sydney that have come together under the umbrella of this gorgeous, ecological, holistic fitness space. 
 
+
 ### Changes
 
 YogaRuka reserves the right to cancel, change or vary classes, teachers, workshops or teacher training programs. While we endeavour to give you as much notice as we can, this may not always be possible. Please regularly check live timetables for up-to-date information on all classes and events. YogaRuka also reserves the right to reasonably adjust pricing of class passes and expiry brackets, giving reasonable notice by email. If you have unsubscribed from our mailing list, please regularly check our website for updates. 
+
 
 ### Online Bookings
 
