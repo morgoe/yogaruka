@@ -30,7 +30,8 @@ Should you need to leave class early please alert the teacher and make sure you 
 Our once-a week, twice-a-week and unlimited memberships are charged monthly, for the one month ahead. 
 
 Weekly Membership Contract: 
-- You will be expected to continue payments until the end of the agreement. However, should you need to cancel this agreement within the 6 months, please be aware there will be a $150 cancellation processing fee.
+- You will be expected to continue payments until the end of the agreement. However, should you need to **cancel** or **downgrade** this agreement within the 6 months, please be aware there will be a $150 cancellation processing fee. Upgrading (e.g., passing from a once-weekly to a twice-weekly or unlimited) will not incur any fees but it will restart the contract period. 
+
 
 - If you wish to cancel, suspend or alter your WMC payment in any way you must give YogaRuka one-week’s notice ahead via email.
 
@@ -39,8 +40,7 @@ Weekly Membership Contract:
 
 
 Weekly Membership No-Contract: 
-- The membership will continue on a monthly basis indefinitely unless you notify us by email with minimum one week’s notice of your intent to discontinue your membership.
-    
+- The membership will continue on a monthly basis indefinitely unless you notify us by email with minimum one week’s notice of your intent to discontinue your membership.    
 
 
 ### Class Passes
@@ -77,7 +77,6 @@ Bringing extra participants to your private session will incur an extra of 25% p
 All private classes that are taken as 10-class passes are subject to the same conditions as the group class passes: they are 3 months valid; as they present a significant discount on the single, they can under no circumstance be refunded, nor can they be transferred or exchanged.
 
 
-
 ### Intake Forms 
 
 We ask all our first-timers to fill in an intake form that will gather detailed information in regards to your residence, points of contact (incl. GP of choice), age, and medical history. We commit to keep anything pertaining to you that you have communicated to us orally and in writing confidential, however refraining from giving us the requested information may result in us refusing your participation to Exercise.
@@ -107,6 +106,7 @@ When using our website, you agree to:
 - Thoroughly read and comply with our Terms and Conditions set out within. Anyone infringing on the aforementioned terms could be excluded from the use of our website.
 
 Like most other websites, during the course of any visit to the YogaRuka website, we use small files which are stored on your hard drive by our browser (“cookies”) to monitor your use of the website. Once you have closed your browser, we do not use the information these cookies collect.
+
 
 ### Privacy Policy
 
