@@ -16,9 +16,9 @@ published: true
 
   {% include price.html title="Intro 14 Day Pass" subtitle="Unlimited classes for 14 days" amount="$49" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
-  {% include price.html title="Unlimited Membership" subtitle="Unlimited classes per week" amount="$45/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+  {% include price.html title="Unlimited Membership" subtitle="Unlimited classes per week" amount="from $35/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
-  {% include price.html title="Twice-Weekly Membership" subtitle="2 classes per week" amount="$35/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+  {% include price.html title="Twice-Weekly Membership" subtitle="2 classes per week" amount="from $25/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
   {% include price.html title="Drop-in Class" amount="$30" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
