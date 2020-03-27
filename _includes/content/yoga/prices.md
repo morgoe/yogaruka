@@ -12,7 +12,9 @@ For absolute freedom and no commitments whatsoever, you can always simply book a
 
 {% include price.html title="Intro 14 Day Pass" subtitle="Unlimited classes for 14 days ONLINE ONLY" amount="$35" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
-Once you've used up your Intro pass, we have 2 easy membership options and a multi-class pass to cover for all situations and necessities. We want to keep things very simple so all you ever need to worry about is your practice! 
+Once you've used up your Intro pass, we have 2 easy membership options and a multi-class pass to cover for all situations and necessities. We want to keep things simple so all you ever need to worry about is your practice! 
+
+Anyone present in the house (same IP address) can take any class, so please feel free to invite the whole family to join in. If you want and **can afford** supporting us, however, please consider buying one of our family passes. 
 
 
 
@@ -26,7 +28,6 @@ Once you've used up your Intro pass, we have 2 easy membership options and a mul
 {% include price.html title="Unlimited Membership" subtitle="Unlimited classes per week ONLINE ONLY" amount="$25/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 {% include price.html title="Twice-Weekly Membership" subtitle="ANY 2 classes per week ONLINE ONLY" amount="$18/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
-
 
 
 
@@ -45,6 +46,13 @@ Once you've used up your Intro pass, we have 2 easy membership options and a mul
 
 
 {% include price.html title="10-Class Pass ONLINE ONLY" amount="$180" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+
+
+### Family Passes 
+
+**$290**: Family Yoga for 2 · 10-Class Pass	
+**$330**: Family Yoga for 3 · 10-Class Pass
+**$380**: Family Yoga for 4+ · 10-Class Pass
 
 
 
