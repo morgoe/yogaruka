@@ -7,11 +7,11 @@ permalink: /
 h0: You’ve never done yoga like this before.
 published: true
 ---
+<section class="Longform Longform--blogpost" markdown="1">
 <div class="form-feedback info">
-  Due to the coronavirus lockdown, we are currently operating <strong>online only</strong>. Subscribers will join a private Facebook group, and join classes live-streamed on Zoom.
+  Due to the coronavirus lockdown, we are currently operating <strong>online only</strong>. All classes will be live-streamed on Zoom, and we have reduced our membership prices so that everyone can still participate. We really appreciate your support for small businesses like ours.
 </div>
 
-<section class="Longform Longform--blogpost" markdown="1">
 ## Does this sound like you?
 
 - I want to go do something super fun like surfing / snowboarding / hiking / rock climbing with my friends, however I don’t think I have the stamina for it / I’ve always been terrible at sports.”
