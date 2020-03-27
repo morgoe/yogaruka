@@ -1,70 +1,58 @@
-We are always happy to welcome new students experience our very exclusive space and method and take the time you need to figure which classes and times fit best within your schedule. 
+We are thrilled to welcome new students experience our very exclusive method and take the time to figure which classes and times fit best within your schedule. 
 
-The Introductory offer has been created for you to enjoy unlimited classes for two weeks from the day of purchase to help you figure out the right frequency and the typology of class/es that works best for you. 
+The Introductory offer has been created for you to enjoy unlimited classes online for two weeks from the day of your first class, to help you figure out the right frequency and the typology of class/es that works best for you. 
 
-If you are expecting, or a neo-mum that would like to share yoga with her bub, you are in the right place: We are partnered with Mother Nurture Yoga, Sydney's leading Pregnancy Yoga School, and you can purchase a pass directly through them, that can be used at our location but also at any of their other locations throughout the Sydney area (CBD, Chatswood, Parramatta, Hornsby, and more). 
+
 
 ### Intro 14 Day Pass
 
-**$49**: available strictly for new students who have not attended any classes at YogaRuka before; **valid for 14 consecutive days** (starting from the date of purchase), one pass per person.
+**$35**: available strictly for new students who have not attended any classes at YogaRuka before; **valid for 14 consecutive days** (starting from the date of your first class), one pass per person.
 
 For absolute freedom and no commitments whatsoever, you can always simply book a drop-in class.
 
-{% include price.html title="Intro 14 Day Pass" subtitle="Unlimited classes for 14 days" amount="$49" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+{% include price.html title="Intro 14 Day Pass" subtitle="Unlimited classes for 14 days ONLINE ONLY" amount="$35" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+
+Once you've used up your Intro pass, we have 2 easy membership options and a multi-class pass to cover for all situations and necessities. We want to keep things very simple so all you ever need to worry about is your practice! 
 
 
-### Monthly Membership - 6-Month Min. Contract
 
-**$35/wk (billed monthly)**: it gives you access to **unlimited classes** - even several daily if you’re up for it. Renewal is automated. 
+### Monthly Memberships
 
-**$25/wk (billed monthly)**: it gives you access to **any two classes weekly** - and you can mix and match as much as you want. Renewal is automated. If you want to take an extra class at any time, you only pay the nominal difference of **$15**/class. 
+**$25/wk (billed monthly)**: it gives you access to **unlimited classes**. Renewal is automated. 
 
-**$18/wk (billed monthly)**: it gives you access to **any one class weekly** - and you can change it  as often as you want, week to week. Renewal is automated. If you want to take an extra class at any time, you only pay the nominal difference of **$15**/class. 
-
-{% include price.html title="Unlimited Membership - 6 Mo Contract" subtitle="Unlimited classes per week" amount="$35/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
-
-{% include price.html title="Twice-Weekly Membership - 6 Mo Contract" subtitle="2 classes per week" amount="$25/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
-
-{% include price.html title="Once-Weekly Membership - 6 Mo Contract" subtitle="1 class per week" amount="$18/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
-
-### Monthly Membership - No Contract
+**$18/wk (billed monthly)**: it gives you access to **any two classes weekly** - and you can mix and match as much as you want. Renewal is automated. If you want to take an extra class at any time, you only pay the nominal difference of **$15**/class. 
 
 
-**$45/wk (billed monthly)**: it gives you access to **unlimited classes** - even several daily if you’re up for it. Renewal is automated and there is **no commitment to a contract**. At any point you can switch to a 10-class pass, a 6-month contract unlimited, or to any of the twice- or once-weekly memberships.
+{% include price.html title="Unlimited Membership" subtitle="Unlimited classes per week ONLINE ONLY" amount="$25/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
-**$35/wk (billed monthly)**: it gives you access to **any two classes weekly** - and you can mix and match as much as you want. Renewal is automated and there is **no commitment to a contract.** At any point you can switch to a 10-class pass or upgrade to any of the 6-month contract memberships.
+{% include price.html title="Twice-Weekly Membership" subtitle="ANY 2 classes per week ONLINE ONLY" amount="$18/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 
-{% include price.html title="Contract-Free Unlimited Membership" subtitle="Unlimited classes per week" amount="$45/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
-
-{% include price.html title="Contract-Free Twice-Weekly Membership" subtitle="2 classes per week" amount="$35/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 
 ### Drop-in Class
 
-**$30**: welcome to book a one-off group class anytime.
-
-**$20** concession: drop in concessions are available only to kids and students.
-
-Once you've used up your Intro pass, we have 2 easy membership options and a multi-class pass to cover for all situations and necessities. We want to keep things very simple so all you ever need to worry about is your practice! 
-
-{% include price.html title="Drop-in Class" amount="$30" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+**$20**: welcome to book a one-off online group class anytime.
 
 
-### 10-Class Pass
+{% include price.html title="Drop-in ONLINE Class" amount="$20" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
-**$240**: optimal for those who want to practice free from all contracts. This pass is a really sweet deal (you basically pay for 8 classes and get 2 more free!) and is **valid for 3 months** which translates to precisely 13 weeks. It can make for a wonderful gift for a dear one and it can be used for any group classes of your choice. 
 
-**$180** concession: class pass concessions are available only to kids and students.
 
-{% include price.html title="10-Class Pack" amount="$240" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+### 10-Class Pass ONLINE ONLY
+
+**$180**: pay for 9 and have 1 free! This pass is **valid for 3 months** which translates to precisely 13 weeks. It can make for a wonderful gift for a dear one and it can be used for any group classes of your choice. 
+
+
+{% include price.html title="10-Class Pass ONLINE ONLY" amount="$180" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+
 
 
 ### Private Sessions 
 
 Private sessions can go from 45’ to 75’ in length. Your first private session will include a **free 15’ anatomical assessment** to cater for your very specific needs, so allow for slightly more time than you booked.
 
-{% include price.html title="Private Class" subtitle="45-75min" amount="from $70" url="/contact" %}
+{% include price.html title="Private ONLINE Class" subtitle="45-75min" amount="from $70" url="/contact" %}
  
 10-session passes offer a 20% discount on the full price and are valid over 13 consecutive weeks/3 months/ from purchase. 20-session passes offer a **25%+ discount** on the full price and are valid over 34 consecutive weeks/8 months/ from purchase.
 
@@ -87,7 +75,7 @@ Private sessions can go from 45’ to 75’ in length. Your first private sessio
 				<td>45-Minute</td>
 				<td>$95</td>
 				<td>$760 ($76 per session)</td>
-				<td>$1400 ($70 per session)</td>
+				<td>$1400 (**$70 per session**)</td>
 			</tr>
 			<tr>
 				<td>60-Minute</td>
@@ -108,6 +96,8 @@ Private sessions can go from 45’ to 75’ in length. Your first private sessio
 
 ### Concessions + Giving Back to the Community 
 
-Concession passes are available for kids, all full time students, some part time students on low income at our discretion. They offer discounts of min. 25% on the full price and can be purchased in studio only **upon presenting your student ID** and, if required, proof of low income.
+Concession passes are available for kids, all full time students, some part time students or pensioneers on low income at our discretion. They may offer discounts of min. 25% on the full price and can be purchased only **upon emailing your student ID** or proof of low income/Centerlink card.
 
-We are also offering **FREE** classes for highly disadvantaged social groups: Aboriginal Australians, refugees and their children, homeless people of any extraction. Please [contact us](/contact/) to find out more and organise your free yoga training schedule.
+We will also be offering **FREE** classes for highly disadvantaged social groups. 
+
+Please [contact us](/contact/) and let's talk.
