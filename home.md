@@ -7,6 +7,9 @@ permalink: /
 h0: You’ve never done yoga like this before.
 published: true
 ---
+<div class="form-feedback info">
+  Due to the coronavirus lockdown, we are currently operating <strong>online only</strong>. Subscribers will join a private Facebook group, and join classes live-streamed on Zoom.
+</div>
 
 <section class="Longform Longform--blogpost" markdown="1">
 ## Does this sound like you?
