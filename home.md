@@ -9,7 +9,7 @@ published: true
 ---
 <section class="Longform Longform--blogpost" markdown="1">
 <div class="form-feedback info">
-  Due to the coronavirus lockdown, we are currently operating <strong>online only</strong>. All classes will be live-streamed on Zoom, and we have reduced our membership prices so that everyone can still participate. We really appreciate your support for small businesses like ours.
+  Due to the coronavirus lockdown, we are currently operating <strong>online only</strong>. All classes will be live-streamed on Zoom, and we have reduced our membership prices so that everyone can still participate. We really appreciate your support for small businesses like ours during this time.
 </div>
 
 ## Does this sound like you?
