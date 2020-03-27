@@ -50,9 +50,11 @@ Anyone present in the house (same IP address) can take any class, so please feel
 
 ### Family Passes 
 
-**$290**: Family Yoga for 2 · 10-Class Pass	
-**$330**: Family Yoga for 3 · 10-Class Pass
-**$380**: Family Yoga for 4+ · 10-Class Pass
+{% include price.html title="Family Yoga for 2 · 10-Class Pass" amount="$290" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+	
+{% include price.html title="Family Yoga for 3 · 10-Class Pass" amount="$330" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}    
+
+{% include price.html title="Family Yoga for 4+ · 10-Class Pass" amount="$380" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 
 
