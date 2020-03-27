@@ -20,9 +20,9 @@ published: true
 
   {% include price.html title="Twice-Weekly Membership" subtitle="2 classes per week ONLINE ONLY" amount="$18/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
-  {% include price.html title="Drop-in Class" amount="$20" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+  {% include price.html title="Drop-in ONLINE Class" amount="$20" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
-  {% include price.html title="Private Class" subtitle="45-75min" amount="from $70" url="/contact" %}
+  {% include price.html title="Private ONLINE Class" subtitle="45-75min" amount="from $70" url="/contact" %}
 </section>
 
 <div class="Longform Longform--blogpost" markdown="1">
