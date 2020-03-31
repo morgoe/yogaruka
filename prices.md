@@ -12,13 +12,10 @@ published: true
 ---
 
 <section class="container container--sm m-top--md">
-  <h2>Popular Packages</h2>
+  <h2>Online Packages</h2>
 
-  {% include price.html title="Intro 14 Day Pass" subtitle="Unlimited classes for 14 days ONLINE ONLY" amount="$35" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
-  {% include price.html title="Unlimited Membership" subtitle="Unlimited classes ONLINE ONLY" amount="$25/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
-
-  {% include price.html title="Twice-Weekly Membership" subtitle="2 classes per week ONLINE ONLY" amount="$18/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+  {% include price.html title="Unlimited Membership" subtitle="Unlimited classes ONLINE ONLY" amount="$20/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
   {% include price.html title="Drop-in ONLINE Class" amount="$20" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
