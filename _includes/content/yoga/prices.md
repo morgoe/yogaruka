@@ -1,33 +1,18 @@
 We are thrilled to welcome new students experience our very exclusive method and take the time to figure which classes and times fit best within your schedule. 
 
-The Introductory offer has been created for you to enjoy unlimited classes online for two weeks from the day of your first class, to help you figure out the right frequency and the typology of class/es that works best for you. 
+We have created one unified pass to make it all very simple: $20 weekly for unlimited live-streamed classes. 
+
+Take your time to figure out the right frequency and the classes that work best for you, and watch this space since we'll be announcing soon pre-recorded classes on-demand for those times you can't join any live class on schedule!  
 
 
 
-### Intro 14 Day Pass
+### Monthly Membership
 
-**$35**: available strictly for new students who have not attended any classes at YogaRuka before; **valid for 14 consecutive days** (starting from the date of your first class), one pass per person.
+**$20/wk (billed monthly)**: it gives you access to **unlimited classes**. Renewal is automated. 
 
-For absolute freedom and no commitments whatsoever, you can always simply book a drop-in class.
+Anyone present in the house (same IP address) can take any class, so please feel free to invite the whole family to join in. If you want and **can afford** supporting us, however, please consider buying individual memberships. 
 
-{% include price.html title="Intro 14 Day Pass" subtitle="Unlimited classes for 14 days ONLINE ONLY" amount="$35" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
-
-Once you've used up your Intro pass, we have 2 easy membership options and a multi-class pass to cover for all situations and necessities. We want to keep things simple so all you ever need to worry about is your practice! 
-
-Anyone present in the house (same IP address) can take any class, so please feel free to invite the whole family to join in. If you want and **can afford** supporting us, however, please consider buying one of our family passes. 
-
-
-
-### Monthly Memberships
-
-**$25/wk (billed monthly)**: it gives you access to **unlimited classes**. Renewal is automated. 
-
-**$18/wk (billed monthly)**: it gives you access to **any two classes weekly** - and you can mix and match as much as you want. Renewal is automated. If you want to take an extra class at any time, you only pay the nominal difference of **$15**/class. 
-
-
-{% include price.html title="Unlimited Membership" subtitle="Unlimited classes per week ONLINE ONLY" amount="$25/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
-
-{% include price.html title="Twice-Weekly Membership" subtitle="ANY 2 classes per week ONLINE ONLY" amount="$18/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+{% include price.html title="Unlimited Membership" subtitle="Unlimited classes per week ONLINE ONLY" amount="$20/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 
 
@@ -37,24 +22,6 @@ Anyone present in the house (same IP address) can take any class, so please feel
 
 
 {% include price.html title="Drop-in ONLINE Class" amount="$20" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
-
-
-
-### 10-Class Pass ONLINE ONLY
-
-**$180**: pay for 9 and have 1 free! This pass is **valid for 3 months** which translates to precisely 13 weeks. It can make for a wonderful gift for a dear one and it can be used for any group classes of your choice. 
-
-
-{% include price.html title="10-Class Pass ONLINE ONLY" amount="$180" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
-
-
-### Family Passes 
-
-{% include price.html title="Family Yoga for 2 · 10-Class Pass" amount="$290" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
-	
-{% include price.html title="Family Yoga for 3 · 10-Class Pass" amount="$330" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}    
-
-{% include price.html title="Family Yoga for 4+ · 10-Class Pass" amount="$380" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 
 
@@ -102,6 +69,7 @@ Private sessions can go from 45’ to 75’ in length. Your first private sessio
 		</tbody>
 	</table>
 </div>
+
 
 
 ### Concessions + Giving Back to the Community 
