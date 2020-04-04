@@ -44,10 +44,6 @@ subtitle: A wide variety of movement disciplines integrated under one roof—eve
 	<p>
 		If you're a regular, you can download the <a class="link" href="https://itunes.apple.com/au/app/momoyoga/id1233882505?mt=8">iPhone</a> or <a class="link" href="https://play.google.com/store/apps/details?id=com.momostudio.momoyoga">Android</a> app.
 	</p>
-
-	<p>
-		On Wednesdays, Thursdays and Saturdays, there are prenatal classes we are running in partnership with Mother Nurture Yoga. <strong>More information and all prenatal bookings are available through the <a class="link" href="https://www.mothernurtureyoga.com.au/timetable-and-costs">Mother Nurture website</a>.</strong>
-	</p>
 </section>
 
 <div class="momoyoga-schedule m-top--md" data-momo-schedule="https://www.momoyoga.com/yogaruka"></div>
