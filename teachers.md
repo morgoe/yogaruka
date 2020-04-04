@@ -1,6 +1,6 @@
 ---
 layout: default
-cover-image: prices
+cover-image: timetable
 title: Teachers
 permalink: /teachers/
 h1: Our Teachers

@@ -10,6 +10,8 @@ published: true
 <section class="Longform Longform--blogpost" markdown="1">
 <div class="form-feedback info">
   Due to the coronavirus lockdown, we are currently operating <strong>online only</strong>. All classes will be live-streamed on Zoom, and we have reduced our membership prices so that everyone can still participate. We really appreciate your support for small businesses like ours during this time.
+  <br/><br/>
+  Read our <a href="/online-guide/">getting started online guide</a>.
 </div>
 
 ## Does this sound like you?
@@ -42,7 +44,7 @@ For 14 days of **UNLIMITED** access, try as many classes as you can and see whic
 
 Your 14 day trial membership will start from your first visit, and will give you access to all our regular classes including our signature Flows and our Stretch Therapy™ Fusion.
 
-Want more information? Follow our easy [step-by-step guide](/guide/) to book your first class!
+<!-- Want more information? Follow our easy [step-by-step guide](/guide/) to book your first class! -->
 </section>
 
 <section class=" Longform Longform--blogpost">
