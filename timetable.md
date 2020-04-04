@@ -25,6 +25,12 @@ subtitle: A wide variety of movement disciplines integrated under one roof—eve
       </a>
     </li>
     <li>
+      <a class="link" href="/teachers">
+        <span>→</span>
+        <div>Our Teachers</div>
+      </a>
+    </li>
+    <li>
       <a class="link" href="/additional-services">
         <span>→</span>
         <div>Additional Services</div>

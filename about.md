@@ -19,9 +19,9 @@ subtitle: We teach generalised fitness that transfers as much to your athletic a
       </a>
     </li>
     <li>
-      <a class="link" href="#teachers">
-        <span>↘</span>
-        <div>About our Teachers</div>
+      <a class="link" href="/teachers">
+        <span>→</span>
+        <div>Our Teachers</div>
       </a>
     </li>
     <li>
@@ -53,9 +53,3 @@ YogaRuka is meant to be as much your practice space as it is ours, to accommodat
 
 Co-founders Rua and Karen first met during their yoga teacher training in Rishikesh, India. Albeit initially living in different countries - the former travelling, the latter back in London -, in the name of their shared passion for yoga and a mindful lifestyle, they decided to associate and teach together as itinerant instructors. They organised a few retreats, then workshops, and were honoured and humbled by the immense enthusiasm their little venture acquired. Given the more than positive feedback from practitioners all around the world, they eventually decided to open a physical studio in Sydney, NSW.
 </section>
-
-<section id="teachers">
-  {% include content/about/teachers.html %}
-</section>
-
-{% include content/videos.html %}
