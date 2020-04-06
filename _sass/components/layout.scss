@@ -21,7 +21,10 @@
 	margin-right: auto;
 }
 .container--sm {
-	max-width: $container-sm;
+  max-width: $container-sm;
+}
+.container--xs {
+  max-width: $container-xs;
 }
 
 .margin-top {

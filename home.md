@@ -4,50 +4,136 @@ body-id: home
 site-nav: home
 cover-image: home
 permalink: /
-h0: You’ve never done yoga like this before.
+h1: Going mad in lockdown? This is your new chance to build a healthy body.
+subtitle: Discover how YogaRuka is helping people from Sydney and around the world get on top of their physical and mental health, and build healthy habits even in lockdown. Join our live-streamed classes today!
 published: true
 ---
-<section class="Longform Longform--blogpost" markdown="1">
-<div class="form-feedback info">
-  Due to the coronavirus lockdown, we are currently operating <strong>online only</strong>. All classes will be live-streamed on Zoom, and we have reduced our membership prices so that everyone can still participate. We really appreciate your support for small businesses like ours during this time.
-  <br/><br/>
-  Read our <a href="/online-guide/">getting started online guide</a>.
+
+<div class="JumpLinks">
+  <h5>Subscribe to our newsletter</h5>
+
+  {% include newsletter-form.html %}
 </div>
 
-## Does this sound like you?
+<section>
+  <h2>Who is YogaRuka for?</h2>
 
-- I want to go do something super fun like surfing / snowboarding / hiking / rock climbing with my friends, however I don’t think I have the stamina for it / I’ve always been terrible at sports.”
-- I’m very sedentary and becoming more and more aware of my physical deterioration, but I’ve left it for so long that I’m not quite sure where to start, and I’m afraid I’ll injure myself because of my lack of conditioning.”
-- I’ve done yoga / Pilates / gym in the past but I plateaued and nothing I’ve been trying seems to get me to the next level, whilst accommodating my specific areas of weakness or misalignment.”
-- I want to run around with my kids / grandkids without feeling constantly exhausted or feeling like I’ll pop a hip.”
-- I want to take a tropical holiday and feel good in my bikini without needing to starve myself and do hours of cardio.”
-- I pant whenever I climb even just a row of stairs and I’m spending all the time outside of my job recovering from my job. I would like to have enough energy and focus to work on my personal projects and bucketlist items.”
+  {% include carousel.html tile1_image="/assets/images/home/who-yogi.jpg" tile1_title="Experienced Yogis" tile1_caption="Are you bored with the same-old classes you’ve done before?" tile2_image="/assets/images/home/who-gym.jpg" tile2_title="Gym-goers and Sports-players" tile2_caption="Are you struggling to keep fit now that your healthy habits are illegal?" tile3_image="/assets/images/home/who-newbie.jpg" tile3_title="Total Newbies" tile3_caption="Have you tried to get into yoga before but it never really “stuck”?" %}
 </section>
 
-<div class="Home-banner">
-  <div class="Home-bannerImage"></div>
-  <h3>We have the solution!</h3>
-</div>
+<section class="container container--sm">
+  <h2 class="u-text-center">Your YogaRuka experience includes</h2>
 
-<section class="Longform Longform--blogpost" markdown="1">
-**Join the Mindful Movement tribe and revolutionise your body and your lifestyle.**
+  <div class="container container--xs">
+    <div class="media media--sm">
+      <div class="media-header">
+        <div class="media-image">
+          <img src="/assets/icons/check-circle.svg">
+        </div>
+      </div>
+      <div class="media-body">
+        <h5 class="media-title">Unlimited Live Classes</h5>
+        <div>
+          <p>With 20 classes a week, there’s something for everyone</p>
+        </div>
+      </div>
+    </div>
 
-As a human, you are designed to move smoothly, efficiently and without pain. But our modern lifestyles can get in the way with extended periods of sitting, food that isn’t really food and unprecedented levels of stressful stimulation. At YogaRuka, our classes are a fusion of yoga, stretch therapy, functional movement and corrective work so you don’t just get fitter, stronger and firmer overall, you also reduce your pain and inflammation and create a body that can handle anything you want to do in your leisure time.
+    <div class="media media--sm">
+      <div class="media-header">
+        <div class="media-image">
+          <img src="/assets/icons/check-circle.svg">
+        </div>
+      </div>
+      <div class="media-body">
+        <h5 class="media-title">Private Facebook Group</h5>
+        <div>
+          <p>Be part of the YogaRuka community (memes included!)</p>
+        </div>
+      </div>
+    </div>
 
-Our classes are remarkably varied so as to tackle all aspects of training and all the needs of a healthy mover’s body and mind: Strength, Flexibility, Resilience, Rhythm and Coordination, Breath, Focus, Relaxation.
+    <div class="media media--sm">
+      <div class="media-header">
+        <div class="media-image">
+          <img src="/assets/icons/check-circle.svg">
+        </div>
+      </div>
+      <div class="media-body">
+        <h5 class="media-title">On-Demand Classes</h5>
+        <div>
+          <p>To watch at your leisure, with focuses on strength, flexibility, relaxation and more</p>
+        </div>
+      </div>
+    </div>
 
-For 14 days of **UNLIMITED** access, try as many classes as you can and see which ones you vibe with most, and which fit best within your schedule.
-
-<div class="u-text-center m-top--md m-bottom--md">
-  <a class="button" href="/timetable">Book Your First Class</a>
-</div>
-
-Your 14 day trial membership will start from your first visit, and will give you access to all our regular classes including our signature Flows and our Stretch Therapy™ Fusion.
-
-<!-- Want more information? Follow our easy [step-by-step guide](/guide/) to book your first class! -->
+    <div class="media media--sm">
+      <div class="media-header">
+        <div class="media-image">
+          <img src="/assets/icons/check-circle.svg">
+        </div>
+      </div>
+      <div class="media-body">
+        <h5 class="media-title">Family Subscription</h5>
+        <div>
+          <p>One membership lets your whole family join in!</p>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
-<section class=" Longform Longform--blogpost">
-  <h2>FAQs</h2>
-  {% include content/home/faqs.html %}
+<div class="container container--sm Home-callout u-text-center">
+  <h2>Our Promise to You</h2>
+
+  <p>You’ll discover a new relationship with your body, one where moving feels natural, independent, and fun. You’ll be part of a supportive online community. And of course, you’ll be fitter, healthier and happier too!</p>
+</div>
+
+<section class="container container--xs">
+  <h2 class="u-text-center">Testimonials</h2>
+
+  <div class="media media--md">
+    <div class="media-header">
+      {% include components/media/image.html image="/assets/images/home/testimonial-tania.jpg" %}
+    </div>
+    <div class="media-body">
+      <h5 class="media-title">Tania Ballistreri</h5>
+      <div>
+        <p>I highly recommend YogaRuka. There’s a selection of classes to suit all needs in a calm and beautiful environment. I always feel invigorated, open and calm after each session. The team are lovely and helpful.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="media media--md">
+    <div class="media-header">
+      {% include components/media/image.html image="/assets/images/home/testimonial-tina.jpg" %}
+    </div>
+    <div class="media-body">
+      <h5 class="media-title">Tina Goodman</h5>
+      <div>
+        <p>Gentle yet challenging classes. I always leave feeling stronger and more relaxed. The small class sizes really help with meditation during practice.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="media media--md">
+    <div class="media-header">
+      {% include components/media/image.html image="/assets/images/home/testimonial-craig.jpg" %}
+    </div>
+    <div class="media-body">
+      <h5 class="media-title">Craig Tucker-Saunders</h5>
+      <div>
+        <p>I have not done yoga for about 7 years and hence my balance and flexibility leave a lot to be desired. They are very patient, the poses were a combination of easy and a little more advanced but a great class.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="Longform Longform--blogpost">
+  <div class="form-feedback info">
+    Stuck? Read our <a href="/online-guide/">step-by-step guide</a> to booking your first online class.
+  </div>
+
+  <div class="momoyoga-schedule m-top--md" data-momo-schedule="https://www.momoyoga.com/yogaruka"></div>
+  <script src="https://www.momoyoga.com/schedule-plugin/v2/js/schedule.js" crossorigin="anonymous"></script>
 </section>

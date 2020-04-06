@@ -26,6 +26,28 @@
   }
 }
 
+.Home-callout {
+  color: white;
+  position: relative;
+  padding: $spacing-md;
+  padding-top: $spacing-lg;
+  padding-bottom: $spacing-lg;
+  margin-bottom: $spacing-xl;
+  border-top: none;
+  &:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    // left: -50%;
+    // right: -50%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: $text-dark;
+    z-index: -1;
+  }
+}
+
 .Home-bannerImage {
   position: absolute;
   top: 0;

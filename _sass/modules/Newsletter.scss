@@ -21,6 +21,9 @@
     flex-grow: 1;
     margin-top: $spacing-md;
     margin-left: $spacing-sm;
+  input {
+    margin-right: 0;
+  }
 }
 
 #mc_embed_signup div.mce_inline_error {
