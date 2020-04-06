@@ -14,20 +14,20 @@ subtitle: A wide variety of movement disciplines integrated under one roof—eve
   <ul>
     <li>
       <a class="link" href="#featured">
-        <span>↘</span>
+        <span>↓</span>
         <div>Featured Classes</div>
       </a>
     </li>
     <li>
       <a class="link" href="#timetable">
-        <span>↘</span>
+        <span>↓</span>
         <div>Timetable</div>
       </a>
     </li>
     <li>
       <a class="link" href="/teachers">
         <span>→</span>
-        <div>Our Teachers</div>
+        <div>Teachers</div>
       </a>
     </li>
     <li>

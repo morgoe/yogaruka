@@ -1,7 +1,11 @@
 .JumpLinks {
-  border: 1px solid $border-light;
+  position: relative;
+  z-index: 1;
+  background: white;
+  box-shadow: 0 0 0 1px $border-light;
   padding: $spacing-md;
   max-width: $container-xs;
+  margin-top: -48px;
   margin-bottom: $spacing-xl;
   h5 {
     margin-bottom: $spacing-xs;
@@ -11,13 +15,22 @@
   }
   a {
     display: flex;
+    font-family: $font-system;
     text-decoration: none;
+    &:hover div {
+      text-decoration: underline;
+    }
   }
   span {
-    font-family: $font-system;
+    width: $spacing-sm;
+    text-align: center;
+    font-weight: 600;
     margin-right: $spacing-xxs;
   }
-  div {
-    text-decoration: underline;
+}
+
+@media (min-width: $media-tablet) {
+  .JumpLinks {
+    margin-top: -96px;
   }
 }

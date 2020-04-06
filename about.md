@@ -14,14 +14,14 @@ subtitle: We teach generalised fitness that transfers as much to your athletic a
   <ul>
     <li>
       <a class="link" href="#studio">
-        <span>↘</span>
+        <span>↓</span>
         <div>About the Studio</div>
       </a>
     </li>
     <li>
       <a class="link" href="/teachers">
         <span>→</span>
-        <div>Our Teachers</div>
+        <div>Teachers</div>
       </a>
     </li>
     <li>
