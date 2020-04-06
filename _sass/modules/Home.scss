@@ -29,7 +29,6 @@
 .Home-callout {
   color: white;
   position: relative;
-  padding: $spacing-md;
   padding-top: $spacing-lg;
   padding-bottom: $spacing-lg;
   margin-bottom: $spacing-xl;
@@ -38,11 +37,12 @@
     content: "";
     position: absolute;
     top: 0;
-    // left: -50%;
-    // right: -50%;
-    left: 0;
-    right: 0;
+    left: 50%;
+    right: 50%;
     bottom: 0;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    width: 100vw;
     background: $text-dark;
     z-index: -1;
   }
