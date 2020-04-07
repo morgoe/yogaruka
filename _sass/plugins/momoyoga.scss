@@ -1,10 +1,8 @@
+$time-width: 90px;
+
 .momoyoga-schedule {
   font-size: $font-size-md;
   font-family: $font-system;
-  max-width: $container-sm;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 4px;
   box-shadow: 0 0 0 1px $border;
 
   div {
@@ -32,19 +30,21 @@
   .momoyoga-lesson {
     min-height: 0;
     .momoyoga-lesson-line {
+      display: block;
       position: relative;
+      width: 100%;
       .momoyoga-lesson-time,
       .momoyoga-lesson-title,
       .momoyoga-lesson-teacher {
         display: block;
         min-height: 0;
       }
-      .momoyoga-lesson-action {
-        top: -8px;
-        &:empty {
-          display: none;
-        }
-      }
+    }
+    .momoyoga-lesson-details {
+      color: $text-muted;
+      white-space: normal;
+      margin: 0;
+      padding: 0;
     }
     + .momoyoga-lesson {
       margin-top: $spacing-sm;
@@ -66,6 +66,43 @@
   @extend .button--fullWidth;
 }
 
+@media (min-width: 481px) {
+  .momoyoga-schedule {
+    max-width: $container-sm;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+    .momoyoga-lesson {
+      .momoyoga-lesson-line {
+        display: flex;
+        align-items: center;
+        > div {
+          overflow: hidden;
+          flex-shrink: 0;
+        }
+        .momoyoga-lesson-time {
+          width: $time-width;
+        }
+        .momoyoga-lesson-title {
+          width: 40px;
+          flex-grow: 1;
+          padding-right: $spacing-xs;
+        }
+        .momoyoga-lesson-teacher {
+          width: 80px;
+        }
+        .momoyoga-lesson-action {
+          width: 90px;
+        }
+      }
+      .momoyoga-lesson-details {
+        p {
+          margin-left: $time-width;
+        }
+      }
+    }
+  }
+}
 @media (max-width: 480px) {
   .momoyoga-schedule {
     margin-left: -$spacing-md;
@@ -74,9 +111,14 @@
     .momoyoga-lesson {
       .momoyoga-lesson-line {
         .momoyoga-lesson-action {
-          top: 0;
           margin-top: $spacing-xs;
+          &:empty {
+            display: none;
+          }
         }
+      }
+      .momoyoga-lesson-details {
+        margin-top: $spacing-xs;
       }
     }
   }
