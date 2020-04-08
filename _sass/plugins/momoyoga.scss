@@ -80,6 +80,13 @@ $time-width: 90px;
           overflow: hidden;
           flex-shrink: 0;
         }
+        .momoyoga-lesson-time,
+        .momoyoga-lesson-title,
+        .momoyoga-lesson-teacher,
+        .momoyoga-lesson-action {
+          position: static;
+          margin: 0;
+        }
         .momoyoga-lesson-time {
           width: $time-width;
         }
