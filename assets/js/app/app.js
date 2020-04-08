@@ -4,6 +4,7 @@ $(document).ready(function() {
   initCarousels();
   initModals();
   initAccordions();
+  initConversionTracking();
   expandSVGs();
   $(window).on('resize', resizeHomeVideo).resize();
 });
