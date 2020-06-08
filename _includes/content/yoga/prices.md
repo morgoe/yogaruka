@@ -1,6 +1,6 @@
 We are thrilled to welcome new students experience our very exclusive method and take the time to figure which classes and times fit best within your schedule. 
 
-We have created two very simple pass types to cover for all needs: $35 weekly for unlimited classes, and 10 classes over 10 weeks for $180. 
+We have created one trial offer and two very simple pass types to cover for all needs: $35 weekly for unlimited classes, and 10 classes over 10 weeks for $180. 
 
 Take your time to figure out the right frequency and the classes that work best for you, and keep an eye on the schedule since we'll be announcing soon new classes as we're gradually returning to a fuller in-studio schedule!  
 
@@ -21,6 +21,16 @@ Take your time to figure out the right frequency and the classes that work best 
 
 
 {% include price.html title="Unlimited Membership" subtitle="10-Class Pass" amount="$180" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+
+
+
+### Intro Offer 2 Weeks Unlimited
+
+**$62**: it gives you access to all of our classes for a fortnight. Take this taster to see what we're all about and figure out which sort of pass works best for you!  
+
+It can only be bought once, and only if you haven't come to our studio with any other previous offer.
+
+{% include price.html title="Unlimited Membership" subtitle="Intro Offer" amount="$62" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 
 
