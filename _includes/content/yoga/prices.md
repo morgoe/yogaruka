@@ -90,8 +90,7 @@ Private sessions can go from 45 to 75 minutes in length. Your first private sess
 
 ### Concessions + Giving Back to the Community 
 
-Concession passes are available for kids, all full time students, some part time students or pensioneers on low income at our discretion. They may offer discounts of min. 25% on the full price and can be purchased only **upon emailing your student ID** or proof of low income/Centerlink card.
+Concession passes are available for people on low income at our discretion. They may offer discounts of 20%+ on the full price and can be purchased only **upon providing proof of low income** or your Centerlink card ID.
 
 We will also be offering **FREE** classes for highly disadvantaged social groups. 
-
 Please [contact us](/contact/) and let's talk.
