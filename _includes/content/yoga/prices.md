@@ -17,10 +17,10 @@ Take your time to figure out the right frequency and the classes that work best 
 
 ### 10-Class Pass
 
-**$180**: it gives you access to **10 classes spread out over 10 weeks**, in person and online. Renewal is automated.   
+**$180**: it gives you access to **10 classes spread out over 10 weeks** however you please, in person and online. Renewal is automated.   
 
 
-{% include price.html title="Unlimited Membership" subtitle="10-Class Pass" amount="$180" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+{% include price.html title="10-Class Pass" subtitle="10 Classes for 10 Weeks" amount="$180" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 
 
