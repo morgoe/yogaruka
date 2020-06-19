@@ -8,10 +8,16 @@ Take your time to figure out the right frequency and the classes that work best 
 
 ### Monthly Membership
 
-**$35/wk (billed monthly, 3 months contract)**: it gives you access to **unlimited classes**, in person and online. Renewal is automated.   
+**$35/wk (billed monthly, 3 months contract)**: it gives you access to **unlimited classes**, in person **and online**. Renewal is automated.   
 
 
 {% include price.html title="Unlimited Membership" subtitle="Unlimited classes weekly" amount="$35/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+
+
+**$25/wk (billed monthly, no contract)**: it gives you access to **unlimited classes**, online only. Renewal is automated.   
+
+
+{% include price.html title="Unlimited Online Only" subtitle="Unlimited live-streamed & on demand classes weekly" amount="$25/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 
 
