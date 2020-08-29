@@ -4,8 +4,8 @@ body-id: home
 site-nav: home
 cover-image: home
 permalink: /
-h1: Going mad in lockdown? This is your new chance to build a healthy body.
-subtitle: Discover how YogaRuka is helping people from Sydney and around the world get on top of their physical and mental health, and build healthy habits even in lockdown. Join our live-streamed classes today!
+h1: This is your new chance to build a healthy body.
+subtitle: Discover how YogaRuka is helping people in Sydney get on top of their physical and mental health, and build healthy habits. Our classes are available both online and in-person!
 published: true
 ---
 
