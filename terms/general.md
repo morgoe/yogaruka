@@ -29,27 +29,21 @@ Should you need to leave class early please alert the teacher and make sure you 
 
 ### Memberships
 
-Our once-a week, twice-a-week and unlimited memberships are charged monthly, for the one month ahead. 
+All our memberships - online and in-person - are charged monthly, for the one month ahead. 
 
-Weekly Membership Contract: 
-- You will be expected to continue payments until the end of the agreement. However, should you need to **cancel** or **downgrade** this agreement within the 6 months, please be aware there will be a $150 cancellation processing fee. Upgrading (e.g., passing from a once-weekly to a twice-weekly or unlimited) will not incur any fees but it will restart the contract period. 
+Unlimited Membership Contract: 
+- You will be expected to continue payments until the end of the agreement. However, should you need to **cancel** or **downgrade** this agreement within the 3 months, please be aware there will be a $150 cancellation processing fee. Upgrading (e.g., passing from the online to the in-person unlimited) will not incur any fees but it will restart the contract period. 
 
+- If you wish to cancel, suspend or alter your UMC payment in any way you must give YogaRuka a two-week’s notice ahead via email.
 
-- If you wish to cancel, suspend or alter your WMC payment in any way you must give YogaRuka one-week’s notice ahead via email.
-
-- Your payments will continue to draw from your account indefinitely. If you wish us to stop payments at the
- end of your contract you must inform us a week before the termination date. 
-
-
-Weekly Membership No-Contract: 
-- The membership will continue on a monthly basis indefinitely unless you notify us by email with minimum one week’s notice of your intent to discontinue your membership.    
+- Your payments will continue to draw from your account indefinitely. If you wish us to stop payments at the end of your contract you must inform us **a fortnight** before the termination date.    
 
 
 ### Class Passes
 
 All passes are non-refundable, non-transferrable and cannot be exchanged for any other pass. Passes purchased online will activate upon your first visit.
 
-Introductory 2-Week unlimited Passes are a one-time offer to all new attendees at YogaRuka. **The Groupon 10-class pass can only be acquired once and strictly as an alternative to the intro offer of two-weeks unlimited**. They cannot under any circumstance be used together, or one after the other.
+Introductory 2-Week unlimited Passes are a one-time offer to all new attendees at YogaRuka. No other offer or discount can, under any circumstance, be used together with it unless priorly agreed with YogaRuka.
 
 Drop in passes are valid for one month from purchase, and can be used for one visit. All our multi-class passes are valid now for 3 months from activation.
 
@@ -68,6 +62,8 @@ For all membership enquiries, suspensions and cancellations, please email us at 
 ### Concession Passes
 
 Concessions are available for kids and students only. If you purchase online, a valid ID must still be sighted when you come to class. At failure to do so we reserve the right to ask you to pay the difference toward a full membership or pass, or limit the number of days/classes on it. If you are a minor, your guardian will have to co-sign your intake form.
+
+Concession memberships reflect the same conditions as standard memberships (see above).
 
 
 ### Private Yoga Classes
