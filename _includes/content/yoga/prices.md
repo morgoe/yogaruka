@@ -1,32 +1,16 @@
-We are thrilled to welcome new students experience our very exclusive method and take the time to figure which classes and times fit best within your schedule. 
 
-We have created one trial offer and two very simple pass types to cover for all needs: $35 weekly for unlimited classes, and 10 classes over 10 weeks for $180. 
+### Unlimited Membership
 
-Take your time to figure out the right frequency and the classes that work best for you, and keep an eye on the schedule since we'll be announcing soon new classes as we're gradually returning to a fuller in-studio schedule!  
-
-
-
-### Monthly Membership
-
-**$35/wk (billed monthly, 3 months contract)**: it gives you access to **unlimited classes**, in person **and online**. Renewal is automated.   
+**$35/wk (billed monthly, 3-month minimum contract)** gives you access to **unlimited classes**, in studio **and online**. Renewal is automated, so please contact us to manage any changes in your circumstances.   
 
 
 {% include price.html title="Unlimited Membership" subtitle="Unlimited classes weekly" amount="$35/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 
-**$25/wk (billed monthly, no contract)**: it gives you access to **unlimited classes**, online only. Renewal is automated.   
+**$25/wk (billed monthly, 3-month minimum contract)** gives you access to **unlimited classes**, online only. Renewal is automated.   
 
 
 {% include price.html title="Unlimited Online Only" subtitle="Unlimited live-streamed & on demand classes weekly" amount="$25/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
-
-
-
-### 10-Class Pass
-
-**$224**: it gives you access to **10 classes spread out over 26 weeks** however you please, in person and online.   
-
-
-{% include price.html title="10-Class Pass" subtitle="10 Classes for 10 Weeks" amount="$224" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
 
 
 
@@ -37,6 +21,16 @@ Take your time to figure out the right frequency and the classes that work best 
 It can only be bought once, and only if you haven't come to our studio with any other previous offer.
 
 {% include price.html title="Unlimited Membership" subtitle="Intro Offer" amount="$62" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+
+
+
+### 10-Class Pass
+
+**$224**: it gives you access to **10 classes spread out over 26 weeks** however you please, in studio and online.   
+
+
+{% include price.html title="10-Class Pass" subtitle="10 Classes for 10 Weeks" amount="$224" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+
 
 
 
