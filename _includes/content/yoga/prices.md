@@ -87,6 +87,7 @@ Private sessions can go from 45 to 90 minutes in length. Your first private sess
 	</table>
 </div>
 
+Bringing extra participants to your private session will incur an extra of 20% per person to the total (e.g., $22 extra per person for the one-off, $17.6 extra per person per class within the 10-class pass.)
 
 
 ### Concessions + Giving Back to the Community 
