@@ -21,15 +21,15 @@ published: true
       </a>
     </li>
     <li>
-      <a class="link" href="/teachers">
+      <a class="link" href="/services">
         <span>→</span>
-        <div>Teachers</div>
+        <div>Services</div>
       </a>
     </li>
     <li>
-      <a class="link" href="/additional-services">
+      <a class="link" href="/teachers">
         <span>→</span>
-        <div>Additional Services</div>
+        <div>Your Teachers</div>
       </a>
     </li>
   </ul>
