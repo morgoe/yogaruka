@@ -28,13 +28,13 @@ published: true
   <h2 class="u-text-center">What can we offer you?</h2>
 
   <p>At YogaRuka, we are committed to helping people build stronger, healthier bodies using yoga and other movement specialties. This is not your average yoga studio. Our classes include the more traditional styles of vinyasa and yin, but often with a twist. Integrating Stretch Therapy, Yoga Therapy and dynamic movement to get your body and mind into the best health possible.</p>
-  <p>We can’t wait to meet you and get moving. View our schedule to find a time that works for you!</p>
+  <p>We can’t wait to meet you and get moving. <a href="/timetable/">View our schedule</a> to find a time that works for you!</p>
 </section>
 
 <div class="container container--sm Home-callout u-text-center">
   <h2>Our Promise to You</h2>
 
-  <p>You’ll discover a new relationship with your body, one where moving feels natural, independent, and fun. You’ll be part of a supportive online community. And of course, you’ll be fitter, healthier and happier too!</p>
+  <p>You’ll discover a new relationship with your body, one where moving feels natural, independent, and fun. You’ll be part of a supportive community. And of course, you’ll be fitter, healthier and happier too!</p>
 </div>
 
 <section class="container container--xs">
