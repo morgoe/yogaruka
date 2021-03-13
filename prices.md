@@ -14,13 +14,13 @@ published: true
 <section class="container container--sm m-top--md">
   <h2>Popular Packages</h2>
 
-  {% include price.html title="Intro Offer" subtitle="2 weeks unlimited, both in-studio and online" amount="$31/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+  {% include price.html title="Intro Offer" subtitle="2 weeks unlimited, both in-studio and online" amount="$31/wk" url="https://www.momoyoga.com/yogaruka/" %}
 
-  {% include price.html title="Unlimited Membership" subtitle="Access both in-studio and online" amount="$35/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+  {% include price.html title="Unlimited Membership" subtitle="Access both in-studio and online" amount="$35/wk" url="https://www.momoyoga.com/yogaruka/" %}
   
-  {% include price.html title="Unlimited Membership ONLINE ONLY" amount="$25/wk" url="https://www.momoyoga.com/yogaruka/member/upgrade" %}
+  {% include price.html title="Unlimited Membership ONLINE ONLY" amount="$25/wk" url="https://www.momoyoga.com/yogaruka/" %}
 
-  {% include price.html title="Private Class" subtitle="45-75min in studio or online" amount="from $70" url="/contact" %}
+  {% include price.html title="Private Class" subtitle="45-90min in studio or online" amount="from $88" url="/contact" %}
 </section>
 
 <div class="Longform Longform--blogpost" markdown="1">
