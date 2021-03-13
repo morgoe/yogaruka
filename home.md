@@ -4,8 +4,11 @@ body-id: home
 site-nav: home
 cover-image: home
 permalink: /
-h1: This is your new chance to build a healthy body.
-subtitle: Discover how YogaRuka is helping people in Sydney get on top of their physical and mental health, and build healthy habits. Our classes are available both online and in-person!
+h1: This is your chance to build a healthy body.
+subtitle: >-
+  YogaRuka is helping people in Sydney get on top of their physical and mental
+  health, and build healthy habits. Our classes are available both in studio and
+  online!
 published: true
 ---
 
@@ -18,69 +21,14 @@ published: true
 <section>
   <h2>Who is YogaRuka for?</h2>
 
-  {% include carousel.html tile1_image="/assets/images/home/who-yogi.jpg" tile1_title="Experienced Yogis" tile1_caption="Are you bored with the same-old classes you’ve done before?" tile2_image="/assets/images/home/who-gym.jpg" tile2_title="Gym-goers and Sports-players" tile2_caption="Are you struggling to keep fit now that your healthy habits are illegal?" tile3_image="/assets/images/home/who-newbie.jpg" tile3_title="Total Newbies" tile3_caption="Have you tried to get into yoga before but it never really “stuck”?" %}
+  {% include carousel.html tile1_image="/assets/images/home/who-yogi.jpg" tile1_title="Experienced Yogis" tile1_caption="Are you bored with the same-old classes you’ve done before?" tile2_image="/assets/images/home/who-gym.jpg" tile2_title="Gym-goers and Sports-players" tile2_caption="Have you ever injured yourself doing repetitive exercises at a gym or while playing your favourite sport?" tile3_image="/assets/images/home/who-newbie.jpg" tile3_title="Total Newbies" tile3_caption="Have you tried to get into yoga before but it never really “stuck”?" %}
 </section>
 
-<section class="container container--sm">
-  <h2 class="u-text-center">Your YogaRuka experience includes</h2>
+<section class="container container--sm u-text-center">
+  <h2 class="u-text-center">What can we offer you?</h2>
 
-  <div class="container container--xs">
-    <div class="media media--sm">
-      <div class="media-header">
-        <div class="media-image">
-          <img src="/assets/icons/check-circle.svg">
-        </div>
-      </div>
-      <div class="media-body">
-        <h5 class="media-title">Unlimited Live Classes</h5>
-        <div>
-          <p>With 20 classes a week, there’s something for everyone</p>
-        </div>
-      </div>
-    </div>
-
-    <div class="media media--sm">
-      <div class="media-header">
-        <div class="media-image">
-          <img src="/assets/icons/check-circle.svg">
-        </div>
-      </div>
-      <div class="media-body">
-        <h5 class="media-title">Private Facebook Group</h5>
-        <div>
-          <p>Be part of the YogaRuka community (memes included!)</p>
-        </div>
-      </div>
-    </div>
-
-    <div class="media media--sm">
-      <div class="media-header">
-        <div class="media-image">
-          <img src="/assets/icons/check-circle.svg">
-        </div>
-      </div>
-      <div class="media-body">
-        <h5 class="media-title">On-Demand Classes</h5>
-        <div>
-          <p>To watch at your leisure, with focuses on strength, flexibility, relaxation and more</p>
-        </div>
-      </div>
-    </div>
-
-    <div class="media media--sm">
-      <div class="media-header">
-        <div class="media-image">
-          <img src="/assets/icons/check-circle.svg">
-        </div>
-      </div>
-      <div class="media-body">
-        <h5 class="media-title">Family Subscription</h5>
-        <div>
-          <p>One membership lets your whole family join in!</p>
-        </div>
-      </div>
-    </div>
-  </div>
+  <p>At YogaRuka, we are committed to helping people build stronger, healthier bodies using yoga and other movement specialties. This is not your average yoga studio. Our classes include the more traditional styles of vinyasa and yin, but often with a twist. Integrating Stretch Therapy, Yoga Therapy and dynamic movement to get your body and mind into the best health possible.</p>
+  <p>We can’t wait to meet you and get moving. View our schedule to find a time that works for you!</p>
 </section>
 
 <div class="container container--sm Home-callout u-text-center">
