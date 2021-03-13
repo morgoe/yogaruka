@@ -37,15 +37,15 @@ It can only be bought once, and only if you haven't come to our studio with any 
 
 ### Drop-in Classes
 
-**$28**: welcome to book a one-off in-studio group class anytime.
+**$28**: book a one-off in-studio group class anytime.
 
 
 {% include price.html title="Drop-in Group Class" amount="$28" url="https://www.momoyoga.com/yogaruka/" %}
 
 
-**$18**: welcome to book a one-off online group class choosing amongst the ones on the schedule that have the "ONLINE" tag.
+**$18**: book a one-off online group class choosing amongst the ones on the schedule that have the "ONLINE" tag.
 
-Anyone present in the house (same IP address) can take these classes, so please feel free to invite the whole family to join in!
+Anyone present in your house (same IP address) can take these classes, so please feel free to invite the whole family to join in!
 
 
 {% include price.html title="Drop-in ONLINE Class" amount="$18" url="https://www.momoyoga.com/yogaruka/" %}
@@ -54,7 +54,7 @@ Anyone present in the house (same IP address) can take these classes, so please 
 
 ### Private Sessions 
 
-Private sessions can go from 45 to 90 minutes in length. Your first private session will include a **free 15-minute anatomical assessment** to cater for your very specific needs, so allow for slightly more time than you booked.
+Private sessions can go from 45 to 90 minutes in length. Your first private session will include a **free 15-minute anatomical assessment** to cater to your specific needs, so allow for slightly more time than you booked.
 
 {% include price.html title="Private ONLINE Class" subtitle="60-90min" amount="from $88" url="/contact" %}
  
@@ -90,9 +90,6 @@ Private sessions can go from 45 to 90 minutes in length. Your first private sess
 Bringing extra participants to your private session will incur an extra of 20% per person to the total (e.g., $22 extra per person for the one-off, $17.6 extra per person per class within the 10-class pass.)
 
 
-### Concessions + Giving Back to the Community 
+### Concessions  
 
-Concession passes are available for people on low income at our discretion. They may offer discounts of 20%+ on the full price and can be purchased only **upon providing proof of low income** or your Centerlink card ID.
-
-We will also be offering **FREE** classes for highly disadvantaged social groups. 
-Please [contact us](/contact/) and let's talk.
+Concession passes are available for those in need of them, at the discretion of the studio. If this applies to you, please [contact us](/contact/) to learn more. 
