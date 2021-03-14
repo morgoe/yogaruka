@@ -4,7 +4,7 @@ site-nav: timetable
 cover-image: timetable
 permalink: /timetable/
 published: true
-
+title: Timetable and Group Classes
 h1: Timetable and Classes
 subtitle: A wide variety of movement disciplines integrated under one roof—everything your body needs to feel good.
 ---

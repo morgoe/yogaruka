@@ -1,5 +1,6 @@
 ---
 layout: default
+site-nav: services
 cover-image: additionalServices
 permalink: /services/
 published: true
@@ -12,26 +13,26 @@ h1: Services
     <ul>
       <li>
         <a class="link" href="/timetable">
-          <span>←</span>
+          <span>→</span>
           <div>Group Classes</div>
         </a>
       </li>
       <li>
-        <a class="link" href="#private-sessions">
-          <span>↓</span>
-          <div>Private Sessions</div>
+        <a class="link" href="/private-classes">
+          <span>→</span>
+          <div>Private Classes</div>
         </a>
       </li>
       <li>
-        <a class="link" href="#kids-yoga">
-          <span>↓</span>
+        <a class="link" href="/corporate-classes">
+          <span>→</span>
+          <div>Corporate Classes</div>
+        </a>
+      </li>
+      <li>
+        <a class="link" href="/kids-yoga">
+          <span>→</span>
           <div>Kids Yoga</div>
-        </a>
-      </li>
-      <li>
-        <a class="link" href="#corporate-yoga">
-          <span>↓</span>
-          <div>Corporate Yoga</div>
         </a>
       </li>
     </ul>

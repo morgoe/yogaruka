@@ -3,7 +3,7 @@ layout: default
 site-nav: about
 cover-image: about
 permalink: /about/
-title: YogaRuka Studio and Teachers
+title: Studio and Teachers
 h1: Studio and Teachers
 subtitle: >-
   Our studio is committed to helping people move and feel better. Whether in
