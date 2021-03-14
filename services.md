@@ -1,10 +1,10 @@
 ---
 layout: default
 cover-image: additionalServices
-permalink: /additional-services/
+permalink: /services/
 published: true
-
-h1: Additional Services
+title: Services
+h1: Services
 ---
 
 <div class="container container--sm">
@@ -13,24 +13,36 @@ h1: Additional Services
       <li>
         <a class="link" href="/timetable">
           <span>←</span>
-          <div>Timetable and Classes</div>
+          <div>Group Classes</div>
+        </a>
+      </li>
+    <li>
+      <a class="link" href="/mentorship">
+        <span>→</span>
+        <div>Yoga Teacher Mentorship Program</div>
+      </a>
+    </li>
+      <li>
+        <a class="link" href="/timetable">
+          <span>←</span>
+          <div>Group Classes</div>
         </a>
       </li>
       <li>
         <a class="link" href="#private-sessions">
-          <span>↘</span>
+          <span>↓</span>
           <div>Private Sessions</div>
         </a>
       </li>
       <li>
         <a class="link" href="#kids-yoga">
-          <span>↘</span>
+          <span>↓</span>
           <div>Kids Yoga</div>
         </a>
       </li>
       <li>
         <a class="link" href="#corporate-yoga">
-          <span>↘</span>
+          <span>↓</span>
           <div>Corporate Yoga</div>
         </a>
       </li>
