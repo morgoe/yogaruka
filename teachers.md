@@ -6,7 +6,7 @@ permalink: /teachers/
 h1: Our Teachers
 subtitle: >-
   A wide variety of movement teachers under one roof—everything your body needs to feel good.
-published: true
+published: false
 ---
 
 <div class="Longform" markdown="1">

@@ -3,6 +3,7 @@ layout: page
 site-nav: retreats
 title:  "Thank You!"
 permalink: /retreats/thank-you/
+published: false
 ---
 
 <p class="center u-text-center">Thanks for purchasing the deposit for our retreat! An email confirmation has been sent, and we'll be in touch personally soon.</p>
