@@ -31,9 +31,9 @@ subtitle: A wide variety of movement disciplines integrated under one roof—eve
       </a>
     </li>
     <li>
-      <a class="link" href="/additional-services">
+      <a class="link" href="/services">
         <span>→</span>
-        <div>Additional Services</div>
+        <div>Services</div>
       </a>
     </li>
   </ul>
