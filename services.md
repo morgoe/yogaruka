@@ -16,18 +16,6 @@ h1: Services
           <div>Group Classes</div>
         </a>
       </li>
-    <li>
-      <a class="link" href="/mentorship">
-        <span>→</span>
-        <div>Yoga Teacher Mentorship Program</div>
-      </a>
-    </li>
-      <li>
-        <a class="link" href="/timetable">
-          <span>←</span>
-          <div>Group Classes</div>
-        </a>
-      </li>
       <li>
         <a class="link" href="#private-sessions">
           <span>↓</span>
