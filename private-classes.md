@@ -8,11 +8,36 @@ h1: Private Classes
 ---
 
 <section markdown="1" class="Longform Longform--blogpost">
-Private yoga fusion tuition, Stretch Therapy, Yoga Therapy, and/or breathing techniques (Pranayama) adjusted to your very specific needs, via a full anatomical assessment. By far the best way to begin a regular, personalised, physical practice, and to gradually bring your body and mind to a state of balance and wellbeing. It can be held at the YogaRuka studio, at the student’s domicile, or via Skype.
+At YogaRuka, we recommend starting your personal practice with a private class.
 
-At request it can include a longer or shorter relaxation, or none at all. Sensitive to trauma, we can do hands-on adjustments or just verbal cueing. We can discuss the best diet to integrate with your training. We also impart private classes on meditation techniques, kids’ yoga private classes, yoga for the disabled, and more. Please [be in touch](/contact) with any questions.
+Private classes are a great way to work on your yoga practice and improve your overall health and mobility. They complement any regular asana or mobility practice. They are also a place for beginner’s or those working with one or many health problems.
+</section>
 
-Facilitated by our teachers in function of their area of expertise, these classes can also be given in other languages than English (at the moment - Spanish, Italian and French).
+<section class="container container--sm">
+{% include components/testimonial.html name="Craig Tucker-Saunders" text="I have not done yoga for about 7 years and hence my balance and flexibility leave a lot to be desired. They are very patient, the poses were a combination of easy and a little more advanced but a great class." image="/assets/images/home/testimonial-craig.jpg" %}
+</section>
+
+<section markdown="1" class="Longform Longform--blogpost">
+You and your teacher will discuss the regularity of your private classes, as well as how often you might like to come to group classes.
+
+Each class is tailored to your specific needs so that when you go into a group class you know exactly what to do based on your body and unique needs.
+
+All private classes begin with a full anatomical assessment. Private classes may include any of the following practices or modalities:
+
+- Hatha/Vinyasa
+- Stretch Therapy
+- Yoga Therapy
+- Breathing techniques (Pranayama)
+- Mindfulness and Meditation
+- Relaxation
+
+Private sessions can be held at YogaRuka (during times when group classes are not in session) or on Zoom.
+
+Before each private class you will be able to discuss with your teacher the format for you class, any injuries you are working with, whether or not you would like hands on assists or prefer verbal cueing. There is also the option to discuss the best diet for your constitution and current state of health.
+
+We are also able to do private classes for kids and people living with disabilities.
+
+Facilitated by our teachers in their area of expertise, these classes can also be given in languages other than English (at the moment - Italian and French).
 
 <a class="button" href="/contact">Contact us to Book</a>
 </section>
