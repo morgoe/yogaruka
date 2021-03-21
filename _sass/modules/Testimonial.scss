@@ -13,9 +13,9 @@
   }
 }
 .Testimonial-owner {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  @include flexbox();
+  @include align-items(center);
+  @include justify-content(center);
   margin-top: 1rem;
   .media-image {
     width: 3rem;

@@ -1,6 +1,6 @@
 ---
 layout: default
-cover-image: additionalServices
+cover-image: corporate
 permalink: /corporate-classes/
 published: true
 title: Corporate Stretch and Yoga Classes
@@ -24,4 +24,6 @@ Single Class Pack:
 - 10-class pack for larger teams (9+ people): $2490 ($249/class)
 
 Facilitated by any of our teachers, in function of the required class typology. For very large teams (20+ people) please request a quote, since two teachers might need to be dispatched.
+
+<a class="button" href="/contact">Contact us to Book</a>
 </section>

@@ -1,6 +1,6 @@
 ---
 layout: default
-cover-image: additionalServices
+cover-image: privates
 permalink: /private-classes/
 published: true
 title: Private Classes
@@ -13,4 +13,6 @@ Private yoga fusion tuition, Stretch Therapy, Yoga Therapy, and/or breathing tec
 At request it can include a longer or shorter relaxation, or none at all. Sensitive to trauma, we can do hands-on adjustments or just verbal cueing. We can discuss the best diet to integrate with your training. We also impart private classes on meditation techniques, kids’ yoga private classes, yoga for the disabled, and more. Please [be in touch](/contact) with any questions.
 
 Facilitated by our teachers in function of their area of expertise, these classes can also be given in other languages than English (at the moment - Spanish, Italian and French).
+
+<a class="button" href="/contact">Contact us to Book</a>
 </section>

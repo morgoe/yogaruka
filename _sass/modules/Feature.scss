@@ -1,0 +1,7 @@
+.Feature {
+  @include flexbox();
+  @include flex-wrap(wrap);
+  @include align-items(center);
+  border: 1px solid $border-light;
+  padding: 8px;
+}

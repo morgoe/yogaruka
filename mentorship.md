@@ -1,13 +1,13 @@
 ---
 layout: default
-cover-image: additionalServices
+cover-image: services
 permalink: /mentorship/
 title: Yoga Teacher Mentorship Program
 h1: Yoga Teacher Mentorship Program
 subtitle: >-
   We can’t wait to meet you. If you have any questions, feel free to use the
   form below, call us or just drop by.
-published: true
+published: false
 ---
 
 <section markdown="1" class="Longform Longform--blogpost">
