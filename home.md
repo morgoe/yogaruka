@@ -43,7 +43,7 @@ published: true
 
 <section class="Longform Longform--blogpost">
   <div class="form-feedback info">
-    Stuck? Read our <a href="/guide/">step-by-step guide</a> to booking your first class.
+    Confused? Read our step-by-step guides to booking your first <a href="/guide/">in-person</a> or <a href="/online-guide/">online</a> class.
   </div>
 
   <div class="momoyoga-schedule m-top--md" data-momo-schedule="https://www.momoyoga.com/yogaruka"></div>
