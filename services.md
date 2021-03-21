@@ -7,8 +7,7 @@ published: true
 title: Services
 h1: Services
 ---
-
-<div class="container container--sm">
+<!-- <div class="container container--sm">
   <div class="JumpLinks">
     <ul>
       <li>
@@ -37,7 +36,7 @@ h1: Services
       </li>
     </ul>
   </div>
-</div>
+</div>-->
 
 <section markdown="1" class="Longform Longform--blogpost">
 ## Private Sessions
@@ -47,7 +46,13 @@ Private yoga fusion tuition, Stretch Therapy, Yoga Therapy, and/or breathing tec
 At request it can include a longer or shorter relaxation, or none at all. Sensitive to trauma, we can do hands-on adjustments or just verbal cueing. We can discuss the best diet to integrate with your training. We also impart private classes on meditation techniques, kids’ yoga private classes, yoga for the disabled, and more. Please [be in touch](/contact) with any questions.
 
 Facilitated by our teachers in function of their area of expertise, these classes can also be given in other languages than English (at the moment - Spanish, Italian and French).
+</section>
 
+<section class="container container--sm">
+{% include components/testimonial.html name="Craig Tucker-Saunders" text="I have not done yoga for about 7 years and hence my balance and flexibility leave a lot to be desired. They are very patient, the poses were a combination of easy and a little more advanced but a great class." image="/assets/images/home/testimonial-craig.jpg" %}
+</section>
+
+<section markdown="1" class="Longform Longform--blogpost">
 ## Kids Yoga
 
 Yoga for children in a non-competitive and supportive environment. It will help noticeably improve focus and concentration, self-esteem, reading retention, and motor skills of kids of any age. Using engaging games and activities, kids and adolescents can expect to have a blast while learning individual and partnered postures, breathing and relaxation techniques, and meditation.
@@ -55,7 +60,9 @@ Yoga for children in a non-competitive and supportive environment. It will help 
 Class themes will center around specific needs for every age group (5-8, tweens, teens).
 
 You can also book private classes for your child, or for a small group of special needs children - please [contact us](/contact) to enquire.
+</section>
 
+<section markdown="1" class="Longform Longform--blogpost">
 ## Corporate Yoga
 
 The bottom line of yoga is thorough mind-body balance, thus yoga at your office is guaranteed to increase creativity and productivity, decrease stress levels, reduce absenteeism, improve health and wellbeing, help employees that work long hours maintain focus and high performance levels.
@@ -74,6 +81,4 @@ Single Class Pack:
 - 10-class pack for larger teams (9+ people): $2490 ($249/class)
 
 Facilitated by any of our teachers, in function of the required class typology. For very large teams (20+ people) please request a quote, since two teachers might need to be dispatched.
-
-
 </section>

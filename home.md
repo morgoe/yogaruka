@@ -24,6 +24,10 @@ published: true
   {% include carousel.html tile1_image="/assets/images/home/who-yogi.jpg" tile1_title="Experienced Yogis" tile1_caption="Are you bored with the same-old classes you’ve done before?" tile2_image="/assets/images/home/who-gym.jpg" tile2_title="Gym-goers and Sports-players" tile2_caption="Have you ever injured yourself doing repetitive exercises at a gym or while playing your favourite sport?" tile3_image="/assets/images/home/who-newbie.jpg" tile3_title="Total Newbies" tile3_caption="Have you tried to get into yoga before but it never really “stuck”?" %}
 </section>
 
+<section>
+  {% include components/testimonial.html name="Tania Ballistreri" text="I highly recommend YogaRuka. There’s a selection of classes to suit all needs in a calm and beautiful environment. I always feel invigorated, open and calm after each session. The team are lovely and helpful." image="/assets/images/home/testimonial-tania.jpg" %}
+</section>
+
 <section class="container container--sm u-text-center">
   <h2 class="u-text-center">What can we offer you?</h2>
 
@@ -37,49 +41,9 @@ published: true
   <p>You’ll discover a new relationship with your body, one where moving feels natural, independent, and fun. You’ll be part of a supportive community. And of course, you’ll be fitter, healthier and happier too!</p>
 </div>
 
-<section class="container container--xs">
-  <h2 class="u-text-center">Testimonials</h2>
-
-  <div class="media media--md">
-    <div class="media-header">
-      {% include components/media/image.html image="/assets/images/home/testimonial-tania.jpg" %}
-    </div>
-    <div class="media-body">
-      <h5 class="media-title">Tania Ballistreri</h5>
-      <div>
-        <p>I highly recommend YogaRuka. There’s a selection of classes to suit all needs in a calm and beautiful environment. I always feel invigorated, open and calm after each session. The team are lovely and helpful.</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="media media--md">
-    <div class="media-header">
-      {% include components/media/image.html image="/assets/images/home/testimonial-tina.jpg" %}
-    </div>
-    <div class="media-body">
-      <h5 class="media-title">Tina Goodman</h5>
-      <div>
-        <p>Gentle yet challenging classes. I always leave feeling stronger and more relaxed. The small class sizes really help with meditation during practice.</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="media media--md">
-    <div class="media-header">
-      {% include components/media/image.html image="/assets/images/home/testimonial-craig.jpg" %}
-    </div>
-    <div class="media-body">
-      <h5 class="media-title">Craig Tucker-Saunders</h5>
-      <div>
-        <p>I have not done yoga for about 7 years and hence my balance and flexibility leave a lot to be desired. They are very patient, the poses were a combination of easy and a little more advanced but a great class.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
 <section class="Longform Longform--blogpost">
   <div class="form-feedback info">
-    Stuck? Read our <a href="/online-guide/">step-by-step guide</a> to booking your first online class.
+    Stuck? Read our <a href="/guide/">step-by-step guide</a> to booking your first class.
   </div>
 
   <div class="momoyoga-schedule m-top--md" data-momo-schedule="https://www.momoyoga.com/yogaruka"></div>

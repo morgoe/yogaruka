@@ -9,40 +9,12 @@ h1: Timetable and Classes
 subtitle: A wide variety of movement disciplines integrated under one roof—everything your body needs to feel good.
 ---
 
-<div class="JumpLinks">
-  <h5>Jump to</h5>
-  <ul>
-    <li>
-      <a class="link" href="#featured">
-        <span>↓</span>
-        <div>Featured Classes</div>
-      </a>
-    </li>
-    <li>
-      <a class="link" href="#timetable">
-        <span>↓</span>
-        <div>Timetable</div>
-      </a>
-    </li>
-    <li>
-      <a class="link" href="/teachers">
-        <span>→</span>
-        <div>Teachers</div>
-      </a>
-    </li>
-    <li>
-      <a class="link" href="/services">
-        <span>→</span>
-        <div>Services</div>
-      </a>
-    </li>
-  </ul>
-</div>
-
 <section id="featured">
-	<h2>Featured Classes</h2>
+	{% include carousel.html tile1_image="/assets/images/classes/yin-st.jpg" tile1_title="Yin Stretch Therapy™" tile1_video="370278281" tile2_image="/assets/images/classes/mobility.jpg" tile2_title="Dynamic Strength" tile2_video="377763862" tile3_image="/assets/images/classes/slow-flow.JPG" tile3_video="370262120" tile3_title="Slow Fusion Flow" %}
+</section>
 
-	{% include carousel.html tile1_image="/assets/images/classes/yin-st.jpg" tile1_title="YR Yin Stretch Therapy™" tile1_caption="Tuesdays 7:15pm with Rua" tile1_video="370278281" tile2_image="/assets/images/classes/mobility.jpg" tile2_title="YR Foundations of Mobility" tile2_caption="Saturdays 10am with Morgan." tile2_video="377763862" tile3_image="/assets/images/classes/slow-flow.JPG" tile3_video="370262120" tile3_title="YR Slow Fusion Flow" tile3_caption="Sundays 9:30am with Karen" %}
+<section>
+  {% include components/testimonial.html name="Tina Goodman" text="Gentle yet challenging classes. I always leave feeling stronger and more relaxed. The small class sizes really help with meditation during practice." image="/assets/images/home/testimonial-tina.jpg" %}
 </section>
 
 <section class="Longform" id="timetable">
