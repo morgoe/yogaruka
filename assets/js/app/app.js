@@ -3,6 +3,7 @@ $(document).ready(function() {
   initExternalLinks();
   initCarousels();
   initModals();
+  initExitModal();
   initAccordions();
   initConversionTracking();
   expandSVGs();

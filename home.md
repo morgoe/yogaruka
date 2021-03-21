@@ -12,12 +12,6 @@ subtitle: >-
 published: true
 ---
 
-<div class="JumpLinks">
-  <h5>Subscribe to our newsletter</h5>
-
-  {% include newsletter-form.html %}
-</div>
-
 <section>
   <h2>Who is YogaRuka for?</h2>
 

@@ -1,0 +1,60 @@
+#ddexitpopwrapper { /* dynamically generated wrapper DIV that surrounds exit pop content DIV */
+  @include flexbox();
+  @include align-items(center);
+  @include justify-content(center);
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+#ddexitpopwrapper .veil{ /* dynamically generated "overlay" DIV that covers entire window when pop up is shown */
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  background-color: rgba(0,0,0,.7);
+  content: "";
+  z-index: 1;
+  display: none;
+  cursor: default;
+}
+
+.ddexitpop { /* user defined exit popup DIV style */
+  background: white;
+  width: 100%;
+  max-width: 640px;
+  z-index: 2;
+  position: relative;
+  visibility: hidden;
+}
+
+#ddexitpopwrapper.open{
+  pointer-events: auto;
+}
+
+#ddexitpopwrapper.open .veil{ /* style of veil when exit pop is open */
+  display: block;
+}
+
+#ddexitpopwrapper.open div.closeexitpop{
+  display: block;
+}
+
+#ddexitpopwrapper.open .ddexitpop{ /* style of exit pop content DIV when exit pop is open */
+  visibility: visible;
+}
+
+/* #### CSS that's applied when the viewing area's height is 765px or less #### */
+
+@media screen and (max-height: 765px){
+  .ddexitpop{
+    top: 0; /* don't shift exit pop up upwards 100px on screens that aren't very tall */
+  }
+}
+
+
