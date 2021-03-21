@@ -24,5 +24,5 @@ published: true
 </section>
 
 <div class="Longform Longform--blogpost" markdown="1">
-{% include content/yoga/prices.md %}
+{% include content/prices.md %}
 </div>
