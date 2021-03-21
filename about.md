@@ -6,42 +6,17 @@ permalink: /about/
 title: Studio and Teachers
 h1: Studio and Teachers
 subtitle: >-
-  Our studio is committed to helping people move and feel better. Whether in
+  Our studio is committed to helping people move and feel better, whether in
   your athletic pursuits or your daily life.
 published: true
 ---
 
-<div class="JumpLinks">
-  <h5>Jump to</h5>
-  <ul>
-    <li>
-      <a class="link" href="#studio">
-        <span>↓</span>
-        <div>About the Studio</div>
-      </a>
-    </li>
-    <li>
-      <a class="link" href="/services">
-        <span>→</span>
-        <div>Services</div>
-      </a>
-    </li>
-    <li>
-      <a class="link" href="/teachers">
-        <span>→</span>
-        <div>Your Teachers</div>
-      </a>
-    </li>
-  </ul>
-</div>
-
 <section id="studio">
-	<h2>The Studio</h2>
-
 	{% include carousel.html tile1_image="/assets/images/about/outside.jpg" tile1_caption="Sydney’s first sustainable yoga studio, located in an old church." tile2_image="/assets/images/about/inside.jpg"  tile2_caption="Our sanctuary is the first studio to date in Australia to be fully ecological." tile3_image="/assets/images/about/props.jpg" tile3_caption="YogaRuka is meant to be as much your practice space as it is ours." %}
 </section>
 
-<section markdown="1" class="Longform Longform--blogpost">
+<section>
+<div class="Longform Longform--blogpost" markdown="1">
 The YogaRuka studio, located in Russell Lea-Drummoyne, brings together many different styles of movement to help you feel great in your body.
 
 Our approach to teaching is unique: we combine various yoga lineages with aspects of [Stretch Therapy™](https://stretchtherapy.net/), a <strong>focused movement</strong> framework, <strong>functional training</strong>, <strong>Pilates</strong>, Yoga Therapy and other contemporary methods of mobility. 
@@ -54,4 +29,11 @@ Our sanctuary is the first studio in Australia to be <strong>fully sustainable</
 Our space is unique in that it is the first Australian yoga studio in a restored church. The building dates back to 1942 and is an architectural treasure, providing plenty of space and beautiful light to enhance any practice.
 
 YogaRuka is a community focused studio. We want you to feel at home in our space and to make it yours. Anyone is welcome who wants to share their interest in healthy and conscious movement, and living.
+</div>
 </section>
+
+<section markdown="1" class="Longform">
+{% include content/teachers.html %}
+</section>
+
+{% include content/videos.html %}
