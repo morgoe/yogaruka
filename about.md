@@ -35,5 +35,3 @@ YogaRuka is a community focused studio. We want you to feel at home in our space
 <section markdown="1" class="Longform">
 {% include content/teachers.html %}
 </section>
-
-{% include content/videos.html %}
