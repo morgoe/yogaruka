@@ -7,6 +7,9 @@ function initExitModal() {
     onddexitpop: function($popup){
       console.log('Exit Pop Animation Class Name: ' + ddexitpop.settings.fxclass)
     }
-
   })
+
+  $('.js-closeddexitpop').click(function() {
+    ddexitpop.hidepopup()
+  });
 }
