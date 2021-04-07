@@ -6,11 +6,13 @@ permalink: /timetable/
 published: true
 title: Timetable and Group Classes
 h1: Timetable and Classes
-subtitle: A wide variety of movement disciplines integrated under one roof—everything your body needs to feel good.
+subtitle: >-
+  A wide variety of movement disciplines integrated under one roof—everything
+  your body needs to feel good.
 ---
 
 <section id="featured">
-	{% include carousel.html tile1_image="/assets/images/classes/yin-st.jpg" tile1_title="Yin Stretch Therapy™" tile1_video="370278281" tile2_image="/assets/images/classes/mobility.jpg" tile2_title="Dynamic Strength" tile2_video="377763862" tile3_image="/assets/images/classes/slow-flow.JPG" tile3_video="370262120" tile3_title="Slow Fusion Flow" %}
+	{% include carousel.html tile1_image="/assets/images/classes/yin-st.jpg" tile1_title="Stretch Therapy" tile1_video="370278281" tile2_image="/assets/images/classes/mobility.jpg" tile2_title="Dynamic Strength" tile2_video="377763862" tile3_image="/assets/images/classes/slow-flow.JPG" tile3_video="370262120" tile3_title="Slow Fusion Flow" %}
 </section>
 
 <section>
