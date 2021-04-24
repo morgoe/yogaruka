@@ -58,7 +58,7 @@ Private sessions can go from 45 to 90 minutes in length. Your first private sess
 
 {% include price.html title="Private ONLINE Class" subtitle="60-90min" amount="from $88" url="/contact" %}
  
-10-session passes offer a 20% discount on the full price and are valid over 13 consecutive weeks/3 months/ from purchase. 
+10-session passes offer you the first class for free and are valid over 13 consecutive weeks/3 months/ from purchase. 
 
 <div class="card m-top--md">
 	<table class="table"> 
@@ -73,15 +73,15 @@ Private sessions can go from 45 to 90 minutes in length. Your first private sess
 		</thead>
 		<tbody>
 			<tr>
-				<td>45/60-Minute</td>
+				<td>45-60 Minutes</td>
 				<td>$110</td>
-				<td>$880 ($88 per session)</td>
+				<td>$990 ($99 per session)</td>
 	
 			</tr>
 			<tr>
-				<td>75/90-Minute</td>
-				<td>$135</td>
-				<td>$1080 ($108 per session)</td>
+				<td>75-90 Minutes</td>
+				<td>$140</td>
+				<td>$1260 ($126 per session)</td>
 			</tr>
 		</tbody>
 	</table>
@@ -92,4 +92,4 @@ Bringing extra participants to your private session will incur an extra of 20% p
 
 ### Concessions  
 
-Concession passes are available for those in need of them, at the discretion of the studio. If this applies to you, please [contact us](/contact/) to learn more. 
+Concession passes are available for those in need of them, at the discretion of the studio. If this applies to you, please [contact us](/contact/) to learn more.
