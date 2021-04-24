@@ -20,7 +20,7 @@ published: true
   
   {% include price.html title="Unlimited Membership ONLINE ONLY" amount="$25/wk" url="https://www.momoyoga.com/yogaruka/" %}
 
-  {% include price.html title="Private Class" subtitle="45-90min in studio or online" amount="from $88" url="/contact" %}
+  {% include price.html title="Private Class" subtitle="45-90min in studio or online" amount="from $95" url="/contact" %}
 </section>
 
 <div class="Longform Longform--blogpost" markdown="1">
