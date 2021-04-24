@@ -56,7 +56,7 @@ Anyone present in your house (same IP address) can take these classes, so please
 
 Private sessions can go from 45 to 90 minutes in length. Your first private session will include a **free 15-minute anatomical assessment** to cater to your specific needs, so allow for slightly more time than you booked.
 
-{% include price.html title="Private ONLINE Class" subtitle="60-90min" amount="from $88" url="/contact" %}
+{% include price.html title="Private IN PERSON or ONLINE Class" subtitle="45-90min" amount="from $95" url="/contact" %}
  
 10-session passes offer you the first class for free and are valid over 13 consecutive weeks/3 months/ from purchase. 
 
