@@ -58,7 +58,7 @@ Private sessions can go from 45 to 90 minutes in length. Your first private sess
 
 {% include price.html title="Private IN PERSON or ONLINE Class" subtitle="45-90min" amount="from $95" url="/contact" %}
  
-10-session passes offer you the first class for free and are valid over 13 consecutive weeks/3 months/ from purchase. 
+10-session passes offer you the first class for free and are valid over 20 consecutive weeks from purchase. 
 
 <div class="card m-top--md">
 	<table class="table"> 
