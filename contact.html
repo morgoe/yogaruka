@@ -12,63 +12,69 @@ published: true
 ---
 
 <div class="row">
-	<div class="col-md-7">
+  <div class="col-md-7">
     <div class="card">
-  		<p>Please fill in the form below to contact us, or email us at <a class="link" href="mailto:{{ site.email }}">{{ site.email }}</a>. All your comments and emails will be replied to <strong>within 24 hours.</strong></p>
-  		<p>Alternatively, you can call us on <a class="link" href="tel:+61297051551">(02) 9705 1551</a>.</p>
+      <p>Please fill in the form below to contact us, or email us at <a class="link" href="mailto:{{ site.email }}">{{ site.email }}</a>. All your comments and emails will be replied to <strong>within 24 hours.</strong></p>
+      <p>Alternatively, you can call us on <a class="link" href="tel:+61297051551">(02) 9705 1551</a>.</p>
 
-  		<form class="form" id="form" name="contact">
-  			<div class="form-feedback" id="form-feedback"></div>
-  			
-  			<div class="form-group">
+      <form class="form" id="form" name="contact">
+        <div class="form-feedback" id="form-feedback"></div>
+        
+        <div class="form-group">
           <label for="form-name">Name</label>
-  			  <input class="input" type="text" id="form-name" name="fname" placeholder="Jenny Yogini" required="true" data-validation="name">
-  			</div>
+          <input class="input" type="text" id="form-name" name="fname" placeholder="eg. Jenny Yogini" required="true" data-validation="name" autocomplete="name">
+        </div>
 
-  			<div class="form-group">
+        <div class="form-group">
           <label for="form-email">Email Address</label>
-  				<input class="input" type="email" id="form-email" name="email" placeholder="jenny@gmail.com" required="true"  data-validation="email address">
-  			</div>
-  			<div class="form-group">
-          <label for="form-email">How did you hear about us?</label>
-  				<select class="input" name="referredBy" id="form-referred-by" data-validation="howdyado">
-  					<option value="" disabled selected></option>
-  					<option value="Word of Mouth">Word of Mouth</option>
-  					<option value="Google Maps">Google Maps</option>
-  					<option value="Google Search">Google Search</option>
-  					<option value="Facebook">Facebook</option>
-  					<option value="Instagram">Instagram</option>
-  					<option value="Twitter">Twitter</option>
-  					<option value="Flyer">Flyer</option>
-  					<option value="Other">Other</option>
-  				</select>  
-  			</div>
-  			<div class="form-group"> 
-          <label for="form-message">Message</label>
-  				<textarea class="input" rows="3" id="form-message" name="message" required="true" data-validation="message"></textarea>
-  			</div>
-  			<div class="form-group">
-  				<label>
-  					<input type="checkbox" name="subscribeToNewsletter" id="form-subscribe" checked="checked">
-  					Subscribe to our newsletter
-  				</label>
-  			</div>
-  			<div class="form-footer">
-  				<button class="button button--primary" id="form-submit">Submit</button>
-  			</div>
-  		</form>
-    </div>
-	</div>
+          <input class="input" type="email" id="form-email" name="email" placeholder="eg. jenny@gmail.com" required="true" data-validation="email address" autocomplete="email">
+        </div>
 
-	<div class="col-md-5">
-		<p>
-			Find us at <a class="link" href="https://www.google.com/maps/place/YogaRuka/@-33.8601573,151.1397601,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12aff7b8e25631:0x237b26f4ee6dea9a!8m2!3d-33.8601618!4d151.1419488?hl=en-US" target="_blank">289 Lyons Road, Russell Lea 2046</a> close to the intersection with Lithgow Street.
-		</p>
-		<p>
-			We are a 2-minute walk from the bus stop for 436, 492, 502 and 490 and a 5-minute walk from the famous Bay Run, neighbouring Drummoyne, Five Dock and Habersfield, popular Inner West suburbs.
-		</p>
-		<p>
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3313.1376046576715!2d151.1399585983176!3d-33.860344419460425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12aff7b8c32117%3A0xd854b943c857c68a!2s289+Lyons+Rd%2C+Russell+Lea+NSW+2046!5e0!3m2!1sen!2sau!4v1494212773371" style="width:100%; height:320px;"  frameborder="0" style="border:0" allowfullscreen></iframe>
-		</p>
-	</div>
+        <div class="form-group">
+          <label for="form-email">Phone Number</label>
+          <input class="input" type="tel" id="form-phone" name="phone" placeholder="eg. 04XX XXX XXX" required="true" data-validation="phone number" autocomplete="tel">
+        </div>
+
+        <div class="form-group">
+          <label for="form-email">How did you hear about us?</label>
+          <select class="input" name="referredBy" id="form-referred-by" data-validation="howdyado">
+            <option value="" disabled selected></option>
+            <option value="Word of Mouth">Word of Mouth</option>
+            <option value="Google Maps">Google Maps</option>
+            <option value="Google Search">Google Search</option>
+            <option value="Facebook">Facebook</option>
+            <option value="Instagram">Instagram</option>
+            <option value="Twitter">Twitter</option>
+            <option value="Flyer">Flyer</option>
+            <option value="Other">Other</option>
+          </select>  
+        </div>
+        <div class="form-group"> 
+          <label for="form-message">Message</label>
+          <textarea class="input" rows="3" id="form-message" name="message" required="true" data-validation="message"></textarea>
+        </div>
+        <div class="form-group">
+          <label>
+            <input type="checkbox" name="subscribeToNewsletter" id="form-subscribe" checked="checked">
+            Subscribe to our newsletter
+          </label>
+        </div>
+        <div class="form-footer">
+          <button class="button button--primary" id="form-submit">Submit</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div class="col-md-5">
+    <p>
+      Find us at <a class="link" href="https://www.google.com/maps/place/YogaRuka/@-33.8601573,151.1397601,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12aff7b8e25631:0x237b26f4ee6dea9a!8m2!3d-33.8601618!4d151.1419488?hl=en-US" target="_blank">289 Lyons Road, Russell Lea 2046</a> close to the intersection with Lithgow Street.
+    </p>
+    <p>
+      We are a 2-minute walk from the bus stop for 436, 492, 502 and 490 and a 5-minute walk from the famous Bay Run, neighbouring Drummoyne, Five Dock and Habersfield, popular Inner West suburbs.
+    </p>
+    <p>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3313.1376046576715!2d151.1399585983176!3d-33.860344419460425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12aff7b8c32117%3A0xd854b943c857c68a!2s289+Lyons+Rd%2C+Russell+Lea+NSW+2046!5e0!3m2!1sen!2sau!4v1494212773371" style="width:100%; height:320px;"  frameborder="0" style="border:0" allowfullscreen></iframe>
+    </p>
+  </div>
 </div>
