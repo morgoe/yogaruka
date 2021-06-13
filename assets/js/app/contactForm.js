@@ -9,7 +9,7 @@ $(document).ready(function() {
     for (var i=0; i<formInputs.length; i++) {
       var _this = $(formInputs[i]);
       if (_this.attr('type') === "checkbox") {
-        xhrString += _this.attr('name') + '=' + _this.is(':checked'); 
+        xhrString += _this.attr('name') + '=subscribeToNewsletter' + _this.is(':checked'); 
       } else {
         xhrString += _this.attr('name') + '=' + _this.val(); 
       }
@@ -31,6 +31,7 @@ $(document).ready(function() {
     xhr.send(xhrString);
 
     xhr.onloadend = function (res) {
+      sendButton.text('Submit');
       if (res.target.status === 200){
         $('#form').addClass('has-feedback');
         $('#form-feedback').addClass('success').html('Thanks for contacting us!<br> We’ll be in touch within 24 hours.');
@@ -41,13 +42,8 @@ $(document).ready(function() {
       else {
         $('#form-feedback').addClass('danger');
         $('#form-feedback').html(res.target.responseText['error']);
-        sendButton.text('Submit');      
         $('#form-feedback').html('Something went wrong.<br> Please double check your details.');
       }
-
-      setTimeout(function() {
-        sendButton.text('Submit');
-      }, 2000);
     }
 	};
 
