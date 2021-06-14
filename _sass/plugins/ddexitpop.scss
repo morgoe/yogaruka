@@ -25,15 +25,10 @@
 }
 
 .ddexitpop { /* user defined exit popup DIV style */
-  background: white;
-  width: 100%;
-  max-width: 640px;
-  z-index: 2;
-  position: relative;
-  visibility: hidden;
+  display: none;
 }
 
-#ddexitpopwrapper.open{
+#ddexitpopwrapper.open {
   pointer-events: auto;
 }
 
@@ -41,20 +36,15 @@
   display: block;
 }
 
-#ddexitpopwrapper.open div.closeexitpop{
+#ddexitpopwrapper.open div.closeexitpop {
   display: block;
 }
 
-#ddexitpopwrapper.open .ddexitpop{ /* style of exit pop content DIV when exit pop is open */
-  visibility: visible;
+#ddexitpopwrapper.open .ddexitpop { /* style of exit pop content DIV when exit pop is open */
+  display: block;
+  background: white;
+  width: 100%;
+  max-width: 640px;
+  z-index: 2;
+  position: relative;
 }
-
-/* #### CSS that's applied when the viewing area's height is 765px or less #### */
-
-@media screen and (max-height: 765px){
-  .ddexitpop{
-    top: 0; /* don't shift exit pop up upwards 100px on screens that aren't very tall */
-  }
-}
-
-
