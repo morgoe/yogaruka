@@ -25,6 +25,17 @@
     }
   }
 }
+.Footer-sitemap {
+
+}
+.Footer-links {
+  flex-direction: column;
+}
 
 @media (min-width: $media-tablet) {
+  .Footer-sitemap {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+  }
 }

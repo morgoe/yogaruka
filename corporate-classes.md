@@ -3,8 +3,9 @@ layout: default
 cover-image: corporate
 permalink: /corporate-classes/
 published: true
-title: Corporate Stretch and Yoga Classes
-h1: Corporate Stretch and Yoga Classes
+title: Corporate Stretch and Yoga Classes in Sydney
+h1: Corporate Stretch and Yoga Classes in Sydney
+description: "YogaRuka offers singe and 10-class packages for your employees to enjoy yoga in the comfort and convenience of the workplace. We bring you all the props, and at request - the mats."
 ---
 
 <section markdown="1" class="Longform Longform--blogpost">
@@ -16,7 +17,6 @@ Single Class Pack:
 
 - 1 class for small teams (3-8 people): $179
 - 1 class for larger teams (9+ people): $279
-
 
 10 Class Pack:
 

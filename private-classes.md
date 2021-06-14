@@ -3,8 +3,9 @@ layout: default
 cover-image: privates
 permalink: /private-classes/
 published: true
-title: Private Classes
-h1: Private Classes
+title: Private Stretch and Yoga Classes in Russell Lea
+h1: Private Stretch and Yoga Classes in Russell Lea
+description: "Private classes are a great way to work on your yoga practice and improve your overall health and mobility. They complement any regular asana or mobility practice. They are also a place for beginner’s or those working with one or many health problems."
 ---
 
 <section markdown="1" class="Longform Longform--blogpost">
