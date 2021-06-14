@@ -1,0 +1,51 @@
+<div class="card">
+  <p>Please fill in the form below to contact us, or email us at <a class="link" href="mailto:{{ site.email }}">{{ site.email }}</a>. All your comments and emails will be replied to <strong>within 24 hours.</strong></p>
+  <p>Alternatively, you can call us on <a class="link" href="tel:+61297051551">(02) 9705 1551</a>.</p>
+
+  <form class="form" id="form" name="contact">
+    <div class="form-feedback" id="form-feedback"></div>
+    
+    <div class="form-group">
+      <label for="form-name">Name</label>
+      <input class="input" type="text" id="form-name" name="fname" placeholder="eg. Jenny Yogini" required="true" data-validation="name" autocomplete="name">
+    </div>
+
+    <div class="form-group">
+      <label for="form-email">Email Address</label>
+      <input class="input" type="email" id="form-email" name="email" placeholder="eg. jenny@gmail.com" required="true" data-validation="email address" autocomplete="email">
+    </div>
+
+    <div class="form-group">
+      <label for="form-email">Phone Number</label>
+      <input class="input" type="tel" id="form-phone" name="phone" placeholder="eg. 04XX XXX XXX" required="true" data-validation="phone number" autocomplete="tel">
+    </div>
+
+    <div class="form-group">
+      <label for="form-email">How did you hear about us?</label>
+      <select class="input" name="referredBy" id="form-referred-by" data-validation="howdyado">
+        <option value="" disabled selected></option>
+        <option value="Word of Mouth">Word of Mouth</option>
+        <option value="Google Maps">Google Maps</option>
+        <option value="Google Search">Google Search</option>
+        <option value="Facebook">Facebook</option>
+        <option value="Instagram">Instagram</option>
+        <option value="Twitter">Twitter</option>
+        <option value="Flyer">Flyer</option>
+        <option value="Other">Other</option>
+      </select>  
+    </div>
+    <div class="form-group"> 
+      <label for="form-message">Message</label>
+      <textarea class="input" rows="3" id="form-message" name="message" required="true" data-validation="message"></textarea>
+    </div>
+    <div class="form-group">
+      <label>
+        <input type="checkbox" name="subscribeToNewsletter" id="form-subscribe" checked="checked">
+        Subscribe to our newsletter
+      </label>
+    </div>
+    <div class="form-footer">
+      <button class="button button--primary" id="form-submit">Submit</button>
+    </div>
+  </form>
+</div>
