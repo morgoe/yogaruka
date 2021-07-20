@@ -32,11 +32,13 @@ Should you need to leave class early please alert the teacher and make sure you 
 All our memberships - online and in-person - are charged monthly, for the one month ahead. 
 
 Unlimited Membership Contract: 
-- You will be expected to continue payments until the end of the agreement. However, should you need to **cancel** or **downgrade** this agreement within the 3 months, please be aware there will be a $150 cancellation processing fee. Upgrading (e.g., passing from the online to the in-person unlimited) will not incur any fees but it will restart the contract period. 
+- You will be expected to continue payments until the end of the minimum contract. However, should you need to **cancel** or **downgrade** this agreement within the 3 months, please be aware there will be a $150 cancellation processing fee. Upgrading (e.g., passing from the online to the in-person unlimited) will not incur any fees but it will restart the contract period. 
 
 - If you wish to cancel, suspend or alter your UMC payment in any way you must give YogaRuka a two-week’s notice ahead via email.
 
-- Your payments will continue to draw from your account indefinitely. If you wish us to stop payments at the end of your contract you must inform us **a fortnight** before the termination date.    
+- Your payments will continue to draw from your account indefinitely. If you wish us to stop payments at the end of your contract you must inform us **a fortnight** before the termination date. 
+
+- A minimum of one full billing period (30 days) must be completed prior to the cancellation taking effect. Membership cancellations cannot be applied retroactively. 
 
 
 ### Class Passes
