@@ -34,7 +34,7 @@ All our memberships - online and in-person - are charged monthly, for the one mo
 Unlimited Membership Contract: 
 - You will be expected to continue payments until the end of the minimum contract. However, should you need to **cancel** or **downgrade** this agreement within the 3 months, please be aware there will be a $150 cancellation processing fee. Upgrading (e.g., passing from the online to the in-person unlimited) will not incur any fees but it will restart the contract period. 
 
-- If you wish to cancel, suspend or alter your UMC payment in any way you must give YogaRuka a two-week’s notice via email.
+- If you wish to cancel, suspend or alter your UMC payment in any way you must give YogaRuka a two weeks' notice via email.
 
 - Your payments will continue to draw from your account indefinitely. If you wish us to stop payments at the end of your contract you must inform us **a fortnight** before the termination date. 
 
