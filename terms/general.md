@@ -5,7 +5,7 @@ title: Terms and Conditions
 permalink: /terms-and-conditions/
 published: true
 ---
-YogaRuka provides group and private mixed movement sessions (fusions of yoga, mobility, calisthenics, Stretch Therapy™, contemporary Pilates, etc) taught by some of the most highly trained independent teachers in Sydney that have come together under the umbrella of this gorgeous, ecological, holistic fitness space. 
+YogaRuka provides group and private mixed movement sessions (fusions of yoga, mobility, calisthenics, Stretch Therapy™, contemporary Pilates, etc) taught by some of the most highly trained teachers in Sydney that have come together under the umbrella of this gorgeous, ecological, holistic fitness space. 
 
 
 ### Changes
@@ -34,7 +34,7 @@ All our memberships - online and in-person - are charged monthly, for the one mo
 Unlimited Membership Contract: 
 - You will be expected to continue payments until the end of the minimum contract. However, should you need to **cancel** or **downgrade** this agreement within the 3 months, please be aware there will be a $150 cancellation processing fee. Upgrading (e.g., passing from the online to the in-person unlimited) will not incur any fees but it will restart the contract period. 
 
-- If you wish to cancel, suspend or alter your UMC payment in any way you must give YogaRuka a two-week’s notice ahead via email.
+- If you wish to cancel, suspend or alter your UMC payment in any way you must give YogaRuka a two-week’s notice via email.
 
 - Your payments will continue to draw from your account indefinitely. If you wish us to stop payments at the end of your contract you must inform us **a fortnight** before the termination date. 
 
@@ -54,7 +54,7 @@ Discounted passes may have different conditions to the above so make sure to che
 
 ### Suspensions
 
-If you are on an Auto-Membership, you are welcome to hold or suspend your membership for holiday or business travels, or if you are unable to practice due to serious illness or injury. One week notice in writing prior to the suspension date is required. Membership suspensions cannot be applied retroactively. **Minimum suspension period for memberships is 7 days. Maximum suspension period is 21 days per 3 months membership period, for a total of 84 days per year**. Please note that we do not allow suspended memberships to be cancelled. One billing period (30 days) must be completed after suspension and prior to cancelling membership.
+If you are on an Auto-Membership, you are welcome to hold or suspend your membership for holiday or business travels, or if you are unable to practice due to serious illness or injury. A two weeks' notice in writing prior to the suspension date is required. Membership suspensions cannot be applied retroactively. **Minimum suspension period for memberships is 7 days. Maximum suspension period is 21 days per 3 months membership period, for a total of 84 days per year**. Please note that we do not allow suspended memberships to be cancelled. One billing period (30 days) must be completed after suspension and prior to cancelling membership.
 
 Class passes cannot be suspended or cancelled under any circumstance.
 
