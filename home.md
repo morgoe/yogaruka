@@ -6,9 +6,9 @@ cover-image: home
 permalink: /
 h1: This is your chance to build a healthy body.
 subtitle: >-
-  YogaRuka is helping people in Sydney get on top of their physical and mental
-  health, and build healthy habits. Our classes are available both in studio and
-  online!
+  YogaRuka in Russell Lea is helping people get on top of their physical and
+  mental health, and build healthy habits. Private and group classes available
+  in-studio and online!
 published: true
 ---
 
