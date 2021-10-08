@@ -20,35 +20,46 @@
 
 It can only be bought once, and only if you haven't come to our studio with any other previous offer.
 
+
 {% include price.html title="Unlimited Membership" subtitle="Intro Offer" amount="$62" url="https://www.momoyoga.com/yogaruka/" %}
+
+
+**$55**: it gives you access to all of our live-streamed classes for a fortnight. Take this taster to see what we're all about and figure out which sort of pass works best for you!  
+
+Anyone present in your house (same IP address) can take these classes, so please feel free to invite the whole family to join in!
+
+
+{% include price.html title="Drop-in ONLINE Class" amount="$20" url="https://www.momoyoga.com/yogaruka/" %}
 
 
 
 ### 10-Class Pass
 
-**$224**: it gives you access to **10 classes spread out over 26 weeks** however you please, in studio and online.   
+**$240**: it gives you access to **10 classes spread out over 26 weeks** however you please, in studio and online.   
 
+{% include price.html title="10-Class Pass" subtitle="10 Classes for 6 Months" amount="$240" url="https://www.momoyoga.com/yogaruka/" %}
 
-{% include price.html title="10-Class Pass" subtitle="10 Classes for 10 Weeks" amount="$224" url="https://www.momoyoga.com/yogaruka/" %}
 
 **$180**: it gives you access to **10 classes spread out over 26 weeks** however you please, online only.   
+
+{% include price.html title="10-Class ONLINE Pass" subtitle="10 Classes for 6 Months" amount="$180" url="https://www.momoyoga.com/yogaruka/" %}
 
 
 
 ### Drop-in Classes
 
-**$28**: book a one-off in-studio group class anytime.
+**$30**: book a one-off in-studio group class anytime.
 
 
-{% include price.html title="Drop-in Group Class" amount="$28" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="Drop-in Group Class" amount="$30" url="https://www.momoyoga.com/yogaruka/" %}
 
 
-**$18**: book a one-off online group class choosing amongst the ones on the schedule that have the "ONLINE" tag.
+**$20**: book a one-off online group class choosing amongst the ones on the schedule that have the "ONLINE" tag.
 
 Anyone present in your house (same IP address) can take these classes, so please feel free to invite the whole family to join in!
 
 
-{% include price.html title="Drop-in ONLINE Class" amount="$18" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="Drop-in ONLINE Class" amount="$20" url="https://www.momoyoga.com/yogaruka/" %}
 
 
 
