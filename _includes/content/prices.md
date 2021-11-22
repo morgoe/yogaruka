@@ -16,12 +16,12 @@
 
 ### Intro Offer 2 Weeks Unlimited
 
-**$62**: it gives you access to all of our classes for a fortnight. Take this taster to see what we're all about and figure out which sort of pass works best for you!  
+**$64**: it gives you access to all of our classes for a fortnight. Take this taster to see what we're all about and figure out which sort of pass works best for you!  
 
 It can only be bought once, and only if you haven't come to our studio with any other previous offer.
 
 
-{% include price.html title="Unlimited Membership" subtitle="Intro Offer" amount="$62" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="Unlimited Membership" subtitle="Intro Offer" amount="$64" url="https://www.momoyoga.com/yogaruka/" %}
 
 
 **$55**: it gives you access to all of our live-streamed classes for a fortnight. Take this taster to see what we're all about and figure out which sort of pass works best for you!  
@@ -29,7 +29,7 @@ It can only be bought once, and only if you haven't come to our studio with any 
 Anyone present in your house (same IP address) can take these classes, so please feel free to invite the whole family to join in!
 
 
-{% include price.html title="Drop-in ONLINE Class" amount="$20" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="Unlimited Online Only" subtitle="Intro Offer" amount="$55" url="https://www.momoyoga.com/yogaruka/" %}
 
 
 
