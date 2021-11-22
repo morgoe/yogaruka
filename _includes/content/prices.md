@@ -1,13 +1,13 @@
 
 ### Unlimited Membership
 
-**$35/wk (billed monthly, 3-month minimum contract)** gives you access to **unlimited classes**, in studio **and online**. Renewal is automated, so please contact us to manage any changes in your circumstances.   
+**$42/wk (no minimum contract, billed monthly at $180/mo)** gives you access to **unlimited classes**, in studio **and online**. Renewal is automated, so please contact us to manage any changes to your circumstances.   
 
 
-{% include price.html title="Unlimited Membership" subtitle="Unlimited classes weekly" amount="$35/wk" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="Unlimited Membership" subtitle="Unlimited classes weekly" amount="$42/wk" url="https://www.momoyoga.com/yogaruka/" %}
 
 
-**$25/wk (billed monthly, 3-month minimum contract)** gives you access to **unlimited classes**, online only. Renewal is automated.   
+**$25/wk (no minimum contract, billed monthly at $108/mo)** gives you access to **unlimited classes**, online only. Renewal is automated.   
 
 
 {% include price.html title="Unlimited Online Only" subtitle="Unlimited live-streamed & on demand classes weekly" amount="$25/wk" url="https://www.momoyoga.com/yogaruka/" %}
@@ -35,20 +35,20 @@ Anyone present in your house (same IP address) can take these classes, so please
 
 ### 10-Class Pass
 
-**$240**: it gives you access to **10 classes spread out over 26 weeks** however you please, in studio and online.   
+**$256**: it gives you access to **10 classes spread out over 26 weeks** however you please, in studio and online.   
 
-{% include price.html title="10-Class Pass" subtitle="10 Classes for 6 Months" amount="$240" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="10-Class Pass" subtitle="10 Classes for 6 Months" amount="$256" url="https://www.momoyoga.com/yogaruka/" %}
 
 
-**$180**: it gives you access to **10 classes spread out over 26 weeks** however you please, online only.   
+**$160**: it gives you access to **10 classes spread out over 26 weeks** however you please, online only.   
 
-{% include price.html title="10-Class ONLINE Pass" subtitle="10 Classes for 6 Months" amount="$180" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="10-Class ONLINE Pass" subtitle="10 Classes for 6 Months" amount="$160" url="https://www.momoyoga.com/yogaruka/" %}
 
 
 
 ### Drop-in Classes
 
-**$30**: book a one-off in-studio group class anytime.
+**$32**: book a one-off in-studio group class anytime.
 
 
 {% include price.html title="Drop-in Group Class" amount="$30" url="https://www.momoyoga.com/yogaruka/" %}
@@ -67,7 +67,7 @@ Anyone present in your house (same IP address) can take these classes, so please
 
 Private sessions can go from 45 to 90 minutes in length. Your first private session will include a **free 15-minute anatomical assessment** to cater to your specific needs, so allow for slightly more time than you booked.
 
-{% include price.html title="Private IN PERSON or ONLINE Class" subtitle="45-90min" amount="from $99" url="/contact" %}
+{% include price.html title="Private IN PERSON or ONLINE Class" subtitle="45-90min" amount="from $108" url="/contact" %}
  
 10-session passes offer you the first class for free and are valid over 20 consecutive weeks from purchase. 
 
@@ -85,20 +85,20 @@ Private sessions can go from 45 to 90 minutes in length. Your first private sess
 		<tbody>
 			<tr>
 				<td>45-60 Minutes</td>
-				<td>$110</td>
-				<td>$990 ($99 per session)</td>
+				<td>$135</td>
+				<td>$1080 ($108 per session)</td>
 	
 			</tr>
 			<tr>
 				<td>75-90 Minutes</td>
-				<td>$140</td>
-				<td>$1260 ($126 per session)</td>
+				<td>$160</td>
+				<td>$1280 ($128 per session)</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-Bringing extra participants to your private session will incur an extra of 20% per person to the total (e.g., $22/$28 extra per person for the one-off, $19.8/$25 extra per person per class within the 10-class pass.)
+Bringing extra participants to your private session will incur an extra of $22 per person to the total for the one-off, or $176 extra per person for the 10-class pass. 
 
 
 ### Concessions  
