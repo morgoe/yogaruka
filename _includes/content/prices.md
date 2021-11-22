@@ -51,7 +51,7 @@ Anyone present in your house (same IP address) can take these classes, so please
 **$32**: book a one-off in-studio group class anytime.
 
 
-{% include price.html title="Drop-in Group Class" amount="$30" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="Drop-in Group Class" amount="$32" url="https://www.momoyoga.com/yogaruka/" %}
 
 
 **$20**: book a one-off online group class choosing amongst the ones on the schedule that have the "ONLINE" tag.
