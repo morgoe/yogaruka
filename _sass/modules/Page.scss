@@ -2,30 +2,40 @@
 
 }
 .Page-hero {
-	position: relative;
-	background: black;
-	z-index: 1;
-	margin-top: -$header-nav-mobile-height;
+  position: relative;
+  background: black;
+  z-index: 1;
+  margin-top: -$header-nav-mobile-height;
   @extend .pagePadding;
   padding-top: $spacing-lg + $header-nav-mobile-height;
   padding-bottom: $spacing-lg;
-	h1,
-	.subtitle {
-		color: white;
-	}
+  h1,
+  .subtitle {
+    color: white;
+  }
   .subtitle {
     font-style: italic;
   }
 }
+.Page-announcement {
+  font-size: 12px;
+  font-family: $font-system;
+  font-weight: bold;
+  padding: 4px 12px;
+  background: white;
+  display: inline-block;
+  border-radius: 16px;
+  margin-bottom: $spacing-sm;
+}
 .Page-heroImage {
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	opacity: 0.5;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0.5;
   z-index: -1;
-	background-position: top center;
+  background-position: top center;
   background-size: cover;
 }
 
@@ -56,25 +66,28 @@
   @extend .pagePadding;
   padding-top: $spacing-xl;
   padding-bottom: $spacing-xl;
-	color: $text-muted;
-	font-size: $font-size-xs;
-	font-family: $font-system;
-	text-align: center;
-	a {
-		text-decoration: underline;
-	}
+  color: $text-muted;
+  font-size: $font-size-xs;
+  font-family: $font-system;
+  text-align: center;
+  a {
+    text-decoration: underline;
+  }
 }
 
 @media (min-width: $media-tablet) {
-	.Page-hero {
-		margin-top: 0;
-		padding-top: #{$spacing-xl * 2 + $header-nav-desktop-height};
-		padding-bottom: #{$spacing-xl * 2};
-	}
+  .Page-hero {
+    margin-top: 0;
+    padding-top: #{$spacing-xl * 2 + $header-nav-desktop-height};
+    padding-bottom: #{$spacing-xl * 2};
+  }
+  .Page-announcement {
+    font-size: 14px;
+  }
   .Page-content {
     padding-top: $spacing-xl;
     padding-bottom: $spacing-xl;
   }
-	.Page-footer {
-	}
+  .Page-footer {
+  }
 }

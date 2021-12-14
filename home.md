@@ -4,11 +4,8 @@ body-id: home
 site-nav: home
 cover-image: home
 permalink: /
-h1: This is your chance to build a healthy body.
-subtitle: >-
-  YogaRuka in Russell Lea is helping people get on top of their physical and
-  mental health, and build healthy habits. Private and group classes available
-  in-studio and online!
+announcement: 🎉 We’re opening a second location in Alexandria!
+h1: Yoga and functional movement in Russell Lea and Alexandria.
 published: true
 ---
 

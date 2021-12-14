@@ -1,7 +1,7 @@
 # Site settings
-title: YogaRuka — Yoga Studio
+title: Yogaruka — Yoga & movement studio in Alexandria & Russell Lea
 email: studio@yogaruka.com
-description: "YogaRuka in Russell Lea is helping people get on top of their physical and mental health, and build healthy habits. Private and group classes available in-studio and online!"
+description: "Functional movement fusion of yoga, pilates and calisthenics in Alexandria and Russell Lea. Join with two weeks of unlimited yoga for $64!"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yogaruka.com" # the base hostname & protocol for your site
 permalink: /:categories/:title

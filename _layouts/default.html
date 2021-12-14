@@ -7,6 +7,9 @@
 
         <div class="Page-hero">
             <div class="container">
+                {% if page.announcement %}
+                    <p class="Page-announcement">{{ page.announcement }}</p>
+                {% endif %}
                 <div class="container--sm">
                     <h1>{{ page.h1 }}</h1>
                     <p class="subtitle">{{ page.subtitle }}</p>
