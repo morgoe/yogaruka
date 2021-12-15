@@ -39,21 +39,19 @@
   background-size: cover;
 }
 
-.Page-videoWrapper {
+.Page-video {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
   opacity: 0.5;
   z-index: -1;
   overflow: hidden;
   pointer-events: none;
-}
-
-.Page-video {
-  background-position: top center;
-  background-size: cover;
 }
 
 .Page-content {
