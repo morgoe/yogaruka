@@ -3,9 +3,7 @@ $(document).ready(function() {
   initExternalLinks();
   initCarousels();
   initModals();
-  initExitModal();
   initAccordions();
   initConversionTracking();
   expandSVGs();
-  $(window).on('resize', resizeHomeVideo).resize();
 });
