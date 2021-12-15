@@ -1,0 +1,15 @@
+.ap3w-notification--large.ap3w-notification--large {
+  box-shadow: 0 6px 16px -4px rgba(0, 0, 0, 0.50);
+  margin: 16px;
+}
+
+@media (max-width: $media-xs) {
+  .ap3w-notification--large.ap3w-notification--large {
+    width: 100vw !important;
+    margin: 0;
+    box-shadow: 0 0px 8px 0px rgba(0, 0, 0, 0.25);
+    .ap3w-image {
+      display: none;
+    }
+  }
+}
