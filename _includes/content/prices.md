@@ -1,65 +1,65 @@
 
 ### Unlimited Membership
 
-**$42/wk (no minimum contract, billed monthly at $180/mo)** gives you access to **unlimited classes**, in studio **and online**. Renewal is automated, so please contact us to manage any changes to your circumstances.   
+**{{ site.pricing.membership }} (no minimum contract, billed monthly at {{ site.pricing.membershipMonthly }})** gives you access to **unlimited classes**, in studio **and online**. Renewal is automated, so please contact us to manage any changes to your circumstances.   
 
 
-{% include price.html title="Unlimited Membership" subtitle="Unlimited classes weekly" amount="$42/wk" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="Unlimited Membership" subtitle="Unlimited classes weekly" amount=site.pricing.membership url="https://www.momoyoga.com/yogaruka/" %}
 
 
-**$25/wk (no minimum contract, billed monthly at $108/mo)** gives you access to **unlimited classes**, online only. Renewal is automated.   
+**{{ site.pricing.membershipOnline }} (no minimum contract, billed monthly at {{ site.pricing.membershipOnlineMonthly }})** gives you access to **unlimited classes**, online only. Renewal is automated.   
 
 
-{% include price.html title="Unlimited Online Only" subtitle="Unlimited live-streamed & on demand classes weekly" amount="$25/wk" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="Unlimited Online Only" subtitle="Unlimited live-streamed & on demand classes weekly" amount=site.pricing.membershipOnline url="https://www.momoyoga.com/yogaruka/" %}
 
 
 
 ### Intro Offer 2 Weeks Unlimited
 
-**$64**: it gives you access to all of our classes for a fortnight. Take this taster to see what we're all about and figure out which sort of pass works best for you!  
+**{{ site.pricing.intro }}**: it gives you access to all of our classes for a fortnight. Take this taster to see what we're all about and figure out which sort of pass works best for you!  
 
 It can only be bought once, and only if you haven't come to our studio with any other previous offer.
 
 
-{% include price.html title="Unlimited Membership" subtitle="Intro Offer" amount="$64" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="Unlimited Membership" subtitle="Intro Offer" amount=site.pricing.intro url="https://www.momoyoga.com/yogaruka/" %}
 
 
-**$55**: it gives you access to all of our live-streamed classes for a fortnight. Take this taster to see what we're all about and figure out which sort of pass works best for you!  
+**{{ site.pricing.introOnline }}**: it gives you access to all of our live-streamed classes for a fortnight. Take this taster to see what we're all about and figure out which sort of pass works best for you!  
 
 Anyone present in your house (same IP address) can take these classes, so please feel free to invite the whole family to join in!
 
 
-{% include price.html title="Unlimited Online Only" subtitle="Intro Offer" amount="$55" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="Unlimited Online Only" subtitle="Intro Offer" amount=site.pricing.introOnline url="https://www.momoyoga.com/yogaruka/" %}
 
 
 
 ### 10-Class Pass
 
-**$256**: it gives you access to **10 classes spread out over 26 weeks** however you please, in studio and online.   
+**{{ site.pricing.tenClassPass }}**: it gives you access to **10 classes spread out over 26 weeks** however you please, in studio and online.   
 
-{% include price.html title="10-Class Pass" subtitle="10 Classes for 6 Months" amount="$256" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="10-Class Pass" subtitle="10 Classes for 6 Months" amount=site.pricing.tenClassPass url="https://www.momoyoga.com/yogaruka/" %}
 
 
-**$160**: it gives you access to **10 classes spread out over 26 weeks** however you please, online only.   
+**{{ site.pricing.tenClassPassOnline }}**: it gives you access to **10 classes spread out over 26 weeks** however you please, online only.   
 
-{% include price.html title="10-Class ONLINE Pass" subtitle="10 Classes for 6 Months" amount="$160" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="10-Class ONLINE Pass" subtitle="10 Classes for 6 Months" amount=site.pricing.tenClassPassOnline url="https://www.momoyoga.com/yogaruka/" %}
 
 
 
 ### Drop-in Classes
 
-**$32**: book a one-off in-studio group class anytime.
+**{{ site.pricing.dropIn }}**: book a one-off in-studio group class anytime.
 
 
-{% include price.html title="Drop-in Group Class" amount="$32" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="Drop-in Group Class" amount=site.pricing.dropIn url="https://www.momoyoga.com/yogaruka/" %}
 
 
-**$20**: book a one-off online group class choosing amongst the ones on the schedule that have the "ONLINE" tag.
+**{{ site.pricing.dropInOnline }}**: book a one-off online group class choosing amongst the ones on the schedule that have the "ONLINE" tag.
 
 Anyone present in your house (same IP address) can take these classes, so please feel free to invite the whole family to join in!
 
 
-{% include price.html title="Drop-in ONLINE Class" amount="$20" url="https://www.momoyoga.com/yogaruka/" %}
+{% include price.html title="Drop-in ONLINE Class" amount=site.pricing.dropInOnline url="https://www.momoyoga.com/yogaruka/" %}
 
 
 

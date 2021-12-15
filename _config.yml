@@ -1,10 +1,31 @@
 # Site settings
-title: Yogaruka — Yoga & movement studio in Alexandria & Russell Lea
 email: studio@yogaruka.com
-description: "Functional movement fusion of yoga, pilates and calisthenics in Alexandria and Russell Lea. Join with two weeks of unlimited yoga for $64!"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yogaruka.com" # the base hostname & protocol for your site
 permalink: /:categories/:title
+
+title: Yogaruka — Yoga & movement studio in Alexandria & Russell Lea
+
+pricing:
+  intro: $64
+  introOnline: $54
+  membership: $42/wk
+  membershipMonthly: $180/mo
+  membershipOnline: $25/wk
+  membershipOnlineMonthly: $108/mo
+  tenClassPass: $256
+  tenClassPassOnline: $160
+  dropIn: $32
+  dropInOnline: $20
+# If you change these prices, you MUST change them in:
+# - Momoyoga: https://www.momoyoga.com/admin/more
+# - Square
+# - Zapier: https://zapier.com/app/zaps
+# - Autopilot: https://on.autopilotapp.com/yogaruka/campaigns/playbook/616d500d620e6c1a83c8db38/messages/00616e8ca083f343fda11b1a/preview?from=playbook&key=616d500d620e6c1a83c8db38--messages&from1=campaign-index&key1=all-all--
+# - The description below
+description: >-
+  Functional movement fusion of yoga, pilates and calisthenics in Alexandria and Russell Lea. 
+  Join with two weeks of unlimited yoga for $64!
 
 # Build settings
 markdown: kramdown
