@@ -1,15 +1,25 @@
-.ap3w-notification--large.ap3w-notification--large {
+.ap3w-notification--large.ap3w-notification--large,
+.ap3w-popup--small.ap3w-popup--small {
   box-shadow: 0 6px 16px -4px rgba(0, 0, 0, 0.50);
   margin: 16px;
 }
 
+.ap3w-text {
+  h1:not(:first-child), h2:not(:first-child), h3:not(:first-child), h4:not(:first-child) {
+    margin-top: 0;
+  }
+}
+
 @media (max-width: $media-xs) {
-  .ap3w-notification--large.ap3w-notification--large {
+  .ap3w-notification--large.ap3w-notification--large,
+  .ap3w-popup--small.ap3w-popup--small {
     width: 100vw !important;
+    max-width: none !important;
+    align-self: flex-end;
     margin: 0;
     box-shadow: 0 0px 8px 0px rgba(0, 0, 0, 0.25);
     .ap3w-image {
-      display: none;
+      // display: none;
     }
   }
 }
