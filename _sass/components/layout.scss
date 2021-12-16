@@ -20,11 +20,14 @@
 	margin-left: auto;
 	margin-right: auto;
 }
+.container--xs {
+  max-width: $container-xs;
+}
 .container--sm {
   max-width: $container-sm;
 }
-.container--xs {
-  max-width: $container-xs;
+.container--md {
+  max-width: $container-md;
 }
 
 .margin-top {

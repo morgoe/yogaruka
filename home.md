@@ -5,8 +5,8 @@ site-nav: home
 cover-image: home
 permalink: /
 announcement: 🎉 We’re opening a second location in Alexandria!
-h1: Strength and flexibility for everyday movers.
-subtitle: The best of yoga, pilates, and functional movement fused into challenging yet accessible group and private classes. Located in Alexandria, Russell Lea, and online.
+h1: Exceptional strength and flexibility for everyday movers
+subtitle: The best of yoga, pilates, and functional movement fused into challenging yet accessible classes. Located in Alexandria, Russell Lea, and online.
 published: true
 ---
 
