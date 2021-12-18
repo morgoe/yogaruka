@@ -1,7 +1,7 @@
 ---
 layout: default
 body-id: home
-site-nav: home
+site-nav: alexandria
 cover-image: home
 permalink: /
 announcement: 🎉 We’re opening a second location in Alexandria!

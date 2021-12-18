@@ -1,10 +1,10 @@
 ---
 layout: default
-site-nav: prices
 cover-image: prices
-title: Prices
-permalink: /prices/
-h1: Pricing and Packages
+title: Pricing for existing students
+permalink: /pricing/
+site-nav: pricing
+h1: Pricing for existing students
 subtitle: >-
   Private and small group classes for all ages and all skill levels.
   Personalised attention to prevent and recover from injuries.

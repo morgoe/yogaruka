@@ -19,7 +19,7 @@
 
 @media (min-width: $media-tablet) {
 	body {
-		padding-top: $global-cta-desktop-height;
+		// padding-top: $global-cta-desktop-height;
 	}
 	.GlobalCta {
 		@include justify-content(center);

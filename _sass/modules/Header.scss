@@ -1,4 +1,8 @@
 .Header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
 	background: black;
 	padding: 12px $spacing-md;
 	z-index: 2;
@@ -19,42 +23,33 @@
 	height: 32px;
 }
 
-.Header-mobileNavWrapper {
-	position: -webkit-sticky;
-	position: sticky;
-	top: 0;
-	background: rgba(black, 0.5);
-	z-index: 3;
-}
-
 .Header-nav {
 	@include flexbox();
 	@include justify-content(space-between);
 	padding: 0 #{$spacing-md - $spacing-xs};
 }
-.Header-nav--mobile {
-	max-width: 400px;
-	margin-left: auto;
-	margin-right: auto;
-}
-.Header-nav--desktop {
-	display: none;
-}
 
 .Header-link,
-.Header-actionLink {
-	color: white;
-	font-size: 12px;
+.Header-dropdownButton {
+	display: block;
+	color: $inverted-soft;
+	font-size: 16px;
+	line-height: 24px;;
 	font-family: $font-system;
-}
-
-.Header-link {
-	font-weight: 500;
-	padding: 0 $spacing-xs;
-	line-height: $header-nav-mobile-height;
+	padding: 8px 0;
 	&.now-active {
 		color: rgba(white, 0.5);
 	}
+}
+.Header-dropdownButton {
+	@include flexbox();
+	@include align-items(center);
+	@include justify-content(flex-start);
+	background: none;
+	width: 100%;
+}
+.Header-chevron {
+	margin-left: 4px;
 }
 
 .Header-actions {
@@ -86,25 +81,115 @@
   overflow: visible !important;
 }
 
-@media (min-width: $media-tablet) {
-	.Header {
-		background: rgba(black, 0.5);
+.Header-menuButton {
+	display: none;
+}
+
+@media (max-width: 799px) {
+	.Header-nav {
+  	padding: 16px 20px 48px;
+		background: black;
 		position: fixed;
-		top: $global-cta-desktop-height;
+		top: $header-nav-mobile-height;
 		left: 0;
 		right: 0;
-    padding: 0 $spacing-lg;
-	}
-	.Header-nav--desktop {
-		display: block;
-	}
-	.Header-nav--mobile {
+		bottom: 0;
 		display: none;
+		overflow: auto;
+		-webkit-overflow-scrolling: touch;
+		&.is-open {
+			display: block;
+		}
+	}
+	.Header-navList,
+	.Header-navListItem {
+		display: block;
+		width: 100%;
+	}
+	.Header-link {
+		&.is-active {
+			color: white;
+		}
+	}
+	.Header-chevron {
+		color: $inverted-faded;
+	}
+	.Header-dropdown {
+		display: none;
+		padding-left: 16px;
+		padding-bottom: 8px;
+		&.is-open {
+			display: block;
+		}
+	}
+	.Header-menuButton {
+		color: white;
+		display: block;
+		background: none;
+		margin-left: 8px;
+		margin-right: -10px;
+		padding: 8px;
+		.Header-menuButtonIconClosed {
+			display: block;
+		}
+		.Header-menuButtonIconOpen {
+			display: none;
+		}
+		&.is-active {
+			.Header-menuButtonIconClosed {
+				display: none;
+			}
+			.Header-menuButtonIconOpen {
+				display: block;
+			}
+		}
+	}
+	.Header-endFlex {
+		@include flexbox();
+		@include align-items(center);
+	}
+}
+
+@media (min-width: 800px) {
+	.Header {
+		background: rgba(black, 0.5);
+    padding: 8px $spacing-lg;
+	}
+	.Header-navList {
+		@include flexbox();
+		@include align-items(center);
+		@include justify-content(center);
 	}
 
-	.Header-link {
+	.Header-link,
+	.Header-dropdownButton {
+		color: white;
 		font-size: 14px;
-		line-height: $header-nav-desktop-height;
-		padding: 0 $spacing-sm;
+		padding: 16px 12px;
+	}
+	.Header-link {
+		&:hover {
+			text-decoration: underline;;
+		}
+	}
+	.Header-chevron {
+		color: $inverted-soft;
+	}
+
+	.Header-dropdown {
+		position: absolute;
+		background: white;
+		box-shadow: $shadow;
+		display: none;
+		padding: 4px;
+		margin: -4px;
+		border-radius: 4px;
+		.is-hovered & {
+			display: block;
+		}
+		.Header-link {
+			color: black;
+			padding: 8px 12px;
+		}
 	}
 }

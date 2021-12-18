@@ -15,4 +15,5 @@
 {% include_relative app/scrollTo.js %}
 {% include_relative app/googleAnalytics.js %}
 {% include_relative app/googleConversionTracking.js %}
+{% include_relative app/headerNav.js %}
 {% include_relative app/app.js %}

@@ -2,6 +2,7 @@
 layout: default
 cover-image: privates
 permalink: /private-classes/
+site-nav: private-classes
 published: true
 title: Private Stretch and Yoga Classes in Russell Lea
 h1: Private Stretch and Yoga Classes in Russell Lea

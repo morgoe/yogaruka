@@ -20,7 +20,7 @@ button, .button {
   transition: 0.25s ease-in-out;
 	&:hover {
 		color: white;
-		background: $link;
+		background: $blue;
 	}
   &:active {
     transform: scale(0.98);
@@ -41,23 +41,11 @@ button, .button {
 }
 .button--inverted {
   background: white;
-  color: $blue;
-	&:hover {
-		color: $blue;
-		background: rgba(white, 0.8);
-	}
+  color: $text-dark;
 }
 .button--sm {
   font-size: $font-size-sm;
   height: $action-height-sm;
   padding: 9px $spacing-md 10px;
   width: auto;
-}
-
-@media (min-width: $media-tablet) {
-  .button {
-    width: auto;
-    margin-left: auto;
-    margin-right: auto;
-  }
 }

@@ -5,5 +5,6 @@ $(document).ready(function() {
   initModals();
   initAccordions();
   initConversionTracking();
+  initHeaderNav();
   expandSVGs();
 });
