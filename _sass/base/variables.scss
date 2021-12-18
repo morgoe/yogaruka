@@ -1,10 +1,12 @@
 // Colours
-$text-dark: #222;
-$text-muted: #555;
-$text-faded: #A6A6A6;
+$text-dark: rgba(0,0,0, 0.9);
+$text-muted: rgba(0,0,0, 0.6);
+$text-faded: rgba(0,0,0, 0.35);
 $inverted-soft: #B2B2B2;
 $inverted-faded: #636363;
 $blue: #2da6c8;
+$primary: #7F974E;
+$primary-faded: rgba($primary, 0.15);
 $link: #0080a2;
 $red: #d03758;
 $border: rgba($text-dark, 0.3);

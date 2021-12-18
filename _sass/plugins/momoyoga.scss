@@ -3,7 +3,7 @@ $time-width: 90px;
 .momoyoga-schedule {
   font-size: $font-size-md;
   font-family: $font-system;
-  box-shadow: 0 0 0 1px $border;
+  box-shadow: 0 0 0 1px $border-light;
 
   div {
     color: $text-dark;
@@ -17,7 +17,7 @@ $time-width: 90px;
     padding: $spacing-md;
     margin-bottom: 0;
     + .momoyoga-section {
-      border-top: 1px solid $border;
+      border-top: 1px solid $border-light;
     }
   }
   .momoyoga-day,
@@ -62,15 +62,12 @@ $time-width: 90px;
 }
 .momoyoga-lesson-action-booknow {
   @extend .button;
-  @extend .button--minimal;
+  @extend .button--momoyoga;
   @extend .button--fullWidth;
 }
 
 @media (min-width: 481px) {
   .momoyoga-schedule {
-    max-width: $container-sm;
-    margin-left: auto;
-    margin-right: auto;
     border-radius: 4px;
     .momoyoga-lesson {
       .momoyoga-lesson-line {

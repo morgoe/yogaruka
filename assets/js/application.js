@@ -16,4 +16,5 @@
 {% include_relative app/googleAnalytics.js %}
 {% include_relative app/googleConversionTracking.js %}
 {% include_relative app/headerNav.js %}
+{% include_relative app/tabs.js %}
 {% include_relative app/app.js %}

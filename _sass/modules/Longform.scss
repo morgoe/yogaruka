@@ -1,5 +1,5 @@
 .Longform {
-	a {
+	a:not(.button) {
 		@extend .link;
 	}
   .button {

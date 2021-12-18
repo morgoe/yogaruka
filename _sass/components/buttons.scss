@@ -1,31 +1,36 @@
 // Reset
 button, .button {
-	border: none;
-	box-shadow: none;
-	line-height: normal;
-	text-align: center;
+  border: none;
+  box-shadow: none;
+  line-height: normal;
+  text-align: center;
 }
 .button {
-	@include inline-flex();
-	@include align-items(center);
-	border-radius: $action-border-radius;
-	border: none;
-	height: $action-height;
-	font-family: $font-system;
-  font-size: $action-font-size;
-	font-weight: 600;
-	padding: 11px $spacing-md 12px;
-	color: $link;
-  background: rgba($link, 0.15);
+  @include inline-flex();
+  @include align-items(center);
+  border-radius: $action-border-radius;
+  border: none;
+  font-family: $font-system;
+  font-weight: 600;
+  font-size: $font-size-sm;
+  height: $action-height-sm;
+  padding: 8px 16px 9px;
+  color: $text-dark;
+  background: $primary-faded;
   transition: 0.25s ease-in-out;
-	&:hover {
-		color: white;
-		background: $blue;
-	}
+  &:hover {
+    color: white;
+    background: $text-dark;
+  }
   &:active {
     transform: scale(0.98);
     transition: none;
   }
+}
+.button--large {
+  font-size: $action-font-size;
+  padding: 12px 20px 13px;
+  height: auto;
 }
 .button--fullWidth {
   display: flex;
@@ -33,19 +38,13 @@ button, .button {
   width: 100%;
 }
 .button--primary {
-	color: white;
-	background: $link;
+  color: white;
+  background: $text-dark;
 }
-.button--minimal {
-	background: rgba($link, 0.2);
+.button--momoyoga {
+  background: $primary-faded;
 }
 .button--inverted {
   background: white;
   color: $text-dark;
-}
-.button--sm {
-  font-size: $font-size-sm;
-  height: $action-height-sm;
-  padding: 9px $spacing-md 10px;
-  width: auto;
 }

@@ -40,6 +40,35 @@ Before each private class you will be able to discuss with your teacher the form
 We are also able to do private classes for kids and people living with disabilities.
 
 Facilitated by our teachers in their area of expertise, these classes can also be given in languages other than English (at the moment - Italian and French).
-
-<a class="button" href="/contact">Contact us to Book</a>
 </section>
+
+<div class="container container--sm">
+  <label>Private class length:</label>
+  <div class="tabs">
+    <a class="tabs-button" href="#45">45 mins</a>
+    <a class="tabs-button is-active" href="#60">60 mins</a>
+    <a class="tabs-button" href="#75">75 mins</a>
+  </div>
+
+  <div class="tabs-content" id="45">
+    <div class="Prices">
+      {% include price.html title="Single class" subtitle="One private class at either of our studios or online." amount=site.pricing.privateDropIn45 amountSuffix="for 1 class" url="/contact/" %}
+
+      {% include price.html title="Ten class pass" subtitle="10 private classes spread out over 26 weeks however you please, in studio and online." amount=site.pricing.privateTenClassPass45 amountSuffix="per class" url="/contact/" %}
+    </div>
+  </div>
+  <div class="tabs-content is-active" id="60">
+    <div class="Prices">
+      {% include price.html title="Single class" subtitle="One private class at either of our studios or online." amount=site.pricing.privateDropIn60 amountSuffix="for 1 class" url="/contact/" %}
+
+      {% include price.html title="Ten class pass" subtitle="10 private classes spread out over 26 weeks however you please, in studio and online." amount=site.pricing.privateTenClassPass60 amountSuffix="per class" url="/contact/" %}
+    </div>
+  </div>
+  <div class="tabs-content" id="75">
+    <div class="Prices">
+      {% include price.html title="Single class" subtitle="One private class at either of our studios or online." amount=site.pricing.privateDropIn75 amountSuffix="for 1 class" url="/contact/" %}
+
+      {% include price.html title="Ten class pass" subtitle="10 private classes spread out over 26 weeks however you please, in studio and online." amount=site.pricing.privateTenClassPass75 amountSuffix="per class" url="/contact/" %}
+    </div>
+  </div>
+</div>
