@@ -9,14 +9,34 @@ title: Yogaruka — Yoga & movement studio in Alexandria & Russell Lea
 pricing:
   intro: $64
   introOnline: $54
-  membership: $42/wk
-  membershipMonthly: $180/mo
-  membershipOnline: $25/wk
-  membershipOnlineMonthly: $108/mo
+  introSuffix: for 14 days
+  
+  membership: $42
+  membershipOnline: $25
+  membershipSuffix: per week
+
   tenClassPass: $256
   tenClassPassOnline: $160
+  tenClassPassSuffix: for 10 classes
+
   dropIn: $32
   dropInOnline: $20
+  dropInSuffix: for 1 class
+
+  privateDropIn45: $125
+  privateDropIn60: $135
+  privateDropIn75: $150
+
+  privateTenClassPass45: $100
+  privateTenClassPass60: $108
+  privateTenClassPass75: $120
+
+  corporateSingleSmall: $179
+  corporateSingleLarge: $279
+
+  corporateTenClassPassSmall: $159
+  corporateTenClassPassLarge: $249
+
 # If you change these prices, you MUST change them in:
 # - Momoyoga: https://www.momoyoga.com/admin/more
 # - Square

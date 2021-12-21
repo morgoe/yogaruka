@@ -5,6 +5,15 @@ $time-width: 90px;
   font-family: $font-system;
   box-shadow: 0 0 0 1px $border-light;
 
+  &.is-filtered {
+    .momoyoga-lesson {
+      display: none;
+      &.is-active {
+        display: block;
+      }
+    }
+  }
+
   div {
     color: $text-dark;
     font-size: inherit !important;

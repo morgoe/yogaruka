@@ -4,6 +4,9 @@
   background: rgba($text-dark, 0.1);
   padding: 4px;
   border-radius: calc(#{$action-border-radius} + 2px);
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 .tabs-button {
   @include inline-flex();
@@ -17,6 +20,7 @@
   font-weight: 600;
   padding: 8px 12px 8px;
   color: $text-dark;
+  white-space: nowrap;
   &.is-active {
     box-shadow: $shadow; 
     background: white;

@@ -45,9 +45,9 @@ Facilitated by our teachers in their area of expertise, these classes can also b
 <div class="container container--sm">
   <label>Private class length:</label>
   <div class="tabs">
-    <a class="tabs-button" href="#45">45 mins</a>
-    <a class="tabs-button is-active" href="#60">60 mins</a>
-    <a class="tabs-button" href="#75">75 mins</a>
+    <a class="tabs-button js-tabButton" href="#45">45 mins</a>
+    <a class="tabs-button js-tabButton is-active" href="#60">60 mins</a>
+    <a class="tabs-button js-tabButton" href="#75">75 mins</a>
   </div>
 
   <div class="tabs-content" id="45">

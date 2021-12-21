@@ -17,4 +17,5 @@
 {% include_relative app/googleConversionTracking.js %}
 {% include_relative app/headerNav.js %}
 {% include_relative app/tabs.js %}
+{% include_relative app/timetableFilter.js %}
 {% include_relative app/app.js %}

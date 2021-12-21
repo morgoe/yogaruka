@@ -30,8 +30,8 @@ Facilitated by any of our teachers, in function of the required class typology. 
 <div class="container container--sm">
   <label>Class size:</label>
   <div class="tabs">
-    <a class="tabs-button is-active" href="#small">Small (3-8 people)</a>
-    <a class="tabs-button" href="#large">Large (9+ people)</a>
+    <a class="tabs-button js-tabButton is-active" href="#small">Small (3-8 people)</a>
+    <a class="tabs-button js-tabButton" href="#large">Large (9+ people)</a>
   </div>
 
   <div class="tabs-content is-active" id="small">

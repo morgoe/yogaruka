@@ -1,6 +1,5 @@
 function initTabs() {
-  $('.tabs-button').click(function(e) {
-    console.log('a')
+  $('.js-tabButton').click(function(e) {
     e.preventDefault();
     var target = $(this).attr('href');
     $(this).addClass('is-active').siblings().removeClass('is-active');

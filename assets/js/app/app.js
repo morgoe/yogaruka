@@ -7,5 +7,6 @@ $(document).ready(function() {
   initConversionTracking();
   initHeaderNav();
   initTabs();
+  initTimetableFilter();
   expandSVGs();
 });

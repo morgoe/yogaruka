@@ -13,8 +13,8 @@ published: true
 <section class="container container--md">
   <label>I want access to classes:</label>
   <div class="tabs">
-    <a class="tabs-button is-active" href="#in-person">In-person and online</a>
-    <a class="tabs-button" href="#online">Online only</a>
+    <a class="tabs-button js-tabButton is-active" href="#in-person">In-person and online</a>
+    <a class="tabs-button js-tabButton" href="#online">Online only</a>
   </div>
 
   <div class="tabs-content is-active" id="in-person">
