@@ -7,6 +7,9 @@
   max-width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
+  @media (min-width: 400px) {
+    overflow: visible;
+  }
 }
 .tabs-button {
   @include inline-flex();
@@ -15,9 +18,9 @@
   background: none;
   border: none;
   height: $action-height-sm;
-  font-family: $font-system;
+  font-family: $font-sans;
+  font-weight: $font-weight-sans-bold;
   font-size: $font-size-sm;
-  font-weight: 600;
   padding: 8px 12px 8px;
   color: $text-dark;
   white-space: nowrap;

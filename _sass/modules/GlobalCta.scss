@@ -5,7 +5,7 @@
 	color: white;
 	background: $blue;
   font-size: $font-size-sm;
-  font-family: $font-system;
+  @extend .font-sans;
 	padding: $spacing-xs $spacing-sm;
 	position: fixed;
 	bottom: 0;

@@ -2,7 +2,7 @@ $time-width: 90px;
 
 .momoyoga-schedule {
   font-size: $font-size-md;
-  font-family: $font-system;
+  @extend .font-sans;
   box-shadow: 0 0 0 1px $border-light;
 
   &.is-filtered {
@@ -72,7 +72,6 @@ $time-width: 90px;
 .momoyoga-lesson-action-booknow {
   @extend .button;
   @extend .button--momoyoga;
-  @extend .button--fullWidth;
 }
 
 @media (min-width: 481px) {
@@ -105,7 +104,7 @@ $time-width: 90px;
           width: 80px;
         }
         .momoyoga-lesson-action {
-          width: 90px;
+          width: 120px;
         }
       }
       .momoyoga-lesson-details {

@@ -10,8 +10,8 @@ button, .button {
   @include align-items(center);
   border-radius: $action-border-radius;
   border: none;
-  font-family: $font-system;
-  font-weight: 600;
+  font-family: $font-sans;
+  font-weight: $font-weight-sans-bold;
   font-size: $font-size-sm;
   height: $action-height-sm;
   padding: 8px 16px 9px;
@@ -29,7 +29,8 @@ button, .button {
 }
 .button--large {
   font-size: $action-font-size;
-  padding: 12px 20px 13px;
+  line-height: 24px;
+  padding: 12px 20px;
   height: auto;
 }
 .button--fullWidth {
@@ -47,4 +48,8 @@ button, .button {
 .button--inverted {
   background: white;
   color: $text-dark;
+  &:hover {
+    background: white;
+    color: $text-dark;
+  }
 }

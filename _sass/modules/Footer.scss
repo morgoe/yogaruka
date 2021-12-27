@@ -5,7 +5,7 @@
   padding-bottom: $spacing-xl;
   color: $text-muted;
   font-size: $font-size-xs;
-  font-family: $font-system;
+  @extend .font-sans;
   text-align: center;
   a {
     text-decoration: underline;

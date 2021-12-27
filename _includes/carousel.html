@@ -18,6 +18,9 @@
             {% if include.tile1_caption %}
               <p>{{ include.tile1_caption }}</p>
             {% endif %}
+            {% if include.tile1_linkUrl %}
+              <a class="link" href="{{ include.tile1_linkUrl }}">{{ include.tile1_linkText }}</a>
+            {% endif %}
           </figcaption>
         </li>
       {% endif %}
@@ -39,6 +42,9 @@
             {% endif %}
             {% if include.tile2_caption %}
               <p>{{ include.tile2_caption }}</p>
+            {% endif %}
+            {% if include.tile2_linkUrl %}
+              <a class="link" href="{{ include.tile2_linkUrl }}">{{ include.tile2_linkText }}</a>
             {% endif %}
           </figcaption>
         </li>
@@ -62,6 +68,9 @@
 						{% if include.tile3_caption %}
 							<p>{{ include.tile3_caption }}</p>
 						{% endif %}
+            {% if include.tile3_linkUrl %}
+              <a class="link" href="{{ include.tile3_linkUrl }}">{{ include.tile3_linkText }}</a>
+            {% endif %}
 					</figcaption>
 				</li>
 			{% endif %}

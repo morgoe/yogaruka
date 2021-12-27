@@ -19,7 +19,7 @@ function filterClasses(target) {
   } else if (target === 'alexandria') {
     $('.momoyoga-schedule').find('p:contains(Alexandria)').parent().parent().addClass('is-active');  
   } else if (target === 'online') {
-    $('.momoyoga-schedule').find('p:contains(Zoom)').parent().parent().addClass('is-active');  
+    $('.momoyoga-schedule').find('p:contains(Online)').parent().parent().addClass('is-active');  
   }
 }
 
@@ -36,4 +36,12 @@ function initTimetableFilter() {
       $('.momoyoga-schedule').removeClass('is-filtered')
     }
   });
+
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  const initialLocation = urlParams.get('location');
+  
+  if (initialLocation) {
+    $('.js-timetableFilter[target="' + initialLocation + '"]').click();
+  }
 }

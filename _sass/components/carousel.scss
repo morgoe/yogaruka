@@ -1,3 +1,5 @@
+$carousel-spacing: 28px;
+
 .carousel-figure {
 	.figure-content {
 		// margin-left: auto;
@@ -6,7 +8,7 @@
 
 .carousel {
 	position: relative;
-  margin: #{-$spacing-md / 2} #{-$spacing-md};
+  margin: #{-$carousel-spacing / 2} #{-$carousel-spacing};
 }
 
 // .carousel-frame {
@@ -15,25 +17,33 @@
 // 	margin-right: auto;
 // }
 .carousel-list {
-	padding: 0 #{$spacing-md / 2};
+	padding: 0 #{$carousel-spacing / 2};
 }
 .carousel-listItem {
 	position: relative;
 	float: left;
-	width: calc(100vw - 2 * #{$spacing-md} - #{$spacing-sm});
+	width: calc(100vw - 2 * #{$carousel-spacing} - #{$spacing-sm});
 	// margin: 0 !important;
 	// margin-left: $spacing-sm;
-	padding: #{$spacing-md / 2};
+	padding: #{$carousel-spacing / 2};
 	// &:last-child {
 	// 	margin-right: $spacing-sm;
 	// }
   figcaption {
-    margin-top: $spacing-xs;
+    margin-top: $spacing-sm;
   }
-	h3 {
+	h5 {
+		// font-family: $font-title;
+		// font-size: 1rem;
+		text-transform: uppercase;
+		// font-weight: $font-title-weight;
 	}
 	p {
     font-size: $font-size-md;
+	}
+	a {
+		display: inline-block;
+		margin-top: 4px;
 	}
 }
 

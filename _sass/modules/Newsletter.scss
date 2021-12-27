@@ -29,5 +29,5 @@
 #mc_embed_signup div.mce_inline_error {
     position: absolute;
     font-size: $action-font-size;
-    font-family: $font-system;
+    @extend .font-sans;
 }

@@ -8,24 +8,26 @@
 			<ul class="Header-navList">
 				<li class="Header-navListItem js-dropdownGroup">
 					<button class="Header-dropdownButton js-headerNavDropdown">
-						Locations
+						<span class="Header-buttonText">Locations</span>
 						<img src="/assets/icons/chevron.svg" class="Header-chevron">
 					</button>
-					<ul class="Header-dropdown {% if page.site-nav == 'alexandria' or page.site-nav == 'russell lea' %}is-open{% endif %}">
-						<li class="Header-navListItem">
-							<a class="Header-link {% if page.site-nav == 'alexandria' %}is-active{% endif %}">Alexandria</a>
-						</li>
+					<ul class="Header-dropdown {% if page.site-nav == 'alexandria' or page.site-nav == 'russell-lea' %}is-open{% endif %}">
 						<li class="Header-navListItem">
 							<a class="Header-link {% if page.site-nav == 'russell-lea' %}is-active{% endif %}" href="/russell-lea">Russell Lea</a>
+						<li class="Header-navListItem">
+							<a class="Header-link {% if page.site-nav == 'alexandria' %}is-active{% endif %} is-disabled">Alexandria (coming soon!)</a>
+						</li>
 						</li>
 					</ul>
 				</li>
 				<li class="Header-navListItem">
-					<a class="Header-link {% if page.site-nav == 'timetable' %}is-active{% endif %}" href="/timetable">Timetable</a>
+					<a class="Header-link {% if page.site-nav == 'timetable' %}is-active{% endif %}" href="/timetable">
+						<span class="Header-buttonText">Timetable</span>
+					</a>
 				</li>
 				<li class="Header-navListItem js-dropdownGroup">
 					<button class="Header-dropdownButton js-headerNavDropdown">
-						Pricing
+						<span class="Header-buttonText">Pricing</span>
 						<img src="/assets/icons/chevron.svg" class="Header-chevron">
 					</button>
 					<ul class="Header-dropdown {% if page.site-nav == 'new-students' or page.site-nav == 'pricing' %}is-open{% endif %}">
@@ -39,19 +41,19 @@
 				</li>
 				<li class="Header-navListItem js-dropdownGroup">
 					<button class="Header-dropdownButton js-headerNavDropdown">
-						About
+						<span class="Header-bttonText">About</span>
 						<img src="/assets/icons/chevron.svg" class="Header-chevron">
 					</button>
-					<ul class="Header-dropdown {% if page.site-nav == 'classes' or page.site-nav == 'faqs' or page.site-nav == 'teachers' or page.site-nav == 'private-classes' or page.site-nav == 'corporate-classes' %}is-open{% endif %}">
+					<ul class="Header-dropdown {% if page.site-nav == 'about' or page.site-nav == 'classes' or page.site-nav == 'faqs' or page.site-nav == 'teachers' or page.site-nav == 'private-classes' or page.site-nav == 'corporate-classes' %}is-open{% endif %}">
 						<li class="Header-navListItem">
 							<a class="Header-link {% if page.site-nav == 'about' %}is-active{% endif %}" href="/about">About Yogaruka</a>
 						</li>
-						<li class="Header-navListItem">
+						<!-- <li class="Header-navListItem">
 							<a class="Header-link {% if page.site-nav == 'classes' %}is-active{% endif %}">Class types</a>
 						</li>
 						<li class="Header-navListItem">
 							<a class="Header-link {% if page.site-nav == 'faqs' %}is-active{% endif %}">FAQs</a>
-						</li>
+						</li> -->
 						<li class="Header-navListItem">
 							<a class="Header-link {% if page.site-nav == 'teachers' %}is-active{% endif %}" href="/teachers">Teachers</a>
 						</li>
@@ -64,13 +66,15 @@
 					</ul>
 				</li>
 				<li class="Header-navListItem">
-					<a class="Header-link {% if page.site-nav == 'contact' %}is-active{% endif %}" href="/contact">Contact</a>
+					<a class="Header-link {% if page.site-nav == 'contact' %}is-active{% endif %}" href="/contact">
+						<span class="Header-bttonText">Contact</span>
+					</a>
 				</li>
 			</ul>
 		</nav>
 
 		<div class="Header-endFlex">
-			<a class="button button--inverted button--sm js-conversion-globalCta" href="https://www.momoyoga.com/yogaruka/member/order/create/choose-product" target="_blank">Book Now</a>
+			<a class="button button--inverted button--sm js-conversion-globalCta" href="/timetable#timetable">Book now</a>
 			<button class="Header-menuButton js-toggleMobileMenu">
 				<img src="/assets/icons/menu.svg" class="Header-menuButtonIconClosed">
 				<img src="/assets/icons/close.svg" class="Header-menuButtonIconOpen">

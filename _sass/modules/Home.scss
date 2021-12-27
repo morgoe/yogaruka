@@ -1,50 +1,104 @@
-.Home-intro {
-  border: 1px solid $border-light;
-  text-align: center;
-
-  padding: $spacing-md;
-
-  @media (min-width: $media-tablet) {
-    margin-left: 0;
-    margin-right: 0;
+.Home {
+  section + section { 
+    border: none;
+    padding-top: 0;
   }
-  .link {
-    color: lighten($link, 10%);
+}
+
+.Home-intro {
+  text-align: center;
+  padding-bottom: $spacing-lg;
+  border-bottom: 1px solid $border-light;
+  h2 {
+    @extend .font-body;
+    font-weight: 600;
+  }
+  @media (min-width: $media-sm) {
+    padding: $spacing-lg;
+    border: 1px solid $border-light;
+  }
+  @media (min-width: $media-xl) {
+    padding: $spacing-xl;
   }
 }
 
 .Home-banner {
   position: relative;
-  margin-bottom: $spacing-xl;
-  padding: $spacing-xl $spacing-md;
+  padding: $spacing-md;
+  color: white;
   background: black;
   z-index: 1;
-  h3 {
-    color: white;
+  img {
+    width: 256px;
+    object-fit: cover;
+    margin-bottom: $spacing-sm;
+  }
+  h2 {
     margin: 0;
-    text-align: center;
+    @extend .font-title;
+  }
+  p {
+    @extend .font-sans;
+    color: $inverted-soft;
+    margin-bottom: 24px;
+  }
+  @media (min-width: $media-sm) {
+    @include flexbox();
+    padding: 32px;
+    img {
+      margin-bottom: 0;
+      margin-right: $spacing-lg;
+    }
   }
 }
 
-.Home-callout {
-  color: white;
-  position: relative;
-  padding-top: $spacing-lg;
-  padding-bottom: $spacing-lg;
-  margin-bottom: $spacing-xl;
-  border-top: none;
-  &:after {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 50%;
-    right: 50%;
-    bottom: 0;
-    margin-left: -50vw;
-    margin-right: -50vw;
-    width: 100vw;
-    background: $text-dark;
-    z-index: -1;
+.Home-sideBySide {
+  margin-left: -$spacing-md;
+  margin-right: -$spacing-md;
+  div {
+    position: relative;
+    height: 200px;
+    img {
+      position: absolute;
+      inset: 0;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+  p {
+    padding: $spacing-md;
+    @extend .font-title;
+    font-size: 1.25rem;
+    background: rgba($text-dark, 0.05);
+  }
+
+  @media (min-width: $media-md) {
+    margin-left: -$spacing-lg;
+    margin-right: -$spacing-lg;
+  }
+  @media (min-width: $media-lg) {
+    @include flexbox();
+    div, p {
+      width: 50%;
+    }
+    div {
+      position: relative;
+      height: auto;
+      img {
+        position: absolute;
+        inset: 0;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+    p {
+      padding: 128px 64px;
+      font-size: 1.5rem;
+      background: rgba($text-dark, 0.05);
+    }
+  }
+  @media (min-width: 1340px) {
+    margin: 0;
   }
 }
 

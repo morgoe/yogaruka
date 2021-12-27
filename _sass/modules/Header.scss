@@ -1,195 +1,206 @@
 .Header {
-	position: fixed;
-	top: 0;
-	left: 0;
-	right: 0;
-	background: black;
-	padding: 12px $spacing-md;
-	z-index: 2;
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: black;
+  padding: 12px $spacing-md;
+  z-index: 2;
 }
 
 .Header-container {
-	@include flexbox();
-	@include align-items(center);
-	@include justify-content(space-between);
-	max-width: $max-width;
-	margin-left: auto;
-	margin-right: auto;
+  @include flexbox();
+  @include align-items(center);
+  @include justify-content(space-between);
+  max-width: $max-width;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .Header-logo {
   display: block;
-	width: 108px;
-	height: 32px;
+  width: 108px;
+  height: 32px;
 }
 
 .Header-nav {
-	@include flexbox();
-	@include justify-content(space-between);
-	padding: 0 #{$spacing-md - $spacing-xs};
+  @include flexbox();
+  @include justify-content(space-between);
+  padding: 0 #{$spacing-md - $spacing-xs};
 }
 
 .Header-link,
 .Header-dropdownButton {
-	display: block;
-	color: $inverted-soft;
-	font-size: 16px;
-	line-height: 24px;
-	font-family: $font-system;
-	padding: 8px 0;
-	&.now-active {
-		color: rgba(white, 0.5);
-	}
+  display: block;
+  line-height: 24px;
+  @extend .font-sans;
+  &.is-disabled:hover {
+    cursor: default;
+    text-decoration: none;
+  }
 }
 .Header-dropdownButton {
-	@include flexbox();
-	@include align-items(center);
-	@include justify-content(flex-start);
-	background: none;
-	width: 100%;
+  @include flexbox();
+  @include align-items(center);
+  @include justify-content(flex-start);
+  background: none;
+  width: 100%;
 }
 .Header-chevron {
-	margin-left: 4px;
+  margin-left: 4px;
 }
 
 .Header-actions {
-	@include flexbox();
-	@include align-items(flex-end);
-	@include flex-direction(column);
-	margin: -6px 0;
+  @include flexbox();
+  @include align-items(flex-end);
+  @include flex-direction(column);
+  margin: -6px 0;
 }
 
 .Header-actionLink {
-	@include flexbox();
-	@include align-items(center);
-	text-decoration: underline;
-	text-decoration-color: rgba(white, 0.5);
-	padding: $spacing-xxs 0;
-	&:hover {
-		text-decoration-color: white;	
-		.Header-actionIcon {
-			opacity: 1;
-		}
-	}
+  @include flexbox();
+  @include align-items(center);
+  text-decoration: underline;
+  text-decoration-color: rgba(white, 0.5);
+  padding: $spacing-xxs 0;
+  &:hover {
+    text-decoration-color: white; 
+    .Header-actionIcon {
+      opacity: 1;
+    }
+  }
 }
 
 .Header-actionIcon {
-	margin-right: $spacing-xxs;
-	opacity: 0.8;
-	width: 14px;
-	height: 14px;
+  margin-right: $spacing-xxs;
+  opacity: 0.8;
+  width: 14px;
+  height: 14px;
   overflow: visible !important;
 }
 
 .Header-menuButton {
-	display: none;
+  display: none;
 }
 
 @media (max-width: 799px) {
-	.Header-nav {
-  	padding: 16px 20px 48px;
-		background: black;
-		position: fixed;
-		top: $header-nav-mobile-height;
-		left: 0;
-		right: 0;
-		bottom: 0;
-		display: none;
-		overflow: auto;
-		-webkit-overflow-scrolling: touch;
-		&.is-open {
-			display: block;
-		}
-	}
-	.Header-navList,
-	.Header-navListItem {
-		display: block;
-		width: 100%;
-	}
-	.Header-link {
-		&.is-active {
-			color: white;
-		}
-	}
-	.Header-chevron {
-		color: $inverted-faded;
-	}
-	.Header-dropdown {
-		display: none;
-		padding-left: 16px;
-		padding-bottom: 8px;
-		&.is-open {
-			display: block;
-		}
-	}
-	.Header-menuButton {
-		color: white;
-		display: block;
-		background: none;
-		margin-left: 8px;
-		margin-right: -10px;
-		padding: 8px;
-		.Header-menuButtonIconClosed {
-			display: block;
-		}
-		.Header-menuButtonIconOpen {
-			display: none;
-		}
-		&.is-active {
-			.Header-menuButtonIconClosed {
-				display: none;
-			}
-			.Header-menuButtonIconOpen {
-				display: block;
-			}
-		}
-	}
-	.Header-endFlex {
-		@include flexbox();
-		@include align-items(center);
-	}
+  .Header-nav {
+    padding: 16px 20px 48px;
+    background: black;
+    position: fixed;
+    top: $header-nav-mobile-height;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: none;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    &.is-open {
+      display: block;
+    }
+  }
+  .Header-navList,
+  .Header-navListItem {
+    display: block;
+    width: 100%;
+  }
+  .Header-link,
+  .Header-dropdownButton {
+    padding: 8px 0;
+    color: $inverted-soft;
+    font-size: 16px;
+    &.is-disabled {
+      color: $inverted-faded;
+    }
+  }
+  .Header-link {
+    &.is-active {
+      color: white;
+    }
+  }
+  .Header-chevron {
+    color: $inverted-faded;
+  }
+  .Header-dropdown {
+    display: none;
+    padding-left: 16px;
+    padding-bottom: 8px;
+    &.is-open {
+      display: block;
+    }
+  }
+  .Header-menuButton {
+    color: white;
+    display: block;
+    background: none;
+    margin-left: 8px;
+    margin-right: -10px;
+    padding: 8px;
+    .Header-menuButtonIconClosed {
+      display: block;
+    }
+    .Header-menuButtonIconOpen {
+      display: none;
+    }
+    &.is-active {
+      .Header-menuButtonIconClosed {
+        display: none;
+      }
+      .Header-menuButtonIconOpen {
+        display: block;
+      }
+    }
+  }
+  .Header-endFlex {
+    @include flexbox();
+    @include align-items(center);
+  }
 }
 
 @media (min-width: 800px) {
-	.Header {
-		background: rgba(black, 0.5);
+  .Header {
+    position: fixed;
+    background: rgba(black, 0.5);
     padding: 8px $spacing-lg;
-	}
-	.Header-navList {
-		@include flexbox();
-		@include align-items(center);
-		@include justify-content(center);
-	}
+  }
+  .Header-navList {
+    @include flexbox();
+    @include align-items(center);
+    @include justify-content(center);
+  }
 
-	.Header-link,
-	.Header-dropdownButton {
-		color: white;
-		font-size: 14px;
-		padding: 16px 12px;
-	}
-	.Header-link {
-		&:hover {
-			text-decoration: underline;;
-		}
-	}
-	.Header-chevron {
-		color: $inverted-soft;
-	}
+  .Header-link,
+  .Header-dropdownButton {
+    color: white;
+    font-size: 14px;
+    padding: 16px 12px;
+  }
+  .Header-link {
+    &:hover {
+      text-decoration: underline;;
+    }
+  }
+  .Header-chevron {
+    color: $inverted-soft;
+  }
 
-	.Header-dropdown {
-		position: absolute;
-		background: white;
-		box-shadow: $shadow;
-		display: none;
-		padding: 4px;
-		margin: -4px;
-		border-radius: 4px;
-		.is-hovered & {
-			display: block;
-		}
-		.Header-link {
-			color: black;
-			padding: 8px 12px;
-		}
-	}
+  .Header-dropdown {
+    position: absolute;
+    background: white;
+    box-shadow: $shadow;
+    display: none;
+    padding: 4px;
+    margin: -4px;
+    border-radius: 4px;
+    .is-hovered & {
+      display: block;
+    }
+    .Header-link {
+      color: black;
+      padding: 8px 12px;
+      &.is-disabled {
+        color: $text-faded;
+      }
+    }
+  }
 }

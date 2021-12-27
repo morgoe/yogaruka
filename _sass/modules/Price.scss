@@ -37,11 +37,13 @@
 
 .Price-amount {
   font-size: 1.5rem;
+  font-family: $font-title;
   margin-top: 16px;
   margin-bottom: 8px;
 }
 .Price-amountSuffix {
   font-size: 1rem;
+  font-family: $font-body;
   color: $text-muted; 
 }
 
