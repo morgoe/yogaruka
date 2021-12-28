@@ -30,5 +30,5 @@ We are a 2-minute walk from the bus stop for 436, 492, 502 and 490 and a 5-minut
 </section>
 
 <section id="studio">
-  {% include carousel.html tile1_image="/assets/images/about/outside.jpg" tile1_caption="Sydney’s first sustainable yoga studio, located in an old church." tile2_image="/assets/images/about/inside.jpg"  tile2_caption="Our Russell Lea studio was the first in Australia to be fully ecological." tile3_image="/assets/images/about/props.jpg" tile3_caption="YogaRuka is as much your practice space as it is ours." %}
+  {% include carousel.html carousel_mobile=true tile1_image="/assets/images/about/outside.jpg" tile1_caption="Sydney’s first sustainable yoga studio, located in an old church." tile2_image="/assets/images/about/inside.jpg"  tile2_caption="Our Russell Lea studio was the first in Australia to be fully ecological." tile3_image="/assets/images/about/props.jpg" tile3_caption="YogaRuka is as much your practice space as it is ours." %}
 </section>
