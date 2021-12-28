@@ -1,16 +1,26 @@
 // Colours
-$text-dark: #222;
-$text-muted: #555;
+$text-dark: rgba(0,0,0, 0.9);
+$text-muted: rgba(0,0,0, 0.6);
+$text-faded: rgba(0,0,0, 0.35);
+$inverted-soft: #B2B2B2;
+$inverted-faded: #636363;
 $blue: #2da6c8;
-$link: #0080a2;
+$primary: #7F974E;
+$primary-faded: rgba($primary, 0.15);
+$link: #0031b8;
 $red: #d03758;
 $border: rgba($text-dark, 0.3);
 $border-light: rgba($text-dark, 0.15);
 
+$shadow: 0 6px 16px -4px rgba(0, 0, 0, 0.50);
+
 // Typography
-$font-header: Lora, Georgia, serif;
-$font-body: Lora, Georgia, serif;
-$font-system: "Inter", -apple-system,BlinkMacSystemFont,"Helvetica Neue","Helvetica","Arial",sans-serif;
+$font-title: 'Portonovo Trial', 'Charter', Georgia, serif;
+$font-body: 'Charter', serif;
+$font-sans: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-title-weight: 100;
+$font-weight-sans-regular: 400;
+$font-weight-sans-bold: 600;
 
 $font-size-lg: 18px;
 $font-size-md: 16px;
@@ -20,7 +30,8 @@ $line-height: 1.6;
 $line-height-header: 1.3;
 
 // Containers
-$container: 1000px;
+$container: 1280px;
+$container-lg: 1280px;
 $container-md: 720px;
 $container-sm: 640px;
 $container-xs: 500px;

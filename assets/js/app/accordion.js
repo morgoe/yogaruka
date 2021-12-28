@@ -8,6 +8,5 @@ function initAccordions() {
       $(accordion).parent().find('.accordion').removeClass('is-open')
       $(accordion).addClass('is-open')
     }
-
   });
 }

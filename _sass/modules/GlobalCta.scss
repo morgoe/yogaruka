@@ -5,7 +5,7 @@
 	color: white;
 	background: $blue;
   font-size: $font-size-sm;
-  font-family: $font-system;
+  @extend .font-sans;
 	padding: $spacing-xs $spacing-sm;
 	position: fixed;
 	bottom: 0;
@@ -19,7 +19,7 @@
 
 @media (min-width: $media-tablet) {
 	body {
-		padding-top: $global-cta-desktop-height;
+		// padding-top: $global-cta-desktop-height;
 	}
 	.GlobalCta {
 		@include justify-content(center);

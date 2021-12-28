@@ -2,6 +2,7 @@
 layout: default
 cover-image: corporate
 permalink: /corporate-classes/
+site-nav: corporate-classes
 published: true
 title: Corporate Stretch and Yoga Classes in Sydney
 h1: Corporate Stretch and Yoga Classes in Sydney
@@ -24,6 +25,27 @@ Single Class Pack:
 - 10-class pack for larger teams (9+ people): $2490 ($249/class)
 
 Facilitated by any of our teachers, in function of the required class typology. For very large teams (20+ people) please request a quote, since two teachers might need to be dispatched.
-
-<a class="button" href="/contact">Contact us to Book</a>
 </section>
+
+<div class="container container--sm">
+  <label>Class size:</label>
+  <div class="tabs">
+    <a class="tabs-button js-tabButton is-active" href="#small">Small (3-8 people)</a>
+    <a class="tabs-button js-tabButton" href="#large">Large (9+ people)</a>
+  </div>
+
+  <div class="tabs-content is-active" id="small">
+    <div class="Prices">
+      {% include price.html title="Single class" subtitle="One group corporate class at your office, or at one of our studios, or online." amount=site.pricing.corporateSingleSmall amountSuffix="for 1 class" url="/contact/" %}
+
+      {% include price.html title="Ten class pass" subtitle="10 group corporate classes over 26 weeks whenever & wherever you please." amount=site.pricing.corporateTenClassPassSmall amountSuffix="per class" url="/contact/" %}
+    </div>
+  </div>
+  <div class="tabs-content" id="large">
+    <div class="Prices">
+      {% include price.html title="Single class" subtitle="One group corporate class at your office, or at one of our studios, or online." amount=site.pricing.corporateSingleLarge amountSuffix="for 1 class" url="/contact/" %}
+
+      {% include price.html title="Ten class pass" subtitle="10 group corporate classes over 26 weeks whenever & wherever you please." amount=site.pricing.corporateTenClassPassLarge amountSuffix="per class" url="/contact/" %}
+    </div>
+  </div>
+</div>

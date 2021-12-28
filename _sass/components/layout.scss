@@ -35,10 +35,16 @@
 }
 
 section {
-  margin-bottom: $spacing-xl;
+  padding-bottom: $spacing-lg;
   + section {
     border-top: 1px solid rgba($text-dark, 0.15);
-    padding-top: $spacing-xl;
+    padding-top: $spacing-lg;
+  }
+  @media (min-width: $media-md) {
+	  padding-bottom: $spacing-xl;
+	  + section {
+	    padding-top: $spacing-xl;
+	  }
   }
 }
 

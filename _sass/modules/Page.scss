@@ -13,15 +13,12 @@
   .subtitle {
     color: white;
   }
-  .subtitle {
-    font-style: italic;
-  }
 }
 .Page-announcement {
   font-size: 12px;
-  font-family: $font-system;
-  font-weight: bold;
-  padding: 4px 12px;
+  @extend .font-sans;
+  font-weight: $font-weight-sans-bold;
+  padding: 5px 12px 3px;
   background: white;
   display: inline-block;
   border-radius: 16px;
@@ -56,8 +53,8 @@
 
 .Page-content {
   @extend .pagePadding;
-  padding-top: $spacing-lg;
-  padding-bottom: $spacing-lg;
+  padding-top: $spacing-md;
+  padding-bottom: $spacing-md;
 }
 .Page-footer {
   border-top: 1px solid $border-light;
@@ -66,7 +63,7 @@
   padding-bottom: $spacing-xl;
   color: $text-muted;
   font-size: $font-size-xs;
-  font-family: $font-system;
+  @extend .font-sans;
   text-align: center;
   a {
     text-decoration: underline;

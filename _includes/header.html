@@ -4,33 +4,81 @@
 		  <img src="/assets/images/header/logo.svg" class="Header-logo">
     </a>
 
-		<nav class="Header-nav Header-nav--desktop">
-			<a class="Header-link {% if page.site-nav == 'about' %}now-active{% endif %}" href="/about/">About</a>
-			<a class="Header-link {% if page.site-nav == 'services' %}now-active{% endif %}" href="/services">Services</a>
-			<a class="Header-link {% if page.site-nav == 'timetable' %}now-active{% endif %}" href="/timetable/">Timetable</a>
-			<a class="Header-link {% if page.site-nav == 'prices' %}now-active{% endif %}" href="/prices/">Prices</a>
-			<a class="Header-link {% if page.site-nav == 'contact' %}now-active{% endif %}" href="/contact/">Contact</a>
+		<nav class="Header-nav js-mobileMenu">
+			<ul class="Header-navList">
+				<li class="Header-navListItem js-dropdownGroup">
+					<button class="Header-dropdownButton js-headerNavDropdown">
+						<span class="Header-buttonText">Locations</span>
+						<img src="/assets/icons/chevron.svg" class="Header-chevron">
+					</button>
+					<ul class="Header-dropdown {% if page.site-nav == 'alexandria' or page.site-nav == 'russell-lea' %}is-open{% endif %}">
+						<li class="Header-navListItem">
+							<a class="Header-link {% if page.site-nav == 'russell-lea' %}is-active{% endif %}" href="/russell-lea">Russell Lea</a>
+						<li class="Header-navListItem">
+							<a class="Header-link {% if page.site-nav == 'alexandria' %}is-active{% endif %}" href="/alexandria">Alexandria</a>
+						</li>
+						</li>
+					</ul>
+				</li>
+				<li class="Header-navListItem">
+					<a class="Header-link {% if page.site-nav == 'timetable' %}is-active{% endif %}" href="/timetable">
+						<span class="Header-buttonText">Timetable</span>
+					</a>
+				</li>
+				<li class="Header-navListItem js-dropdownGroup">
+					<button class="Header-dropdownButton js-headerNavDropdown">
+						<span class="Header-buttonText">Pricing</span>
+						<img src="/assets/icons/chevron.svg" class="Header-chevron">
+					</button>
+					<ul class="Header-dropdown {% if page.site-nav == 'new-students' or page.site-nav == 'pricing' %}is-open{% endif %}">
+						<li class="Header-navListItem">
+							<a class="Header-link {% if page.site-nav == 'new-students' %}is-active{% endif %}" href="/new-students">New students</a>
+						</li>
+						<li class="Header-navListItem">
+							<a class="Header-link {% if page.site-nav == 'pricing' %}is-active{% endif %}" href="/pricing">Continuing students</a>
+						</li>
+					</ul>
+				</li>
+				<li class="Header-navListItem js-dropdownGroup">
+					<button class="Header-dropdownButton js-headerNavDropdown">
+						<span class="Header-bttonText">About</span>
+						<img src="/assets/icons/chevron.svg" class="Header-chevron">
+					</button>
+					<ul class="Header-dropdown {% if page.site-nav == 'about' or page.site-nav == 'classes' or page.site-nav == 'faqs' or page.site-nav == 'teachers' or page.site-nav == 'private-classes' or page.site-nav == 'corporate-classes' %}is-open{% endif %}">
+						<li class="Header-navListItem">
+							<a class="Header-link {% if page.site-nav == 'about' %}is-active{% endif %}" href="/about">About Yogaruka</a>
+						</li>
+						<!-- <li class="Header-navListItem">
+							<a class="Header-link {% if page.site-nav == 'classes' %}is-active{% endif %}">Class types</a>
+						</li> -->
+						<li class="Header-navListItem">
+							<a class="Header-link {% if page.site-nav == 'faqs' %}is-active{% endif %}" href="/faqs">FAQs</a>
+						</li>
+						<li class="Header-navListItem">
+							<a class="Header-link {% if page.site-nav == 'teachers' %}is-active{% endif %}" href="/teachers">Teachers</a>
+						</li>
+						<li class="Header-navListItem">
+							<a class="Header-link {% if page.site-nav == 'private-classes' %}is-active{% endif %}" href="/private-classes">Private classes</a>
+						</li>
+						<li class="Header-navListItem">
+							<a class="Header-link {% if page.site-nav == 'corporate-classes' %}is-active{% endif %}" href="/corporate-classes">Corporate classes</a>
+						</li>
+					</ul>
+				</li>
+				<li class="Header-navListItem">
+					<a class="Header-link {% if page.site-nav == 'contact' %}is-active{% endif %}" href="/contact">
+						<span class="Header-bttonText">Contact</span>
+					</a>
+				</li>
+			</ul>
 		</nav>
 
-		<aside class="Header-actions">
-			<a class="Header-actionLink" href="https://www.google.com/maps/place/YogaRuka/@-33.8601573,151.1397601,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12aff7b8e25631:0x237b26f4ee6dea9a!8m2!3d-33.8601618!4d151.1419488?hl=en-US" target="_blank">
-				<img src="/assets/images/header/location-icon.svg" class="Header-actionIcon">
-				289 Lyons Road
-			</a>
-			<a class="Header-actionLink" href="tel:+61297051551">
-				<img src="/assets/images/header/phone-icon.svg" class="Header-actionIcon">
-				9705 1551
-			</a>
-		</aside>
+		<div class="Header-endFlex">
+			<a class="button button--inverted button--sm js-conversion-globalCta" href="/timetable#timetable">Book now</a>
+			<button class="Header-menuButton js-toggleMobileMenu">
+				<img src="/assets/icons/menu.svg" class="Header-menuButtonIconClosed">
+				<img src="/assets/icons/close.svg" class="Header-menuButtonIconOpen">
+			</button>
+		</div>
 	</div>
 </header>
-
-<div class="Header-mobileNavWrapper">
-	<nav class="Header-nav Header-nav--mobile">
-		<a class="Header-link {% if page.site-nav == 'about' %}now-active{% endif %}" href="/about/">About</a>
-		<a class="Header-link {% if page.site-nav == 'services' %}now-active{% endif %}" href="/services">Services</a>
-		<a class="Header-link {% if page.site-nav == 'timetable' %}now-active{% endif %}" href="/timetable/">Timetable</a>
-		<a class="Header-link {% if page.site-nav == 'prices' %}now-active{% endif %}" href="/prices/">Prices</a>
-		<a class="Header-link {% if page.site-nav == 'contact' %}now-active{% endif %}" href="/contact/">Contact</a>
-	</nav>
-</div>

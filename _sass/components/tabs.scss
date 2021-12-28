@@ -1,0 +1,37 @@
+// Reset
+.tabs {
+  @include inline-flex();
+  background: rgba($text-dark, 0.1);
+  padding: 4px;
+  border-radius: calc(#{$action-border-radius} + 2px);
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  @media (min-width: 400px) {
+    overflow: visible;
+  }
+}
+.tabs-button {
+  @include inline-flex();
+  @include align-items(center);
+  border-radius: $action-border-radius;
+  background: none;
+  border: none;
+  height: $action-height-sm;
+  font-family: $font-sans;
+  font-weight: $font-weight-sans-bold;
+  font-size: $font-size-sm;
+  padding: 8px 12px 8px;
+  color: $text-dark;
+  white-space: nowrap;
+  &.is-active {
+    box-shadow: $shadow; 
+    background: white;
+  }
+}
+.tabs-content {
+  display: none;
+  &.is-active {
+    display: block;
+  }
+}

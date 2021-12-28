@@ -1,9 +1,18 @@
-<div>
-  <a class="Price js-conversion-price" href="{{ include.url }}">
-    <div class="Price-content">
-      <div class="Price-title">{{ include.title }}</div>
-      <div class="Price-subtitle">{{ include.subtitle }}</div>
+<div class="Price">
+  <div>
+    <h4 class="Price-title">{{ include.title }}</h4>
+    <div class="Price-subtitle">{{ include.subtitle }}</div>
+  </div>
+
+  <div>
+    <div class="Price-amount">
+      {{ include.amount }}
+      <span class="Price-amountSuffix">
+        {{ include.amountSuffix }}
+      </span>
     </div>
-    <div class="Price-amount">{{ include.amount }}</div>
-  </a>
+    <a class="button button--large button--fullWidth js-conversion-price" href="{{ include.url }}">
+      Book now
+    </a>
+  </div>
 </div>

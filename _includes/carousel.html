@@ -1,77 +1,75 @@
-<div class="carousel">
-	<div class="carousel-frame">
-		<ul class="carousel-list">
-      {% if include.tile1_image %}
-        <li class="carousel-listItem {% if include.tile1_video %}carousel-listItem--video js-modal{% endif %}" id="{% if include.tile1_video %}{{ include.tile1_video }}{% endif %}">
-          <div class="carousel-image">
-            <img src="{{ include.tile1_image }}">
+<ul class="carousel {% if include.carousel_mobile %}carousel--mobile{% endif %}">
+  {% if include.tile1_image %}
+    <li class="carousel-listItem {% if include.tile1_video %}carousel-listItem--video js-modal{% endif %}" id="{% if include.tile1_video %}{{ include.tile1_video }}{% endif %}">
+      <div class="carousel-image">
+        <img src="{{ include.tile1_image }}">
 
-            {% if include.tile1_video %}
-              <img class="carousel-playIcon" src="/assets/icons/play.svg">
-            {% endif %}
-          </div>
-          
-          <figcaption>
-            {% if include.tile1_title %}
-              <h5>{{ include.tile1_title }}</h5>
-            {% endif %}
-            {% if include.tile1_caption %}
-              <p>{{ include.tile1_caption }}</p>
-            {% endif %}
-          </figcaption>
-        </li>
-      {% endif %}
-
-
-      {% if include.tile2_image %}
-        <li class="carousel-listItem {% if include.tile2_video %}carousel-listItem--video js-modal{% endif %}" id="{% if include.tile2_video %}{{ include.tile2_video }}{% endif %}">
-          <div class="carousel-image">
-            <img src="{{ include.tile2_image }}">
-
-            {% if include.tile2_video %}
-              <img class="carousel-playIcon" src="/assets/icons/play.svg">
-            {% endif %}
-          </div>
-          
-          <figcaption>
-            {% if include.tile2_title %}
-              <h5>{{ include.tile2_title }}</h5>
-            {% endif %}
-            {% if include.tile2_caption %}
-              <p>{{ include.tile2_caption }}</p>
-            {% endif %}
-          </figcaption>
-        </li>
-      {% endif %}
+        {% if include.tile1_video %}
+          <img class="carousel-playIcon" src="/assets/icons/play.svg">
+        {% endif %}
+      </div>
+      
+      <figcaption>
+        {% if include.tile1_title %}
+          <h5>{{ include.tile1_title }}</h5>
+        {% endif %}
+        {% if include.tile1_caption %}
+          <p>{{ include.tile1_caption }}</p>
+        {% endif %}
+        {% if include.tile1_linkUrl %}
+          <a class="link" href="{{ include.tile1_linkUrl }}">{{ include.tile1_linkText }}</a>
+        {% endif %}
+      </figcaption>
+    </li>
+  {% endif %}
 
 
-			{% if include.tile3_image %}
-				<li class="carousel-listItem {% if include.tile3_video %}carousel-listItem--video js-modal{% endif %}" id="{% if include.tile3_video %}{{ include.tile3_video }}{% endif %}">
-          <div class="carousel-image">
-					  <img src="{{ include.tile3_image }}">
+  {% if include.tile2_image %}
+    <li class="carousel-listItem {% if include.tile2_video %}carousel-listItem--video js-modal{% endif %}" id="{% if include.tile2_video %}{{ include.tile2_video }}{% endif %}">
+      <div class="carousel-image">
+        <img src="{{ include.tile2_image }}">
 
-            {% if include.tile3_video %}
-              <img class="carousel-playIcon" src="/assets/icons/play.svg">
-            {% endif %}
-          </div>
+        {% if include.tile2_video %}
+          <img class="carousel-playIcon" src="/assets/icons/play.svg">
+        {% endif %}
+      </div>
+      
+      <figcaption>
+        {% if include.tile2_title %}
+          <h5>{{ include.tile2_title }}</h5>
+        {% endif %}
+        {% if include.tile2_caption %}
+          <p>{{ include.tile2_caption }}</p>
+        {% endif %}
+        {% if include.tile2_linkUrl %}
+          <a class="link" href="{{ include.tile2_linkUrl }}">{{ include.tile2_linkText }}</a>
+        {% endif %}
+      </figcaption>
+    </li>
+  {% endif %}
 
-					<figcaption>
-						{% if include.tile3_title %}
-							<h5>{{ include.tile3_title }}</h5>
-						{% endif %}
-						{% if include.tile3_caption %}
-							<p>{{ include.tile3_caption }}</p>
-						{% endif %}
-					</figcaption>
-				</li>
-			{% endif %}
-		</ul>
-	</div>
-	<div class="carousel-scrollbar">
-		<div class="carousel-scrollbarHandle"></div>
-	</div>
-	<!-- <div class="carousel-buttons">
-		<button class="carousel-button carousel-button--prev"></button>
-		<button class="carousel-button carousel-button--next"></button>
-	</div> -->
-</div>
+
+	{% if include.tile3_image %}
+		<li class="carousel-listItem {% if include.tile3_video %}carousel-listItem--video js-modal{% endif %}" id="{% if include.tile3_video %}{{ include.tile3_video }}{% endif %}">
+      <div class="carousel-image">
+			  <img src="{{ include.tile3_image }}">
+
+        {% if include.tile3_video %}
+          <img class="carousel-playIcon" src="/assets/icons/play.svg">
+        {% endif %}
+      </div>
+
+			<figcaption>
+				{% if include.tile3_title %}
+					<h5>{{ include.tile3_title }}</h5>
+				{% endif %}
+				{% if include.tile3_caption %}
+					<p>{{ include.tile3_caption }}</p>
+				{% endif %}
+        {% if include.tile3_linkUrl %}
+          <a class="link" href="{{ include.tile3_linkUrl }}">{{ include.tile3_linkText }}</a>
+        {% endif %}
+			</figcaption>
+		</li>
+	{% endif %}
+</ul>

@@ -1,21 +1,25 @@
+.Prices {
+  @include flexbox();
+  @include flex-wrap(wrap);
+  margin-top: 0px;
+  margin-left: -20px;
+}
+
 .Price {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-top: $spacing-md;
-  margin-bottom: $spacing-md;
-  min-height: 84px;
-
-  border: 1px solid $border;
-  padding: $spacing-sm;
-  font-size: $font-size-md;
-  text-decoration: none !important;
-
-  &:hover {
-    border-color: $link;
-    .Price-title {
-      color: $link;
-      text-decoration: underline;
+  @include flexbox();
+  @include flex-direction(column);
+  @include justify-content(space-between);
+  width: 100%;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  border: 1px solid $border-light;
+  padding: 20px;
+  &:nth-child(2) {
+    background: $primary-faded;
+    .button {
+      color: white;
+      background: $text-dark;
     }
   }
 }
@@ -25,8 +29,6 @@
 }
 
 .Price-title {
-  color: $link;
-  font-weight: 600;
 }
 
 .Price-subtitle {
@@ -34,12 +36,32 @@
 }
 
 .Price-amount {
-  color: $text-muted;
+  font-size: 1.5rem;
+  font-family: $font-title;
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+.Price-amountSuffix {
+  font-size: 1rem;
+  font-family: $font-body;
+  color: $text-muted; 
 }
 
+@media (min-width: $media-md) {
+  .Prices {
+    @include flex-wrap(nowrap);
+  }
+}
 
-@media (min-width: $media-tablet) {
-  .Price-title {
-    color: $text-dark;
+@media (min-width: $media-lg) {
+  .Price {
+    padding: 32px;
+  }
+  .Price-amount {
+    font-size: 2rem;
+    margin-top: 24px;
+  }
+  .Price-amountSuffix {
+    font-size: 1.25rem;
   }
 }

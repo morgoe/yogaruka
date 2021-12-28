@@ -14,13 +14,13 @@
 label {
   display: block;
   font-size: $font-size-md;
-  font-family: $font-system;
+  @extend .font-sans;
   margin-bottom: $spacing-xxs;
 }
 
 .input {
   font-size: $action-font-size;
-	font-family: $font-system;
+  @extend .font-sans;
 	width: 100%;
 
 	background: white;

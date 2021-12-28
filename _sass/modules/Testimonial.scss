@@ -1,10 +1,19 @@
 .Testimonial {
   max-width: 640px;
   margin: auto;
+  padding: 32px;
+  border: 1px solid $border-light;
+  padding: $spacing-md;
+  @media (min-width: $media-sm) {
+    padding: 32px;
+  }
+  @media (min-width: $media-md) {
+    padding: 48px;
+  }
 }
 .Testimonial-text {
-  text-align: center;
-  font-style: italic;
+  // text-align: center;
+  // font-style: italic;
   &:before {
     content: "“"
   }
@@ -15,7 +24,7 @@
 .Testimonial-owner {
   @include flexbox();
   @include align-items(center);
-  @include justify-content(center);
+  // @include justify-content(center);
   margin-top: 1rem;
   .media-image {
     width: 3rem;

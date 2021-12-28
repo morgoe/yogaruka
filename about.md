@@ -3,8 +3,8 @@ layout: default
 site-nav: about
 cover-image: about
 permalink: /about/
-title: Studio and Teachers
-h1: Studio and Teachers
+title: About Yogaruka
+h1: About Yogaruka
 subtitle: >-
   Our studio is committed to helping people move and feel better, whether in
   your athletic pursuits or your daily life.
@@ -12,7 +12,7 @@ published: true
 ---
 
 <section id="studio">
-	{% include carousel.html tile1_image="/assets/images/about/outside.jpg" tile1_caption="Sydney’s first sustainable yoga studio, located in an old church." tile2_image="/assets/images/about/inside.jpg"  tile2_caption="Our sanctuary is the first studio to date in Australia to be fully ecological." tile3_image="/assets/images/about/props.jpg" tile3_caption="YogaRuka is meant to be as much your practice space as it is ours." %}
+	{% include carousel.html carousel_mobile=true tile1_image="/assets/images/about/outside.jpg" tile1_caption="Sydney’s first sustainable yoga studio, located in an old church." tile2_image="/assets/images/about/inside.jpg"  tile2_caption="Our sanctuary is the first studio to date in Australia to be fully ecological." tile3_image="/assets/images/about/props.jpg" tile3_caption="YogaRuka is meant to be as much your practice space as it is ours." %}
 </section>
 
 <section>
@@ -30,8 +30,4 @@ Our space is unique in that it is the first Australian yoga studio in a restored
 
 YogaRuka is a community focused studio. We want you to feel at home in our space and to make it yours. Anyone is welcome who wants to share their interest in healthy and conscious movement, and living.
 </div>
-</section>
-
-<section markdown="1" class="Longform">
-{% include content/teachers.html %}
 </section>

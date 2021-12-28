@@ -12,6 +12,18 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.font-sans {
+  font-family: $font-sans;
+  font-weight: $font-weight-sans-regular;
+}
+.font-body {
+  font-family: $font-body;
+}
+.font-title {
+  font-family: $font-title;
+  font-weight: $font-title-weight;
+}
+
 h1,
 h2,
 h3,
@@ -27,9 +39,8 @@ h1,
 h2,
 .h1,
 .h2 {
-	font-family: $font-header;
-	font-weight: 100;
 	line-height: $line-height-header;
+  @extend .font-title;
 }
 
 h1,
@@ -40,7 +51,7 @@ h1,
 
 h2,
 .h2 {
-	font-size: 2rem;
+	font-size: 28px;
 }
 
 h3,
@@ -48,9 +59,11 @@ h3,
 h4,
 .h4,
 h5,
-.h5 {
-	font-weight: 600;
-  font-family: $font-system
+.h5,
+h6,
+.h6 {
+  @extend .font-sans;
+  font-weight: $font-weight-sans-bold;
 }
 
 h3,
@@ -65,7 +78,9 @@ h4,
 }
 
 h5,
-.h5 {
+.h5,
+h6,
+.h6 {
   font-size: inherit;
 }
 
@@ -79,7 +94,7 @@ p + p {
 
 .subtitle {
 	color: $text-muted;
-  font-style: italic;
+  // font-style: italic;
 }
 
 @media (min-width: $media-tablet) {
@@ -98,11 +113,32 @@ p + p {
 
 	h2,
 	.h2 {
-		font-size: 2rem;
+		font-size: 34px;
 	}
 
 	h4,
 	.h4 {
 		font-size: 1.25rem;
 	}
+}
+
+
+
+@font-face {
+  font-family: "Charter";
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/fonts/charter_regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Charter";
+  font-style: normal;
+  font-weight: 600;
+  src: url('/assets/fonts/charter_bold.woff2') format('woff2');
+}
+@font-face {
+  font-family: "Charter";
+  font-style: italic;
+  font-weight: 400;
+  src: url('/assets/fonts/charter_italic.woff2') format('woff2');
 }

@@ -2,6 +2,11 @@
 	display: none;
 }
 
+@media (max-width: 400px) {
+	.hidden--xs {
+		display: none !important;
+	}
+}
 @media (max-width: 767px) {
 	.hidden--sm {
 		display: none !important;

@@ -15,7 +15,7 @@
   }
   a {
     display: flex;
-    font-family: $font-system;
+    @extend .font-sans;
     text-decoration: none;
     &:hover div {
       text-decoration: underline;
