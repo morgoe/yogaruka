@@ -10,6 +10,73 @@
   }
 }
 
+// Contact form
+.ap3w-embeddable-form-61b94e3336b825200f5cb94a {
+  border: none !important;
+
+  .ap3w-form-input-61b94e3336b825200f5cb94a,
+  .ap3w-input-phone-61b94e3336b825200f5cb94a,
+  .ap3w-form-button-61b94e3336b825200f5cb94a button {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  .ap3w-form-button-61b94e3336b825200f5cb94a button {
+    padding-top: 9px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 9px;
+  }
+  .ap3w-input-phone-61b94e3336b825200f5cb94a input,
+  .ap3w-form-input-61b94e3336b825200f5cb94a input,
+  .ap3w-form-input-61b94e3336b825200f5cb94a textarea {
+    margin-top: 4px;
+    border-color: $border-light;
+  }
+}
+
+// Newsletter form
+.ap3w-embeddable-form-61caa4013d04c9df96b758f0 {
+  border: none !important;
+  text-align: left;
+
+  .ap3w-form-input-61caa4013d04c9df96b758f0,
+  .ap3w-form-button-61caa4013d04c9df96b758f0 button {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  } 
+  .ap3w-form-button-61caa4013d04c9df96b758f0 button {
+    padding-top: 9px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 9px;
+  }
+  .ap3w-form-input-61caa4013d04c9df96b758f0 input,
+  .ap3w-form-input-61caa4013d04c9df96b758f0 textarea {
+    margin-top: 4px;
+    border-color: $border-light;
+  }
+
+  @media (min-width: $media-sm) {
+    .ap3-form-br {
+      display: none;
+    }
+    .ap3w-text--first {
+      width: 100%;
+    }
+
+    .ap3w-form-input-61caa4013d04c9df96b758f0 {
+      width: auto !important;
+      @include flex-grow(1);
+      margin-right: $spacing-md !important;
+      margin-bottom: 0;
+    }
+    .ap3w-form-button-61caa4013d04c9df96b758f0 {
+      width: auto !important;
+      @include align-self(flex-end);
+    }
+  }
+}
+
 @media (max-width: $media-xs) {
   .ap3w-notification--large.ap3w-notification--large,
   .ap3w-popup--small.ap3w-popup--small {
