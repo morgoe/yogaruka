@@ -22,7 +22,7 @@ published: true
   </section>
 
   <section>
-    {% include carousel.html carousel_mobile=true tile1_image="/assets/images/home/strength.jpg" tile1_title="Strength" tile1_caption="Strength is a byproduct of good, regular movement. But for most people, this is exactly the problem. Movement so often feels like a chore. When moving is enjoyable, something you’d prefer to do, rather than sit around, strength is inevitable." tile2_image="/assets/images/home/flexibility.jpg" tile2_title="Flexibility" tile2_caption="Your body feels tight because aecenas sed diam eget risus varius blandit sit amet non magna. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Flexibility comes when that trust is rebuilt." tile3_image="/assets/images/home/freedom.jpg" tile3_title="Freedom from injuries" tile3_caption="Injuries happen when we’re disconnected from our body, and rushing to achieve some arbitrary goal. Freedom from injuries comes from letting go of expectations, and engaging with your body in the moment. This also happens to be much more fun." %}
+    {% include carousel.html carousel_mobile=true tile1_image="/assets/images/home/strength.jpg" tile1_title="Strength" tile1_caption="Strength is a byproduct of good, regular movement. When moving becomes enjoyable, something you’d prefer to do rather than sit around, strength comes naturally." tile2_image="/assets/images/home/flexibility.jpg" tile2_title="Flexibility" tile2_caption="The feeling of tightness is how the body expresses fear of foreign or forgotten movements. Flexibility comes from exploring these movements in a safe, controlled space." tile3_image="/assets/images/home/freedom.jpg" tile3_title="Freedom from injuries" tile3_caption="Injuries happen when we’re disconnected from our body. Freedom comes from letting go of expectations and fully engaging with your body in the moment. " %}
   </section>
 
   <section>
@@ -32,7 +32,7 @@ published: true
         <h2>New to Yogaruka?</h2>
 
         <p>New students get unlimited classes for 14 days at either of our studios, or online.</p>
-        <a class="button button--large button--inverted">Get started</a>
+        <a class="button button--large button--inverted" href="https://www.momoyoga.com/yogaruka/member/orderstartdate/51942">Get started</a>
       </div>
     </div>
   </section>
@@ -52,7 +52,7 @@ published: true
   </section>
 
   <section>
-    {% include components/testimonial.html name="Tania Ballistreri" text="I highly recommend YogaRuka. There’s a selection of classes to suit all needs in a calm and beautiful environment. I always feel invigorated, open and calm after each session. The team are lovely and helpful." image="/assets/images/home/testimonial-tania.jpg" %}
+    {% include components/testimonial.html name="Tina Goodman" text="“Gentle yet challenging classes. I always leave feeling stronger and more relaxed. The small class sizes really help with meditation during practice.”" image="/assets/images/home/testimonial-tina.jpg" %}
   </section>
 
   <section>

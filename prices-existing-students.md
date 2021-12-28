@@ -1,10 +1,10 @@
 ---
 layout: default
 cover-image: prices
-title: Prices for continuing students
+title: Pricing for continuing students
 permalink: /pricing/
 site-nav: pricing
-h1: Prices for continuing students
+h1: Pricing for continuing students
 subtitle: >-
   Private and small group classes for all ages and all skill levels.
   Personalised attention to prevent and recover from injuries.

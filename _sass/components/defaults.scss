@@ -9,10 +9,8 @@ a {
 	cursor: pointer;
 	&.link {
 		color: $link;
-		text-decoration: underline;
-		text-decoration-color: rgba($link, 0.35);
 		&:hover {
-			text-decoration-color: $link;
+			text-decoration: underline;
 		}
 	}
 }

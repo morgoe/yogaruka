@@ -1,10 +1,10 @@
 ---
 layout: default
 cover-image: prices
-title: Prices for new students
+title: Pricing for new students
 permalink: /new-students/
 site-nav: new-students
-h1: Prices for new students
+h1: Pricing for new students
 subtitle: >-
   We have two options for newcomers to Yogaruka. Both are great ways to get started and learn what the studio is all about.
 published: true

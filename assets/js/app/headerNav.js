@@ -9,15 +9,10 @@ function initHeaderNav() {
       $(dropdown).addClass('is-open')
     }
   });
-  $('.js-dropdownGroup').hover(function() {
-    var dropdown = $(this).closest('.js-dropdownGroup');
-
-    if ($(dropdown).hasClass('is-hovered')) {
-      $(dropdown).removeClass('is-hovered')
-    } else {
-      $(dropdown).removeClass('is-hovered')
-      $(dropdown).addClass('is-hovered')
-    }
+  $('.js-dropdownGroup').mouseover(function() {
+    $(this).addClass('is-hovered')
+  }).mouseleave(function() {
+    $(this).removeClass('is-hovered')
   });
 
   $('.js-toggleMobileMenu').click(function() {
