@@ -30,7 +30,8 @@ $line-height: 1.6;
 $line-height-header: 1.3;
 
 // Containers
-$container: 1280px;
+$max-width: 1280px;
+$container: $max-width;
 $container-lg: 1280px;
 $container-md: 720px;
 $container-sm: 640px;
@@ -38,7 +39,6 @@ $container-xs: 500px;
 
 // Layout
 $rhythm: $line-height * 1rem;
-$max-width: 1000px;
 $spacing-xl: 64px;
 $spacing-lg: 32px;
 $spacing-md: 20px;
@@ -73,6 +73,6 @@ $button-height-sm: 36px;
 $input-height: 40px;
 $button-height: 40px;
 $border-radius: 4px;
-$header-nav-mobile-height: 56px;
-$header-nav-desktop-height: 64px;
+$header-nav-mobile-height: 64px;
+$header-nav-desktop-height: 72px;
 $global-cta-desktop-height: 52px;

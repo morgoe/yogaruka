@@ -5,19 +5,22 @@
         {% include header.html %}
 
         <div class="Page-hero">
-            <div class="container">
-                {% if page.announcement %}
-                    <p class="Page-announcement">{{ page.announcement }}</p>
-                {% endif %}
-                <div class="container--md">
-                    <h1>{{ page.h1 }}</h1>
-                    <p class="subtitle">{{ page.subtitle }}</p>
+            <div class="Page-heroText">
+                <div class="container">
+                    {% if page.announcement %}
+                        <p class="Page-announcement">{{ page.announcement }}</p>
+                    {% endif %}
+                    <div class="container--md">
+                        <h1>{{ page.h1 }}</h1>
+                        <p class="subtitle">{{ page.subtitle }}</p>
+                    </div>
                 </div>
             </div>
-            <div class="Page-heroImage {% if page.cover-image %}Page-heroImage--{{ page.cover-image }}{% endif %}"></div>
-
+            
             {% if page.cover-image == 'home' %}
               {% include content/home/video.html %}
+            {% else %}
+              <div class="Page-heroImage {% if page.cover-image %}Page-heroImage--{{ page.cover-image }}{% endif %}"></div>    
             {% endif %}
         </div>
 
