@@ -22,7 +22,7 @@ published: true
   </section>
 
   <section>
-    {% include carousel.html carousel_mobile=true tile1_image="/assets/images/home/strength.jpg" tile1_title="Strength" tile1_caption="Strength is a byproduct of good, regular movement. When moving becomes enjoyable, something you’d prefer to do rather than sit around, strength comes naturally." tile2_image="/assets/images/home/flexibility.jpg" tile2_title="Flexibility" tile2_caption="The feeling of tightness is how the body expresses fear of foreign or forgotten movements. Flexibility comes from exploring these movements in a safe, controlled space." tile3_image="/assets/images/home/freedom.jpg" tile3_title="Freedom from injuries" tile3_caption="Injuries happen when we’re disconnected from our body. Freedom comes from letting go of expectations and fully engaging with your body in the moment. " %}
+    {% include carousel.html carousel_mobile=true tile1_image="/assets/images/home/strength.jpg" tile1_title="Strength" tile1_caption="Strength is a byproduct of good, regular movement. When moving becomes enjoyable, something you’d prefer to do rather than sit around, strength comes easily." tile2_image="/assets/images/home/flexibility.jpg" tile2_title="Flexibility" tile2_caption="The feeling of tightness is how the body expresses fear of foreign or forgotten movements. Flexibility comes from exploring these movements in a safe, controlled space." tile3_image="/assets/images/home/freedom.jpg" tile3_title="Freedom from injuries" tile3_caption="Injuries happen when we’re disconnected from our body. Freedom comes from letting go of expectations and fully engaging with your body in the moment. " %}
   </section>
 
   <section>
@@ -52,7 +52,7 @@ published: true
   </section>
 
   <section>
-    {% include components/testimonial.html name="Tina Goodman" text="“Gentle yet challenging classes. I always leave feeling stronger and more relaxed. The small class sizes really help with meditation during practice.”" image="/assets/images/home/testimonial-tina.jpg" %}
+    {% include components/testimonial.html name="Tina Goodman" text="Gentle yet challenging classes. I always leave feeling stronger and more relaxed. The small class sizes really help with meditation during practice." image="/assets/images/home/testimonial-tina.jpg" %}
   </section>
 
   <section>
