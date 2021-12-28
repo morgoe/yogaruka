@@ -1,10 +1,10 @@
 ---
 layout: default
 body-id: home
-site-nav: alexandria
+site-nav: home
 cover-image: home
 permalink: /
-announcement: 🎉 We’re opening a second location in Alexandria!
+announcement: 🎉 Our Alexandria studio opens on 2 Jan!
 h1: Exceptional strength and flexibility for everyday movers
 subtitle: The best of yoga, pilates, and functional movement fused into challenging yet accessible classes. Located in Alexandria, Russell Lea, and online.
 published: true

@@ -18,7 +18,7 @@ Our Russell Lea sanctuary was the first studio in Australia to be <strong>fully 
 
 This studio is the first Australian yoga studio in a restored church. The building dates back to 1942 and is an architectural treasure, providing plenty of space and beautiful light to enhance any practice.
 
-<a class="button button--large" href="/timetable/?location=alexandria#timetable">View Russell Lea timetable</a>
+<a class="button button--large" href="/timetable/?location=russell-lea#timetable">View Russell Lea timetable</a>
 </div>
 </div>
 <div class="col-md-6">

@@ -168,7 +168,9 @@
     @include align-items(center);
     @include justify-content(center);
   }
-
+  .Header-navListItem--hiddenDesktop {
+    display: none;
+  }
   .Header-link,
   .Header-dropdownButton {
     color: white;

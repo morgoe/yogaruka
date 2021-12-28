@@ -6,6 +6,11 @@
 
 		<nav class="Header-nav js-mobileMenu">
 			<ul class="Header-navList">
+				<li class="Header-navListItem Header-navListItem--hiddenDesktop">
+					<a class="Header-link {% if page.site-nav == 'home' %}is-active{% endif %}" href="/">
+						<span class="Header-buttonText">Home</span>
+					</a>
+				</li>
 				<li class="Header-navListItem js-dropdownGroup">
 					<button class="Header-dropdownButton js-headerNavDropdown">
 						<span class="Header-buttonText">Locations</span>
