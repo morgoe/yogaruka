@@ -6,7 +6,6 @@
 }
 
 .Home-intro {
-  text-align: center;
   padding-bottom: $spacing-lg;
   border-bottom: 1px solid $border-light;
   h2 {
@@ -14,6 +13,7 @@
     font-weight: 600;
   }
   @media (min-width: $media-sm) {
+    text-align: center;
     padding: $spacing-lg;
     border: 1px solid $border-light;
   }
