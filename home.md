@@ -4,7 +4,7 @@ body-id: home
 site-nav: home
 cover-image: home
 permalink: /
-announcement: 🎉 Our Alexandria studio opens on 2 Jan!
+announcement: true
 h1: Exceptional strength and flexibility for everyday movers
 subtitle: The best of yoga and functional movement fused into challenging yet accessible classes. Located in Alexandria, Russell Lea, and online.
 published: true

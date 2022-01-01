@@ -27,12 +27,28 @@
   font-size: 12px;
   @extend .font-sans;
   font-weight: $font-weight-sans-bold;
-  padding: 5px 12px 3px;
+  padding: 4px 8px 4px;
   color: $text-dark;
   background: white;
   display: inline-block;
-  border-radius: 16px;
+  border-radius: 4px;
   margin-bottom: $spacing-sm;
+  .link {
+    text-decoration: underline;
+  }
+  span {
+    display: none;
+  }
+  @media (min-width: 460px) {
+    border-radius: 16px;
+    padding: 5px 12px 4px;
+    span {
+      display: inline;
+    }
+    div {
+      display: none;
+    }
+  }
 }
 
 .Page-heroImage,
