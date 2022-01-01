@@ -1,7 +1,7 @@
 ---
 layout: default
 cover-image: contact
-title: Russell Lea studio
+title: Russell Lea yoga studio near Five Dock and Drummoyne
 permalink: /russell-lea/
 site-nav: russell-lea
 h1: Our Russell Lea studio

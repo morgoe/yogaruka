@@ -1,7 +1,7 @@
 ---
 layout: default
 cover-image: alexandria
-title: Alexandria studio
+title: Alexandria yoga studio near Erskineville
 permalink: /alexandria/
 site-nav: alexandria
 h1: Our Alexandria studio
