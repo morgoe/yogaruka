@@ -22,7 +22,7 @@
             {% if page.cover-image == 'home' %}
               {% include content/home/video.html %}
             {% else %}
-              <div class="Page-heroImage {% if page.cover-image %}Page-heroImage--{{ page.cover-image }}{% endif %}"></div>    
+              <div class="Page-heroImage {% if page.cover-image %}Page-heroImage--{{ page.cover-image }}{% endif %}" style="background-image: url(/assets/images/cover-images/{{page.cover-image}}.jpg"></div>    
             {% endif %}
         </div>
 
