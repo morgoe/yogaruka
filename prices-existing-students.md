@@ -1,6 +1,6 @@
 ---
 layout: default
-cover-image: prices
+cover-image: pricing
 title: Pricing for continuing students
 permalink: /pricing/
 site-nav: pricing
