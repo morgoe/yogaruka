@@ -31,7 +31,7 @@ published: true
     <div class="Prices">
       {% include price.html title="Online drop in" subtitle="Book a one-off class online." amount=site.pricing.dropInOnline amountSuffix=site.pricing.dropInSuffix url="https://www.momoyoga.com/yogaruka/member/orderstartdate/47432" %}
 
-      {% include price.html title="Membership" subtitle="Unlimited classes at either of our studios or online. No contract, billed monthly." amount=site.pricing.membership amountSuffix=site.pricing.membershipSuffix url="https://www.momoyoga.com/yogaruka/member/orderstartdate/47056" %}
+      {% include price.html title="Online membership" subtitle="Unlimited classes online. No contract, billed monthly." amount=site.pricing.membershipOnline amountSuffix=site.pricing.membershipSuffix url="https://www.momoyoga.com/yogaruka/member/orderstartdate/52834" %}
 
       {% include price.html title="Online ten class pass" subtitle="10 classes spread out over 26 weeks however you please, online only." amount=site.pricing.tenClassPassOnline amountSuffix=site.pricing.tenClassPassSuffix url="https://www.momoyoga.com/yogaruka/member/orderstartdate/7469" %}
     </div>
