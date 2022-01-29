@@ -7,9 +7,9 @@ description: >-
   Located in Russell Lea, halfway between Five Dock and Drummoyne.
 permalink: /russell-lea/
 site-nav: russell-lea
-h1: Our Russell Lea studio
+h1: Yogaruka Russell Lea
 subtitle: >-
-  Located at 289 Lyons Road—halfway between Five Dock and Drummoyne
+  Serving students in Russell Lea, Five Dock, Drummoyne, Abbotsford & more.
 published: true
 ---
 

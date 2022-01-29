@@ -7,9 +7,9 @@ description: >-
   Located in on the cusp of Alexandria and Erskineville.
 permalink: /alexandria/
 site-nav: alexandria
-h1: Our Alexandria studio
+h1: Yogaruka Alexandria
 subtitle: >-
-  Located at 105 Belmont Street—on the cusp of Alexandria and Erskineville
+  Serving students in Alexandria, Ekrsineville, Redfern, Zetland & more.
 published: true
 ---
 
