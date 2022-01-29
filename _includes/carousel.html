@@ -2,7 +2,7 @@
   {% if include.tile1_image %}
     <li class="carousel-listItem {% if include.tile1_video %}carousel-listItem--video js-modal{% endif %}" id="{% if include.tile1_video %}{{ include.tile1_video }}{% endif %}">
       <div class="carousel-image">
-        <img src="{{ include.tile1_image }}">
+        <img alt="{{ include.tile1_title }}" src="{{ include.tile1_image }}">
 
         {% if include.tile1_video %}
           <img class="carousel-playIcon" src="/assets/icons/play.svg">
@@ -27,7 +27,7 @@
   {% if include.tile2_image %}
     <li class="carousel-listItem {% if include.tile2_video %}carousel-listItem--video js-modal{% endif %}" id="{% if include.tile2_video %}{{ include.tile2_video }}{% endif %}">
       <div class="carousel-image">
-        <img src="{{ include.tile2_image }}">
+        <img alt="{{ include.tile2_title }}" src="{{ include.tile2_image }}">
 
         {% if include.tile2_video %}
           <img class="carousel-playIcon" src="/assets/icons/play.svg">
@@ -52,7 +52,7 @@
 	{% if include.tile3_image %}
 		<li class="carousel-listItem {% if include.tile3_video %}carousel-listItem--video js-modal{% endif %}" id="{% if include.tile3_video %}{{ include.tile3_video }}{% endif %}">
       <div class="carousel-image">
-			  <img src="{{ include.tile3_image }}">
+			  <img alt="{{ include.tile3_title }}" src="{{ include.tile3_image }}">
 
         {% if include.tile3_video %}
           <img class="carousel-playIcon" src="/assets/icons/play.svg">
