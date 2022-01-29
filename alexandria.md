@@ -2,6 +2,9 @@
 layout: default
 cover-image: alexandria
 title: Alexandria yoga studio near Erskineville
+description: >-
+  The best of yoga and functional movement fused into challenging yet accessible classes. 
+  Located in on the cusp of Alexandria and Erskineville.
 permalink: /alexandria/
 site-nav: alexandria
 h1: Our Alexandria studio

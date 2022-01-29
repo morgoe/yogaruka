@@ -2,6 +2,9 @@
 layout: default
 cover-image: contact
 title: Russell Lea yoga studio near Five Dock and Drummoyne
+description: >-
+  The best of yoga and functional movement fused into challenging yet accessible classes. 
+  Located in Russell Lea, halfway between Five Dock and Drummoyne.
 permalink: /russell-lea/
 site-nav: russell-lea
 h1: Our Russell Lea studio
