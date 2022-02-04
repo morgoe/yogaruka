@@ -17,7 +17,7 @@ published: true
 
 <section>
 <div class="Longform Longform--blogpost" markdown="1">
-The YogaRuka studio, located in Russell Lea-Drummoyne, brings together many different styles of movement to help you feel great in your body.
+The YogaRuka studios, located in Alexandria and Drummoyne/Five Dock, brings together many different styles of movement to help you feel great in your body.
 
 Our approach to teaching is unique: we combine various yoga lineages with aspects of [Stretch Therapy™](https://stretchtherapy.net/), a <strong>focused movement</strong> framework, <strong>functional training</strong>, <strong>Pilates</strong>, Yoga Therapy and other contemporary methods of mobility. 
 

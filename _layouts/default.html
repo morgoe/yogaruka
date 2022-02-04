@@ -15,6 +15,12 @@
                     <div class="container--md">
                         <h1>{{ page.h1 }}</h1>
                         <p class="subtitle">{{ page.subtitle }}</p>
+
+                        {% if page.button %}
+                            <a class="button button--inverted button--large m-top--md" href="{{ page.button-link }}">
+                                {{ page.button }}
+                            </a>
+                        {% endif %}
                     </div>
                 </div>
             </div>
