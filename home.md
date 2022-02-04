@@ -6,13 +6,13 @@ cover-image: home
 permalink: /
 announcement: true
 h1: Exceptional strength and flexibility for everyday movers
-subtitle: The best of yoga and functional movement fused into challenging yet accessible classes. Located in Alexandria, Russell Lea, and online.
+subtitle: The best of yoga, pilates and functional movement fused into challenging yet accessible classes. Located in Alexandria, Russell Lea, and online.
 published: true
 ---
 
 <div class="Home">
   <section>
-    <div class="Home-intro">
+    <div class="callout">
       <h2>Better movement starts with a better relationship with your body.</h2>
       <div class="container container--md">
         <p>Injuries, lack of flexibility, a lack of strength—these things aren’t signs there’s something <em>wrong</em> with your body. They’re signs you’ve disconnected from it.</p>

@@ -5,23 +5,6 @@
   }
 }
 
-.Home-intro {
-  padding-bottom: $spacing-lg;
-  border-bottom: 1px solid $border-light;
-  h2 {
-    @extend .font-body;
-    font-weight: 600;
-  }
-  @media (min-width: $media-sm) {
-    text-align: center;
-    padding: $spacing-lg;
-    border: 1px solid $border-light;
-  }
-  @media (min-width: $media-xl) {
-    padding: $spacing-xl;
-  }
-}
-
 .Home-banner {
   position: relative;
   padding: $spacing-md;
