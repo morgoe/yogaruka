@@ -16,8 +16,8 @@
     <meta property="og:title"        content="{{ page.title }} — {{ site.title }}">
   {% else %}
     <title>{{ site.title }}</title>
-    <meta name="twitter:title"       content="{{ site.title }}">
-    <meta property="og:title"        content="{{ site.title }}">
+    <meta name="twitter:title"       content="{{ site.title }} — {{ site.titleSuffix }}">
+    <meta property="og:title"        content="{{ site.title }} — {{ site.titleSuffix }}">
   {% endif %}
   {% if page.description %}
     <meta name="description"         content="{{ page.description }}">

@@ -4,7 +4,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yogaruka.com" # the base hostname & protocol for your site
 permalink: /:categories/:title
 
-title: Yogaruka — Yoga & movement studio in Alexandria & Russell Lea
+title: Yogaruka
+titleSuffix: Yoga & movement studio in Alexandria & Russell Lea
 
 pricing:
   intro: $64
@@ -43,7 +44,7 @@ pricing:
 # - Zapier: https://zapier.com/app/zaps
 # - Autopilot: https://on.autopilotapp.com/yogaruka/campaigns/playbook/616d500d620e6c1a83c8db38/messages/00616e8ca083f343fda11b1a/preview?from=playbook&key=616d500d620e6c1a83c8db38--messages&from1=campaign-index&key1=all-all--
 description: >-
-  The best of yoga and functional movement fused into challenging yet accessible classes. 
+  The best of yoga, pilates and functional movement fused into challenging yet accessible classes. 
   Serving Alexandria, Erskineville, Drummoyne, Five Dock, Russell Lea, and Abbotsford.
 
 # Build settings
