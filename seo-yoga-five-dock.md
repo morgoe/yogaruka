@@ -7,7 +7,7 @@ description: >-
   Located in at 289 Lyons Road in Five Dock.
 permalink: /yoga-studio-in-five-dock/
 site-nav: russell-lea
-h1: Try the top-rated yoga studio in Five Dock
+h1: Try the highest-rated yoga studio in Five Dock
 subtitle: >-
   Yogaruka provides the best of yoga, pilates and functional movement fused into challenging yet accessible classes. Located at 289 Lyons Road near Five Dock.
 button: View timetable
@@ -21,7 +21,7 @@ published: true
       <h2>5 years of 5 star reviews.</h2>
       <div class="container container--md">
         <p>Since 2017, Yogaruka has been helping residents of Five Dock achieve better movement through a better relationship with their bodies, building exceptional strength and flexibility.</p>
-        <p>And in 5 years, we’ve received nothing but <a class="link" href="https://www.google.com/search?hl=en-AU&gl=au&q=Yogaruka+Russell+Lea,+289+Lyons+Rd,+Russell+Lea+NSW+2046&ludocid=2556680046876945050&lsig=AB86z5USppv2CJG1nKxMZm6PjxOY&hl=en&gl=AU#lrd=0x6b12aff7b8e25631:0x237b26f4ee6dea9a,1">5 star reviews</a>.</p>
+        <p>And in 5 years, we’ve received nothing but <a class="link" href="https://www.google.com/search?hl=en-AU&gl=au&q=Yogaruka+Russell+Lea,+289+Lyons+Rd,+Russell+Lea+NSW+2046&ludocid=2556680046876945050&lsig=AB86z5USppv2CJG1nKxMZm6PjxOY&hl=en&gl=AU#lrd=0x6b12aff7b8e25631:0x237b26f4ee6dea9a,1">5 star reviews</a> on Google Maps.</p>
         
         {% include components/testimonial.html inline=true name="Tania Ballistreri" text="I highly recommend YogaRuka. There’s a selection of classes to suit all needs in a calm and beautiful environment. I always feel invigorated, open and calm after each session. The team are lovely and helpful." image="/assets/images/home/testimonial-tania.jpg" %}
       </div>
