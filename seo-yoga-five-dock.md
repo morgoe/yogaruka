@@ -1,7 +1,7 @@
 ---
 layout: default
 cover-image: home
-title: 5-star yoga studio in Five Dock
+title: 5-star yoga studio in Five Dock, NSW
 description: >-
   The best of yoga, pilates and functional movement fused into challenging yet accessible classes. 
   Located in at 289 Lyons Road in Five Dock.
