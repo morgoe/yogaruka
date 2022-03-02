@@ -2,7 +2,7 @@
 layout: default
 cover-image: rental
 permalink: /therapy-room-rental/
-published: true
+published: false
 title: Therapy Room Rental in Russell Lea
 h1: Therapy Room Rental in Russell Lea
 description: "YogaRuka is a holistic wellness centre looking for highly adept, reliable therapists who want to expand their customer base and serve this awesome little pocket of huge potential in between Drummoyne and Five Dock."

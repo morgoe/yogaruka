@@ -1,16 +1,16 @@
 ---
 layout: default
 cover-image: rental
-permalink: /clinic-room-rental/
-published: true
-title: Clinic Room Rental in Russell Lea
-h1: Clinic Room Rental in Russell Lea
-description: "YogaRuka is a holistic wellness centre looking for highly adept, reliable practitioners who want to expand their customer base and serve this awesome little pocket of huge potential in between Drummoyne and Five Dock."
+permalink: /massage-room-rental/
+published: false
+title: Massage Room Rental in Russell Lea
+h1: Massage Room Rental in Russell Lea
+description: "YogaRuka is a holistic wellness centre looking for highly adept, reliable massage therapists who want to expand their customer base and serve this awesome little pocket of huge potential in between Drummoyne and Five Dock."
 ---
 
 <section markdown="1" class="Longform Longform--blogpost">
 
-### A clinic room in Sydney’s first sustainable wellness centre
+### A massage room in Sydney’s first sustainable wellness centre
 
 We are over the moon to announce that YogaRuka is opening doors to more collaborations! 
 
@@ -18,11 +18,9 @@ Our multi-disciplinary movement studio in the Inner West, dubbed the "Most Eco-A
 
 We want to foster an environment of empowerment and inclusive participation, healing and growth, where the best of Western science and traditional knowledge come together. Our present movement teachers and our myo-fascial specialist and massage therapist are amongst the best in their fields. We have helped heal many hundreds of people and we intend to continue to do so through a world-class team.
 
-### Perfect for a wellness therapist or instructor
+### Perfect for a massage therapist
 
-Are you an experienced physiotherapist, exercise physiologist, osteopath or chiropractor, guidance counsellor, psychologist or psychotherapist, occupational therapist, speech pathologist - or really any other Allied health professional? Do you perhaps hold additional skills such as dry needling, reflexology, a knowledge of TCM, Ayurveda or Western Herbalism? 
-
-Or maybe you’re a dance instructor or personal trainer with a twist? 
+Are you an experienced massage therapist, physiotherapist, exercise physiologist, osteopath or chiropractor, guidance counsellor, psychologist or psychotherapist, occupational therapist, speech pathologist - or really any other Allied health professional? Do you perhaps hold additional skills such as dry needling, reflexology, a knowledge of TCM, Ayurveda or Western Herbalism? 
 
 Are you offering a personalised service of unique flavour and do you have solid reviews? Maybe you’ve worked for others but now are ready to become your own boss?   
 </section>
