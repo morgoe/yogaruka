@@ -1,7 +1,9 @@
 <div class="Testimonial {% if include.inline %}Testimonial--inline{% endif %}">
   <div class="Testimonial-text">{{ include.text }}</div>
   <div class="Testimonial-owner">
-    {% include components/media/image.html image=include.image %}
+    {% if include.image %}
+      {% include components/media/image.html image=include.image %}
+    {% endif %}
     <h6>{{ include.name }}</h6>
   </div>
 </div>
