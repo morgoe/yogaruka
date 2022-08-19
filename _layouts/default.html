@@ -7,6 +7,9 @@
         <div class="Page-hero">
             <div class="Page-heroText">
                 <div class="container">
+                    {% if page.logo %}
+                        <img class="Page-logo" src="{{ page.logo }}" />
+                    {% endif %}
                     {% if page.announcement %}
                         <div class="Page-announcement">
                             Our Alexandria studio is now open!

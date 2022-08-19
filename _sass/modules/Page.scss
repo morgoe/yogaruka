@@ -23,6 +23,11 @@
   }
 }
 
+.Page-logo {
+  width: 200px;
+  margin-bottom: $spacing-sm;
+}
+
 .Page-announcement {
   font-size: 12px;
   @extend .font-sans;
