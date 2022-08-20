@@ -24,7 +24,7 @@ As a kinesiologist, I use muscle testing to tap into the subconscious mind to he
 </section>
 
 <section>
-  {% include carousel.html carousel_mobile=true tile1_image="/assets/images/kinesiology/kinesiology_detail_1.jpg" tile1_caption="Lotte Genillard Diploma qualified kinesiologist at re:gen kinesiology." tile2_image="/assets/images/kinesiology/kinesiology_detail_2.jpg"  tile2_caption="Calming re:gen kinesiology session space within the beautiful Yogaruka Wellness Centre, Russell Lea." tile3_image="/assets/images/kinesiology/kinesiology_detail_3.jpg" tile3_caption="Muscle testing is a gentle bio-feedback technique that helps tap into the subconscious mind to identify stress in the body." %}
+  {% include carousel.html carousel_mobile=true tile1_image="/assets/images/kinesiology/kinesiology_detail_1.jpg" tile1_caption="Lotte Genillard is a diploma qualified kinesiologist at re:gen kinesiology." tile2_image="/assets/images/kinesiology/kinesiology_detail_2.jpg"  tile2_caption="Calming re:gen kinesiology session space within the beautiful Yogaruka Wellness Centre, Russell Lea." tile3_image="/assets/images/kinesiology/kinesiology_detail_3.jpg" tile3_caption="Muscle testing is a gentle bio-feedback technique that helps tap into the subconscious mind to identify stress in the body." %}
 </section>
 
 <section>
