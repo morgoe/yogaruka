@@ -2,10 +2,13 @@
 layout: default
 cover-image: rental
 permalink: /clinic-room-rental/
-published: false
+published: true
 title: Clinic Room Rental in Russell Lea
 h1: Clinic Room Rental in Russell Lea
-description: "YogaRuka is a holistic wellness centre looking for highly adept, reliable practitioners who want to expand their customer base and serve this awesome little pocket of huge potential in between Drummoyne and Five Dock."
+description: >-
+  YogaRuka is a holistic wellness centre looking for highly adept, reliable
+  practitioners who want to expand their customer base and serve this awesome
+  little pocket of huge potential in between Drummoyne and Five Dock.
 ---
 
 <section markdown="1" class="Longform Longform--blogpost">
