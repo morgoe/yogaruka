@@ -29,7 +29,7 @@ Are you offering a personalised service of unique flavour and do you have solid 
 </section>
 
 <section id="studio">
-  {% include carousel.html tile1_image="/assets/images/about/outside.jpg" tile1_caption="Sydney’s first sustainable wellness centre, located in an old church." tile2_image="/assets/images/rental/marnie.jpg"  tile2_caption="Perfect for a physiotherapist or osteopath." tile3_image="/assets/images/rental/rebecca.jpeg" tile3_caption="Integrated, tight-knit community with cross-over of clients." %}
+  {% include carousel.html tile1_image="/assets/images/about/outside.jpg" tile1_caption="Sydney’s first sustainable wellness centre, located in an old church." tile2_image="/assets/images/rental/marnie.jpg"  tile2_caption="Perfect for a physiotherapist or osteopath." tile3_image="/assets/images/rental/rebecca.jpg" tile3_caption="Integrated, tight-knit community with cross-over of clients." %}
 </section>
 
 <section markdown="1" class="Longform Longform--blogpost">
