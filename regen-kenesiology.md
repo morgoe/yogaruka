@@ -1,18 +1,18 @@
 ---
 layout: default
 cover-image: kinesiology
-title: Kinesiology in Russell Lea, Sydney
+title: 'Kinesiology in Russell Lea, Sydney'
 description: >-
-  Re:gen kinesiology delivers holistic therapy that identifies imbalances in the body’s structural, chemical, emotional and spiritual energy. 
+  Re:gen kinesiology delivers holistic therapy that identifies imbalances in the
+  body’s structural, chemical, emotional and spiritual energy. 
 permalink: /kinesiology/
 site-nav: russell-lea
 logo: /assets/images/kinesiology/logo.png
-h1: Kinesiology in Russell Lea, Sydney
-subtitle: >-
-  Empowering you on your journey to balance and wellness.
+h1: 'Kinesiology in Russell Lea, Sydney'
+subtitle: Empowering you on your journey to balance and wellness.
 button: Get started
-button-link: https://www.regenkinesiology.com.au/
-published: true
+button-link: 'https://www.regenkinesiology.com.au/'
+published: false
 ---
 
 <section>
