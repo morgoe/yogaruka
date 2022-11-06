@@ -29,7 +29,5 @@ Our sanctuary is the first studio in Australia to be <strong>fully sustainable</
 Our space is unique in that it is the first Australian yoga studio in a restored church. The building dates back to 1942 and is an architectural treasure, providing plenty of space and beautiful light to enhance any practice.
 
 YogaRuka is a community focused studio. We want you to feel at home in our space and to make it yours. Anyone is welcome who wants to share their interest in healthy and conscious movement, and living.
-
-Our Russell Lea studio is also host to [re:gen kinesiology](/kinesiology). Kinesiology is a holistic therapy that fuses Eastern and Western philosophies. Re:gen kinesiology is run by Lotte Genillard, who can help you identify imbalances in your body’s structural, chemical, emotional and spiritual energy. 
 </div>
 </section>
