@@ -5,7 +5,7 @@ title: Terms and Conditions
 permalink: /terms-and-conditions/
 published: true
 ---
-Yogaruka Studios provide group and private mixed movement sessions (fusions of yoga, Qigong, mobility, calisthenics, Stretch Therapy™, contemporary Pilates, etc) taught by some of the most highly trained teachers in Sydney that have come together under the umbrella of this gorgeous, ecological, holistic fitness space. 
+Yogaruka Studios provide group and private mixed movement sessions (fusions of yoga, mobility, Qigong, calisthenics, Stretch Therapy™, contemporary Pilates, etc) taught by some of the most highly trained teachers in Sydney that have come together under the umbrella of these gorgeous, ecological, holistic fitness spaces. 
 
 
 ### Changes
@@ -15,7 +15,7 @@ Yogaruka reserves the right to cancel, change or vary sessions, teachers, worksh
 
 ### Online Bookings
 
-You are welcome to pre-book online for all of our sessions, and this is highly recommended at peak times. If you are unable to attend you must cancel online at least 4 hours prior. Failure to cancel or “no-show” will result in you being charged for the pre-booked class.
+You are welcome to pre-book online for all of our sessions, and this is highly recommended at peak times. If you are unable to attend you must cancel online at least 3 hours prior. Failure to cancel or “no-show” will result in you being charged for the pre-booked class.
 
 If you have pre-booked a class, you must still check in upon arrival so that we know you’ve arrived. Please arrive at least 5 minutes prior to the commencement of the session so you can claim your spot on the mat and get in the zone.
 
@@ -31,14 +31,14 @@ Should you need to leave the session early please alert the teacher and make sur
 
 All our memberships - online and in-person - are charged monthly, for the one month ahead. 
 
-Unlimited Membership Contract: 
-- You will be expected to continue payments until written notice of cancellation. Should you need to **cancel** or **downgrade** your contract, please do so with a fortnight's notice. Upgrading (e.g., passing from the online to the in-person unlimited) will not incur any fees. 
+Unlimited Membership Contract (UMC): 
+- You will be expected to continue payments until written notice of cancellation. Should you need to **cancel** or **downgrade** your contract, please do so with a minimum fortnight's notice. Upgrading (e.g., passing from the online to the in-person unlimited) will not incur any fees. 
 
-- If you wish to cancel, suspend or alter your UMC payment in any way you are under contractual obligation to give Yogaruka a two weeks' notice via email.
+- If you wish to cancel, suspend or alter your UMC payment in any way you are under contractual obligation to give Yogaruka a minimum two weeks' notice via email.
 
-- Your payments will continue to draw from your account indefinitely. If you wish us to stop payments at the end of your monthly cycle you must inform us **a fortnight** before the termination date. 
+- Your payments will continue to draw from your account indefinitely. If you wish us to stop payments at the end of your monthly cycle you must inform us **a fortnight** before the termination date, and wait for **our confirmation in writing**. 
 
-- A minimum of one full billing period (30 days) must be completed prior to the cancellation taking effect. Membership cancellations cannot be applied retroactively under any circumstance. 
+- A minimum of one full billing period (30 days) must be completed prior to the cancellation taking effect. Membership cancellations cannot be applied retroactively under any circumstance. You will be expected to fill in an **exit interview** as a condition to the cancellation. 
 
 
 ### Class Passes
@@ -54,7 +54,7 @@ Discounted passes may have different conditions to the above so make sure to che
 
 ### Suspensions
 
-If you are on an Auto-Membership, you are welcome to hold or suspend your membership for holiday or business travels, or if you are unable to practice due to serious illness or injury. A two weeks' notice in writing prior to the suspension date is required. Membership suspensions cannot be applied retroactively. **Minimum suspension period for memberships is 7 days. Maximum suspension period is 21 days per 3 months membership period, for a total of 84 days per year**. Please note that we do not allow suspended memberships to be cancelled. One billing period (30 days) must be completed after suspension and prior to cancelling membership. In the same fashion we do not allow for memberships to be downgraded and then suspended within the same billing period (30 days). 
+If you are on an Auto-Membership, you are welcome to hold or suspend your membership for holiday or business travels, or if you are unable to practice due to serious illness or injury. A two weeks' notice in writing prior to the suspension date is required. Membership suspensions cannot be applied retroactively. **Minimum suspension period for memberships is 7 days. Maximum suspension period is 21 days per 4 months membership period, for a total of 63 days per year**. Please note that we do not allow suspended memberships to be cancelled. One billing period (30 days) must be completed after suspension and prior to cancelling membership. In the same fashion we do not allow for memberships to be downgraded and then suspended within the same billing period (30 days). 
 
 Class passes cannot be suspended or cancelled under any circumstance.
 
@@ -68,7 +68,7 @@ Concessions are available for kids and students only. If you purchase online, a 
 Concession memberships reflect the same conditions as standard memberships (see above).
 
 
-### Private Yoga Sessions
+### Private Movement Sessions
 
 For all private sessions we have a strict 24-hour cancellation policy. If you do not cancel via phone or email or change your appointment within 24 hours, or if you do not attend your session, you will be charged the full fee.
 
