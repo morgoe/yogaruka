@@ -24,7 +24,7 @@ published: true
 
       {% include price.html title="Membership" subtitle="Unlimited classes at either of our studios or online. No contract, billed monthly." amount=site.pricing.membership amountSuffix=site.pricing.membershipSuffix url="https://www.momoyoga.com/yogaruka/member/orderstartdate/47056" %}
 
-      {% include price.html title="Ten class pass" subtitle="10 classes spread out over 26 weeks however you please, in studio and online." amount=site.pricing.tenClassPass amountSuffix=site.pricing.tenClassPassSuffix url="https://www.momoyoga.com/yogaruka/member/orderstartdate/47434" %}
+      {% include price.html title="Five class pass" subtitle="5 classes spread out over 13 weeks however you please, in studio and online." amount=site.pricing.tenClassPass amountSuffix=site.pricing.tenClassPassSuffix url="https://www.momoyoga.com/yogaruka/member/orderstartdate/47434" %}
     </div>
   </div>
   <div class="tabs-content" id="online">
