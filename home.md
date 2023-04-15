@@ -4,7 +4,7 @@ body-id: home
 site-nav: home
 cover-image: home
 permalink: /
-announcement: false
+announcement: true
 h1: Exceptional strength and flexibility for everyday movers
 subtitle: >-
   The best of yoga, pilates and functional movement fused into challenging yet

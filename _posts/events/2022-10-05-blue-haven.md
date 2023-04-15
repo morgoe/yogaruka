@@ -10,6 +10,9 @@ h1: Embodying Emotions Retreat in Blue Haven, New South Wales
 subtitle: >-
   Learn to get out of your head and into your body by integrating and expressing your emotions in this group retreat.
 published: true
+categories:
+- past-retreats
+- past-events
 ---
 
 <section>

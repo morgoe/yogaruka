@@ -38,11 +38,13 @@
   display: inline-block;
   border-radius: 4px;
   margin-bottom: $spacing-sm;
-  .link {
-    text-decoration: underline;
+  a {
+    &:hover {
+      text-decoration: underline;
+    }
   }
   span {
-    display: none;
+    font-weight: 500;
   }
   @media (min-width: 460px) {
     border-radius: 16px;
