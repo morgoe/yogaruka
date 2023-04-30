@@ -47,16 +47,22 @@ All passes are non-refundable, non-transferrable and cannot be exchanged for any
 
 Introductory 2-Week unlimited Passes are a one-time offer to all new attendees at Yogaruka. No other offer or discount can, under any circumstance, be used together with it unless priorly agreed with Yogaruka.
 
-Drop in passes are valid for one month from purchase, and can be used for one visit. All our multi-class passes are valid now for 6 months from activation.
+- Drop in passes are valid for one month from purchase, and can be used for one visit.
+- Our 5-session passes are valid for 2 months from activation.
+- Our 10-session passes are valid for 4 months from activation.
 
 Discounted passes may have different conditions to the above so make sure to check with Reception or the teacher to confirm conditions before purchase.
 
 
 ### Suspensions
 
-If you are on an Auto-Membership, you are welcome to hold or suspend your membership for holiday or business travels, or if you are unable to practice due to serious illness or injury. A two weeks' notice in writing prior to the suspension date is required. Membership suspensions cannot be applied retroactively. **Minimum suspension period for memberships is 7 days. Maximum suspension period is 21 days per 4 months membership period, for a total of 63 days per year**. Please note that we do not allow suspended memberships to be cancelled. One billing period (30 days) must be completed after suspension and prior to cancelling membership. In the same fashion we do not allow for memberships to be downgraded and then suspended within the same billing period (30 days). 
+If you are on an Auto-Membership, you are welcome to hold or suspend your membership for holiday or business travels, or if you are unable to practice due to serious illness or injury. 
+- A two weeks' notice in writing prior to the suspension date is required. Membership suspensions cannot be applied retroactively. 
+- **Minimum suspension period for any and all memberships is 14 days. Maximum suspension period is 21 days per 4 months membership period, for a total of 63 days per year**. 
+- Please note that we do not allow suspended memberships to be cancelled. One billing period (30 days) must be completed after suspension and prior to cancelling membership. 
+- In the same fashion we do not allow for memberships to be downgraded and then suspended within the same billing period (30 days).
 
-Class passes cannot be suspended or cancelled under any circumstance.
+Class passes cannot be suspended or cancelled under any circumstances.
 
 For all membership enquiries, suspensions and cancellations, please email us at studio@yogaruka.com.
 
@@ -88,7 +94,7 @@ By purchasing any item from this website and attending the event, I hereby agree
 
 - I am participating voluntarily in the sessions, workshops or events offered by Yogaruka. I have been examined by a licensed medical practitioner (“Practitioner”) within the past six months and have been found by such Practitioner to be able to perform all vigorous stretching and movement practices (“Exercise”) which I am to perform during my participation in the session, workshop or event organised by Yogaruka.
 - I will faithfully follow the instructions given to me by YogaRuka and their associated teachers, as to when, where, and how to perform and not to perform Exercise.
-- I agree and acknowledge that participation in any Exercise could constitute a risk of serious injury to myself, including permanent paralysis or death. I voluntarily and knowingly recognise, accept and assume this risk and warrant that I am physically fit and able to perform given Exercise without risking serious injury, including permanent paralysis or death. I acknowledge that neither YogaRuka, associated teachers, staff or employees shall be nor be deemed to be responsible or liable (whether in contract of in tort or under any statute whatsoever), for any injury, illness or other mishap I sustain arising from or out of, or in any way directly or indirectly connected with given Exercise.
+- I agree and acknowledge that participation in any Exercise could constitute a risk of serious injury to myself, including permanent paralysis or death. I voluntarily and knowingly recognise, accept and assume this risk and warrant that I am physically fit and able to perform given Exercise without risking serious injury, including permanent paralysis or death. I acknowledge that neither Yogaruka, associated teachers, staff or employees shall be nor be deemed to be responsible or liable (whether in contract of in tort or under any statute whatsoever), for any injury, illness or other mishap I sustain arising from or out of, or in any way directly or indirectly connected with given Exercise.
 - I understand and acknowledge that I am to receive instruction in movement practices and theory only. Yogaruka Pty/Ltd, associated teachers, staff or employees of Yogaruka, are not liable for, nor are expected to provide any advice, training or medical assistance other than in the form of Exercise.
 - I indemnify and will at all times hereafter well and sufficiently indemnify and keep fully indemnified Yogaruka, associated teachers, staff or employees of Yogaruka from and against all actions, suits, causes of action, proceedings, claims, costs and expenses whatsoever which may be taken or made against Yogaruka, associated teachers, staff or employees of Yogaruka or incurred or become payable by Yogaruka, associated teachers, staff or employees of Yogaruka in connection with or arising out of any such injury, illness or mishap to me.
 - The fee paid by me for participation in Yogaruka’s sessions, workshops or events is non-refundable. Yogaruka in their sole discretion may grant refunds to me without prejudicing any of their rights.
@@ -109,7 +115,7 @@ Like most other websites, during the course of any visit to the Yogaruka website
 
 ### SMS/MMS MOBILE MESSAGE MARKETING PROGRAM TERMS AND CONDITIONS
 
-Yogaruka (hereinafter, “We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”) through AutopilotHQ, Inc. (“Autopilot”), which you agree to use and participate in subject to these Mobile Messaging Terms and Conditions and Privacy Policy (the “Agreement”). By opting in to or participating in any of our Programs, you accept and agree to these terms and conditions, including, without limitation, your agreement to resolve any disputes with us through binding, individual-only arbitration, as detailed in the “Dispute Resolution” section below. This Agreement is limited to the Program and is not intended to modify other Terms and Conditions that may govern the relationship between you and Us in other contexts.
+Yogaruka (hereinafter, “We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”) through AutopilotHQ, Inc. (“Ortto”), which you agree to use and participate in subject to these Mobile Messaging Terms and Conditions and Privacy Policy (the “Agreement”). By opting in to or participating in any of our Programs, you accept and agree to these terms and conditions, including, without limitation, your agreement to resolve any disputes with us through binding, individual-only arbitration, as detailed in the “Dispute Resolution” section below. This Agreement is limited to the Program and is not intended to modify other Terms and Conditions that may govern the relationship between you and Us in other contexts.
 
 User Opt In: Your inferred permission to participate in the The Program which allows Users to receive SMS/MMS mobile message is granted when you register an account on Momoyoga. Regardless of the opt-in method you utilized to join the Program, you agree that this Agreement applies to your participation in the Program. By participating in the Program, you agree to receive autodialed or manually dialed marketing mobile messages (as applicable) at the phone number associated with your opt-in, and you understand that consent is not required to make any purchase from Us. While you consent to receive messages sent using an autodialer, the foregoing shall not be interpreted to suggest or imply that any or all of Our mobile messages are sent using an automatic telephone dialing system (“ATDS” or “autodialer”). Message and data rates may apply.
 
