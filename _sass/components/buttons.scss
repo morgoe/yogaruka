@@ -33,6 +33,13 @@ button, .button {
   padding: 12px 20px;
   height: auto;
 }
+.button--outline {
+  box-shadow: 0 0 0 1px $border-light;
+  background: white;
+  &:hover {
+    box-shadow: none;
+  }
+}
 .button--fullWidth {
   display: flex;
   justify-content: center;
