@@ -42,33 +42,79 @@ We are also able to do private sessions for kids and people living with disabili
 Facilitated by our teachers in their area of expertise, these sessions can also be given in languages other than English (at the moment - Italian and French).
 </section>
 
-<div class="container container--sm">
-  <label>Private session length:</label>
-  <div class="tabs">
-    <a class="tabs-button js-tabButton" href="#45">45 mins</a>
-    <a class="tabs-button js-tabButton is-active" href="#60">60 mins</a>
-    <a class="tabs-button js-tabButton" href="#75">75 mins</a>
-  </div>
-  
-  <div class="tabs-content" id="45">
-    <div class="Prices">
-      {% include price.html title="Single session" subtitle="One private session at either of our studios or online." amount=site.pricing.privateDropIn45 amountSuffix="for 1 session" url="/contact/" %}
+<div class="container container--lg">
+  <div class="Prices">
+    <div class="Price">
+      <div class="Price-header">
+        <h2 class="Price-title h4">One session</h2>
+        <ul class="Price-checklist">
+          <li>
+            <img class="Price-checkmark" src="/assets/icons/check-circle-alt.svg" />
+            In the studio or online
+          </li>
 
-      {% include price.html title="Ten session pass" subtitle="10 private sessions spread out over 26 weeks however you please, in studio and online." amount=site.pricing.privateTenClassPass45 amountSuffix="per session" url="/contact/" %}
+          <li>
+            <img class="Price-checkmark" src="/assets/icons/check-circle-alt.svg" />
+            Bring a friend for $25/session
+          </li>
+        </ul>
+      </div>
+
+      <div class="Price-footer">
+        <a class="button button--outline button--fullWidth js-conversion-price" href="/contact/">
+          $135 for 1 session
+        </a>
+
+        <p class="Price-finePrint"><a href="/terms-and-conditions/">T&Cs</a> apply.</p>
+      </div>
     </div>
-  </div>
-  <div class="tabs-content is-active" id="60">
-    <div class="Prices">
-      {% include price.html title="Single session" subtitle="One private session at either of our studios or online." amount=site.pricing.privateDropIn60 amountSuffix="for 1 session" url="/contact/" %}
+    <div class="Price">
+      <div class="Price-header">
+        <h2 class="Price-title h4">5 sessions</h2>
+        <ul class="Price-checklist">
+          <li>
+            <img class="Price-checkmark" src="/assets/icons/check-circle-alt.svg" />
+            In the studio or online
+          </li>
 
-      {% include price.html title="Ten session pass" subtitle="10 private sessions spread out over 26 weeks however you please, in studio and online." amount=site.pricing.privateTenClassPass60 amountSuffix="per session" url="/contact/" %}
+          <li>
+            <img class="Price-checkmark" src="/assets/icons/check-circle-alt.svg" />
+            Bring a friend for $25/session
+          </li>
+        </ul>
+      </div>
+
+      <div class="Price-footer">
+        <a class="button button--outline button--fullWidth js-conversion-price" href="/contact/">
+          $119/session for 5 sessions
+        </a>
+
+        <p class="Price-finePrint">8 weeks validity. <a href="/terms-and-conditions/">T&Cs</a> apply.</p>
+      </div>
     </div>
-  </div>
-  <div class="tabs-content" id="75">
-    <div class="Prices">
-      {% include price.html title="Single session" subtitle="One private session at either of our studios or online." amount=site.pricing.privateDropIn75 amountSuffix="for 1 session" url="/contact/" %}
+    <div class="Price Price--highlight">
+      <div class="Price-header">
+        <h2 class="Price-title h4">10 sessions</h2>
+        <ul class="Price-checklist">
+          <li>
+            <img class="Price-checkmark" src="/assets/icons/check-circle-alt.svg" />
+            In the studio or online
+          </li>
 
-      {% include price.html title="Ten session pass" subtitle="10 private sessions spread out over 26 weeks however you please, in studio and online." amount=site.pricing.privateTenClassPass75 amountSuffix="per session" url="/contact/" %}
+          <li>
+            <img class="Price-checkmark" src="/assets/icons/check-circle-alt.svg" />
+            Bring a friend for $25/session
+          </li>
+        </ul>
+      </div>
+
+      <div class="Price-footer">
+        <a class="button button--outline button--fullWidth js-conversion-price" href="/contact/">
+          $110/session for 10 sessions
+        </a>
+
+        <p class="Price-finePrint">15 weeks validity. <a href="/terms-and-conditions/">T&Cs</a> apply.</p>
+      </div>
     </div>
   </div>
 </div>

@@ -12,40 +12,67 @@ description: "YogaRuka offers singe and 10-class packages for your employees to 
 <section markdown="1" class="Longform Longform--blogpost">
 The bottom line of yoga is thorough mind-body balance, thus yoga at your office is guaranteed to increase creativity and productivity, decrease stress levels, reduce absenteeism, improve health and wellbeing, help employees that work long hours maintain focus and high performance levels.
 
-YogaRuka offers singe and 10-class packages for your employees to enjoy yoga in the comfort and convenience of the workplace. We bring you all the props, and at request - the mats.
-
-Single Class Pack:
-
-- 1 class for small teams (3-8 people): $179
-- 1 class for larger teams (9+ people): $279
-
-10 Class Pack:
-
-- 10-class pack for small teams (2-8 people): $1590 ($159/class)
-- 10-class pack for larger teams (9+ people): $2490 ($249/class)
+YogaRuka offers single and 12-class packages for your employees to enjoy yoga in the comfort and convenience of the workplace. We bring you all the props, and at request, the mats.
 
 Facilitated by any of our teachers, in function of the required class typology. For very large teams (20+ people) please request a quote, since two teachers might need to be dispatched.
+
+  <div class="Prices">
+    <div class="Price">
+      <div class="Price-header">
+        <h2 class="Price-title h4">At our studio</h2>
+        <ul class="Price-checklist">
+          <li>
+            <img class="Price-checkmark" src="/assets/icons/check-circle-alt.svg" />
+            Up to 16 people per class
+          </li>
+
+          <li>
+            <img class="Price-checkmark" src="/assets/icons/check-circle-alt.svg" />
+            Additional people billed at $5ea
+          </li>
+        </ul>
+      </div>
+
+      <div class="Price-footer">
+        <a class="button button--outline button--fullWidth js-conversion-price" href="/contact/">
+          $180 for 1 session
+        </a>
+
+        <a class="button button--outline button--fullWidth js-conversion-price m-top--sm" href="/contact/">
+          $150/session for 12 sessions
+        </a>
+
+        <p class="Price-finePrint">Term pass has 12 weeks validity. <a href="/terms-and-conditions/">T&Cs</a> apply.</p>
+      </div>
+    </div>
+
+    <div class="Price Price--highlight">
+      <div class="Price-header">
+        <h2 class="Price-title h4">At your workplace</h2>
+        <ul class="Price-checklist">
+          <li>
+            <img class="Price-checkmark" src="/assets/icons/check-circle-alt.svg" />
+            Up to 16 people per class
+          </li>
+
+          <li>
+            <img class="Price-checkmark" src="/assets/icons/check-circle-alt.svg" />
+            Additional people billed at $5ea
+          </li>
+        </ul>
+      </div>
+
+      <div class="Price-footer">
+        <a class="button button--outline button--fullWidth js-conversion-price" href="/contact/">
+          $210 for 1 session
+        </a>
+
+        <a class="button button--outline button--fullWidth js-conversion-price m-top--sm" href="/contact/">
+          $175/session for 12 sessions
+        </a>
+
+        <p class="Price-finePrint">Term pass has 12 weeks validity. <a href="/terms-and-conditions/">T&Cs</a> apply.</p>
+      </div>
+    </div>
+  </div>
 </section>
-
-<div class="container container--sm">
-  <label>Class size:</label>
-  <div class="tabs">
-    <a class="tabs-button js-tabButton is-active" href="#small">Small (3-8 people)</a>
-    <a class="tabs-button js-tabButton" href="#large">Large (9+ people)</a>
-  </div>
-
-  <div class="tabs-content is-active" id="small">
-    <div class="Prices">
-      {% include price.html title="Single class" subtitle="One group corporate class at your office, or at one of our studios, or online." amount=site.pricing.corporateSingleSmall amountSuffix="for 1 class" url="/contact/" %}
-
-      {% include price.html title="Ten class pass" subtitle="10 group corporate classes over 26 weeks whenever & wherever you please." amount=site.pricing.corporateTenClassPassSmall amountSuffix="per class" url="/contact/" %}
-    </div>
-  </div>
-  <div class="tabs-content" id="large">
-    <div class="Prices">
-      {% include price.html title="Single class" subtitle="One group corporate class at your office, or at one of our studios, or online." amount=site.pricing.corporateSingleLarge amountSuffix="for 1 class" url="/contact/" %}
-
-      {% include price.html title="Ten class pass" subtitle="10 group corporate classes over 26 weeks whenever & wherever you please." amount=site.pricing.corporateTenClassPassLarge amountSuffix="per class" url="/contact/" %}
-    </div>
-  </div>
-</div>
