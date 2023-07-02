@@ -1,12 +1,12 @@
 ---
 layout: default
-cover-image: timetable
-permalink: /studio-rental/
+cover-image: alexandria
+permalink: /studio-rental-alexandria/
 published: true
-title: Studio Rental at Yogaruka
-h1: Studio Rental at Yogaruka
+title: Studio Rental at Yogaruka Alexandria
+h1: Studio Rental at Yogaruka Alexandria
 description: >-
-  Yogaruka studio is available to rent in Russell Lea or Alexandria.
+  Yogaruka’s Alexandria studio is available to rent.
 ---
 
 <section markdown="1" class="Longform Longform--blogpost">
