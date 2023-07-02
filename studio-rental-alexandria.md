@@ -5,23 +5,22 @@ permalink: /studio-rental-alexandria/
 published: true
 title: Studio Rental at Yogaruka Alexandria
 h1: Studio Rental at Yogaruka Alexandria
-description: >-
-  Yogaruka’s Alexandria studio is available to rent.
+description: Yogaruka’s Alexandria studio is available to rent.
 ---
 
 <section markdown="1" class="Longform Longform--blogpost">
 
-### A therapy room in Sydney’s first sustainable wellness centre
+### Studio rental in Sydney’s first sustainable wellness centre
 
-We are over the moon to announce that YogaRuka is opening doors to more collaborations! 
+We are over the moon to announce that Yogaruka is opening doors to more collaborations! 
 
-Our multi-disciplinary movement studio in the Inner West, dubbed the "Most Eco-Aware Yoga Studio in Australia" by the Yoga Lunchbox (NZ), that at the moment is also hosting the Drummoyne Skin & Body Clinic, is ready to take more health&wellness practitioners on board towards turning into a Holistic Wellness centre.  
+Our multidisciplinary movement studios in the Inner West, dubbed the "Most Eco-Aware Yoga Studio in Australia" by the Yoga Lunchbox (NZ), are opening slots on the schedule to take more health and wellness practitioners on board.  
 
-We want to foster an environment of empowerment and inclusive participation, healing and growth, where the best of Western science and traditional knowledge come together. Our present movement teachers and our myo-fascial specialist and massage therapist are amongst the best in their fields. We have helped heal many hundreds of people and we intend to continue to do so through a world-class team.
+We want to foster an environment of empowerment and inclusive participation, healing and growth, where the best of Western science and traditional knowledge come together. Our present movement specialists, our myo-fascial massage therapist and our kinesiologist are amongst the best in their fields. We have helped heal many hundreds of people and we intend to continue to do so through a world-class team.
 
-### Perfect for a physical or psychological therapist
+### Perfect for PT's, yoga therapists, Pilates instructors, and other movement specialists
 
-Are you an experienced physiotherapist, exercise physiologist, osteopath or chiropractor, guidance counsellor, psychologist or psychotherapist, occupational therapist, speech pathologist - or really any other Allied health professional?
+Are you an experienced Pilates teacher, yoga teacher or yoga therapist, exercise physiologist?
 
 Are you offering a personalised service of unique flavour and do you have solid reviews? Maybe you’ve worked for others but now are ready to become your own boss?   
 </section>
@@ -34,14 +33,19 @@ Are you offering a personalised service of unique flavour and do you have solid 
 
 ### Become part of our integrated, tight-knit community
 
-We are looking for highly adept, reliable practitioners who want to expand their customer base and serve this awesome little pocket of huge potential in between Drummoyne and Five Dock, that is Abbotsford - Chiswick - Russell Lea - Rodd Point - Wareemba. 
+We are looking for highly adept, reliable practitioners who want to expand their customer base and serve this awesome little pocket of huge potential at the confluence of Alexandria and Erskinville.
 
 #### Flexible Options Available
 
-- Studio space (96m²) available for rent for various events (workshops, teacher trainings, photo/video shooting, etc) and group/private classes
-- Two practitioner rooms (13m² and 28m²) available for rent either permanently or by the hour/day
+- Studio space (96m²) with wooden floor boards, available for rent for various events: workshops, teacher trainings, group or private sessions, but also photo/video shooting, and more
+- A variety of props available for all movement and relaxation needs
+- Kitchenette facilities, bathroom amenities, air con
 
-Short trial period available before committing.
+#### Pricing
+
+- The rental rate is $48 per hour, props included. 
+- Minimum rental is 75 minutes (e.g. 45 minute session + 15 minutes before and after for space prep).
+- 10% if committing for a minimum of 10 weeks, running your course/event, etc.
 
 ### Contact Us
 
