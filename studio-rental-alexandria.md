@@ -26,7 +26,7 @@ Are you offering a personalised service of unique flavour and do you have solid 
 </section>
 
 <section id="studio">
-  {% include carousel.html tile1_image="/assets/images/about/outside.jpg" tile1_caption="Sydney’s first sustainable wellness centre, located in an old church." tile2_image="/assets/images/rental/marnie.jpg"  tile2_caption="Integrated, tight-knit community with cross-over of clients." tile3_image="/assets/images/rental/rebecca.jpg" tile3_caption="Perfect for psychologist or counsellor." %}
+  {% include carousel.html carousel_mobile=true tile1_image="/assets/images/alexandria/outside.jpg" tile1_caption="Located on the cusp of Alexandria and Erskineville, on the corner of Belmont Street and Fountain Street." tile2_image="/assets/images/alexandria/stained-glass.jpg"  tile2_caption="The restored church has beautiful stained glass windows that spill light into the studio." tile3_image="/assets/images/alexandria/inside.jpg" tile3_caption="You’ll use fully compostable rubber & jute mats, cork & recycled rice husk blocks, and organic cotton bolsters." %}
 </section>
 
 <section markdown="1" class="Longform Longform--blogpost">
