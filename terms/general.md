@@ -29,16 +29,20 @@ Should you need to leave the session early please alert the teacher and make sur
 
 ### Memberships
 
-All our memberships - online and in-person - are charged monthly, for the one month ahead. 
+All our memberships - unlimited or limited, online and in-person - are charged monthly, for the one month ahead.
 
-Unlimited Membership Contract (UMC): 
+Membership Contract (MC): 
 - You will be expected to continue payments until written notice of cancellation. Should you need to **cancel** or **downgrade** your contract, please do so with a minimum fortnight's notice. Upgrading (e.g., passing from the online to the in-person unlimited) will not incur any fees. 
 
-- If you wish to cancel, suspend or alter your UMC payment in any way you are under contractual obligation to give Yogaruka a minimum two weeks' notice via email.
+- If you wish to cancel, suspend or alter your MC payment in any way you are under contractual obligation to give Yogaruka a minimum two weeks' notice via email.
 
 - Your payments will continue to draw from your account indefinitely. If you wish us to stop payments at the end of your monthly cycle you must inform us **a fortnight** before the termination date, and wait for **our confirmation in writing**. 
 
-- A minimum of one full billing period (30 days) must be completed prior to the cancellation taking effect. Membership cancellations cannot be applied retroactively under any circumstance. You will be expected to fill in an **exit interview** as a condition to the cancellation. 
+- A minimum of three full billing periods (90 days total, not including any suspensions) must be completed prior to the cancellation taking effect. 
+
+- Membership cancellations cannot be applied retroactively under any circumstance. 
+
+- You will be expected to fill in an **exit interview** as a condition to the cancellation. 
 
 
 ### Class Passes
