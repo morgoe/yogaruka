@@ -3,7 +3,7 @@ layout: post
 site-nav: terms
 title: Terms and Conditions
 permalink: /terms-and-conditions/
-published: true
+published: false
 ---
 Yogaruka Studios provide group and private mixed movement sessions (fusions of yoga, mobility, Qigong, calisthenics, Stretch Therapy™, contemporary Pilates, etc) taught by some of the most highly trained teachers in Sydney that have come together under the umbrella of these gorgeous, ecological, holistic fitness spaces. 
 
@@ -101,7 +101,7 @@ We ask all our first-timers to fill in an intake form that will gather detailed 
 By purchasing any item from this website and attending the event, I hereby agree that the following terms and conditions and undertakings apply to the Services (“Services”) to be provided to me by Yogaruka:
 
 - I am participating voluntarily in the sessions, workshops or events offered by Yogaruka. I have been examined by a licensed medical practitioner (“Practitioner”) within the past six months and have been found by such Practitioner to be able to perform all vigorous stretching and movement practices (“Exercise”) which I am to perform during my participation in the session, workshop or event organised by Yogaruka.
-- I will faithfully follow the instructions given to me by YogaRuka and their associated teachers, as to when, where, and how to perform and not to perform Exercise.
+- I will faithfully follow the instructions given to me by Yogaruka and their associated teachers, as to when, where, and how to perform and not to perform Exercise.
 - I agree and acknowledge that participation in any Exercise could constitute a risk of serious injury to myself, including permanent paralysis or death. I voluntarily and knowingly recognise, accept and assume this risk and warrant that I am physically fit and able to perform given Exercise without risking serious injury, including permanent paralysis or death. I acknowledge that neither Yogaruka, associated teachers, staff or employees shall be nor be deemed to be responsible or liable (whether in contract of in tort or under any statute whatsoever), for any injury, illness or other mishap I sustain arising from or out of, or in any way directly or indirectly connected with given Exercise.
 - I understand and acknowledge that I am to receive instruction in movement practices and theory only. Yogaruka Pty/Ltd, associated teachers, staff or employees of Yogaruka, are not liable for, nor are expected to provide any advice, training or medical assistance other than in the form of Exercise.
 - I indemnify and will at all times hereafter well and sufficiently indemnify and keep fully indemnified Yogaruka, associated teachers, staff or employees of Yogaruka from and against all actions, suits, causes of action, proceedings, claims, costs and expenses whatsoever which may be taken or made against Yogaruka, associated teachers, staff or employees of Yogaruka or incurred or become payable by Yogaruka, associated teachers, staff or employees of Yogaruka in connection with or arising out of any such injury, illness or mishap to me.
