@@ -29,16 +29,24 @@ Should you need to leave the session early please alert the teacher and make sur
 
 ### Memberships
 
-All our memberships - online and in-person - are charged monthly, for the one month ahead. 
+All our memberships - online and in-person - are charged monthly, for the one month ahead and they are three month minimum memberships. You will be expected to continue payments indefinitely until written notice of cancellation is given, and you have **our confirmation in writing**. 
 
-Unlimited Membership Contract (UMC): 
-- You will be expected to continue payments until written notice of cancellation. Should you need to **cancel** or **downgrade** your contract, please do so with a minimum fortnight's notice. Upgrading (e.g., passing from the online to the in-person unlimited) will not incur any fees. 
+Membership Contract (MC) Conditions: 
+- Purchasing a membership contract of any sort through Yogaruka Pty Ltd means that you are entering a legally binding contract. 
 
-- If you wish to cancel, suspend or alter your UMC payment in any way you are under contractual obligation to give Yogaruka a minimum two weeks' notice via email.
+- If you wish to cancel, suspend or alter your MC payment in any way you are under contractual obligation to give Yogaruka a minimum two weeks' notice via email, and wait for **our confirmation in writing**. 
+
+- Changes cannot be done automatically on your booking profile. Either upgrading or downgrading (e.g., passing from the online to the in-person, or the other way around) will restart the three-month minimum period. 
 
 - Your payments will continue to draw from your account indefinitely. If you wish us to stop payments at the end of your monthly cycle you must inform us **a fortnight** before the termination date, and wait for **our confirmation in writing**. 
 
-- A minimum of one full billing period (30 days) must be completed prior to the cancellation taking effect. Membership cancellations cannot be applied retroactively under any circumstance. You will be expected to fill in an **exit interview** as a condition to the cancellation. 
+- A minimum of three full billing periods (90 days) must be completed prior to the cancellation taking effect.
+
+- Membership cancellations cannot be applied retroactively under any circumstance. 
+
+- You will be expected to fill in an **exit interview** as a condition to the cancellation. 
+
+- Conditions for putting the membership on hold are listed in the **Suspensions** section.
 
 
 ### Class Passes
@@ -59,7 +67,7 @@ Discounted passes may have different conditions to the above so make sure to che
 If you are on an Auto-Membership, you are welcome to hold or suspend your membership for holiday or business travels, or if you are unable to practice due to serious illness or injury. 
 - A two weeks' notice in writing prior to the suspension date is required. Membership suspensions cannot be applied retroactively. 
 - **Minimum suspension period for any and all memberships is 14 days. Maximum suspension period is 21 days per 4 months membership period, for a total of 63 days per year**. 
-- Please note that we do not allow suspended memberships to be cancelled. One billing period (30 days) must be completed after suspension and prior to cancelling membership. 
+- Please note that we do not allow suspended memberships to be cancelled. One billing period (30 days) must be completed after suspension and prior to cancelling membership, even if the 90-day minimum length of the membership has passed. 
 - In the same fashion we do not allow for memberships to be downgraded and then suspended within the same billing period (30 days).
 
 Class passes cannot be suspended or cancelled under any circumstances.
