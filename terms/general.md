@@ -3,7 +3,7 @@ layout: post
 site-nav: terms
 title: Terms and Conditions
 permalink: /terms-and-conditions/
-published: false
+published: true
 ---
 Yogaruka Studios provide group and private mixed movement sessions (fusions of yoga, mobility, Qigong, calisthenics, Stretch Therapy™, contemporary Pilates, etc) taught by some of the most highly trained teachers in Sydney that have come together under the umbrella of these gorgeous, ecological, holistic fitness spaces. 
 
