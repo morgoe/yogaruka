@@ -16,7 +16,7 @@ description: >-
 <section markdown="1" class="Longform Longform--blogpost">
 At Yogaruka, we recommend starting your personal practice with a private session.
 
-Private sessions are a great way to work on your movement practice and go beyond, improving your overall health, mobility and mood. They complement any regular asana or mobility practice. They are also a place for beginners or those working with one or many health problems.
+Private sessions are a great way to work on your movement practice and go beyond, improving your overall health, mobility and mood. They can complement any regular asana or mobility practice. They are also a place for beginners or those working with one or many health problems.
 </section>
 
 <section class="container container--sm">
