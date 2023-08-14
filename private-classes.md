@@ -16,7 +16,7 @@ description: >-
 <section markdown="1" class="Longform Longform--blogpost">
 At Yogaruka, we recommend starting your personal practice with a private session.
 
-Private sessions are a great way to work on your yoga practice and improve your overall health and mobility. They complement any regular asana or mobility practice. They are also a place for beginners or those working with one or many health problems.
+Private sessions are a great way to work on your movement practice and go beyond, improving your overall health, mobility and mood. They complement any regular asana or mobility practice. They are also a place for beginners or those working with one or many health problems.
 </section>
 
 <section class="container container--sm">
@@ -24,16 +24,18 @@ Private sessions are a great way to work on your yoga practice and improve your 
 </section>
 
 <section markdown="1" class="Longform Longform--blogpost">
-You and your teacher will discuss the regularity of your private sessions, as well as how often you might like to come to group classes.
+You and your facilitator will discuss the regularity of your private sessions, as well as how often you might like to come to group sessions.
 
 Each session is tailored to your specific needs so that when you go into a group class you know exactly what to do based on your body and unique needs.
 
-All private sessions begin with a full anatomical assessment. Private sessions may include any of the following practices or modalities:
+Your first private session will begin with a full anatomical assessment. Private sessions may include any of the following practices or modalities:
 
-- Hatha/Flow
-- Stretch Therapy ™ 
+- Hatha yoga/Flow
 - Yoga Therapy
-- Breathing techniques (Pranayama, Sufi breath, etc)
+- Stretch Therapy ™ 
+- Somatic modalities
+- Mixed breathing techniques 
+- Clinical contemporary Pilates
 - Mindfulness, Meditation, Relaxation
 
 Private sessions can be held at one of the Yogaruka studios (during times when group classes are not in session), at the client's domicile (upon request, and evaluating additional costs for the extra time and transport) or on Zoom.
