@@ -8,7 +8,7 @@ announcement: false
 h1: Exceptional strength and flexibility for everyday movers
 subtitle: >-
   The best of yoga, pilates and functional movement fused into challenging yet
-  accessible classes. Located in Alexandria, Russell Lea, and online.
+  accessible classes. Located at 289 Lyons Road, Russell Lea.
 published: true
 ---
 
@@ -28,22 +28,6 @@ published: true
   </section>
 
   <section>
-    <div class="Home-banner">
-      <img src="/assets/images/home/callout.jpg">
-      <div>
-        <h2>New to Yogaruka?</h2>
-
-        <p>New students get unlimited classes for 14 days at either of our studios, or online.</p>
-        <a class="button button--large button--inverted" href="https://www.momoyoga.com/yogaruka/member/orderstartdate/51942">Get started</a>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    {% include components/testimonial.html name="Tania Ballistreri" text="I highly recommend YogaRuka. There’s a selection of classes to suit all needs in a calm and beautiful environment. I always feel invigorated, open and calm after each session. The team are lovely and helpful." image="/assets/images/home/testimonial-tania.jpg" %}
-  </section>
-
-  <section>
     <div class="Home-sideBySide">
       <div>
         <img src="/assets/images/home/junkies.jpg">  
@@ -54,11 +38,27 @@ published: true
   </section>
 
   <section>
-    {% include components/testimonial.html name="Tina Goodman" text="Gentle yet challenging classes. I always leave feeling stronger and more relaxed. The small class sizes really help with meditation during practice." image="/assets/images/home/testimonial-tina.jpg" %}
-  </section>
+    <div class="Home-banner">
+      <img src="/assets/images/home/callout.jpg">
+      <div>
+        <h2>New to Yogaruka?</h2>
 
-  <section>
-    <h2>Locations</h2>
-    {% include carousel.html tile1_image="/assets/images/about/outside.jpg" tile1_title="Russell Lea" tile1_caption="Our #1—and the first fully sustainable studio in Australia. Located in an ex-WW2 chapel, this gorgeous space has a monumental feel with its high ceilings and profusion of natural light. We hope it will enliven and inspire you to do right by your body and right by your environment." tile1_linkUrl="/russell-lea/" tile1_linkText="View Russell Lea studio" tile2_image="/assets/images/alexandria/outside.jpg" tile2_title="Alexandria" tile2_caption="Our second location, on the cusp of two beloved Inner West suburbs: Alexandria and Erskineville. Also in a restored church, its crisp, minimalist Scandinavian flair eliminates distractions and helps move your attention fully into your body." tile2_linkUrl="/alexandria/" tile2_linkText="View Alexandria studio" tile3_image="/assets/images/home/online.jpg" tile3_title="Online" tile3_caption="All of our classes are available online. Joining is easy, all you need is a yoga mat and an internet connection. We love getting creative and making props out of whatever you’ve got lying around at home." tile3_linkUrl="/timetable/?location=online#timetable" tile3_linkText="View Online timetable" %}
+        <p>New students get unlimited classes for 14 days, in-person or online.</p>
+        <a class="button button--large button--inverted" href="https://www.momoyoga.com/yogaruka/member/orderstartdate/51942">Get started</a>
+      </div>
+    </div>
   </section>
+<!-- 
+  <section>
+    {% include components/testimonial.html name="Tania Ballistreri" text="I highly recommend YogaRuka. There’s a selection of classes to suit all needs in a calm and beautiful environment. I always feel invigorated, open and calm after each session. The team are lovely and helpful." image="/assets/images/home/testimonial-tania.jpg" %}
+  </section> -->
+
+  <!-- <section class="container container--md">
+    <h2>Locations</h2>
+    {% include carousel.html tile1_image="/assets/images/about/outside.jpg" tile1_title="Russell Lea" tile1_caption="Our #1—and the first fully sustainable studio in Australia. Located in an ex-WW2 chapel, this gorgeous space has a monumental feel with its high ceilings and profusion of natural light. We hope it will enliven and inspire you to do right by your body and right by your environment." tile1_linkUrl="/russell-lea/" tile1_linkText="View Russell Lea studio" tile3_image="/assets/images/home/online.jpg" tile3_title="Online" tile3_caption="All of our classes are available online. Joining is easy, all you need is a yoga mat and an internet connection. We love getting creative and making props out of whatever you’ve got lying around at home." tile3_linkUrl="/timetable/?location=online#timetable" tile3_linkText="View Online timetable" %}
+  </section> -->
+
+  <!-- <section>
+    {% include components/testimonial.html name="Tina Goodman" text="Gentle yet challenging classes. I always leave feeling stronger and more relaxed. The small class sizes really help with meditation during practice." image="/assets/images/home/testimonial-tina.jpg" %}
+  </section> -->
 </div>

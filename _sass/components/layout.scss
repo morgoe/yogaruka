@@ -49,6 +49,9 @@ section {
 	    padding-top: $spacing-xl;
 	  }
   }
+  &:last-child {
+    padding-bottom: 0;
+  }
 }
 
 

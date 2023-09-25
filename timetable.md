@@ -27,8 +27,8 @@ subtitle: >-
       <a class="tabs-button js-timetableFilter is-active" target="all">
         <div>All <span class="hidden--xs"> classes</span></div>
       </a>
-      <a class="tabs-button js-timetableFilter" target="russell-lea">Russell Lea</a>
-      <a class="tabs-button js-timetableFilter" target="alexandria">Alexandria</a>
+      <a class="tabs-button js-timetableFilter" target="russell-lea">In-person</a>
+      <!-- <a class="tabs-button js-timetableFilter" target="alexandria">Alexandria</a> -->
       <a class="tabs-button js-timetableFilter" target="online">Online</a>
     </div>
 

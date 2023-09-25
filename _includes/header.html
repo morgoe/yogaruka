@@ -11,20 +11,6 @@
 						<span class="Header-buttonText">Home</span>
 					</a>
 				</li>
-				<li class="Header-navListItem js-dropdownGroup">
-					<button class="Header-dropdownButton js-headerNavDropdown">
-						<span class="Header-buttonText">Locations</span>
-						<img src="/assets/icons/chevron.svg" class="Header-chevron" alt="Chevron">
-					</button>
-					<ul class="Header-dropdown {% if page.site-nav == 'alexandria' or page.site-nav == 'russell-lea' %}is-open{% endif %}">
-						<li class="Header-navListItem">
-							<a class="Header-link {% if page.site-nav == 'russell-lea' %}is-active{% endif %}" href="/russell-lea/">Russell Lea</a>
-						<li class="Header-navListItem">
-							<a class="Header-link {% if page.site-nav == 'alexandria' %}is-active{% endif %}" href="/alexandria/">Alexandria</a>
-						</li>
-						</li>
-					</ul>
-				</li>
 				<li class="Header-navListItem">
 					<a class="Header-link {% if page.site-nav == 'timetable' %}is-active{% endif %}" href="/timetable/">
 						<span class="Header-buttonText">Timetable</span>
@@ -42,15 +28,6 @@
 						<li class="Header-navListItem">
 							<a class="Header-link {% if page.site-nav == 'pricing' %}is-active{% endif %}" href="/pricing/">Continuing students</a>
 						</li>
-
-						<li class="Header-navListDivider" />
-
-						<li class="Header-navListItem">
-							<a class="Header-link {% if page.site-nav == 'corporate-classes' %}is-active{% endif %}" href="/corporate-classes/">Corporate classes</a>
-						</li>
-						<li class="Header-navListItem">
-							<a class="Header-link {% if page.site-nav == 'private-classes' %}is-active{% endif %}" href="/private-classes/">Private classes</a>
-						</li>
 					</ul>
 				</li>
 				<li class="Header-navListItem js-dropdownGroup">
@@ -58,18 +35,23 @@
 						<span class="Header-bttonText">About</span>
 						<img src="/assets/icons/chevron.svg" class="Header-chevron" alt="Chevron">
 					</button>
-					<ul class="Header-dropdown {% if page.site-nav == 'about' or page.site-nav == 'classes' or page.site-nav == 'faqs' or page.site-nav == 'teachers' or page.site-nav == 'private-classes' or page.site-nav == 'corporate-classes' %}is-open{% endif %}">
+					<ul class="Header-dropdown {% if page.site-nav == 'studio' or page.site-nav == 'classes' or page.site-nav == 'faqs' or page.site-nav == 'teachers' or page.site-nav == 'private-classes' or page.site-nav == 'corporate-classes' %}is-open{% endif %}">
 						<li class="Header-navListItem">
-							<a class="Header-link {% if page.site-nav == 'about' %}is-active{% endif %}" href="/about/">About Yogaruka</a>
-						</li>
-						<!-- <li class="Header-navListItem">
-							<a class="Header-link {% if page.site-nav == 'classes' %}is-active{% endif %}">Class types</a>
-						</li> -->
-						<li class="Header-navListItem">
-							<a class="Header-link {% if page.site-nav == 'faqs' %}is-active{% endif %}" href="/faqs/">FAQs</a>
+							<a class="Header-link {% if page.site-nav == 'studio' %}is-active{% endif %}" href="/studio/">About Yogaruka</a>
 						</li>
 						<li class="Header-navListItem">
 							<a class="Header-link {% if page.site-nav == 'teachers' %}is-active{% endif %}" href="/teachers/">Teachers</a>
+						</li>
+						<li class="Header-navListItem">
+							<a class="Header-link {% if page.site-nav == 'faqs' %}is-active{% endif %}" href="/faqs/">FAQs</a>
+						</li>
+
+						<li class="Header-navListDivider" />
+						<li class="Header-navListItem">
+							<a class="Header-link {% if page.site-nav == 'private-classes' %}is-active{% endif %}" href="/private-classes/">Private classes</a>
+						</li>
+						<li class="Header-navListItem">
+							<a class="Header-link {% if page.site-nav == 'corporate-classes' %}is-active{% endif %}" href="/corporate-classes/">Corporate classes</a>
 						</li>
 					</ul>
 				</li>
@@ -82,7 +64,7 @@
 		</nav>
 
 		<div class="Header-endFlex">
-			<a class="button button--inverted button--sm js-conversion-globalCta" href="/timetable/#timetable">View timetable</a>
+			<a class="button button--inverted button--sm js-conversion-globalCta" href="https://www.momoyoga.com/yogaruka/member/orderstartdate/51942">Get intro offer</a>
 			<button class="Header-menuButton js-toggleMobileMenu">
 				<img src="/assets/icons/menu.svg" class="Header-menuButtonIconClosed" alt="Open menu">
 				<img src="/assets/icons/close.svg" class="Header-menuButtonIconOpen" alt="Close menu">
