@@ -5,7 +5,7 @@ url: "https://yogaruka.com" # the base hostname & protocol for your site
 permalink: /:categories/:title
 
 title: Yogaruka
-titleSuffix: Yoga & movement studio in Alexandria & Russell Lea
+titleSuffix: Yoga & movement studio in Russell Lea
 
 pricing:
   intro: $64
