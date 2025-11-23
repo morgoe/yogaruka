@@ -3,7 +3,6 @@ layout: default
 site-nav: timetable
 cover-image: timetable
 permalink: /timetable/
-published: true
 title: Timetable
 h1: Timetable
 subtitle: >-
@@ -31,9 +30,17 @@ subtitle: >-
       <!-- <a class="tabs-button js-timetableFilter" target="alexandria">Alexandria</a> -->
       <a class="tabs-button js-timetableFilter" target="online">Online</a>
     </div>
-
-    <div class="momoyoga-schedule m-top--md" data-momo-schedule="https://www.momoyoga.com/yogaruka"></div>
-    <script src="https://www.momoyoga.com/schedule-plugin/v2/js/schedule.js" crossorigin="anonymous"></script>
+    
+    <div class="m-top--md">
+      <iframe 
+      id="sutraWidgetIframe" 
+      src="https://app.arketa.co/iframe/yogaruka/schedule" 
+      width="100%" 
+      frameBorder="0" 
+      allow="payment" 
+      allowfullscreen></iframe> 
+      <script src="https://app.arketa.co/scripts/embed.js"> </script>
+    </div>
   </div>
 </section>
 
