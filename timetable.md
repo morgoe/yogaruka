@@ -16,22 +16,16 @@ subtitle: >-
 
 <section id="timetable">
   <div class="container container--sm">
-    <p>
-      If you're a regular, you can download the <a class="link" href="https://itunes.apple.com/au/app/momoyoga/id1233882505?mt=8">iPhone</a> or <a class="link" href="https://play.google.com/store/apps/details?id=com.momostudio.momoyoga">Android</a> app.
-    </p>
-    
-    <p></p>
-    <label>Filter classes:</label>
+    <!--<label>Filter classes:</label>
     <div class="tabs">
       <a class="tabs-button js-timetableFilter is-active" target="all">
         <div>All <span class="hidden--xs"> classes</span></div>
       </a>
       <a class="tabs-button js-timetableFilter" target="russell-lea">In-person</a>
-      <!-- <a class="tabs-button js-timetableFilter" target="alexandria">Alexandria</a> -->
       <a class="tabs-button js-timetableFilter" target="online">Online</a>
-    </div>
+    </div>-->
     
-    <div class="m-top--md">
+    <div class="m-top--md" style="margin-left: -15px; margin-right: -15px;">
       <iframe 
       id="sutraWidgetIframe" 
       src="https://app.arketa.co/iframe/yogaruka/schedule" 
