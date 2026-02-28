@@ -58,8 +58,8 @@ To get here:
       <div>
         <h2>New to Yogaruka?</h2>
 
-        <p>New students get unlimited classes for 14 days at either of our studios, or online.</p>
-        <a class="button button--large button--inverted" href="https://www.momoyoga.com/yogaruka/member/orderstartdate/51942">Get started</a>
+        <p>New students get unlimited classes for 14 days, in person or online.</p>
+        <a class="button button--large button--inverted" href="https://app.arketa.co/yogaruka/pricing/checkout/IFht8ad4E5La8T3bo7Va">Get started</a>
       </div>
     </div>
   </section>
